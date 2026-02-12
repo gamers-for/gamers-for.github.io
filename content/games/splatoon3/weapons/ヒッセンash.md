@@ -10,7 +10,7 @@ description: "スプラトゥーン3のヒッセンASHの性能評価・立ち�
 
 {{< update-info date="2026-02-12" >}}
 
-{{< character-card name="ヒッセンASH" role="スロッシャー" rating="7" img="/gamers-for/images/games/splatoon3/weapons/tri-slosher-ash.png" >}}
+{{< character-card name="ヒッセンASH" role="スロッシャー" rating="7" img="/gamers-for/images/games/splatoon3/weapons/tri-slosher-ash.webp" >}}
 
 - **強い点**: スプラッシュボムとスミナガシートの組み合わせが強力
 - **弱い点**: 立ち回りの工夫が必要

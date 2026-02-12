@@ -10,7 +10,7 @@ description: "スプラトゥーン3のスプラスピナーPYTNの性能評価�
 
 {{< update-info date="2026-02-12" >}}
 
-{{< character-card name="スプラスピナーPYTN" role="スピナー" rating="7" img="/gamers-for/images/games/splatoon3/weapons/mini-splatling-pytn.png" >}}
+{{< character-card name="スプラスピナーPYTN" role="スピナー" rating="7" img="/gamers-for/images/games/splatoon3/weapons/mini-splatling-pytn.webp" >}}
 
 - **強い点**: ジャンプビーコンとウルトラショットの組み合わせが強力
 - **弱い点**: 立ち回りの工夫が必要

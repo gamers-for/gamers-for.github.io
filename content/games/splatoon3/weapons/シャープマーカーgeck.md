@@ -10,7 +10,7 @@ description: "スプラトゥーン3のシャープマーカーGECKの性能評�
 
 {{< update-info date="2026-02-12" >}}
 
-{{< character-card name="シャープマーカーGECK" role="シューター" rating="7" img="/gamers-for/images/games/splatoon3/weapons/splash-o-matic-geck.png" >}}
+{{< character-card name="シャープマーカーGECK" role="シューター" rating="7" img="/gamers-for/images/games/splatoon3/weapons/splash-o-matic-geck.webp" >}}
 
 - **強い点**: ポイズンミストとアメフラシの組み合わせが強力
 - **弱い点**: 立ち回りの工夫が必要

@@ -10,7 +10,7 @@ description: "スプラトゥーン3のフルイドVの性能評価・立ち回�
 
 {{< update-info date="2026-02-12" >}}
 
-{{< character-card name="フルイドV" role="ストリンガー" rating="8.5" img="/gamers-for/images/games/splatoon3/weapons/reef-lux-450.png" >}}
+{{< character-card name="フルイドV" role="ストリンガー" rating="8.5" img="/gamers-for/images/games/splatoon3/weapons/reef-lux-450.webp" >}}
 
 - **強い点**: 射程が長く有利な距離で戦える
 - **弱い点**: 立ち回りの工夫が必要

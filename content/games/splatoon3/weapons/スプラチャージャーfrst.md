@@ -10,7 +10,7 @@ description: "スプラトゥーン3のスプラチャージャーFRSTの性能�
 
 {{< update-info date="2026-02-12" >}}
 
-{{< character-card name="スプラチャージャーFRST" role="チャージャー" rating="7" img="/gamers-for/images/games/splatoon3/weapons/splat-charger-frst.png" >}}
+{{< character-card name="スプラチャージャーFRST" role="チャージャー" rating="7" img="/gamers-for/images/games/splatoon3/weapons/splat-charger-frst.webp" >}}
 
 - **強い点**: スプリンクラーとカニタンクの組み合わせが強力
 - **弱い点**: 立ち回りの工夫が必要

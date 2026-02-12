@@ -10,7 +10,7 @@ description: "スプラトゥーン3のドライブワイパーRUSTの性能評�
 
 {{< update-info date="2026-02-12" >}}
 
-{{< character-card name="ドライブワイパーRUST" role="ワイパー" rating="7" img="/gamers-for/images/games/splatoon3/weapons/splatana-stamper-rust.png" >}}
+{{< character-card name="ドライブワイパーRUST" role="ワイパー" rating="7" img="/gamers-for/images/games/splatoon3/weapons/splatana-stamper-rust.webp" >}}
 
 - **強い点**: カーリングボムとウルトラショットの組み合わせが強力
 - **弱い点**: 立ち回りの工夫が必要

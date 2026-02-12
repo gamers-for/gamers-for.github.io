@@ -10,7 +10,7 @@ description: "スプラトゥーン3のスパッタリーOWLの性能評価・�
 
 {{< update-info date="2026-02-12" >}}
 
-{{< character-card name="スパッタリーOWL" role="マニューバー" rating="7" img="/gamers-for/images/games/splatoon3/weapons/dapple-dualies-owl.png" >}}
+{{< character-card name="スパッタリーOWL" role="マニューバー" rating="7" img="/gamers-for/images/games/splatoon3/weapons/dapple-dualies-owl.webp" >}}
 
 - **強い点**: スプラッシュボムとメガホンレーザー5.1chの組み合わせが強力
 - **弱い点**: 立ち回りの工夫が必要

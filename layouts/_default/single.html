@@ -36,9 +36,9 @@
       {{ partial "share-buttons.html" . }}
       {{- partial "game-ad.html" . }}
 
-      {{- if not (in .RelPermalink "/weapons/") }}
       <section class="comments-section">
         <h2>コメント</h2>
+        <p class="comment-guide">攻略情報の共有や質問など、お気軽にコメントしてください。</p>
         <script src="https://utteranc.es/client.js"
           repo="gamers-for/comments"
           issue-term="pathname"
@@ -47,7 +47,6 @@
           async>
         </script>
       </section>
-      {{- end }}
     </article>
   </div>
   <aside class="sidebar">

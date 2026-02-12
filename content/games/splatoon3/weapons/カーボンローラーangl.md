@@ -10,7 +10,7 @@ description: "スプラトゥーン3のカーボンローラーANGLの性能評�
 
 {{< update-info date="2026-02-12" >}}
 
-{{< character-card name="カーボンローラーANGL" role="ローラー" rating="7" img="/gamers-for/images/games/splatoon3/weapons/carbon-roller-angl.png" >}}
+{{< character-card name="カーボンローラーANGL" role="ローラー" rating="7" img="/gamers-for/images/games/splatoon3/weapons/carbon-roller-angl.webp" >}}
 
 - **強い点**: タンサンボムとデコイチラシの組み合わせが強力
 - **弱い点**: 立ち回りの工夫が必要

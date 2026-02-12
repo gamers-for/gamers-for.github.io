@@ -10,8 +10,10 @@
   <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
   <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:image" content="{{ with .Params.ogImage }}{{ . | absURL }}{{ else }}{{ .Site.Params.ogImage | absURL }}{{ end }}">
   <meta name="twitter:card" content="summary_large_image">
   <link rel="canonical" href="{{ .Permalink }}">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://utteranc.es; style-src 'self' 'unsafe-inline'; frame-src https://utteranc.es; img-src 'self' data: https:;">
   <meta name="base-url" content="{{ .Site.BaseURL | default "/" }}">
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
   {{ hugo.Generator }}
@@ -59,6 +61,9 @@
   /* Favorites */
   function toggleFavorite(){var k='gf_favs',b=document.getElementById('favorite-btn'),t=document.getElementById('favorite-text'),p=location.pathname,f=JSON.parse(localStorage.getItem(k)||'[]'),i=f.indexOf(p);if(i>-1){f.splice(i,1);b.classList.remove('bookmarked');t.textContent='お気に入り';}else{f.push(p);b.classList.add('bookmarked');t.textContent='登録済み';}localStorage.setItem(k,JSON.stringify(f));}
   (function(){var b=document.getElementById('favorite-btn'),t=document.getElementById('favorite-text');if(!b)return;var f=JSON.parse(localStorage.getItem('gf_favs')||'[]');if(f.indexOf(location.pathname)>-1){b.classList.add('bookmarked');t.textContent='登録済み';}})();
+
+  /* Mobile Menu */
+  (function(){var btn=document.querySelector('.mobile-menu-btn'),nav=document.querySelector('.header-nav');if(!btn||!nav)return;btn.addEventListener('click',function(){nav.classList.toggle('open');});document.addEventListener('click',function(e){if(!btn.contains(e.target)&&!nav.contains(e.target)){nav.classList.remove('open');}});})();
 
   /* Lazy Loading */
   (function(){var io=new IntersectionObserver(function(entries){entries.forEach(function(e){if(e.isIntersecting){var img=e.target;img.src=img.dataset.src;img.classList.add('loaded');io.unobserve(img);}});});document.querySelectorAll('img[data-src]').forEach(function(img){io.observe(img);});})();

@@ -10,7 +10,7 @@ description: "スプラトゥーン3のモップリンDの性能評価・立ち�
 
 {{< update-info date="2026-02-12" >}}
 
-{{< character-card name="モップリンD" role="スロッシャー" rating="7.5" img="/gamers-for/images/games/splatoon3/weapons/dread-wringer-d.png" >}}
+{{< character-card name="モップリンD" role="スロッシャー" rating="7.5" img="/gamers-for/images/games/splatoon3/weapons/dread-wringer-d.webp" >}}
 
 - **強い点**: ジャンプビーコンとサメライドの組み合わせが強力
 - **弱い点**: 立ち回りの工夫が必要

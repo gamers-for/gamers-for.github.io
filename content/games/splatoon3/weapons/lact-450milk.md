@@ -10,7 +10,7 @@ description: "スプラトゥーン3のLACT-450MILKの性能評価・立ち回�
 
 {{< update-info date="2026-02-12" >}}
 
-{{< character-card name="LACT-450MILK" role="ストリンガー" rating="7" img="/gamers-for/images/games/splatoon3/weapons/tri-stringer-milk.png" >}}
+{{< character-card name="LACT-450MILK" role="ストリンガー" rating="7" img="/gamers-for/images/games/splatoon3/weapons/tri-stringer-milk.webp" >}}
 
 - **強い点**: トーピードとナイスダマの組み合わせが強力
 - **弱い点**: 立ち回りの工夫が必要

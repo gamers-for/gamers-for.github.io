@@ -10,7 +10,7 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
 
 {{< update-info date="2026-02-12" >}}
 
-{{< character-card name="RブラスターエリートWNTR" role="ブラスター" rating="7" img="/gamers-for/images/games/splatoon3/weapons/range-blaster-wntr.png" >}}
+{{< character-card name="RブラスターエリートWNTR" role="ブラスター" rating="7" img="/gamers-for/images/games/splatoon3/weapons/range-blaster-wntr.webp" >}}
 
 - **強い点**: キューバンボムとエナジースタンドの組み合わせが強力
 - **弱い点**: 立ち回りの工夫が必要

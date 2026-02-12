@@ -10,7 +10,7 @@ description: "スプラトゥーン3のフルイドVカスタムの性能評価�
 
 {{< update-info date="2026-02-12" >}}
 
-{{< character-card name="フルイドVカスタム" role="ストリンガー" rating="8" img="/gamers-for/images/games/splatoon3/weapons/reef-lux-450-deco.png" >}}
+{{< character-card name="フルイドVカスタム" role="ストリンガー" rating="8" img="/gamers-for/images/games/splatoon3/weapons/reef-lux-450-deco.webp" >}}
 
 - **強い点**: トラップとデコイチラシの組み合わせが強力
 - **弱い点**: 立ち回りの工夫が必要

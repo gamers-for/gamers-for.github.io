@@ -98,6 +98,7 @@ body {
   background: var(--bg-base);
   line-height: 1.8;
   -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
 }
 
 a { color: var(--link-color); text-decoration: none; }

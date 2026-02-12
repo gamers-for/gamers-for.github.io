@@ -10,7 +10,7 @@ description: "スプラトゥーン3のプライムシューターFRZNの性能�
 
 {{< update-info date="2026-02-12" >}}
 
-{{< character-card name="プライムシューターFRZN" role="シューター" rating="7" img="/gamers-for/images/games/splatoon3/weapons/splattershot-pro-frzn.png" >}}
+{{< character-card name="プライムシューターFRZN" role="シューター" rating="7" img="/gamers-for/images/games/splatoon3/weapons/splattershot-pro-frzn.webp" >}}
 
 - **強い点**: スプラッシュボムとマルチミサイルの組み合わせが強力
 - **弱い点**: 立ち回りの工夫が必要

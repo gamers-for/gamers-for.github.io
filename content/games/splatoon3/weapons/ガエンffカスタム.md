@@ -10,7 +10,7 @@ description: "スプラトゥーン3のガエンFFカスタムの性能評価・
 
 {{< update-info date="2026-02-12" >}}
 
-{{< character-card name="ガエンFFカスタム" role="マニューバー" rating="8" img="/gamers-for/images/games/splatoon3/weapons/custom-douser-dualies-ff.png" >}}
+{{< character-card name="ガエンFFカスタム" role="マニューバー" rating="8" img="/gamers-for/images/games/splatoon3/weapons/custom-douser-dualies-ff.webp" >}}
 
 - **強い点**: スプリンクラーとテイオウイカの組み合わせが強力
 - **弱い点**: 立ち回りの工夫が必要

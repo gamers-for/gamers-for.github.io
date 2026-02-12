@@ -10,7 +10,7 @@ description: "スプラトゥーン3のガエンFFの性能評価・立ち回り
 
 {{< update-info date="2026-02-12" >}}
 
-{{< character-card name="ガエンFF" role="マニューバー" rating="7" img="/gamers-for/images/games/splatoon3/weapons/douser-dualies-ff.png" >}}
+{{< character-card name="ガエンFF" role="マニューバー" rating="7" img="/gamers-for/images/games/splatoon3/weapons/douser-dualies-ff.webp" >}}
 
 - **強い点**: 3確のバランス型火力
 - **弱い点**: 立ち回りの工夫が必要

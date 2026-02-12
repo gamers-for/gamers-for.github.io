@@ -10,7 +10,7 @@ description: "スプラトゥーン3のバレルスピナーROSEの性能評価�
 
 {{< update-info date="2026-02-12" >}}
 
-{{< character-card name="バレルスピナーROSE" role="スピナー" rating="7" img="/gamers-for/images/games/splatoon3/weapons/heavy-splatling-rose.png" >}}
+{{< character-card name="バレルスピナーROSE" role="スピナー" rating="7" img="/gamers-for/images/games/splatoon3/weapons/heavy-splatling-rose.webp" >}}
 
 - **強い点**: ポイズンミストとテイオウイカの組み合わせが強力
 - **弱い点**: 立ち回りの工夫が必要

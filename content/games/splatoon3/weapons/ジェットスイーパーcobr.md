@@ -10,7 +10,7 @@ description: "スプラトゥーン3のジェットスイーパーCOBRの性能�
 
 {{< update-info date="2026-02-12" >}}
 
-{{< character-card name="ジェットスイーパーCOBR" role="シューター" rating="7" img="/gamers-for/images/games/splatoon3/weapons/jet-squelcher-cobr.png" >}}
+{{< character-card name="ジェットスイーパーCOBR" role="シューター" rating="7" img="/gamers-for/images/games/splatoon3/weapons/jet-squelcher-cobr.webp" >}}
 
 - **強い点**: クイックボムとウルトラチャクチの組み合わせが強力
 - **弱い点**: 立ち回りの工夫が必要
