@@ -2032,3 +2032,50 @@ body.skin-lol .article-body h2 {
   .card-link-thumb img { width: 50px; height: 50px; }
   .tier-badge { min-width: 32px; height: 24px; font-size: .75rem; }
 }
+
+/* ---------- Additional Breakpoints (B-3 QA対応) ---------- */
+
+/* 1280px: PC標準幅 — コンテンツ最大幅を制限 */
+@media (max-width: 1280px) {
+  .main-container { max-width: 1100px; padding: 0 20px; }
+}
+
+/* 1024px: iPad横向き — サイドバー縮小 */
+@media (max-width: 1024px) {
+  .content-wrap { gap: 16px; }
+  .sidebar { min-width: 200px; }
+  .home-popular { grid-template-columns: repeat(2, 1fr); }
+}
+
+/* 768px: iPad縦向き — 2カラム→1カラム切替ゾーン */
+@media (max-width: 768px) {
+  .content-wrap { grid-template-columns: 1fr; gap: 12px; }
+  .sidebar { order: 2; position: static; }
+  .home-popular { grid-template-columns: repeat(2, 1fr); }
+  .game-card-grid { grid-template-columns: repeat(2, 1fr); }
+  .article-body table { font-size: .85rem; }
+  .article-body table th,
+  .article-body table td { padding: 6px 8px; }
+}
+
+/* 375px: iPhone 12/13/14 — 小型端末最適化 */
+@media (max-width: 375px) {
+  .main-container { padding: 0 8px; }
+  .article { padding: 14px 10px; }
+  .article-title { font-size: 1.05rem; }
+  .article-body h2 { font-size: .95rem; padding: 6px 8px; }
+  .article-body h3 { font-size: .88rem; }
+  .article-body table { font-size: .78rem; }
+  .article-body table th,
+  .article-body table td { padding: 4px 5px; white-space: normal; }
+  .home-hero h1 { font-size: 1.3rem; }
+  .home-popular { grid-template-columns: 1fr; }
+  .game-card-grid { grid-template-columns: 1fr; }
+  .game-nav-link { padding: 6px 10px; font-size: .72rem; }
+  .breadcrumb ol { font-size: .7rem; }
+  .weapon-grid-item { width: 56px; }
+  .weapon-grid-item img { width: 40px; height: 40px; }
+  .weapon-grid-name { font-size: .6rem; }
+  .tier-grid-label { width: 40px; min-width: 40px; font-size: .7rem; }
+  .share-btn { padding: 6px 10px; font-size: .7rem; }
+}
