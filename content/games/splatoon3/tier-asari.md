@@ -38,6 +38,8 @@ description: "スプラトゥーン3のガチアサリで強い武器をラン�
 {{< weapon-icon name="ヒッセンヒュー" img="/gamers-for/images/games/splatoon3/weapons/tri-slosher-nouveau.webp" >}}
 {{< weapon-icon name="プライムシューター" img="/gamers-for/images/games/splatoon3/weapons/splattershot-pro.webp" >}}
 {{< weapon-icon name="ボトルガイザーフォイル" img="/gamers-for/images/games/splatoon3/weapons/foil-squeezer.webp" >}}
+{{< weapon-icon name="ジムワイパー封" img="/gamers-for/images/games/splatoon3/weapons/splatana-wiper.webp" >}}
+{{< weapon-icon name="スプラマニューバー耀" img="/gamers-for/images/games/splatoon3/weapons/splat-dualies.webp" >}}
 {{< /tier-grid >}}
 
 {{< tier-grid tier="S" >}}
@@ -68,6 +70,11 @@ description: "スプラトゥーン3のガチアサリで強い武器をラン�
 {{< weapon-icon name="ラピッドブラスターデコ" img="/gamers-for/images/games/splatoon3/weapons/rapid-blaster-deco.webp" >}}
 {{< weapon-icon name="ロングブラスター" img="/gamers-for/images/games/splatoon3/weapons/range-blaster.webp" >}}
 {{< weapon-icon name="ロングブラスターカスタム" img="/gamers-for/images/games/splatoon3/weapons/custom-range-blaster.webp" >}}
+{{< weapon-icon name="プライムシューターFRZN" img="/gamers-for/images/games/splatoon3/weapons/splattershot-pro.webp" >}}
+{{< weapon-icon name="スプラスピナーPYTN" img="/gamers-for/images/games/splatoon3/weapons/mini-splatling.webp" >}}
+{{< weapon-icon name="RブラスターエリートWNTR" img="/gamers-for/images/games/splatoon3/weapons/range-blaster.webp" >}}
+{{< weapon-icon name="スプラシューター煌" img="/gamers-for/images/games/splatoon3/weapons/splattershot.webp" >}}
+{{< weapon-icon name="L3リールガン箔" img="/gamers-for/images/games/splatoon3/weapons/l-3-nozzlenose.webp" >}}
 {{< /tier-grid >}}
 
 {{< tier-grid tier="A+" >}}
@@ -95,6 +102,11 @@ description: "スプラトゥーン3のガチアサリで強い武器をラン�
 {{< weapon-icon name="リッター4K" img="/gamers-for/images/games/splatoon3/weapons/e-liter-4k.webp" >}}
 {{< weapon-icon name="リッター4Kカスタム" img="/gamers-for/images/games/splatoon3/weapons/custom-e-liter-4k.webp" >}}
 {{< weapon-icon name="ヴァリアブルローラー" img="/gamers-for/images/games/splatoon3/weapons/flingza-roller.webp" >}}
+{{< weapon-icon name="ジェットスイーパーCOBR" img="/gamers-for/images/games/splatoon3/weapons/jet-squelcher.webp" >}}
+{{< weapon-icon name="96ガロン爪" img="/gamers-for/images/games/splatoon3/weapons/96-gal.webp" >}}
+{{< weapon-icon name="モップリン角" img="/gamers-for/images/games/splatoon3/weapons/dread-wringer.webp" >}}
+{{< weapon-icon name="ハイドラント圧" img="/gamers-for/images/games/splatoon3/weapons/hydra-splatling.webp" >}}
+{{< weapon-icon name="トライストリンガー燈" img="/gamers-for/images/games/splatoon3/weapons/tri-stringer.webp" >}}
 {{< /tier-grid >}}
 
 {{< tier-grid tier="A" >}}

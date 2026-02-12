@@ -30,6 +30,7 @@ description: "スプラトゥーン3のナワバリバトルで強い武器を�
 {{< weapon-icon name="プライムシューター" img="/gamers-for/images/games/splatoon3/weapons/splattershot-pro.webp" >}}
 {{< weapon-icon name="ボトルガイザー" img="/gamers-for/images/games/splatoon3/weapons/squeezer.webp" >}}
 {{< weapon-icon name="ボトルガイザーフォイル" img="/gamers-for/images/games/splatoon3/weapons/foil-squeezer.webp" >}}
+{{< weapon-icon name="LACT-450MILK" img="/gamers-for/images/games/splatoon3/weapons/snipewriter-5h.webp" >}}
 {{< /tier-grid >}}
 
 {{< tier-grid tier="S+" >}}
@@ -45,6 +46,7 @@ description: "スプラトゥーン3のナワバリバトルで強い武器を�
 {{< weapon-icon name="ノーチラス47" img="/gamers-for/images/games/splatoon3/weapons/nautilus-47.webp" >}}
 {{< weapon-icon name="ヒッセンヒュー" img="/gamers-for/images/games/splatoon3/weapons/tri-slosher-nouveau.webp" >}}
 {{< weapon-icon name="プライムシューターコラボ" img="/gamers-for/images/games/splatoon3/weapons/forge-splattershot-pro.webp" >}}
+{{< weapon-icon name="ジムワイパー封" img="/gamers-for/images/games/splatoon3/weapons/splatana-wiper.webp" >}}
 {{< /tier-grid >}}
 
 {{< tier-grid tier="S" >}}
@@ -61,6 +63,8 @@ description: "スプラトゥーン3のナワバリバトルで強い武器を�
 {{< weapon-icon name="パブロヒュー" img="/gamers-for/images/games/splatoon3/weapons/inkbrush-nouveau.webp" >}}
 {{< weapon-icon name="ヒッセン" img="/gamers-for/images/games/splatoon3/weapons/tri-slosher.webp" >}}
 {{< weapon-icon name="モップリン" img="/gamers-for/images/games/splatoon3/weapons/dread-wringer.webp" >}}
+{{< weapon-icon name="スプラマニューバー耀" img="/gamers-for/images/games/splatoon3/weapons/splat-dualies.webp" >}}
+{{< weapon-icon name="L3リールガン箔" img="/gamers-for/images/games/splatoon3/weapons/l-3-nozzlenose.webp" >}}
 {{< /tier-grid >}}
 
 {{< tier-grid tier="A+" >}}
@@ -90,6 +94,9 @@ description: "スプラトゥーン3のナワバリバトルで強い武器を�
 {{< weapon-icon name="ロングブラスター" img="/gamers-for/images/games/splatoon3/weapons/range-blaster.webp" >}}
 {{< weapon-icon name="ロングブラスターカスタム" img="/gamers-for/images/games/splatoon3/weapons/custom-range-blaster.webp" >}}
 {{< weapon-icon name="ヴァリアブルローラー" img="/gamers-for/images/games/splatoon3/weapons/flingza-roller.webp" >}}
+{{< weapon-icon name="スプラスピナーPYTN" img="/gamers-for/images/games/splatoon3/weapons/mini-splatling.webp" >}}
+{{< weapon-icon name="モップリン角" img="/gamers-for/images/games/splatoon3/weapons/dread-wringer.webp" >}}
+{{< weapon-icon name="トライストリンガー燈" img="/gamers-for/images/games/splatoon3/weapons/tri-stringer.webp" >}}
 {{< /tier-grid >}}
 
 {{< tier-grid tier="A" >}}
