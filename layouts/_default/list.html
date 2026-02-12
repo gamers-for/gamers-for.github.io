@@ -12,8 +12,19 @@
       <div class="article-list">
         {{- range .Pages.ByWeight }}
         <a href="{{ .Permalink }}" class="article-list-item">
-          <div class="article-list-icon">
-            <svg class="icon" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M4 4a2 2 0 012-2h4.586A2 2 0 0112 2.586L15.414 6A2 2 0 0116 7.414V16a2 2 0 01-2 2H6a2 2 0 01-2-2V4z" clip-rule="evenodd"/></svg>
+          <div class="article-list-thumb">
+            {{- $hasImg := false }}
+            {{- with .File }}
+              {{- $slug := .ContentBaseName }}
+              {{- $img := printf "static/images/games/%s/thumb.jpg" $slug }}
+              {{- if (fileExists $img) }}
+              {{- $hasImg = true }}
+            <img src="{{ printf "images/games/%s/thumb.jpg" $slug | relURL }}" alt="{{ $.Title }}" loading="lazy">
+              {{- end }}
+            {{- end }}
+            {{- if not $hasImg }}
+            <div class="article-list-placeholder">🎮</div>
+            {{- end }}
           </div>
           <div class="article-list-info">
             <h3>{{ .LinkTitle }}</h3>

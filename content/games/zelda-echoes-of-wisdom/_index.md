@@ -4,7 +4,7 @@ linkTitle: "ゼルダの伝説 知恵のかりもの"
 description: "ゼルダの伝説 知恵のかりもの（The Legend of Zelda: Echoes of Wisdom）の攻略情報まとめ。初心者ガイド、おすすめ攻略法、最新情報を掲載。対応機種：Nintendo Switch。"
 date: 2026-02-12
 lastmod: 2026-02-12
-weight: 1
+weight: 16
 categories:
   - "アクション"
 tags:

@@ -4,7 +4,7 @@ linkTitle: "NBA 2K Mobile"
 description: "NBA 2K Mobile（NBA 2K Mobile）の攻略情報まとめ。初心者ガイド、おすすめ攻略法、最新情報を掲載。対応機種：iOS・Android。"
 date: 2026-02-12
 lastmod: 2026-02-12
-weight: 100
+weight: 364
 categories:
   - "スポーツ"
 tags:

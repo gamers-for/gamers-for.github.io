@@ -4,7 +4,7 @@ linkTitle: "シティーズ：スカイライン2"
 description: "シティーズ：スカイライン2（Cities: Skylines II）の攻略情報まとめ。初心者ガイド、おすすめ攻略法、最新情報を掲載。対応機種：PC（Steam）・PS5・Xbox。"
 date: 2026-02-12
 lastmod: 2026-02-12
-weight: 100
+weight: 346
 categories:
   - "シミュレーション"
 tags:

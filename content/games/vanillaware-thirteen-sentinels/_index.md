@@ -4,7 +4,7 @@ linkTitle: "十三機兵防衛圏"
 description: "十三機兵防衛圏（13 Sentinels: Aegis Rim）の攻略情報まとめ。初心者ガイド、おすすめ攻略法、最新情報を掲載。対応機種：Nintendo Switch・PS5。"
 date: 2026-02-12
 lastmod: 2026-02-12
-weight: 100
+weight: 436
 categories:
   - "シミュレーションRPG"
 tags:

@@ -4,7 +4,7 @@ linkTitle: "ファーストディセンダント"
 description: "ファーストディセンダント（The First Descendant）の攻略情報まとめ。初心者ガイド、おすすめ攻略法、最新情報を掲載。対応機種：PS5・Xbox・PC（Steam）。"
 date: 2026-02-12
 lastmod: 2026-02-12
-weight: 50
+weight: 152
 categories:
   - "シューター"
 tags:

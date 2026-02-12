@@ -4,7 +4,7 @@ linkTitle: "太鼓の達人"
 description: "太鼓の達人（Taiko no Tatsujin）の攻略情報まとめ。初心者ガイド、おすすめ攻略法、最新情報を掲載。対応機種：Nintendo Switch・PS5・iOS・Android。"
 date: 2026-02-12
 lastmod: 2026-02-12
-weight: 50
+weight: 264
 categories:
   - "リズムゲーム"
 tags:

@@ -4,7 +4,7 @@ linkTitle: "PSO2 ニュージェネシス"
 description: "PSO2 ニュージェネシス（Phantasy Star Online 2: New Genesis）の攻略情報まとめ。初心者ガイド、おすすめ攻略法、最新情報を掲載。対応機種：PC（Steam）・PS5・Nintendo Switch。"
 date: 2026-02-12
 lastmod: 2026-02-12
-weight: 50
+weight: 148
 categories:
   - "MMORPG"
 tags:

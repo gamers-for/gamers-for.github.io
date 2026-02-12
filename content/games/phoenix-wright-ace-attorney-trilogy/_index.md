@@ -4,7 +4,7 @@ linkTitle: "逆転裁判123"
 description: "逆転裁判123（Phoenix Wright: Ace Attorney Trilogy）の攻略情報まとめ。初心者ガイド、おすすめ攻略法、最新情報を掲載。対応機種：Nintendo Switch・PS5・PC（Steam）。"
 date: 2026-02-12
 lastmod: 2026-02-12
-weight: 50
+weight: 285
 categories:
   - "アドベンチャー"
 tags:

@@ -4,7 +4,7 @@ linkTitle: "Re:ゼロから始める異世界生活"
 description: "Re:ゼロから始める異世界生活（Re:Zero - Lost in Memories）の攻略情報まとめ。初心者ガイド、おすすめ攻略法、最新情報を掲載。対応機種：iOS・Android。"
 date: 2026-02-12
 lastmod: 2026-02-12
-weight: 100
+weight: 339
 categories:
   - "RPG"
 tags:

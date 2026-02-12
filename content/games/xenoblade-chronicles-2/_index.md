@@ -4,7 +4,7 @@ linkTitle: "ゼノブレイド2"
 description: "ゼノブレイド2（Xenoblade Chronicles 2）の攻略情報まとめ。初心者ガイド、おすすめ攻略法、最新情報を掲載。対応機種：Nintendo Switch。"
 date: 2026-02-12
 lastmod: 2026-02-12
-weight: 50
+weight: 315
 categories:
   - "RPG"
 tags:

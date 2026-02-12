@@ -4,7 +4,7 @@ linkTitle: "崩壊3rd"
 description: "崩壊3rd（Honkai Impact 3rd）の攻略情報まとめ。初心者ガイド、おすすめ攻略法、最新情報を掲載。対応機種：iOS・Android・PC（Steam）。"
 date: 2026-02-12
 lastmod: 2026-02-12
-weight: 50
+weight: 217
 categories:
   - "アクション"
 tags:

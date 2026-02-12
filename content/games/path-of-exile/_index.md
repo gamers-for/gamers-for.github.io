@@ -4,7 +4,7 @@ linkTitle: "パス・オブ・エグザイル"
 description: "パス・オブ・エグザイル（Path of Exile）の攻略情報まとめ。初心者ガイド、おすすめ攻略法、最新情報を掲載。対応機種：PC（Steam）。"
 date: 2026-02-12
 lastmod: 2026-02-12
-weight: 50
+weight: 145
 categories:
   - "RPG"
 tags:

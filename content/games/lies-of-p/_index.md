@@ -4,7 +4,7 @@ linkTitle: "Lies of P"
 description: "Lies of P（Lies of P）の攻略情報まとめ。初心者ガイド、おすすめ攻略法、最新情報を掲載。対応機種：PS5・Xbox・PC（Steam）。"
 date: 2026-02-12
 lastmod: 2026-02-12
-weight: 50
+weight: 154
 categories:
   - "アクション"
 tags:

@@ -4,7 +4,7 @@ linkTitle: "ロケットリーグ"
 description: "ロケットリーグ（Rocket League）の攻略情報まとめ。初心者ガイド、おすすめ攻略法、最新情報を掲載。対応機種：PS5・PC（Steam）・Xbox・Nintendo Switch。"
 date: 2026-02-12
 lastmod: 2026-02-12
-weight: 50
+weight: 327
 categories:
   - "スポーツ"
 tags:

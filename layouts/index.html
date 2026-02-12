@@ -9,7 +9,7 @@
   <div class="game-card-grid">
     {{- $games := .Site.GetPage "games" }}
     {{- with $games }}
-    {{- range .Sections }}
+    {{- range .Sections.ByWeight }}
     <a href="{{ .Permalink }}" class="game-card">
       <div class="game-card-thumb">
         {{- $slug := .File.ContentBaseName }}

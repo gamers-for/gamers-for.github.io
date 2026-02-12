@@ -7,22 +7,20 @@ tags: ["スプラトゥーン3", "シューター", "N-ZAP85"]
 description: "スプラトゥーン3のN-ZAP85の評価・立ち回り・おすすめギアを解説。サブのキューバンボムとスペシャルのエナジースタンドの活用法も紹介。"
 ---
 
-## N-ZAP85
-
 ![N-ZAP85](/gamers-for/images/games/splatoon3/weapons/n-zap85.webp)
+
+## N-ZAP85
 
 ### 基本情報
 
 | 項目 | 値 |
 |------|-----|
 | **武器種** | シューター |
-| **サブ** | ![キューバンボム](/gamers-for/images/games/splatoon3/weapons/キューバンボム.webp) キューバンボム |
-| **スペシャル** | ![エナジースタンド](/gamers-for/images/games/splatoon3/weapons/エナジースタンド.webp) エナジースタンド |
-| **ティア** | ![A+](/gamers-for/images/games/splatoon3/tiers/aplus.webp) A+ |
+| **サブ** | キューバンボム |
+| **スペシャル** | エナジースタンド |
+| **ティア** | A+ |
 
-### 総合評価
-
-![A+ランク](/gamers-for/images/games/splatoon3/tiers/aplus.webp) **A+ランク**
+### 総合評価 — A+ランク
 
 安定した強さを持つ優良武器。環境に左右されにくく、幅広いプレイヤーにおすすめできる。一部の場面ではS〜S+帯の武器にも対抗可能。
 
@@ -78,8 +76,6 @@ N-ZAP85はシューターカテゴリの武器で、サブにキューバンボ�
 
 #### キューバンボムの活用法
 
-![キューバンボム](/gamers-for/images/games/splatoon3/weapons/キューバンボム.webp)
-
 壁や地面に貼り付く粘着ボム。範囲が広く威力も高い。
 
 **使い方のポイント:** 高台やヤグラに貼り付けて相手を追い出すのが強力。
@@ -89,8 +85,6 @@ N-ZAP85はシューターカテゴリの武器で、サブにキューバンボ�
 - 塗り広げやスペシャルゲージ稼ぎの補助にも
 
 #### エナジースタンドの活用法
-
-![エナジースタンド](/gamers-for/images/games/splatoon3/weapons/エナジースタンド.webp)
 
 味方にスピードアップとインク回復のバフを付与。
 

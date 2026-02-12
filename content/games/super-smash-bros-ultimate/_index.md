@@ -4,7 +4,7 @@ linkTitle: "大乱闘スマッシュブラザーズ SPECIAL"
 description: "大乱闘スマッシュブラザーズ SPECIAL（Super Smash Bros. Ultimate）の攻略情報まとめ。初心者ガイド、おすすめ攻略法、最新情報を掲載。対応機種：Nintendo Switch。"
 date: 2026-02-12
 lastmod: 2026-02-12
-weight: 1
+weight: 30
 categories:
   - "格闘ゲーム"
 tags:

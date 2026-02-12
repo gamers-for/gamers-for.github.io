@@ -4,7 +4,7 @@ linkTitle: "アサシン クリード シャドウズ"
 description: "アサシン クリード シャドウズ（Assassin's Creed Shadows）の攻略情報まとめ。初心者ガイド、おすすめ攻略法、最新情報を掲載。対応機種：PS5・Xbox・PC（Steam）。"
 date: 2026-02-12
 lastmod: 2026-02-12
-weight: 1
+weight: 69
 categories:
   - "アクション"
 tags:

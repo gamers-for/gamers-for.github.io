@@ -7,22 +7,20 @@ tags: ["スプラトゥーン3", "シューター", "プロモデラーMG"]
 description: "スプラトゥーン3のプロモデラーMGの評価・立ち回り・おすすめギアを解説。サブのタンサンボムとスペシャルのサメライドの活用法も紹介。"
 ---
 
-## プロモデラーMG
-
 ![プロモデラーMG](/gamers-for/images/games/splatoon3/weapons/プロモデラーmg.webp)
+
+## プロモデラーMG
 
 ### 基本情報
 
 | 項目 | 値 |
 |------|-----|
 | **武器種** | シューター |
-| **サブ** | ![タンサンボム](/gamers-for/images/games/splatoon3/weapons/タンサンボム.webp) タンサンボム |
-| **スペシャル** | ![サメライド](/gamers-for/images/games/splatoon3/weapons/サメライド.webp) サメライド |
-| **ティア** | ![C+](/gamers-for/images/games/splatoon3/tiers/cplus.webp) C+ |
+| **サブ** | タンサンボム |
+| **スペシャル** | サメライド |
+| **ティア** | C+ |
 
-### 総合評価
-
-![C+ランク](/gamers-for/images/games/splatoon3/tiers/cplus.webp) **C+ランク**
+### 総合評価 — C+ランク
 
 現環境では苦しい立場の武器。上位武器と正面からぶつかると不利になりやすい。愛があれば使い込む価値はある。
 
@@ -78,8 +76,6 @@ description: "スプラトゥーン3のプロモデラーMGの評価・立ち回
 
 #### タンサンボムの活用法
 
-![タンサンボム](/gamers-for/images/games/splatoon3/weapons/タンサンボム.webp)
-
 転がすと3回バウンドして爆発するボム。振ると爆発が大きくなる。
 
 **使い方のポイント:** 振ってから投げることでダメージ範囲が拡大。段差に強い。
@@ -89,8 +85,6 @@ description: "スプラトゥーン3のプロモデラーMGの評価・立ち回
 - 塗り広げやスペシャルゲージ稼ぎの補助にも
 
 #### サメライドの活用法
-
-![サメライド](/gamers-for/images/games/splatoon3/weapons/サメライド.webp)
 
 サメに乗って突進し、着地点で爆発。
 

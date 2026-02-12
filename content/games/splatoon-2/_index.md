@@ -4,7 +4,7 @@ linkTitle: "スプラトゥーン2"
 description: "スプラトゥーン2（Splatoon 2）の攻略情報まとめ。初心者ガイド、おすすめ攻略法、最新情報を掲載。対応機種：Nintendo Switch。"
 date: 2026-02-12
 lastmod: 2026-02-12
-weight: 100
+weight: 543
 categories:
   - "シューター"
 tags:

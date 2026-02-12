@@ -4,7 +4,7 @@ linkTitle: "真・女神転生V Vengeance"
 description: "真・女神転生V Vengeance（Shin Megami Tensei V: Vengeance）の攻略情報まとめ。初心者ガイド、おすすめ攻略法、最新情報を掲載。対応機種：PS5・Nintendo Switch・PC（Steam）。"
 date: 2026-02-12
 lastmod: 2026-02-12
-weight: 50
+weight: 92
 categories:
   - "RPG"
 tags:

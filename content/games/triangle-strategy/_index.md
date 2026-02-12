@@ -4,7 +4,7 @@ linkTitle: "トライアングルストラテジー"
 description: "トライアングルストラテジー（Triangle Strategy）の攻略情報まとめ。初心者ガイド、おすすめ攻略法、最新情報を掲載。対応機種：Nintendo Switch・PC（Steam）。"
 date: 2026-02-12
 lastmod: 2026-02-12
-weight: 100
+weight: 435
 categories:
   - "シミュレーションRPG"
 tags:

@@ -4,7 +4,7 @@ linkTitle: "The Outer Worlds 2"
 description: "The Outer Worlds 2（The Outer Worlds 2）の攻略情報まとめ。初心者ガイド、おすすめ攻略法、最新情報を掲載。対応機種：Xbox・PC（Steam）。"
 date: 2026-02-12
 lastmod: 2026-02-12
-weight: 100
+weight: 479
 categories:
   - "RPG"
 tags:

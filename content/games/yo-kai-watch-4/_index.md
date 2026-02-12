@@ -4,7 +4,7 @@ linkTitle: "妖怪ウォッチ4"
 description: "妖怪ウォッチ4（Yo-kai Watch 4）の攻略情報まとめ。初心者ガイド、おすすめ攻略法、最新情報を掲載。対応機種：Nintendo Switch。"
 date: 2026-02-12
 lastmod: 2026-02-12
-weight: 100
+weight: 495
 categories:
   - "RPG"
 tags:

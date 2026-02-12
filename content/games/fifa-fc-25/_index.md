@@ -4,7 +4,7 @@ linkTitle: "EA SPORTS FC 25"
 description: "EA SPORTS FC 25（EA Sports FC 25）の攻略情報まとめ。初心者ガイド、おすすめ攻略法、最新情報を掲載。対応機種：PS5・Xbox・PC（Steam）・Nintendo Switch。"
 date: 2026-02-12
 lastmod: 2026-02-12
-weight: 1
+weight: 65
 categories:
   - "スポーツ"
 tags:

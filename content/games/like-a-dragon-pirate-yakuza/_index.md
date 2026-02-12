@@ -4,7 +4,7 @@ linkTitle: "龍が如く 海賊版"
 description: "龍が如く 海賊版（Like a Dragon: Pirate Yakuza in Hawaii）の攻略情報まとめ。初心者ガイド、おすすめ攻略法、最新情報を掲載。対応機種：PS5・Xbox・PC（Steam）。"
 date: 2026-02-12
 lastmod: 2026-02-12
-weight: 50
+weight: 237
 categories:
   - "アクション"
 tags:

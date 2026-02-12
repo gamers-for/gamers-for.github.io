@@ -4,7 +4,7 @@ linkTitle: "シヴィライゼーションVII"
 description: "シヴィライゼーションVII（Civilization VII）の攻略情報まとめ。初心者ガイド、おすすめ攻略法、最新情報を掲載。対応機種：PC（Steam）・PS5・Nintendo Switch。"
 date: 2026-02-12
 lastmod: 2026-02-12
-weight: 1
+weight: 54
 categories:
   - "ストラテジー"
 tags:

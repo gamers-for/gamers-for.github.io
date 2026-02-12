@@ -4,7 +4,7 @@ linkTitle: "パス・オブ・エグザイル2"
 description: "パス・オブ・エグザイル2（Path of Exile 2）の攻略情報まとめ。初心者ガイド、おすすめ攻略法、最新情報を掲載。対応機種：PS5・Xbox・PC（Steam）。"
 date: 2026-02-12
 lastmod: 2026-02-12
-weight: 1
+weight: 57
 categories:
   - "RPG"
 tags:

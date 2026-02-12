@@ -4,7 +4,7 @@ linkTitle: "遊戯王 マスターデュエル"
 description: "遊戯王 マスターデュエル（Yu-Gi-Oh! Master Duel）の攻略情報まとめ。初心者ガイド、おすすめ攻略法、最新情報を掲載。対応機種：PS5・Xbox・PC（Steam）・Nintendo Switch・iOS・Android。"
 date: 2026-02-12
 lastmod: 2026-02-12
-weight: 1
+weight: 62
 categories:
   - "カードゲーム"
 tags:

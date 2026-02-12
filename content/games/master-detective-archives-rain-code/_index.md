@@ -4,7 +4,7 @@ linkTitle: "超探偵事件簿 レインコード"
 description: "超探偵事件簿 レインコード（Master Detective Archives: Rain Code）の攻略情報まとめ。初心者ガイド、おすすめ攻略法、最新情報を掲載。対応機種：Nintendo Switch。"
 date: 2026-02-12
 lastmod: 2026-02-12
-weight: 50
+weight: 283
 categories:
   - "アドベンチャー"
 tags:

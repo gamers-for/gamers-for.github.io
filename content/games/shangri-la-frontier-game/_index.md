@@ -4,7 +4,7 @@ linkTitle: "シャングリラ・フロンティア"
 description: "シャングリラ・フロンティア（Shangri-La Frontier Game）の攻略情報まとめ。初心者ガイド、おすすめ攻略法、最新情報を掲載。対応機種：PS5・PC（Steam）。"
 date: 2026-02-12
 lastmod: 2026-02-12
-weight: 100
+weight: 556
 categories:
   - "RPG"
 tags:

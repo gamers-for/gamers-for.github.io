@@ -4,7 +4,7 @@ linkTitle: "Dead Cells"
 description: "Dead Cells（Dead Cells）の攻略情報まとめ。初心者ガイド、おすすめ攻略法、最新情報を掲載。対応機種：PC（Steam）・Nintendo Switch・PS5・iOS・Android。"
 date: 2026-02-12
 lastmod: 2026-02-12
-weight: 50
+weight: 208
 categories:
   - "アクション"
 tags:

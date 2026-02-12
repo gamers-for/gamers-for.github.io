@@ -7,22 +7,20 @@ tags: ["スプラトゥーン3", "シューター", "プロモデラーRG"]
 description: "スプラトゥーン3のプロモデラーRGの評価・立ち回り・おすすめギアを解説。サブのスプリンクラーとスペシャルのナイスダマの活用法も紹介。"
 ---
 
-## プロモデラーRG
-
 ![プロモデラーRG](/gamers-for/images/games/splatoon3/weapons/プロモデラーrg.webp)
+
+## プロモデラーRG
 
 ### 基本情報
 
 | 項目 | 値 |
 |------|-----|
 | **武器種** | シューター |
-| **サブ** | ![スプリンクラー](/gamers-for/images/games/splatoon3/weapons/スプリンクラー.webp) スプリンクラー |
-| **スペシャル** | ![ナイスダマ](/gamers-for/images/games/splatoon3/weapons/ナイスダマ.webp) ナイスダマ |
-| **ティア** | ![B](/gamers-for/images/games/splatoon3/tiers/b.webp) B |
+| **サブ** | スプリンクラー |
+| **スペシャル** | ナイスダマ |
+| **ティア** | B |
 
-### 総合評価
-
-![Bランク](/gamers-for/images/games/splatoon3/tiers/b.webp) **Bランク**
+### 総合評価 — Bランク
 
 クセが強く万人向けではないが、熟練者が使えばポテンシャルを引き出せる武器。特定のステージやルールでは活躍の場がある。
 
@@ -78,8 +76,6 @@ description: "スプラトゥーン3のプロモデラーRGの評価・立ち回
 
 #### スプリンクラーの活用法
 
-![スプリンクラー](/gamers-for/images/games/splatoon3/weapons/スプリンクラー.webp)
-
 設置すると自動でインクを周囲に撒き続ける。
 
 **使い方のポイント:** 高い場所に設置して塗り効率アップ。スペシャルゲージ稼ぎにも。
@@ -89,8 +85,6 @@ description: "スプラトゥーン3のプロモデラーRGの評価・立ち回
 - 塗り広げやスペシャルゲージ稼ぎの補助にも
 
 #### ナイスダマの活用法
-
-![ナイスダマ](/gamers-for/images/games/splatoon3/weapons/ナイスダマ.webp)
 
 味方の「ナイス」でバリアが強化される球体攻撃。
 

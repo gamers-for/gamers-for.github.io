@@ -4,7 +4,7 @@ linkTitle: "GTA VI"
 description: "GTA VI（Grand Theft Auto VI）の攻略情報まとめ。初心者ガイド、おすすめ攻略法、最新情報を掲載。対応機種：PS5・Xbox。"
 date: 2026-02-12
 lastmod: 2026-02-12
-weight: 1
+weight: 68
 categories:
   - "アクション"
 tags:

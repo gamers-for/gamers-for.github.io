@@ -4,7 +4,7 @@ linkTitle: "Detroit: Become Human"
 description: "Detroit: Become Human（Detroit: Become Human）の攻略情報まとめ。初心者ガイド、おすすめ攻略法、最新情報を掲載。対応機種：PS5・PC（Steam）。"
 date: 2026-02-12
 lastmod: 2026-02-12
-weight: 100
+weight: 404
 categories:
   - "アドベンチャー"
 tags:
