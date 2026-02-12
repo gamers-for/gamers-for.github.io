@@ -7,7 +7,7 @@ tags: ["スプラトゥーン3", "ブラスター", "S-BLAST91"]
 description: "スプラトゥーン3のS-BLAST91の評価・立ち回り・おすすめギアを解説。サブのクイックボムとスペシャルのナイスダマの活用法も紹介。"
 ---
 
-![S-BLAST91](/gamers-for/images/games/splatoon3/weapons/s-blast91.webp)
+![S-BLAST91](/images/games/splatoon3/weapons/s-blast91.webp)
 
 ## S-BLAST91
 

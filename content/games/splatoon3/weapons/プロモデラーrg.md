@@ -7,7 +7,7 @@ tags: ["スプラトゥーン3", "シューター", "プロモデラーRG"]
 description: "スプラトゥーン3のプロモデラーRGの評価・立ち回り・おすすめギアを解説。サブのスプリンクラーとスペシャルのナイスダマの活用法も紹介。"
 ---
 
-![プロモデラーRG](/gamers-for/images/games/splatoon3/weapons/プロモデラーrg.webp)
+![プロモデラーRG](/images/games/splatoon3/weapons/プロモデラーrg.webp)
 
 ## プロモデラーRG
 

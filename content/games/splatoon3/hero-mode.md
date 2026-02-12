@@ -10,7 +10,7 @@ description: "スプラトゥーン3のヒーローモード（1人用ストー�
 
 ## ヒーローモード攻略
 
-![バナー](/gamers-for/images/games/splatoon3/banners/banner_004.webp)
+![バナー](/images/games/splatoon3/banners/banner_004.webp)
 
 ヒーローモードはスプラトゥーン3の1人用ストーリーモード。オルタナと呼ばれる地下世界を冒険し、タコ軍団の謎に迫る。
 

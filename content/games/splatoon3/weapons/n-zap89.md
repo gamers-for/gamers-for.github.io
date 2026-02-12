@@ -7,7 +7,7 @@ tags: ["スプラトゥーン3", "シューター", "N-ZAP89"]
 description: "スプラトゥーン3のN-ZAP89の評価・立ち回り・おすすめギアを解説。サブのロボットボムとスペシャルのデコイチラシの活用法も紹介。"
 ---
 
-![N-ZAP89](/gamers-for/images/games/splatoon3/weapons/n-zap89.webp)
+![N-ZAP89](/images/games/splatoon3/weapons/n-zap89.webp)
 
 ## N-ZAP89
 

@@ -7,7 +7,7 @@ tags: ["スプラトゥーン3", "シューター", "プロモデラーMG"]
 description: "スプラトゥーン3のプロモデラーMGの評価・立ち回り・おすすめギアを解説。サブのタンサンボムとスペシャルのサメライドの活用法も紹介。"
 ---
 
-![プロモデラーMG](/gamers-for/images/games/splatoon3/weapons/プロモデラーmg.webp)
+![プロモデラーMG](/images/games/splatoon3/weapons/プロモデラーmg.webp)
 
 ## プロモデラーMG
 

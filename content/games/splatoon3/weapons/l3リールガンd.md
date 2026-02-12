@@ -7,7 +7,7 @@ tags: ["スプラトゥーン3", "シューター", "L3リールガンD"]
 description: "スプラトゥーン3のL3リールガンDの評価・立ち回り・おすすめギアを解説。サブのクイックボムとスペシャルのウルトラハンコの活用法も紹介。"
 ---
 
-![L3リールガンD](/gamers-for/images/games/splatoon3/weapons/l3リールガンd.webp)
+![L3リールガンD](/images/games/splatoon3/weapons/l3リールガンd.webp)
 
 ## L3リールガンD
 

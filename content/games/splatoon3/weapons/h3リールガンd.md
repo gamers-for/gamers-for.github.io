@@ -7,7 +7,7 @@ tags: ["スプラトゥーン3", "シューター", "H3リールガンD"]
 description: "スプラトゥーン3のH3リールガンDの評価・立ち回り・おすすめギアを解説。サブのスプラッシュシールドとスペシャルのグレートバリアの活用法も紹介。"
 ---
 
-![H3リールガンD](/gamers-for/images/games/splatoon3/weapons/h3リールガンd.webp)
+![H3リールガンD](/images/games/splatoon3/weapons/h3リールガンd.webp)
 
 ## H3リールガンD
 

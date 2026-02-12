@@ -7,7 +7,7 @@ tags: ["スプラトゥーン3", "チャージャー", "R-PEN/5H"]
 description: "スプラトゥーン3のR-PEN/5Hの評価・立ち回り・おすすめギアを解説。サブのスプリンクラーとスペシャルのエナジースタンドの活用法も紹介。"
 ---
 
-![R-PEN/5H](/gamers-for/images/games/splatoon3/weapons/r-pen-5h.webp)
+![R-PEN/5H](/images/games/splatoon3/weapons/r-pen-5h.webp)
 
 ## R-PEN/5H
 

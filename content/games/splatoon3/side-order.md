@@ -10,7 +10,7 @@ description: "スプラトゥーン3のDLC『サイドオーダー』の攻略�
 
 ## サイドオーダー攻略
 
-![バナー](/gamers-for/images/games/splatoon3/banners/banner_005.webp)
+![バナー](/images/games/splatoon3/banners/banner_005.webp)
 
 サイドオーダーは有料DLC「エキスパンション・パス」に含まれるローグライク型のモード。秩序の塔を登ってクリアを目指す。
 

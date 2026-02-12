@@ -7,7 +7,7 @@ tags: ["スプラトゥーン3", "チャージャー", "R-PEN/5B"]
 description: "スプラトゥーン3のR-PEN/5Bの評価・立ち回り・おすすめギアを解説。サブのスプラッシュシールドとスペシャルのアメフラシの活用法も紹介。"
 ---
 
-![R-PEN/5B](/gamers-for/images/games/splatoon3/weapons/r-pen-5b.webp)
+![R-PEN/5B](/images/games/splatoon3/weapons/r-pen-5b.webp)
 
 ## R-PEN/5B
 

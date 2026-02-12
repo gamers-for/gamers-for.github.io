@@ -7,7 +7,7 @@ tags: ["スプラトゥーン3", "ストリンガー", "LACT-450デコ"]
 description: "スプラトゥーン3のLACT-450デコの評価・立ち回り・おすすめギアを解説。サブのスプラッシュシールドとスペシャルのサメライドの活用法も紹介。"
 ---
 
-![LACT-450デコ](/gamers-for/images/games/splatoon3/weapons/lact-450デコ.webp)
+![LACT-450デコ](/images/games/splatoon3/weapons/lact-450デコ.webp)
 
 ## LACT-450デコ
 

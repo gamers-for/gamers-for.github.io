@@ -7,7 +7,7 @@ tags: ["スプラトゥーン3", "シューター", "N-ZAP85"]
 description: "スプラトゥーン3のN-ZAP85の評価・立ち回り・おすすめギアを解説。サブのキューバンボムとスペシャルのエナジースタンドの活用法も紹介。"
 ---
 
-![N-ZAP85](/gamers-for/images/games/splatoon3/weapons/n-zap85.webp)
+![N-ZAP85](/images/games/splatoon3/weapons/n-zap85.webp)
 
 ## N-ZAP85
 

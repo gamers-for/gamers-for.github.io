@@ -7,7 +7,7 @@ tags: ["スプラトゥーン3", "ブラスター", "S-BLAST92"]
 description: "スプラトゥーン3のS-BLAST92の評価・立ち回り・おすすめギアを解説。サブのスプリンクラーとスペシャルのサメライドの活用法も紹介。"
 ---
 
-![S-BLAST92](/gamers-for/images/games/splatoon3/weapons/s-blast92.webp)
+![S-BLAST92](/images/games/splatoon3/weapons/s-blast92.webp)
 
 ## S-BLAST92
 

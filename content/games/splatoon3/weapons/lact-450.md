@@ -7,7 +7,7 @@ tags: ["スプラトゥーン3", "ストリンガー", "LACT-450"]
 description: "スプラトゥーン3のLACT-450の評価・立ち回り・おすすめギアを解説。サブのカーリングボムとスペシャルのマルチミサイルの活用法も紹介。"
 ---
 
-![LACT-450](/gamers-for/images/games/splatoon3/weapons/lact-450.webp)
+![LACT-450](/images/games/splatoon3/weapons/lact-450.webp)
 
 ## LACT-450
 
