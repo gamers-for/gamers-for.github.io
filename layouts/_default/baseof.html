@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ja" data-theme="">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta property="og:title" content="{{ .Title }}">
+  <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="{{ .Permalink }}">
+  <meta name="base-url" content="{{ .Site.BaseURL | default "/" }}">
+  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+  {{ hugo.Generator }}
+  {{- if .IsPage }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": {{ .Title | jsonify }},
+    "description": {{ with .Description }}{{ . | jsonify }}{{ else }}{{ .Site.Params.description | jsonify }}{{ end }},
+    "url": {{ .Permalink | jsonify }},
+    "datePublished": {{ with .Date }}{{ .Format "2006-01-02" | jsonify }}{{ else }}"2026-02-11"{{ end }},
+    "dateModified": {{ with .Lastmod }}{{ .Format "2006-01-02" | jsonify }}{{ else }}{{ with .Date }}{{ .Format "2006-01-02" | jsonify }}{{ else }}"2026-02-11"{{ end }}{{ end }},
+    "publisher": {
+      "@type": "Organization",
+      "name": {{ .Site.Title | jsonify }}
+    }
+  }
+  </script>
+  {{- end }}
+</head>
+<body>
+  {{ partial "header.html" . }}
+
+  <main class="main-container">
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  {{ partial "footer.html" . }}
+
+  <div id="search-overlay" class="search-overlay">
+    <div class="search-box">
+      <input type="text" id="search-input" placeholder="キーワードで検索..." autocomplete="off">
+      <button onclick="document.getElementById('search-overlay').classList.remove('active')" class="search-close">&times;</button>
+    </div>
+    <div id="search-results" class="search-results"></div>
+  </div>
+
+  <script src="{{ "js/search.js" | relURL }}"></script>
+  <script>
+  /* Dark Mode */
+  function toggleTheme(){var h=document.documentElement,t=h.getAttribute('data-theme')==='dark'?'':'dark';h.setAttribute('data-theme',t);localStorage.setItem('gf_theme',t);var b=document.getElementById('theme-icon');if(b)b.textContent=t==='dark'?'☀️':'🌙';}
+  (function(){var t=localStorage.getItem('gf_theme')||'';document.documentElement.setAttribute('data-theme',t);})();
+
+  /* Favorites */
+  function toggleFavorite(){var k='gf_favs',b=document.getElementById('favorite-btn'),t=document.getElementById('favorite-text'),p=location.pathname,f=JSON.parse(localStorage.getItem(k)||'[]'),i=f.indexOf(p);if(i>-1){f.splice(i,1);b.classList.remove('bookmarked');t.textContent='お気に入り';}else{f.push(p);b.classList.add('bookmarked');t.textContent='登録済み';}localStorage.setItem(k,JSON.stringify(f));}
+  (function(){var b=document.getElementById('favorite-btn'),t=document.getElementById('favorite-text');if(!b)return;var f=JSON.parse(localStorage.getItem('gf_favs')||'[]');if(f.indexOf(location.pathname)>-1){b.classList.add('bookmarked');t.textContent='登録済み';}})();
+
+  /* Lazy Loading */
+  (function(){var io=new IntersectionObserver(function(entries){entries.forEach(function(e){if(e.isIntersecting){var img=e.target;img.src=img.dataset.src;img.classList.add('loaded');io.unobserve(img);}});});document.querySelectorAll('img[data-src]').forEach(function(img){io.observe(img);});})();
+  </script>
+</body>
+</html>

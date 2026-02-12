@@ -1,0 +1,10 @@
+{{- $name := .Get "name" | default "" -}}
+{{- $theme := .Get "theme" | default "ruins" -}}
+{{- $level := .Get "level" | default "" -}}
+{{- $img := .Get "img" | default "" -}}
+<div class="stage-banner stage-banner--{{ $theme }}"{{ if $img }} style="background-image:url('{{ $img }}')"{{ end }}>
+  <div class="stage-info">
+    <span class="stage-name">{{ $name }}</span>
+    {{- if $level }}<span class="stage-meta">推奨Lv.{{ $level }}</span>{{ end }}
+  </div>
+</div>

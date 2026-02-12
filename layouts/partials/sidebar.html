@@ -1,0 +1,36 @@
+{{- $game := false }}
+{{- if eq .Section "games" }}
+  {{- if .IsSection }}
+    {{- if .Parent }}
+      {{- if eq .Parent.Section "games" }}
+        {{- $game = . }}
+      {{- end }}
+    {{- end }}
+  {{- else }}
+    {{- $game = .CurrentSection }}
+  {{- end }}
+{{- end }}
+
+{{- with $game }}
+<div class="sidebar-box">
+  <div class="sidebar-title">{{ .Title }}</div>
+  <ul class="sidebar-menu">
+    <li><a href="{{ .Permalink }}">攻略TOP</a></li>
+    {{- range .Pages.ByWeight }}
+    <li><a href="{{ .Permalink }}" {{ if eq $.Permalink .Permalink }}class="active"{{ end }}>{{ .LinkTitle }}</a></li>
+    {{- end }}
+    {{- range .Sections }}
+    <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+    {{- end }}
+  </ul>
+</div>
+{{- end }}
+
+<div class="sidebar-box">
+  <div class="sidebar-title">人気記事</div>
+  <ul class="sidebar-menu">
+    {{- range first 5 (where .Site.RegularPages "Section" "games") }}
+    <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+    {{- end }}
+  </ul>
+</div>

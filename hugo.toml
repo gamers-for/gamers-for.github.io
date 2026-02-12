@@ -1,0 +1,32 @@
+baseURL = 'https://gamers-for.github.io/'
+languageCode = 'ja'
+title = 'Gamers-For | ゲーム攻略'
+defaultContentLanguage = 'ja'
+enableRobotsTXT = true
+enableEmoji = false
+
+[params]
+  description = "広告最小限の見やすいゲーム攻略サイト"
+  ogImage = "/images/ogp.png"
+  siteLogo = "/images/logo.png"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    endLevel = 3
+    startLevel = 2
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
+  filename = "sitemap.xml"

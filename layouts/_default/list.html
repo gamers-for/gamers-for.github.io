@@ -1,0 +1,35 @@
+{{ define "main" }}
+{{ partial "breadcrumb.html" . }}
+<div class="content-wrap">
+  <div class="content-main">
+    <article class="article">
+      <h1 class="article-title">{{ .Title }}</h1>
+      <div class="article-body">
+        {{ .Content }}
+      </div>
+
+      {{- if .Pages }}
+      <div class="article-list">
+        {{- range .Pages.ByWeight }}
+        <a href="{{ .Permalink }}" class="article-list-item">
+          <div class="article-list-icon">
+            <svg class="icon" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M4 4a2 2 0 012-2h4.586A2 2 0 0112 2.586L15.414 6A2 2 0 0116 7.414V16a2 2 0 01-2 2H6a2 2 0 01-2-2V4z" clip-rule="evenodd"/></svg>
+          </div>
+          <div class="article-list-info">
+            <h3>{{ .LinkTitle }}</h3>
+            <p>{{ .Description }}</p>
+          </div>
+          <span class="article-list-arrow">
+            <svg class="icon" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"/></svg>
+          </span>
+        </a>
+        {{- end }}
+      </div>
+      {{- end }}
+    </article>
+  </div>
+  <aside class="sidebar">
+    {{ partial "sidebar.html" . }}
+  </aside>
+</div>
+{{ end }}

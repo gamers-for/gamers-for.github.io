@@ -1,0 +1,568 @@
+slug	name_ja	name_en	platform	category	priority
+splatoon-3	スプラトゥーン3	Splatoon 3	switch	shooter	S
+monster-hunter-wilds	モンスターハンター ワイルズ	Monster Hunter Wilds	ps5,xbox,pc	action	S
+monster-hunter-rise-sunbreak	モンスターハンターライズ：サンブレイク	Monster Hunter Rise: Sunbreak	switch,ps5,pc	action	S
+genshin-impact	原神	Genshin Impact	ps5,pc,ios,android	rpg	S
+honkai-star-rail	崩壊：スターレイル	Honkai: Star Rail	ps5,pc,ios,android	rpg	S
+zenless-zone-zero	ゼンレスゾーンゼロ	Zenless Zone Zero	ps5,pc,ios,android	action	S
+zelda-tears-of-the-kingdom	ゼルダの伝説 ティアーズ オブ ザ キングダム	The Legend of Zelda: Tears of the Kingdom	switch	action	S
+zelda-echoes-of-wisdom	ゼルダの伝説 知恵のかりもの	The Legend of Zelda: Echoes of Wisdom	switch	action	S
+zelda-breath-of-the-wild	ゼルダの伝説 ブレス オブ ザ ワイルド	The Legend of Zelda: Breath of the Wild	switch	action	S
+pokemon-scarlet-violet	ポケットモンスター スカーレット・バイオレット	Pokemon Scarlet & Violet	switch	rpg	S
+pokemon-legends-za	ポケモンレジェンズ Z-A	Pokemon Legends: Z-A	switch	rpg	S
+pokemon-go	ポケモンGO	Pokemon GO	ios,android	rpg	S
+pokemon-unite	ポケモンユナイト	Pokemon UNITE	switch,ios,android	moba	S
+pokemon-tcg-pocket	ポケモンTCGポケット	Pokemon TCG Pocket	ios,android	card	S
+pokemon-sleep	ポケモンスリープ	Pokemon Sleep	ios,android	other	A
+pokemon-masters-ex	ポケモンマスターズEX	Pokemon Masters EX	ios,android	rpg	A
+final-fantasy-xvi	ファイナルファンタジーXVI	Final Fantasy XVI	ps5,pc	rpg	S
+final-fantasy-vii-rebirth	ファイナルファンタジーVII リバース	Final Fantasy VII Rebirth	ps5,pc	rpg	S
+final-fantasy-vii-ever-crisis	ファイナルファンタジーVII エバークライシス	Final Fantasy VII Ever Crisis	ios,android,pc	rpg	A
+final-fantasy-xiv	ファイナルファンタジーXIV	Final Fantasy XIV	ps5,pc	mmorpg	S
+final-fantasy-brave-exvius	ファイナルファンタジー ブレイブエクスヴィアス	Final Fantasy Brave Exvius	ios,android	rpg	B
+war-of-the-visions-ffbe	FFBE幻影戦争	War of the Visions FFBE	ios,android	rpg	A
+dragon-quest-iii-hd2d	ドラゴンクエストIII HD-2D	Dragon Quest III HD-2D Remake	switch,ps5,pc	rpg	S
+dragon-quest-xii	ドラゴンクエストXII	Dragon Quest XII	ps5,pc	rpg	A
+dragon-quest-walk	ドラゴンクエストウォーク	Dragon Quest Walk	ios,android	rpg	S
+dragon-quest-tact	ドラゴンクエストタクト	Dragon Quest Tact	ios,android	strategy	A
+super-mario-bros-wonder	スーパーマリオブラザーズ ワンダー	Super Mario Bros. Wonder	switch	action	S
+mario-kart-8-deluxe	マリオカート8 デラックス	Mario Kart 8 Deluxe	switch	racing	S
+mario-kart-tour	マリオカート ツアー	Mario Kart Tour	ios,android	racing	A
+super-smash-bros-ultimate	大乱闘スマッシュブラザーズ SPECIAL	Super Smash Bros. Ultimate	switch	fighting	S
+animal-crossing-new-horizons	あつまれ どうぶつの森	Animal Crossing: New Horizons	switch	simulation	A
+fire-emblem-engage	ファイアーエムブレム エンゲージ	Fire Emblem Engage	switch	srpg	A
+fire-emblem-heroes	ファイアーエムブレム ヒーローズ	Fire Emblem Heroes	ios,android	srpg	A
+xenoblade-chronicles-3	ゼノブレイド3	Xenoblade Chronicles 3	switch	rpg	A
+kirby-and-the-forgotten-land	星のカービィ ディスカバリー	Kirby and the Forgotten Land	switch	action	A
+pikmin-4	ピクミン4	Pikmin 4	switch	strategy	A
+metroid-prime-4	メトロイドプライム4	Metroid Prime 4: Beyond	switch	action	A
+metroid-dread	メトロイド ドレッド	Metroid Dread	switch	action	B
+persona-5-royal	ペルソナ5 ザ・ロイヤル	Persona 5 Royal	ps5,switch,pc	rpg	S
+persona-3-reload	ペルソナ3 リロード	Persona 3 Reload	ps5,xbox,pc	rpg	S
+shin-megami-tensei-v-vengeance	真・女神転生V Vengeance	Shin Megami Tensei V: Vengeance	ps5,switch,pc	rpg	A
+metaphor-refantazio	メタファー：リファンタジオ	Metaphor: ReFantazio	ps5,xbox,pc	rpg	S
+dark-souls-iii	ダークソウルIII	Dark Souls III	ps5,pc	action	A
+elden-ring	エルデンリング	Elden Ring	ps5,xbox,pc	action	S
+elden-ring-nightreign	エルデンリング ナイトレイン	Elden Ring Nightreign	ps5,xbox,pc	action	S
+sekiro	SEKIRO: SHADOWS DIE TWICE	Sekiro: Shadows Die Twice	ps5,pc	action	A
+armored-core-vi	アーマード・コアVI	Armored Core VI: Fires of Rubicon	ps5,xbox,pc	action	A
+monster-strike	モンスターストライク	Monster Strike	ios,android	action	S
+fate-grand-order	Fate/Grand Order	Fate/Grand Order	ios,android	rpg	S
+puzzle-and-dragons	パズル＆ドラゴンズ	Puzzle & Dragons	ios,android	puzzle	S
+uma-musume	ウマ娘 プリティーダービー	Uma Musume: Pretty Derby	ios,android,pc	simulation	S
+blue-archive	ブルーアーカイブ	Blue Archive	ios,android	rpg	S
+arknights	アークナイツ	Arknights	ios,android	strategy	S
+nikke	勝利の女神：NIKKE	Goddess of Victory: NIKKE	ios,android,pc	shooter	S
+project-sekai	プロジェクトセカイ	Project Sekai	ios,android	rhythm	S
+granblue-fantasy	グランブルーファンタジー	Granblue Fantasy	ios,android	rpg	A
+granblue-fantasy-relink	グランブルーファンタジー リリンク	Granblue Fantasy: Relink	ps5,pc	action	A
+granblue-fantasy-versus-rising	グランブルーファンタジーヴァーサス ライジング	Granblue Fantasy Versus: Rising	ps5,pc	fighting	A
+princess-connect-re-dive	プリンセスコネクト！Re:Dive	Princess Connect! Re:Dive	ios,android	rpg	A
+shadowverse	シャドウバース	Shadowverse	ios,android,pc	card	A
+idolmaster-cinderella-girls	アイドルマスター シンデレラガールズ	The Idolmaster Cinderella Girls	ios,android	rhythm	A
+idolmaster-shiny-colors	アイドルマスター シャイニーカラーズ	The Idolmaster Shiny Colors	ios,android,pc	simulation	A
+bandori	バンドリ！ ガールズバンドパーティ！	BanG Dream! Girls Band Party!	ios,android	rhythm	A
+love-live-sif2	ラブライブ！スクフェス2	Love Live! SIF2	ios,android	rhythm	A
+ensemble-stars-music	あんさんぶるスターズ！！Music	Ensemble Stars!! Music	ios,android	rhythm	A
+twisted-wonderland	ディズニー ツイステッドワンダーランド	Disney Twisted-Wonderland	ios,android	rhythm	A
+heaven-burns-red	ヘブンバーンズレッド	Heaven Burns Red	ios,android,pc	rpg	A
+dragon-ball-z-dokkan-battle	ドラゴンボールZ ドッカンバトル	Dragon Ball Z: Dokkan Battle	ios,android	rpg	S
+dragon-ball-legends	ドラゴンボール レジェンズ	Dragon Ball Legends	ios,android	action	A
+dragon-ball-sparking-zero	ドラゴンボール Sparking! ZERO	Dragon Ball: Sparking! ZERO	ps5,xbox,pc	fighting	S
+one-piece-treasure-cruise	ONE PIECE トレジャークルーズ	One Piece Treasure Cruise	ios,android	rpg	A
+one-piece-bounty-rush	ONE PIECE バウンティラッシュ	One Piece Bounty Rush	ios,android	action	A
+one-piece-odyssey	ONE PIECE ODYSSEY	One Piece Odyssey	ps5,xbox,pc	rpg	B
+naruto-x-boruto-connections	NARUTO X BORUTO ナルティメットストームコネクションズ	Naruto x Boruto Connections	ps5,switch,pc	fighting	A
+bleach-brave-souls	BLEACH Brave Souls	Bleach: Brave Souls	ios,android	action	A
+jujutsu-kaisen-phantom-parade	呪術廻戦 ファントムパレード	Jujutsu Kaisen Phantom Parade	ios,android	rpg	A
+my-hero-academia-ultra-rumble	僕のヒーローアカデミア ULTRA RUMBLE	My Hero Academia: Ultra Rumble	ps5,xbox,pc	action	B
+chainsaw-man-game	チェンソーマンゲーム	Chainsaw Man Game	ps5,pc	action	A
+demon-slayer-hinokami-chronicles	鬼滅の刃 ヒノカミ血風譚	Demon Slayer: The Hinokami Chronicles	ps5,switch,pc	fighting	A
+spy-x-family-operation-diary	SPY×FAMILY OPERATION DIARY	Spy x Family: Operation Diary	switch,ps5	action	B
+sword-art-online-last-recollection	SAO ラストリコレクション	Sword Art Online: Last Recollection	ps5,xbox,pc	rpg	B
+attack-on-titan-2	進撃の巨人2	Attack on Titan 2	switch,ps5,pc	action	B
+seven-deadly-sins-grand-cross	七つの大罪 ～光と闇の交戦～	Seven Deadly Sins: Grand Cross	ios,android	rpg	A
+konosuba-fantastic-days	このすば ファンタスティックデイズ	KonoSuba: Fantastic Days	ios,android	rpg	B
+re-zero-lost-in-memories	Re:ゼロから始める異世界生活	Re:Zero - Lost in Memories	ios,android	rpg	B
+tensura-king-of-monsters	転スラ 魔王と竜の建国譚	That Time I Got Reincarnated as a Slime	ios,android	rpg	B
+overlord-mass-for-the-dead	オーバーロード MASS FOR THE DEAD	Overlord: Mass for the Dead	ios,android	rpg	B
+mushoku-tensei-game	無職転生 ゲームに転生したら本気だす	Mushoku Tensei Game	ios,android	rpg	B
+apex-legends	エーペックスレジェンズ	Apex Legends	ps5,pc	shooter	S
+valorant	VALORANT	VALORANT	pc	shooter	S
+fortnite	フォートナイト	Fortnite	ps5,xbox,pc,switch,ios,android	shooter	S
+call-of-duty-modern-warfare-iii	コール オブ デューティ モダン・ウォーフェア III	Call of Duty: Modern Warfare III	ps5,xbox,pc	shooter	A
+call-of-duty-black-ops-6	コール オブ デューティ ブラックオプス6	Call of Duty: Black Ops 6	ps5,xbox,pc	shooter	S
+call-of-duty-warzone	コール オブ デューティ ウォーゾーン	Call of Duty: Warzone	ps5,xbox,pc	shooter	A
+call-of-duty-mobile	コール オブ デューティ モバイル	Call of Duty: Mobile	ios,android	shooter	A
+overwatch-2	オーバーウォッチ2	Overwatch 2	ps5,xbox,pc	shooter	S
+counter-strike-2	カウンターストライク2	Counter-Strike 2	pc	shooter	A
+rainbow-six-siege	レインボーシックス シージ	Rainbow Six Siege	ps5,xbox,pc	shooter	A
+pubg	PUBG: BATTLEGROUNDS	PUBG: Battlegrounds	ps5,xbox,pc	shooter	A
+pubg-mobile	PUBG MOBILE	PUBG Mobile	ios,android	shooter	A
+free-fire	フリーファイア	Free Fire	ios,android	shooter	A
+delta-force	デルタフォース	Delta Force	ps5,xbox,pc	shooter	A
+marvel-rivals	マーベル・ライバルズ	Marvel Rivals	ps5,xbox,pc	shooter	S
+the-finals	THE FINALS	The Finals	ps5,xbox,pc	shooter	A
+escape-from-tarkov	タルコフ	Escape from Tarkov	pc	shooter	A
+league-of-legends	リーグ・オブ・レジェンド	League of Legends	pc	moba	S
+league-of-legends-wild-rift	LoL ワイルドリフト	League of Legends: Wild Rift	ios,android	moba	A
+teamfight-tactics	チームファイト タクティクス	Teamfight Tactics	pc,ios,android	strategy	A
+dota-2	Dota 2	Dota 2	pc	moba	A
+mobile-legends-bang-bang	モバイルレジェンド	Mobile Legends: Bang Bang	ios,android	moba	A
+honor-of-kings	王者栄耀	Honor of Kings	ios,android	moba	A
+minecraft	マインクラフト	Minecraft	pc,switch,ps5,xbox,ios,android	sandbox	S
+terraria	テラリア	Terraria	pc,switch,ps5,ios,android	sandbox	A
+roblox	ロブロックス	Roblox	pc,ios,android,xbox	sandbox	S
+stardew-valley	スターデューバレー	Stardew Valley	pc,switch,ps5,ios,android	simulation	A
+palworld	パルワールド	Palworld	pc,xbox	survival	S
+ark-survival-ascended	ARK: Survival Ascended	ARK: Survival Ascended	ps5,xbox,pc	survival	A
+rust	Rust	Rust	pc,ps5,xbox	survival	A
+valheim	Valheim	Valheim	pc	survival	A
+subnautica	サブノーティカ	Subnautica	pc,switch,ps5	survival	A
+dont-starve-together	Don't Starve Together	Don't Starve Together	pc,ps5	survival	B
+7-days-to-die	7 Days to Die	7 Days to Die	pc,ps5,xbox	survival	B
+once-human	Once Human	Once Human	pc	survival	A
+the-forest	The Forest	The Forest	pc,ps5	survival	B
+sons-of-the-forest	Sons Of The Forest	Sons of the Forest	pc	survival	A
+satisfactory	Satisfactory	Satisfactory	pc	simulation	A
+factorio	Factorio	Factorio	pc,switch	simulation	A
+cities-skylines-2	シティーズ：スカイライン2	Cities: Skylines II	pc,ps5,xbox	simulation	B
+stellaris	Stellaris	Stellaris	pc,ps5,xbox	strategy	B
+civilization-vi	シヴィライゼーションVI	Civilization VI	pc,switch,ps5	strategy	A
+civilization-vii	シヴィライゼーションVII	Civilization VII	pc,ps5,switch	strategy	S
+hogwarts-legacy	ホグワーツ・レガシー	Hogwarts Legacy	ps5,xbox,pc,switch	rpg	A
+baldurs-gate-3	バルダーズ・ゲート3	Baldur's Gate 3	ps5,pc,xbox	rpg	S
+diablo-iv	ディアブロIV	Diablo IV	ps5,xbox,pc	rpg	S
+diablo-immortal	ディアブロ イモータル	Diablo Immortal	ios,android,pc	rpg	A
+path-of-exile-2	パス・オブ・エグザイル2	Path of Exile 2	ps5,xbox,pc	rpg	S
+path-of-exile	パス・オブ・エグザイル	Path of Exile	pc	rpg	A
+world-of-warcraft	World of Warcraft	World of Warcraft	pc	mmorpg	A
+guild-wars-2	Guild Wars 2	Guild Wars 2	pc	mmorpg	B
+lost-ark	ロストアーク	Lost Ark	pc	mmorpg	A
+blue-protocol	ブループロトコル	Blue Protocol	pc	mmorpg	B
+pso2-new-genesis	PSO2 ニュージェネシス	Phantasy Star Online 2: New Genesis	pc,ps5,switch	mmorpg	A
+throne-and-liberty	Throne and Liberty	Throne and Liberty	ps5,pc	mmorpg	A
+black-desert-online	黒い砂漠	Black Desert Online	pc,ps5,xbox	mmorpg	A
+wuthering-waves	鳴潮	Wuthering Waves	ps5,pc,ios,android	rpg	S
+infinity-nikki	インフィニティニッキ	Infinity Nikki	ps5,pc,ios,android	rpg	A
+the-first-descendant	ファーストディセンダント	The First Descendant	ps5,xbox,pc	shooter	A
+stellar-blade	ステラーブレイド	Stellar Blade	ps5,pc	action	A
+black-myth-wukong	黒神話：悟空	Black Myth: Wukong	ps5,pc	action	S
+lies-of-p	Lies of P	Lies of P	ps5,xbox,pc	action	A
+wo-long-fallen-dynasty	Wo Long: Fallen Dynasty	Wo Long: Fallen Dynasty	ps5,xbox,pc	action	B
+nioh-2	仁王2	Nioh 2	ps5,pc	action	B
+ghost-of-tsushima	ゴースト・オブ・ツシマ	Ghost of Tsushima	ps5,pc	action	A
+god-of-war-ragnarok	ゴッド・オブ・ウォー ラグナロク	God of War Ragnarok	ps5,pc	action	A
+horizon-forbidden-west	Horizon Forbidden West	Horizon Forbidden West	ps5,pc	action	A
+spider-man-2	Marvel's Spider-Man 2	Marvel's Spider-Man 2	ps5,pc	action	A
+spider-man-miles-morales	Marvel's Spider-Man: Miles Morales	Marvel's Spider-Man: Miles Morales	ps5,pc	action	B
+ratchet-and-clank-rift-apart	ラチェット＆クランク パラレル・トラブル	Ratchet & Clank: Rift Apart	ps5,pc	action	B
+street-fighter-6	ストリートファイター6	Street Fighter 6	ps5,xbox,pc	fighting	S
+tekken-8	鉄拳8	Tekken 8	ps5,xbox,pc	fighting	S
+guilty-gear-strive	ギルティギア ストライヴ	Guilty Gear Strive	ps5,pc	fighting	A
+mortal-kombat-1	モータルコンバット1	Mortal Kombat 1	ps5,xbox,pc,switch	fighting	A
+dragon-ball-fighterz	ドラゴンボール ファイターズ	Dragon Ball FighterZ	ps5,switch,pc	fighting	B
+under-night-in-birth-2	UNDER NIGHT IN-BIRTH II	Under Night In-Birth II	ps5,pc	fighting	B
+the-king-of-fighters-xv	KOF XV	The King of Fighters XV	ps5,xbox,pc	fighting	B
+dead-or-alive-6	DEAD OR ALIVE 6	Dead or Alive 6	ps5,pc	fighting	B
+multiversus	マルチバーサス	MultiVersus	ps5,xbox,pc	fighting	B
+brawlhalla	ブロウルハラ	Brawlhalla	ps5,xbox,pc,switch,ios,android	fighting	B
+yu-gi-oh-master-duel	遊戯王 マスターデュエル	Yu-Gi-Oh! Master Duel	ps5,xbox,pc,switch,ios,android	card	S
+yu-gi-oh-duel-links	遊戯王 デュエルリンクス	Yu-Gi-Oh! Duel Links	ios,android,pc	card	A
+hearthstone	ハースストーン	Hearthstone	pc,ios,android	card	A
+marvel-snap	MARVEL SNAP	Marvel Snap	pc,ios,android	card	S
+legends-of-runeterra	レジェンド・オブ・ルーンテラ	Legends of Runeterra	pc,ios,android	card	B
+one-piece-card-game	ONE PIECEカードゲーム	One Piece Card Game	ios,android	card	A
+dead-by-daylight	デッド バイ デイライト	Dead by Daylight	ps5,xbox,pc,switch	horror	S
+identity-v	第五人格	Identity V	ios,android,pc	horror	A
+among-us	Among Us	Among Us	pc,switch,ios,android	party	A
+fall-guys	Fall Guys	Fall Guys	ps5,xbox,pc,switch	party	A
+lethal-company	Lethal Company	Lethal Company	pc	horror	A
+phasmophobia	Phasmophobia	Phasmophobia	pc	horror	A
+content-warning	Content Warning	Content Warning	pc	horror	B
+resident-evil-4-remake	バイオハザード RE:4	Resident Evil 4 Remake	ps5,xbox,pc	horror	A
+resident-evil-village	バイオハザード ヴィレッジ	Resident Evil Village	ps5,xbox,pc	horror	A
+silent-hill-2-remake	サイレントヒル2	Silent Hill 2 Remake	ps5,pc	horror	A
+alan-wake-2	Alan Wake 2	Alan Wake 2	ps5,xbox,pc	horror	A
+fifa-fc-25	EA SPORTS FC 25	EA Sports FC 25	ps5,xbox,pc,switch	sports	S
+nba-2k25	NBA 2K25	NBA 2K25	ps5,xbox,pc	sports	A
+mlb-the-show-25	MLB The Show 25	MLB The Show 25	ps5,xbox	sports	A
+pro-baseball-spirits-2024	プロ野球スピリッツ2024	Pro Baseball Spirits 2024	ps5	sports	A
+pro-baseball-spirits-a	プロ野球スピリッツA	Pro Baseball Spirits A	ios,android	sports	A
+eafc-mobile	EA SPORTS FC Mobile	EA Sports FC Mobile	ios,android	sports	A
+gran-turismo-7	グランツーリスモ7	Gran Turismo 7	ps5	racing	A
+forza-motorsport	Forza Motorsport	Forza Motorsport	xbox,pc	racing	B
+forza-horizon-5	Forza Horizon 5	Forza Horizon 5	xbox,pc	racing	A
+mario-strikers-battle-league	マリオストライカーズ バトルリーグ	Mario Strikers: Battle League	switch	sports	B
+nba-2k-mobile	NBA 2K Mobile	NBA 2K Mobile	ios,android	sports	B
+winning-post-10	ウイニングポスト10	Winning Post 10	switch,ps5,pc	simulation	B
+power-pros	パワプロ	eBaseball Powerful Pro	switch,ps5	sports	A
+soccer-spirits	サッカースピリッツ	Soccer Spirits	ios,android	sports	B
+captain-tsubasa-ace	キャプテン翼 -ACE-	Captain Tsubasa: Ace	ios,android	sports	B
+azur-lane	アズールレーン	Azur Lane	ios,android	rpg	A
+girls-frontline-2	ドールズフロントライン2	Girls' Frontline 2: Exilium	ios,android,pc	rpg	A
+punishing-gray-raven	パニシング：グレイレイヴン	Punishing: Gray Raven	ios,android	action	A
+counterside	COUNTERSIDE	CounterSide	ios,android,pc	rpg	A
+limbus-company	リンバスカンパニー	Limbus Company	ios,android,pc	rpg	A
+reverse-1999	Reverse: 1999	Reverse: 1999	ios,android,pc	rpg	A
+alchemy-stars	白夜極光	Alchemy Stars	ios,android	rpg	A
+guardian-tales	ガーディアンテイルズ	Guardian Tales	ios,android	rpg	A
+cookie-run-kingdom	クッキーラン：キングダム	Cookie Run: Kingdom	ios,android	rpg	A
+epic-seven	エピックセブン	Epic Seven	ios,android	rpg	A
+summoners-war	サマナーズウォー	Summoners War	ios,android	rpg	A
+solo-leveling-arise	俺だけレベルアップな件：ARISE	Solo Leveling: Arise	ios,android,pc	rpg	A
+brown-dust-2	ブラウンダスト2	Brown Dust 2	ios,android	rpg	A
+aether-gazer	アエターゲイザー	Aether Gazer	ios,android	action	B
+snowbreak-containment-zone	スノウブレイク	Snowbreak: Containment Zone	pc,ios,android	shooter	B
+neural-cloud	ニューラルクラウド	Neural Cloud	ios,android	strategy	B
+path-to-nowhere	Path to Nowhere	Path to Nowhere	ios,android	strategy	B
+another-eden	アナザーエデン	Another Eden	ios,android	rpg	A
+octopath-traveler-cotc	オクトパストラベラー 大陸の覇者	Octopath Traveler: CotC	ios,android	rpg	A
+last-cloudia	ラストクラウディア	Last Cloudia	ios,android	rpg	B
+brave-frontier	ブレイブ フロンティア	Brave Frontier	ios,android	rpg	B
+evertale	エバーテイル	Evertale	ios,android	rpg	B
+dislyte	Dislyte	Dislyte	ios,android	rpg	B
+afk-journey	AFKジャーニー	AFK Journey	ios,android,pc	rpg	A
+afk-arena	AFKアリーナ	AFK Arena	ios,android	rpg	B
+idle-heroes	アイドルヒーローズ	Idle Heroes	ios,android	rpg	B
+raid-shadow-legends	RAID: Shadow Legends	Raid: Shadow Legends	ios,android,pc	rpg	B
+rise-of-kingdoms	Rise of Kingdoms	Rise of Kingdoms	ios,android	strategy	A
+clash-of-clans	クラッシュ・オブ・クラン	Clash of Clans	ios,android	strategy	A
+clash-royale	クラッシュ・ロワイヤル	Clash Royale	ios,android	strategy	A
+brawl-stars	ブロスタ	Brawl Stars	ios,android	shooter	S
+squad-busters	スクワッドバスターズ	Squad Busters	ios,android	action	A
+lords-mobile	ロードモバイル	Lords Mobile	ios,android	strategy	A
+last-war-survival	ラストウォー：サバイバル	Last War: Survival Game	ios,android	strategy	A
+whiteout-survival	ホワイトアウト・サバイバル	Whiteout Survival	ios,android	strategy	A
+state-of-survival	ステート・オブ・サバイバル	State of Survival	ios,android	strategy	B
+evony	Evony	Evony: The King's Return	ios,android	strategy	B
+age-of-empires-mobile	エイジ オブ エンパイア モバイル	Age of Empires Mobile	ios,android	strategy	A
+call-of-dragons	コール・オブ・ドラゴンズ	Call of Dragons	ios,android	strategy	B
+mafia-city	マフィア・シティ	Mafia City	ios,android	strategy	B
+top-war	Top War	Top War: Battle Game	ios,android	strategy	B
+survivor-io	サバイバー.io	Survivor.io	ios,android	action	A
+vampire-survivors	ヴァンパイア サバイバーズ	Vampire Survivors	pc,switch,ios,android	action	A
+hades-2	Hades II	Hades II	pc	action	S
+hades	Hades	Hades	pc,switch,ps5	action	A
+dead-cells	Dead Cells	Dead Cells	pc,switch,ps5,ios,android	action	A
+slay-the-spire-2	Slay the Spire 2	Slay the Spire 2	pc	card	A
+slay-the-spire	Slay the Spire	Slay the Spire	pc,switch,ios,android	card	A
+cult-of-the-lamb	Cult of the Lamb	Cult of the Lamb	pc,switch,ps5	action	A
+hollow-knight-silksong	ホロウナイト シルクソング	Hollow Knight: Silksong	pc,switch	action	A
+hollow-knight	ホロウナイト	Hollow Knight	pc,switch,ps5	action	A
+celeste	Celeste	Celeste	pc,switch	action	B
+cuphead	Cuphead	Cuphead	pc,switch,ps5	action	B
+shovel-knight	ショベルナイト	Shovel Knight	pc,switch	action	B
+undertale	Undertale	Undertale	pc,switch,ps5	rpg	B
+deltarune	Deltarune	Deltarune	pc,switch	rpg	B
+octopath-traveler-2	オクトパストラベラー2	Octopath Traveler II	switch,ps5,pc	rpg	A
+tales-of-arise	テイルズ オブ アライズ	Tales of Arise	ps5,xbox,pc	rpg	A
+star-ocean-second-story-r	スターオーシャン セカンドストーリーR	Star Ocean: The Second Story R	switch,ps5,pc	rpg	B
+nier-automata	ニーア オートマタ	NieR: Automata	ps5,pc,switch	rpg	A
+nier-reincarnation	ニーア リィンカーネーション	NieR Re[in]carnation	ios,android	rpg	B
+sinoalice	シノアリス	SINoALICE	ios,android	rpg	B
+danmachi-memoria-freese	ダンまち メモリア・フレーゼ	DanMachi: Memoria Freese	ios,android	rpg	B
+honkai-impact-3rd	崩壊3rd	Honkai Impact 3rd	ios,android,pc	action	A
+tower-of-fantasy	幻塔	Tower of Fantasy	ios,android,pc	mmorpg	A
+tarisland	Tarisland	Tarisland	pc,ios,android	mmorpg	B
+torchlight-infinite	トーチライト：インフィニティ	Torchlight: Infinite	ios,android,pc	rpg	B
+dark-and-darker	Dark and Darker	Dark and Darker	pc	action	A
+dark-and-darker-mobile	Dark and Darker Mobile	Dark and Darker Mobile	ios,android	action	A
+the-bazaar	The Bazaar	The Bazaar	pc	card	A
+it-takes-two	It Takes Two	It Takes Two	ps5,xbox,pc	action	B
+a-way-out	A Way Out	A Way Out	ps5,xbox,pc	action	B
+unravel-two	Unravel Two	Unravel Two	ps5,xbox,pc	puzzle	B
+little-nightmares-iii	リトルナイトメア3	Little Nightmares III	ps5,xbox,pc	action	A
+inside	Inside	Inside	pc,switch,ps5	puzzle	B
+stray	Stray	Stray	ps5,pc	adventure	B
+the-witcher-3	ウィッチャー3	The Witcher 3: Wild Hunt	ps5,xbox,pc,switch	rpg	A
+cyberpunk-2077	サイバーパンク2077	Cyberpunk 2077	ps5,xbox,pc	rpg	A
+starfield	Starfield	Starfield	xbox,pc	rpg	A
+the-elder-scrolls-online	エルダー・スクロールズ・オンライン	The Elder Scrolls Online	ps5,xbox,pc	mmorpg	B
+skyrim	スカイリム	The Elder Scrolls V: Skyrim	ps5,switch,pc	rpg	A
+fallout-4	Fallout 4	Fallout 4	ps5,xbox,pc	rpg	A
+fallout-76	Fallout 76	Fallout 76	ps5,xbox,pc	rpg	A
+red-dead-redemption-2	レッド・デッド・リデンプション2	Red Dead Redemption 2	ps5,pc	action	A
+gta-v	GTA V	Grand Theft Auto V	ps5,xbox,pc	action	A
+gta-online	GTAオンライン	GTA Online	ps5,xbox,pc	action	A
+gta-vi	GTA VI	Grand Theft Auto VI	ps5,xbox	action	S
+assassins-creed-shadows	アサシン クリード シャドウズ	Assassin's Creed Shadows	ps5,xbox,pc	action	S
+assassins-creed-mirage	アサシン クリード ミラージュ	Assassin's Creed Mirage	ps5,xbox,pc	action	A
+assassins-creed-valhalla	アサシン クリード ヴァルハラ	Assassin's Creed Valhalla	ps5,xbox,pc	action	B
+far-cry-6	ファークライ6	Far Cry 6	ps5,xbox,pc	action	B
+star-wars-outlaws	Star Wars Outlaws	Star Wars Outlaws	ps5,xbox,pc	action	A
+star-wars-jedi-survivor	Star Wars ジェダイ：サバイバー	Star Wars Jedi: Survivor	ps5,xbox,pc	action	A
+star-wars-galaxy-of-heroes	Star Wars: Galaxy of Heroes	Star Wars: Galaxy of Heroes	ios,android	rpg	B
+harry-potter-magic-awakened	ハリー・ポッター 魔法の覚醒	Harry Potter: Magic Awakened	ios,android	card	A
+death-stranding-2	デス・ストランディング2	Death Stranding 2: On the Beach	ps5	action	A
+metal-gear-solid-delta	メタルギアソリッド デルタ	Metal Gear Solid Delta: Snake Eater	ps5,xbox,pc	action	S
+detroit-become-human	Detroit: Become Human	Detroit: Become Human	ps5,pc	adventure	B
+like-a-dragon-pirate-yakuza	龍が如く 海賊版	Like a Dragon: Pirate Yakuza in Hawaii	ps5,xbox,pc	action	A
+like-a-dragon-infinite-wealth	龍が如く8	Like a Dragon: Infinite Wealth	ps5,xbox,pc	rpg	S
+like-a-dragon-ishin	龍が如く 維新！極	Like a Dragon: Ishin!	ps5,xbox,pc	action	B
+yakuza-0	龍が如く0	Yakuza 0	ps5,pc	action	B
+lost-judgment	ロストジャッジメント	Lost Judgment	ps5,xbox,pc	action	B
+dynasty-warriors-origins	真・三國無双 ORIGINS	Dynasty Warriors: Origins	ps5,xbox,pc	action	A
+samurai-warriors-5	戦国無双5	Samurai Warriors 5	switch,ps5,pc	action	B
+gundam-breaker-4	ガンダムブレイカー4	Gundam Breaker 4	switch,ps5,pc	action	A
+sd-gundam-battle-alliance	SDガンダム バトルアライアンス	SD Gundam Battle Alliance	switch,ps5,pc	action	B
+mobile-suit-gundam-extreme-vs	ガンダム EXVS	Mobile Suit Gundam Extreme VS	ps5	action	B
+ace-combat-7	エースコンバット7	Ace Combat 7	ps5,xbox,pc	action	B
+armored-core-vi-fires-of-rubicon	アーマード・コアVI	Armored Core VI	ps5,xbox,pc	action	A
+tales-of-graces-f-remastered	テイルズ オブ グレイセス エフ リマスター	Tales of Graces f Remastered	switch,ps5,pc	rpg	B
+atelier-yumia	アトリエ ユミア	Atelier Yumia	switch,ps5,pc	rpg	A
+atelier-ryza-3	ライザのアトリエ3	Atelier Ryza 3	switch,ps5,pc	rpg	B
+disgaea-7	魔界戦記ディスガイア7	Disgaea 7	switch,ps5,pc	srpg	B
+megaman-battle-network-legacy	ロックマンエグゼ アドバンスドコレクション	Mega Man Battle Network Legacy Collection	switch,ps5,pc	action	B
+mega-man-x-dive	ロックマンX DiVE	Mega Man X DiVE	ios,android	action	B
+castlevania-dominus	悪魔城ドラキュラ ドミヌスコレクション	Castlevania Dominus Collection	switch,ps5,pc	action	B
+shin-megami-tensei-v	真・女神転生V	Shin Megami Tensei V	switch	rpg	B
+megami-tensei-dx2	D×2 真・女神転生	Dx2 Shin Megami Tensei: Liberation	ios,android	rpg	B
+persona-5-x	ペルソナ5：ザ・ファントム X	Persona 5: The Phantom X	ios,android	rpg	A
+etrian-odyssey-origins	世界樹の迷宮 Origins Collection	Etrian Odyssey Origins Collection	switch	rpg	B
+suikoden-i-ii-hd	幻想水滸伝 I＆II HDリマスター	Suikoden I & II HD Remaster	switch,ps5,pc	rpg	A
+romancing-saga-minstrel-song-remastered	ロマンシング サガ ミンストレルソング リマスター	Romancing SaGa Minstrel Song Remastered	switch,ps5,pc	rpg	B
+romancing-saga-re-universe	ロマンシング サガ リ・ユニバース	Romancing SaGa Re;univerSe	ios,android	rpg	B
+saga-emerald-beyond	サガ エメラルド ビヨンド	SaGa Emerald Beyond	switch,ps5,pc,ios,android	rpg	B
+dragon-quest-monsters-3	ドラゴンクエストモンスターズ3	Dragon Quest Monsters: The Dark Prince	switch	rpg	A
+yo-kai-watch-punipuni	妖怪ウォッチ ぷにぷに	Yo-kai Watch Puni Puni	ios,android	action	A
+ni-no-kuni-cross-worlds	二ノ国：Cross Worlds	Ni no Kuni: Cross Worlds	ios,android	mmorpg	B
+kingdom-hearts-missing-link	キングダムハーツ ミッシングリンク	Kingdom Hearts Missing-Link	ios,android	rpg	A
+kingdom-hearts-iv	キングダムハーツ IV	Kingdom Hearts IV	ps5	rpg	A
+dissidia-final-fantasy-opera-omnia	ディシディアFF オペラオムニア	Dissidia Final Fantasy Opera Omnia	ios,android	rpg	B
+monster-hunter-now	モンスターハンターNow	Monster Hunter Now	ios,android	action	A
+mahjong-soul	雀魂 じゃんたま	Mahjong Soul	pc,ios,android	board	A
+among-us-vr	Among Us VR	Among Us VR	pc	party	B
+destiny-2	Destiny 2	Destiny 2	ps5,xbox,pc	shooter	A
+warframe	Warframe	Warframe	ps5,xbox,pc,switch	action	A
+sea-of-thieves	Sea of Thieves	Sea of Thieves	ps5,xbox,pc	adventure	A
+no-mans-sky	No Man's Sky	No Man's Sky	ps5,xbox,pc,switch	adventure	A
+deep-rock-galactic	Deep Rock Galactic	Deep Rock Galactic	ps5,xbox,pc	shooter	B
+deep-rock-galactic-survivor	Deep Rock Galactic: Survivor	Deep Rock Galactic: Survivor	pc	action	B
+helldivers-2	Helldivers 2	Helldivers 2	ps5,pc	shooter	S
+remnant-2	Remnant 2	Remnant 2	ps5,xbox,pc	action	B
+outriders	Outriders	Outriders	ps5,xbox,pc	shooter	B
+warhammer-40k-space-marine-2	ウォーハンマー40K：スペースマリーン2	Warhammer 40K: Space Marine 2	ps5,xbox,pc	action	A
+total-war-warhammer-iii	Total War: WARHAMMER III	Total War: Warhammer III	pc	strategy	B
+age-of-empires-iv	Age of Empires IV	Age of Empires IV	pc,xbox	strategy	B
+company-of-heroes-3	Company of Heroes 3	Company of Heroes 3	pc	strategy	B
+xcom-2	XCOM 2	XCOM 2	pc,ps5	strategy	B
+triangle-strategy	トライアングルストラテジー	Triangle Strategy	switch,pc	srpg	B
+unicorn-overlord	ユニコーンオーバーロード	Unicorn Overlord	switch,ps5,xbox	srpg	A
+vanillaware-thirteen-sentinels	十三機兵防衛圏	13 Sentinels: Aegis Rim	switch,ps5	srpg	B
+final-fantasy-tactics-remastered	FFタクティクス リマスター	Final Fantasy Tactics Remastered	switch,ps5,pc,ios,android	srpg	A
+tactics-ogre-reborn	タクティクスオウガ リボーン	Tactics Ogre: Reborn	switch,ps5,pc	srpg	B
+mario-plus-rabbids-sparks-of-hope	マリオ＋ラビッツ ギャラクシーバトル	Mario + Rabbids Sparks of Hope	switch	strategy	B
+bayonetta-3	ベヨネッタ3	Bayonetta 3	switch	action	B
+astral-chain	アストラルチェイン	Astral Chain	switch	action	B
+splinter-cell-remake	スプリンターセル リメイク	Splinter Cell Remake	ps5,xbox,pc	action	B
+doom-the-dark-ages	DOOM: The Dark Ages	Doom: The Dark Ages	ps5,xbox,pc	shooter	S
+wolfenstein-youngblood	Wolfenstein: Youngblood	Wolfenstein: Youngblood	ps5,pc	shooter	B
+bioshock-4	BioShock 4	BioShock 4	ps5,xbox,pc	shooter	B
+returnal	Returnal	Returnal	ps5,pc	action	A
+deathloop	Deathloop	Deathloop	ps5,xbox,pc	action	B
+hi-fi-rush	Hi-Fi RUSH	Hi-Fi Rush	ps5,xbox,pc	action	A
+tchia	Tchia	Tchia	ps5,pc	adventure	B
+dave-the-diver	Dave the Diver	Dave the Diver	pc,switch,ps5	adventure	A
+little-kitty-big-city	Little Kitty, Big City	Little Kitty, Big City	switch,pc,xbox	adventure	B
+animal-well	Animal Well	Animal Well	ps5,pc,switch	puzzle	A
+indivisible	Indivisible	Indivisible	switch,ps5,pc	rpg	B
+sea-of-stars	Sea of Stars	Sea of Stars	switch,ps5,pc	rpg	A
+chained-echoes	Chained Echoes	Chained Echoes	switch,ps5,pc	rpg	B
+eastward	Eastward	Eastward	switch,pc	rpg	B
+cosmic-star-heroine	Cosmic Star Heroine	Cosmic Star Heroine	switch,ps5,pc	rpg	B
+world-of-tanks-blitz	World of Tanks Blitz	World of Tanks Blitz	pc,ios,android	action	B
+war-thunder	War Thunder	War Thunder	pc,ps5,xbox	action	A
+world-of-warships	World of Warships	World of Warships	pc	action	B
+marvel-future-fight	MARVEL Future Fight	Marvel Future Fight	ios,android	rpg	B
+marvel-strike-force	MARVEL Strike Force	Marvel Strike Force	ios,android	rpg	B
+marvel-contest-of-champions	Marvel Contest of Champions	Marvel Contest of Champions	ios,android	fighting	B
+dc-heroes-villains	DC Heroes & Villains	DC Heroes & Villains	ios,android	rpg	B
+lotr-heroes-of-middle-earth	LotR: Heroes of Middle-earth	LotR: Heroes of Middle-earth	ios,android	rpg	B
+astra-knights-of-veda	Astra: Knights of Veda	Astra: Knights of Veda	ios,android	rpg	B
+dungeon-fighter-online	アラド戦記	Dungeon Fighter Online	pc	action	A
+maplestory	メイプルストーリー	MapleStory	pc	mmorpg	B
+ragnarok-origin	ラグナロクオリジン	Ragnarok Origin	ios,android	mmorpg	B
+lineage-w	リネージュW	Lineage W	ios,android,pc	mmorpg	B
+lineage-2m	リネージュ2M	Lineage 2M	ios,android,pc	mmorpg	B
+gran-saga	グランサガ	Gran Saga	ios,android	rpg	B
+shining-nikki	シャイニングニッキー	Shining Nikki	ios,android	dress-up	B
+love-nikki	ミラクルニキ	Love Nikki	ios,android	dress-up	B
+d4dj-groovy-mix	D4DJ Groovy Mix	D4DJ Groovy Mix	ios,android	rhythm	B
+show-by-rock	SHOW BY ROCK!!	Show By Rock!!	ios,android	rhythm	B
+hypnosis-mic-arb	ヒプノシスマイク -A.R.B-	Hypnosis Mic: A.R.B.	ios,android	rhythm	B
+a3-act-addict-actors	A3!	A3!	ios,android	simulation	B
+taiko-no-tatsujin	太鼓の達人	Taiko no Tatsujin	switch,ps5,ios,android	rhythm	A
+rhythm-game-arcaea	Arcaea	Arcaea	ios,android	rhythm	B
+cytus-ii	Cytus II	Cytus II	ios,android	rhythm	B
+phigros	Phigros	Phigros	ios,android	rhythm	B
+proseka	プロセカ	Project Sekai	ios,android	rhythm	S
+oshi-no-ko-game	推しの子 ゲーム	Oshi no Ko Game	ios,android	rpg	B
+frieren-game	葬送のフリーレン ゲーム	Frieren Game	ios,android	rpg	B
+dungeon-meshi-game	ダンジョン飯 ゲーム	Delicious in Dungeon Game	switch	rpg	B
+bocchi-the-rock-game	ぼっち・ざ・ろっく！ゲーム	Bocchi the Rock! Game	ios,android	rhythm	B
+blue-lock-blaze-battle	ブルーロック BLAZE BATTLE	Blue Lock: Blaze Battle	ios,android	sports	B
+undead-unluck-game	アンデッドアンラック	Undead Unluck Game	ios,android	rpg	B
+sakuna-of-rice-and-ruin	天穂のサクナヒメ	Sakuna: Of Rice and Ruin	switch,ps5,pc	action	A
+lies-of-p-2	Lies of P 2	Lies of P 2	ps5,xbox,pc	action	A
+avowed	Avowed	Avowed	xbox,pc	rpg	A
+fable	Fable	Fable	xbox,pc	rpg	A
+indiana-jones-great-circle	インディ・ジョーンズ	Indiana Jones and the Great Circle	ps5,xbox,pc	action	A
+clair-obscur-expedition-33	Clair Obscur: Expedition 33	Clair Obscur: Expedition 33	ps5,xbox,pc	rpg	S
+split-fiction	Split Fiction	Split Fiction	ps5,xbox,pc	action	A
+kingdom-come-deliverance-2	Kingdom Come: Deliverance II	Kingdom Come: Deliverance II	ps5,xbox,pc	rpg	A
+the-outer-worlds-2	The Outer Worlds 2	The Outer Worlds 2	xbox,pc	rpg	B
+south-park-snow-day	サウスパーク スノーデイ！	South Park: Snow Day!	switch,ps5,pc	action	B
+like-a-dragon-gaiden	龍が如く7外伝	Like a Dragon Gaiden	ps5,xbox,pc	action	B
+tekken-8-dlc	鉄拳8 DLC	Tekken 8 DLC	ps5,xbox,pc	fighting	A
+2xko	2XKO	2XKO	ps5,xbox,pc	fighting	A
+fatal-fury-city-of-the-wolves	餓狼伝説 City of the Wolves	Fatal Fury: City of the Wolves	ps5,xbox,pc	fighting	A
+bloons-td-6	Bloons TD 6	Bloons TD 6	pc,ios,android	tower-defense	A
+plants-vs-zombies-3	Plants vs. Zombies 3	Plants vs. Zombies 3	ios,android	tower-defense	B
+arknights-endfield	アークナイツ：エンドフィールド	Arknights: Endfield	pc,ios,android	rpg	A
+nikke-goddess-of-victory	NIKKE	Goddess of Victory: NIKKE	ios,android,pc	shooter	S
+coin-master	Coin Master	Coin Master	ios,android	casual	B
+royal-match	ロイヤルマッチ	Royal Match	ios,android	puzzle	B
+candy-crush-saga	キャンディークラッシュ	Candy Crush Saga	ios,android	puzzle	B
+homescapes	ホームスケイプ	Homescapes	ios,android	puzzle	B
+gardenscapes	ガーデンスケイプ	Gardenscapes	ios,android	puzzle	B
+archero	Archero	Archero	ios,android	action	B
+knives-out	荒野行動	Knives Out	ios,android	shooter	A
+identity-v-5th	第五人格	Identity V	ios,android	horror	A
+life-after	ライフアフター	LifeAfter	ios,android	survival	B
+arena-of-valor	伝説対決	Arena of Valor	ios,android	moba	B
+standoff-2	Standoff 2	Standoff 2	ios,android	shooter	B
+asphalt-9	アスファルト9	Asphalt 9: Legends	ios,android,switch	racing	B
+digimon-survive	デジモンサヴァイブ	Digimon Survive	switch,ps5,pc	rpg	B
+digimon-story-cyber-sleuth	デジモンストーリー サイバースルゥース	Digimon Story: Cyber Sleuth	switch,pc	rpg	B
+yo-kai-watch-4	妖怪ウォッチ4	Yo-kai Watch 4	switch	rpg	B
+inazuma-eleven-victory-road	イナズマイレブン 英雄たちのヴィクトリーロード	Inazuma Eleven: Victory Road	switch,ps5	sports	A
+level-5-fantasy-life-i	ファンタジーライフi	Fantasy Life i: The Girl Who Steals Time	switch	rpg	A
+snack-world	スナックワールド	The Snack World	switch	rpg	B
+professor-layton-new-world	レイトン教授と蒸気の新世界	Professor Layton and the New World of Steam	switch	puzzle	A
+ace-attorney-investigations	逆転検事	Ace Attorney Investigations Collection	switch,ps5,pc	adventure	A
+ghost-trick	ゴーストトリック	Ghost Trick: Phantom Detective	switch,ps5,pc	puzzle	B
+danganronpa-s	ダンガンロンパS	Danganronpa S	switch,pc	adventure	B
+13-sentinels-aegis-rim	十三機兵防衛圏	13 Sentinels: Aegis Rim	switch	adventure	B
+ai-the-somnium-files-nirvana	AI: ソムニウムファイル ニルヴァーナ	AI: The Somnium Files - nirvanA Initiative	switch,ps5,pc	adventure	B
+steins-gate	STEINS;GATE	Steins;Gate	switch,ps5,pc	adventure	B
+robotics-notes	ROBOTICS;NOTES	Robotics;Notes	switch,ps5,pc	adventure	B
+chaos-head-noah	CHAOS;HEAD NOAH	Chaos;Head Noah	switch	adventure	B
+anonymous-code	ANONYMOUS;CODE	Anonymous;Code	switch,ps5	adventure	B
+buddy-mission-bond	バディミッションBOND	Buddy Mission: Bond	switch	adventure	B
+master-detective-archives-rain-code	超探偵事件簿 レインコード	Master Detective Archives: Rain Code	switch	adventure	A
+the-great-ace-attorney-chronicles	大逆転裁判	The Great Ace Attorney Chronicles	switch,ps5,pc	adventure	A
+phoenix-wright-ace-attorney-trilogy	逆転裁判123	Phoenix Wright: Ace Attorney Trilogy	switch,ps5,pc	adventure	A
+999-zero-escape	極限脱出 9時間9人9の扉	Zero Escape: 999	switch,ps5,pc	adventure	B
+dangan-ronpa-trilogy	ダンガンロンパ トリロジー	Danganronpa Trilogy	switch,ps5,pc	adventure	A
+visual-novel-clannad	CLANNAD	Clannad	switch,ps5,pc	adventure	B
+fate-samurai-remnant	Fate/Samurai Remnant	Fate/Samurai Remnant	switch,ps5,pc	action	A
+witch-on-the-holy-night	月姫 -A piece of blue glass moon-	Tsukihime	switch,ps5	adventure	B
+melty-blood-type-lumina	メルティブラッド：タイプルミナ	Melty Blood: Type Lumina	switch,ps5,pc	fighting	B
+touhou-project	東方Project	Touhou Project	pc	shooter	A
+uma-musume-pretty-derby-party	ウマ娘 パーティーダービー	Uma Musume: Party Derby	switch	party	B
+idoly-pride	IDOLY PRIDE	Idoly Pride	ios,android	rhythm	B
+tokyo-7th-sisters	Tokyo 7th シスターズ	Tokyo 7th Sisters	ios,android	rhythm	B
+world-flipper	ワールドフリッパー	World Flipper	ios,android	action	B
+megido-72	メギド72	Megido 72	ios,android	rpg	B
+dragon-quest-dai-no-daibouken	ドラゴンクエスト ダイの大冒険	DQ: Dai's Adventure	ios,android	rpg	B
+captain-tsubasa-dream-team	キャプテン翼 ドリームチーム	Captain Tsubasa: Dream Team	ios,android	sports	B
+black-clover-mobile	ブラッククローバーモバイル	Black Clover Mobile	ios,android	rpg	B
+slime-isekai-memories	転スラ記憶の旅人	Slime Isekai Memories	ios,android	rpg	B
+date-a-live-spirit-pledge	デート・ア・ライブ	Date A Live: Spirit Pledge	ios,android	rpg	B
+sword-art-online-integral-factor	SAO インテグラル・ファクター	SAO: Integral Factor	ios,android	mmorpg	B
+toram-online	トーラムオンライン	Toram Online	ios,android	mmorpg	B
+iruna-online	イルーナ戦記	Iruna Online	ios,android	mmorpg	B
+albion-online	アルビオンオンライン	Albion Online	pc,ios,android	mmorpg	B
+summoners-war-chronicles	サマナーズウォー：クロニクル	Summoners War: Chronicles	ios,android	mmorpg	B
+dragon-nest	ドラゴンネスト	Dragon Nest	pc,ios,android	mmorpg	B
+ragnarok-x	ラグナロクX	Ragnarok X: Next Generation	ios,android	mmorpg	B
+mir4	MIR4	MIR4	ios,android,pc	mmorpg	B
+mabinogi-mobile	マビノギモバイル	Mabinogi Mobile	ios,android	mmorpg	B
+counter-strike-2-console	CS2	Counter-Strike 2	pc	shooter	A
+squad	Squad	Squad	pc	shooter	B
+tarkov-arena	Escape from Tarkov: Arena	Escape from Tarkov: Arena	pc	shooter	B
+hunt-showdown-1896	Hunt: Showdown 1896	Hunt: Showdown 1896	ps5,xbox,pc	shooter	A
+ready-or-not	Ready or Not	Ready or Not	pc	shooter	B
+rainbow-six-extraction	Rainbow Six Extraction	Rainbow Six Extraction	ps5,xbox,pc	shooter	B
+xdefiant	XDefiant	XDefiant	ps5,xbox,pc	shooter	A
+spectre-divide	Spectre Divide	Spectre Divide	pc	shooter	B
+bodycam	Bodycam	Bodycam	pc	shooter	B
+gray-zone-warfare	Gray Zone Warfare	Gray Zone Warfare	pc	shooter	A
+arma-reforger	Arma Reforger	Arma Reforger	pc,xbox	shooter	B
+dota-underlords	Dota Underlords	Dota Underlords	pc,ios,android	strategy	B
+auto-chess	Auto Chess	Auto Chess	pc,ios,android	strategy	B
+hearthstone-battlegrounds	ハースストーン バトルグラウンド	Hearthstone Battlegrounds	pc,ios,android	strategy	B
+pokemon-diamond-pearl-remake	ポケモン BDSP	Pokemon Brilliant Diamond & Shining Pearl	switch	rpg	B
+pokemon-legends-arceus	ポケモンレジェンズ アルセウス	Pokemon Legends: Arceus	switch	rpg	A
+pokemon-sword-shield	ポケモン ソード・シールド	Pokemon Sword & Shield	switch	rpg	B
+pokemon-mystery-dungeon-dx	ポケモン不思議のダンジョン 救助隊DX	Pokemon Mystery Dungeon: Rescue Team DX	switch	rpg	B
+new-pokemon-snap	New ポケモンスナップ	New Pokemon Snap	switch	other	B
+splatoon-2	スプラトゥーン2	Splatoon 2	switch	shooter	B
+super-mario-odyssey	スーパーマリオ オデッセイ	Super Mario Odyssey	switch	action	B
+super-mario-rpg-remake	スーパーマリオRPG	Super Mario RPG Remake	switch	rpg	A
+paper-mario-ttyd	ペーパーマリオRPG	Paper Mario: The Thousand-Year Door	switch	rpg	A
+luigi-mansion-3	ルイージマンション3	Luigi's Mansion 3	switch	action	B
+donkey-kong-country-returns-hd	ドンキーコング リターンズHD	Donkey Kong Country Returns HD	switch	action	A
+yoshi-crafted-world	ヨッシー クラフトワールド	Yoshi's Crafted World	switch	action	B
+ring-fit-adventure	リングフィット アドベンチャー	Ring Fit Adventure	switch	fitness	B
+nintendo-switch-sports	Nintendo Switch Sports	Nintendo Switch Sports	switch	sports	A
+mario-party-superstars	マリオパーティ スーパースターズ	Mario Party Superstars	switch	party	A
+mario-party-jamboree	スーパー マリオパーティ ジャンボリー	Super Mario Party Jamboree	switch	party	A
+clubhouse-games	世界のアソビ大全51	Clubhouse Games: 51 Worldwide Classics	switch	party	B
+fitness-boxing-3	フィットボクシング3	Fitness Boxing 3	switch	fitness	B
+brain-training	脳トレ	Brain Training	switch	other	B
+dragon-ball-xenoverse-2	ドラゴンボール ゼノバース2	Dragon Ball Xenoverse 2	switch,ps5,pc	fighting	B
+naruto-storm-connections	NARUTO X BORUTO ナルティメットストームコネクションズ	Naruto x Boruto Ultimate Ninja Storm Connections	switch,ps5,pc	fighting	B
+one-punch-man-world	ワンパンマン：ワールド	One Punch Man: World	ios,android,pc	action	B
+tower-of-god-new-world	神之塔 NEW WORLD	Tower of God: New World	ios,android	rpg	B
+solo-leveling-arise-pc	俺だけレベルアップな件	Solo Leveling: Arise	pc	rpg	A
+the-eminence-in-shadow-rpg	陰の実力者になりたくて	The Eminence in Shadow RPG	ios,android	rpg	B
+shangri-la-frontier-game	シャングリラ・フロンティア	Shangri-La Frontier Game	ps5,pc	rpg	B
+wistoria-wand-and-sword	杖と剣のウィスタリア	Wistoria: Wand and Sword	ios,android	rpg	B
+sakamoto-days-game	SAKAMOTO DAYS	Sakamoto Days Game	ios,android	action	B
+kaiju-no-8-game	怪獣8号	Kaiju No. 8 Game	ios,android	action	B
+black-butler-game	黒執事	Black Butler Game	ios,android	rpg	B
+wind-breaker-game	WIND BREAKER	Wind Breaker Game	ios,android	action	B
+mashle-game	マッシュル	Mashle Game	ios,android	action	B
+spy-family-operation-diary	SPY×FAMILY	Spy x Family: Operation Diary	switch	adventure	B
+touken-ranbu	刀剣乱舞	Touken Ranbu	pc,ios,android	simulation	A
+kantai-collection	艦隊これくしょん	KanColle	pc	simulation	A
+memento-mori	メメントモリ	Memento Mori	ios,android	rpg	A
+outerplane	アウタープレーン	Outerplane	ios,android	rpg	A
+duel-masters-play	デュエマ PLAY'S	Duel Masters Play's	ios,android	card	A
+atelier-resleriana	レスレリアーナのアトリエ	Atelier Resleriana	ios,android	rpg	A
+romancing-saga-2-remake	ロマンシング サガ2 リメイク	Romancing SaGa 2 Remake	switch,ps5,pc	rpg	A
+trails-through-daybreak	英雄伝説 界の軌跡	Trails through Daybreak	ps5,pc	rpg	A
+mahoyaku	魔法使いの約束	Mahoutsukai no Yakusoku	ios,android	simulation	B
+obey-me	Obey Me!	Obey Me!	ios,android	simulation	B
+cardfight-vanguard-dear-days	ヴァンガード ディアデイズ	Cardfight!! Vanguard Dear Days	switch,pc	card	B
+suika-game	スイカゲーム	Suika Game	switch,pc	puzzle	A
+mario-and-luigi-brothership	マリオ&ルイージRPG ブラザーシップ	Mario & Luigi: Brothership	switch	rpg	A
+donkey-kong-country-tropical-freeze	ドンキーコング トロピカルフリーズ	Donkey Kong Country: Tropical Freeze	switch	action	B
+dragon-quest-x-online	ドラゴンクエストX オンライン	Dragon Quest X Online	switch,ps5,pc	mmorpg	A
+eversoul	エバーソウル	Eversoul	ios,android	rpg	B
+ash-echoes	灰燼戦線	Ash Echoes	ios,android,pc	rpg	A
+dragons-dogma-2	ドラゴンズドグマ2	Dragon's Dogma 2	ps5,xbox,pc	action	A
+fire-emblem-three-houses	ファイアーエムブレム 風花雪月	Fire Emblem: Three Houses	switch	srpg	A
+xenoblade-chronicles-2	ゼノブレイド2	Xenoblade Chronicles 2	switch	rpg	A
+princess-peach-showtime	プリンセスピーチ Showtime!	Princess Peach: Showtime!	switch	action	B
+mario-kart-world	マリオカート ワールド	Mario Kart World	switch	racing	S
+astro-bot	ASTRO BOT	Astro Bot	ps5	action	A
+rise-of-the-ronin	Rise of the Ronin	Rise of the Ronin	ps5,pc	action	A
+the-last-of-us-part-1	The Last of Us Part I	The Last of Us Part I	ps5,pc	action	A
+the-last-of-us-part-2	The Last of Us Part II	The Last of Us Part II Remastered	ps5	action	A
+demons-souls	Demon's Souls	Demon's Souls	ps5	action	A
+monster-hunter-world	モンスターハンター：ワールド	Monster Hunter: World	ps5,pc	action	A
+balatro	Balatro	Balatro	ps5,pc,switch,ios,android	card	A
+omori	OMORI	Omori	switch,ps5,pc	rpg	A
+nine-sols	Nine Sols	Nine Sols	ps5,pc,switch	action	B
+ender-magnolia	ENDER MAGNOLIA	Ender Magnolia: Bloom in the Mist	ps5,pc,switch	action	A
+rimworld	RimWorld	RimWorld	pc	simulation	A
+manor-lords	Manor Lords	Manor Lords	pc	strategy	A
+dwarf-fortress	Dwarf Fortress	Dwarf Fortress	pc	simulation	B
+crusader-kings-3	Crusader Kings III	Crusader Kings III	ps5,pc,xbox	strategy	B
+rocket-league	ロケットリーグ	Rocket League	ps5,pc,xbox,switch	sports	A
+efootball	eFootball	eFootball	ps5,pc,xbox,ios,android	sports	A
+dragon-age-the-veilguard	Dragon Age: The Veilguard	Dragon Age: The Veilguard	ps5,xbox,pc	rpg	A
+crimson-desert	クリムゾンデザート	Crimson Desert	ps5,pc,xbox	action	A

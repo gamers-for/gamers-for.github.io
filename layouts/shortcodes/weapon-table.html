@@ -1,0 +1,15 @@
+{{- $headers := split (.Get "headers" | default "武器名,サブ,スペシャル,評価") "," -}}
+<div class="weapon-table-wrap">
+  <table class="weapon-table">
+    <thead>
+      <tr>
+        {{- range $headers }}
+        <th>{{ . }}</th>
+        {{- end }}
+      </tr>
+    </thead>
+    <tbody>
+      {{ .Inner }}
+    </tbody>
+  </table>
+</div>

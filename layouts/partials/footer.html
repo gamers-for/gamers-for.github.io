@@ -1,0 +1,15 @@
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-links">
+      <a href="{{ "" | absURL }}">トップ</a>
+      <a href="{{ "games/" | relURL }}">ゲーム一覧</a>
+      <a href="{{ "about/" | relURL }}">サイトについて</a>
+    </div>
+    <p class="footer-copy">&copy; {{ now.Year }} Gamers-For. 広告最小限の見やすいゲーム攻略サイト</p>
+  </div>
+</footer>
+<script>
+document.querySelector('.mobile-menu-btn')?.addEventListener('click', function() {
+  document.querySelector('.header-nav').classList.toggle('open');
+});
+</script>

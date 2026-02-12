@@ -1,0 +1,1099 @@
+{
+  "weapons": [
+    {
+      "ja": "ボールドマーカー",
+      "en": "Sploosh-o-matic",
+      "class": "シューター",
+      "sub": "カーリングボム",
+      "special": "ウルトラショット",
+      "icon": "/images/games/splatoon3/weapons/sploosh-o-matic.png"
+    },
+    {
+      "ja": "ボールドマーカーネオ",
+      "en": "Neo Sploosh-o-matic",
+      "class": "シューター",
+      "sub": "キューバンボム",
+      "special": "トリプルトルネード",
+      "icon": "/images/games/splatoon3/weapons/neo-sploosh-o-matic.png"
+    },
+    {
+      "ja": "わかばシューター",
+      "en": "Splattershot Jr.",
+      "class": "シューター",
+      "sub": "スプラッシュボム",
+      "special": "グレートバリア",
+      "icon": "/images/games/splatoon3/weapons/splattershot-jr.png"
+    },
+    {
+      "ja": "もみじシューター",
+      "en": "Custom Splattershot Jr.",
+      "class": "シューター",
+      "sub": "トーピード",
+      "special": "アメフラシ",
+      "icon": "/images/games/splatoon3/weapons/custom-splattershot-jr.png"
+    },
+    {
+      "ja": "シャープマーカー",
+      "en": "Splash-o-matic",
+      "class": "シューター",
+      "sub": "キューバンボム",
+      "special": "カニタンク",
+      "icon": "/images/games/splatoon3/weapons/splash-o-matic.png"
+    },
+    {
+      "ja": "シャープマーカーネオ",
+      "en": "Neo Splash-o-matic",
+      "class": "シューター",
+      "sub": "クイックボム",
+      "special": "トリプルトルネード",
+      "icon": "/images/games/splatoon3/weapons/neo-splash-o-matic.png"
+    },
+    {
+      "ja": "プロモデラーMG",
+      "en": "Aerospray MG",
+      "class": "シューター",
+      "sub": "タンサンボム",
+      "special": "サメライド",
+      "icon": "/images/games/splatoon3/weapons/aerospray-mg.png"
+    },
+    {
+      "ja": "プロモデラーRG",
+      "en": "Aerospray RG",
+      "class": "シューター",
+      "sub": "スプリンクラー",
+      "special": "ナイスダマ",
+      "icon": "/images/games/splatoon3/weapons/aerospray-rg.png"
+    },
+    {
+      "ja": "スプラシューター",
+      "en": "Splattershot",
+      "class": "シューター",
+      "sub": "キューバンボム",
+      "special": "ウルトラショット",
+      "icon": "/images/games/splatoon3/weapons/splattershot.png"
+    },
+    {
+      "ja": "スプラシューターコラボ",
+      "en": "Tentatek Splattershot",
+      "class": "シューター",
+      "sub": "スプラッシュボム",
+      "special": "トリプルトルネード",
+      "icon": "/images/games/splatoon3/weapons/tentatek-splattershot.png"
+    },
+    {
+      "ja": "52ガロン",
+      "en": ".52 Gal",
+      "class": "シューター",
+      "sub": "スプラッシュシールド",
+      "special": "メガホンレーザー5.1ch",
+      "icon": "/images/games/splatoon3/weapons/52-gal.png"
+    },
+    {
+      "ja": "52ガロンデコ",
+      "en": ".52 Gal Deco",
+      "class": "シューター",
+      "sub": "カーリングボム",
+      "special": "テイオウイカ",
+      "icon": "/images/games/splatoon3/weapons/52-gal-deco.png"
+    },
+    {
+      "ja": "N-ZAP85",
+      "en": "N-ZAP '85",
+      "class": "シューター",
+      "sub": "キューバンボム",
+      "special": "エナジースタンド",
+      "icon": "/images/games/splatoon3/weapons/n-zap-85.png"
+    },
+    {
+      "ja": "N-ZAP89",
+      "en": "N-ZAP '89",
+      "class": "シューター",
+      "sub": "ロボボム",
+      "special": "デコイチラシ",
+      "icon": "/images/games/splatoon3/weapons/n-zap-89.png"
+    },
+    {
+      "ja": "プライムシューター",
+      "en": "Splattershot Pro",
+      "class": "シューター",
+      "sub": "ポイントセンサー",
+      "special": "カニタンク",
+      "icon": "/images/games/splatoon3/weapons/splattershot-pro.png"
+    },
+    {
+      "ja": "プライムシューターコラボ",
+      "en": "Forge Splattershot Pro",
+      "class": "シューター",
+      "sub": "トーピード",
+      "special": "ホップソナー",
+      "icon": "/images/games/splatoon3/weapons/forge-splattershot-pro.png"
+    },
+    {
+      "ja": "96ガロン",
+      "en": ".96 Gal",
+      "class": "シューター",
+      "sub": "スプリンクラー",
+      "special": "インクアーマー",
+      "icon": "/images/games/splatoon3/weapons/96-gal.png"
+    },
+    {
+      "ja": "96ガロンデコ",
+      "en": ".96 Gal Deco",
+      "class": "シューター",
+      "sub": "スプラッシュシールド",
+      "special": "テイオウイカ",
+      "icon": "/images/games/splatoon3/weapons/96-gal-deco.png"
+    },
+    {
+      "ja": "ジェットスイーパー",
+      "en": "Jet Squelcher",
+      "class": "シューター",
+      "sub": "ポイズンミスト",
+      "special": "アメフラシ",
+      "icon": "/images/games/splatoon3/weapons/jet-squelcher.png"
+    },
+    {
+      "ja": "ジェットスイーパーカスタム",
+      "en": "Custom Jet Squelcher",
+      "class": "シューター",
+      "sub": "クイックボム",
+      "special": "ウルトラショット",
+      "icon": "/images/games/splatoon3/weapons/custom-jet-squelcher.png"
+    },
+    {
+      "ja": "スペースシューター",
+      "en": "Splattershot Nova",
+      "class": "シューター",
+      "sub": "ポイントセンサー",
+      "special": "ショクワンダー",
+      "icon": "/images/games/splatoon3/weapons/splattershot-nova.png"
+    },
+    {
+      "ja": "スペースシューターコラボ",
+      "en": "Annaki Splattershot Nova",
+      "class": "シューター",
+      "sub": "インクマイン",
+      "special": "サメライド",
+      "icon": "/images/games/splatoon3/weapons/annaki-splattershot-nova.png"
+    },
+    {
+      "ja": "L3リールガン",
+      "en": "L-3 Nozzlenose",
+      "class": "シューター",
+      "sub": "カーリングボム",
+      "special": "カニタンク",
+      "icon": "/images/games/splatoon3/weapons/l-3-nozzlenose.png"
+    },
+    {
+      "ja": "L3リールガンD",
+      "en": "L-3 Nozzlenose D",
+      "class": "シューター",
+      "sub": "クイックボム",
+      "special": "ウルトラショット",
+      "icon": "/images/games/splatoon3/weapons/l-3-nozzlenose-d.png"
+    },
+    {
+      "ja": "H3リールガン",
+      "en": "H-3 Nozzlenose",
+      "class": "シューター",
+      "sub": "ポイントセンサー",
+      "special": "マルチミサイル",
+      "icon": "/images/games/splatoon3/weapons/h-3-nozzlenose.png"
+    },
+    {
+      "ja": "H3リールガンD",
+      "en": "H-3 Nozzlenose D",
+      "class": "シューター",
+      "sub": "キューバンボム",
+      "special": "エナジースタンド",
+      "icon": "/images/games/splatoon3/weapons/h-3-nozzlenose-d.png"
+    },
+    {
+      "ja": "ボトルガイザー",
+      "en": "Squeezer",
+      "class": "シューター",
+      "sub": "スプラッシュボム",
+      "special": "アメフラシ",
+      "icon": "/images/games/splatoon3/weapons/squeezer.png"
+    },
+    {
+      "ja": "ボトルガイザーフォイル",
+      "en": "Foil Squeezer",
+      "class": "シューター",
+      "sub": "スプラッシュシールド",
+      "special": "ウルトラショット",
+      "icon": "/images/games/splatoon3/weapons/foil-squeezer.png"
+    },
+    {
+      "ja": "ノヴァブラスター",
+      "en": "Luna Blaster",
+      "class": "ブラスター",
+      "sub": "スプラッシュボム",
+      "special": "マルチミサイル",
+      "icon": "/images/games/splatoon3/weapons/luna-blaster.png"
+    },
+    {
+      "ja": "ノヴァブラスターネオ",
+      "en": "Luna Blaster Neo",
+      "class": "ブラスター",
+      "sub": "タンサンボム",
+      "special": "テイオウイカ",
+      "icon": "/images/games/splatoon3/weapons/luna-blaster-neo.png"
+    },
+    {
+      "ja": "ホットブラスター",
+      "en": "Blaster",
+      "class": "ブラスター",
+      "sub": "ロボボム",
+      "special": "ウルトラショット",
+      "icon": "/images/games/splatoon3/weapons/blaster.png"
+    },
+    {
+      "ja": "ホットブラスターカスタム",
+      "en": "Custom Blaster",
+      "class": "ブラスター",
+      "sub": "ポイントセンサー",
+      "special": "トリプルトルネード",
+      "icon": "/images/games/splatoon3/weapons/custom-blaster.png"
+    },
+    {
+      "ja": "ロングブラスター",
+      "en": "Range Blaster",
+      "class": "ブラスター",
+      "sub": "キューバンボム",
+      "special": "ウルトラハンコ",
+      "icon": "/images/games/splatoon3/weapons/range-blaster.png"
+    },
+    {
+      "ja": "ロングブラスターカスタム",
+      "en": "Custom Range Blaster",
+      "class": "ブラスター",
+      "sub": "タンサンボム",
+      "special": "デコイチラシ",
+      "icon": "/images/games/splatoon3/weapons/custom-range-blaster.png"
+    },
+    {
+      "ja": "クラッシュブラスター",
+      "en": "Clash Blaster",
+      "class": "ブラスター",
+      "sub": "スプラッシュボム",
+      "special": "ウルトラショット",
+      "icon": "/images/games/splatoon3/weapons/clash-blaster.png"
+    },
+    {
+      "ja": "クラッシュブラスターネオ",
+      "en": "Clash Blaster Neo",
+      "class": "ブラスター",
+      "sub": "カーリングボム",
+      "special": "マルチミサイル",
+      "icon": "/images/games/splatoon3/weapons/clash-blaster-neo.png"
+    },
+    {
+      "ja": "ラピッドブラスター",
+      "en": "Rapid Blaster",
+      "class": "ブラスター",
+      "sub": "トーピード",
+      "special": "トリプルトルネード",
+      "icon": "/images/games/splatoon3/weapons/rapid-blaster.png"
+    },
+    {
+      "ja": "ラピッドブラスターデコ",
+      "en": "Rapid Blaster Deco",
+      "class": "ブラスター",
+      "sub": "キューバンボム",
+      "special": "ジェットパック",
+      "icon": "/images/games/splatoon3/weapons/rapid-blaster-deco.png"
+    },
+    {
+      "ja": "カーボンローラー",
+      "en": "Carbon Roller",
+      "class": "ローラー",
+      "sub": "ロボボム",
+      "special": "ショクワンダー",
+      "icon": "/images/games/splatoon3/weapons/carbon-roller.png"
+    },
+    {
+      "ja": "カーボンローラーデコ",
+      "en": "Carbon Roller Deco",
+      "class": "ローラー",
+      "sub": "クイックボム",
+      "special": "ウルトラショット",
+      "icon": "/images/games/splatoon3/weapons/carbon-roller-deco.png"
+    },
+    {
+      "ja": "スプラローラー",
+      "en": "Splat Roller",
+      "class": "ローラー",
+      "sub": "カーリングボム",
+      "special": "グレートバリア",
+      "icon": "/images/games/splatoon3/weapons/splat-roller.png"
+    },
+    {
+      "ja": "スプラローラーコラボ",
+      "en": "Krak-On Splat Roller",
+      "class": "ローラー",
+      "sub": "キューバンボム",
+      "special": "テイオウイカ",
+      "icon": "/images/games/splatoon3/weapons/krak-on-splat-roller.png"
+    },
+    {
+      "ja": "ダイナモローラー",
+      "en": "Dynamo Roller",
+      "class": "ローラー",
+      "sub": "スプリンクラー",
+      "special": "ホップソナー",
+      "icon": "/images/games/splatoon3/weapons/dynamo-roller.png"
+    },
+    {
+      "ja": "ダイナモローラーテスラ",
+      "en": "Gold Dynamo Roller",
+      "class": "ローラー",
+      "sub": "スプラッシュボム",
+      "special": "アメフラシ",
+      "icon": "/images/games/splatoon3/weapons/gold-dynamo-roller.png"
+    },
+    {
+      "ja": "ヴァリアブルローラー",
+      "en": "Flingza Roller",
+      "class": "ローラー",
+      "sub": "インクマイン",
+      "special": "マルチミサイル",
+      "icon": "/images/games/splatoon3/weapons/flingza-roller.png"
+    },
+    {
+      "ja": "ヴァリアブルローラーフォイル",
+      "en": "Foil Flingza Roller",
+      "class": "ローラー",
+      "sub": "スプラッシュシールド",
+      "special": "メガホンレーザー5.1ch",
+      "icon": "/images/games/splatoon3/weapons/foil-flingza-roller.png"
+    },
+    {
+      "ja": "ワイドローラー",
+      "en": "Big Swig Roller",
+      "class": "ローラー",
+      "sub": "スプラッシュシールド",
+      "special": "ナイスダマ",
+      "icon": "/images/games/splatoon3/weapons/big-swig-roller.png"
+    },
+    {
+      "ja": "ワイドローラーコラボ",
+      "en": "Big Swig Roller Express",
+      "class": "ローラー",
+      "sub": "タンサンボム",
+      "special": "ウルトラショット",
+      "icon": "/images/games/splatoon3/weapons/big-swig-roller-express.png"
+    },
+    {
+      "ja": "パブロ",
+      "en": "Inkbrush",
+      "class": "フデ",
+      "sub": "スプラッシュボム",
+      "special": "ショクワンダー",
+      "icon": "/images/games/splatoon3/weapons/inkbrush.png"
+    },
+    {
+      "ja": "パブロ・ヒュー",
+      "en": "Inkbrush Nouveau",
+      "class": "フデ",
+      "sub": "インクマイン",
+      "special": "ウルトラショット",
+      "icon": "/images/games/splatoon3/weapons/inkbrush-nouveau.png"
+    },
+    {
+      "ja": "ホクサイ",
+      "en": "Octobrush",
+      "class": "フデ",
+      "sub": "キューバンボム",
+      "special": "ショクワンダー",
+      "icon": "/images/games/splatoon3/weapons/octobrush.png"
+    },
+    {
+      "ja": "ホクサイ・ヒュー",
+      "en": "Octobrush Nouveau",
+      "class": "フデ",
+      "sub": "タンサンボム",
+      "special": "エナジースタンド",
+      "icon": "/images/games/splatoon3/weapons/octobrush-nouveau.png"
+    },
+    {
+      "ja": "スクイックリンα",
+      "en": "Classic Squiffer",
+      "class": "チャージャー",
+      "sub": "ポイントセンサー",
+      "special": "グレートバリア",
+      "icon": "/images/games/splatoon3/weapons/classic-squiffer.png"
+    },
+    {
+      "ja": "スクイックリンβ",
+      "en": "New Squiffer",
+      "class": "チャージャー",
+      "sub": "ロボボム",
+      "special": "アメフラシ",
+      "icon": "/images/games/splatoon3/weapons/new-squiffer.png"
+    },
+    {
+      "ja": "スプラチャージャー",
+      "en": "Splat Charger",
+      "class": "チャージャー",
+      "sub": "スプラッシュボム",
+      "special": "メガホンレーザー5.1ch",
+      "icon": "/images/games/splatoon3/weapons/splat-charger.png"
+    },
+    {
+      "ja": "スプラチャージャーコラボ",
+      "en": "Z+F Splat Charger",
+      "class": "チャージャー",
+      "sub": "スプラッシュシールド",
+      "special": "トリプルトルネード",
+      "icon": "/images/games/splatoon3/weapons/z-f-splat-charger.png"
+    },
+    {
+      "ja": "スプラスコープ",
+      "en": "Splatterscope",
+      "class": "チャージャー",
+      "sub": "スプラッシュボム",
+      "special": "メガホンレーザー5.1ch",
+      "icon": "/images/games/splatoon3/weapons/splatterscope.png"
+    },
+    {
+      "ja": "スプラスコープコラボ",
+      "en": "Z+F Splatterscope",
+      "class": "チャージャー",
+      "sub": "スプラッシュシールド",
+      "special": "トリプルトルネード",
+      "icon": "/images/games/splatoon3/weapons/z-f-splatterscope.png"
+    },
+    {
+      "ja": "リッター4K",
+      "en": "E-liter 4K",
+      "class": "チャージャー",
+      "sub": "トーピード",
+      "special": "ホップソナー",
+      "icon": "/images/games/splatoon3/weapons/e-liter-4k.png"
+    },
+    {
+      "ja": "4Kスコープ",
+      "en": "E-liter 4K Scope",
+      "class": "チャージャー",
+      "sub": "トーピード",
+      "special": "ホップソナー",
+      "icon": "/images/games/splatoon3/weapons/e-liter-4k-scope.png"
+    },
+    {
+      "ja": "14式竹筒銃・甲",
+      "en": "Bamboozler 14 Mk I",
+      "class": "チャージャー",
+      "sub": "トーピード",
+      "special": "マルチミサイル",
+      "icon": "/images/games/splatoon3/weapons/bamboozler-14-mk-i.png"
+    },
+    {
+      "ja": "14式竹筒銃・乙",
+      "en": "Bamboozler 14 Mk II",
+      "class": "チャージャー",
+      "sub": "タンサンボム",
+      "special": "エナジースタンド",
+      "icon": "/images/games/splatoon3/weapons/bamboozler-14-mk-ii.png"
+    },
+    {
+      "ja": "ソイチューバー",
+      "en": "Goo Tuber",
+      "class": "チャージャー",
+      "sub": "トーピード",
+      "special": "テイオウイカ",
+      "icon": "/images/games/splatoon3/weapons/goo-tuber.png"
+    },
+    {
+      "ja": "ソイチューバーカスタム",
+      "en": "Custom Goo Tuber",
+      "class": "チャージャー",
+      "sub": "カーリングボム",
+      "special": "ウルトラショット",
+      "icon": "/images/games/splatoon3/weapons/custom-goo-tuber.png"
+    },
+    {
+      "ja": "LACT-450",
+      "en": "Snipewriter 5H",
+      "class": "チャージャー",
+      "sub": "カーリングボム",
+      "special": "マルチミサイル",
+      "icon": "/images/games/splatoon3/weapons/snipewriter-5h.png"
+    },
+    {
+      "ja": "LACT-450デコ",
+      "en": "Snipewriter 5B",
+      "class": "チャージャー",
+      "sub": "スプラッシュボム",
+      "special": "テイオウイカ",
+      "icon": "/images/games/splatoon3/weapons/snipewriter-5b.png"
+    },
+    {
+      "ja": "バケットスロッシャー",
+      "en": "Slosher",
+      "class": "スロッシャー",
+      "sub": "スプラッシュボム",
+      "special": "トリプルトルネード",
+      "icon": "/images/games/splatoon3/weapons/slosher.png"
+    },
+    {
+      "ja": "バケットスロッシャーデコ",
+      "en": "Slosher Deco",
+      "class": "スロッシャー",
+      "sub": "スプリンクラー",
+      "special": "デコイチラシ",
+      "icon": "/images/games/splatoon3/weapons/slosher-deco.png"
+    },
+    {
+      "ja": "ヒッセン",
+      "en": "Tri-Slosher",
+      "class": "スロッシャー",
+      "sub": "クイックボム",
+      "special": "ウルトラショット",
+      "icon": "/images/games/splatoon3/weapons/tri-slosher.png"
+    },
+    {
+      "ja": "ヒッセン・ヒュー",
+      "en": "Tri-Slosher Nouveau",
+      "class": "スロッシャー",
+      "sub": "ロボボム",
+      "special": "ナイスダマ",
+      "icon": "/images/games/splatoon3/weapons/tri-slosher-nouveau.png"
+    },
+    {
+      "ja": "スクリュースロッシャー",
+      "en": "Sloshing Machine",
+      "class": "スロッシャー",
+      "sub": "タンサンボム",
+      "special": "サメライド",
+      "icon": "/images/games/splatoon3/weapons/sloshing-machine.png"
+    },
+    {
+      "ja": "スクリュースロッシャーネオ",
+      "en": "Sloshing Machine Neo",
+      "class": "スロッシャー",
+      "sub": "ポイントセンサー",
+      "special": "トリプルトルネード",
+      "icon": "/images/games/splatoon3/weapons/sloshing-machine-neo.png"
+    },
+    {
+      "ja": "オーバーフロッシャー",
+      "en": "Bloblobber",
+      "class": "スロッシャー",
+      "sub": "スプリンクラー",
+      "special": "アメフラシ",
+      "icon": "/images/games/splatoon3/weapons/bloblobber.png"
+    },
+    {
+      "ja": "オーバーフロッシャーデコ",
+      "en": "Bloblobber Deco",
+      "class": "スロッシャー",
+      "sub": "アングルシューター",
+      "special": "カニタンク",
+      "icon": "/images/games/splatoon3/weapons/bloblobber-deco.png"
+    },
+    {
+      "ja": "エクスプロッシャー",
+      "en": "Explosher",
+      "class": "スロッシャー",
+      "sub": "ポイントセンサー",
+      "special": "アメフラシ",
+      "icon": "/images/games/splatoon3/weapons/explosher.png"
+    },
+    {
+      "ja": "エクスプロッシャーカスタム",
+      "en": "Custom Explosher",
+      "class": "スロッシャー",
+      "sub": "インクマイン",
+      "special": "ウルトラショット",
+      "icon": "/images/games/splatoon3/weapons/custom-explosher.png"
+    },
+    {
+      "ja": "モップリン",
+      "en": "Dread Wringer",
+      "class": "スロッシャー",
+      "sub": "キューバンボム",
+      "special": "ナイスダマ",
+      "icon": "/images/games/splatoon3/weapons/dread-wringer.png"
+    },
+    {
+      "ja": "モップリンD",
+      "en": "Dread Wringer D",
+      "class": "スロッシャー",
+      "sub": "トーピード",
+      "special": "ホップソナー",
+      "icon": "/images/games/splatoon3/weapons/dread-wringer-d.png"
+    },
+    {
+      "ja": "スプラスピナー",
+      "en": "Mini Splatling",
+      "class": "スピナー",
+      "sub": "クイックボム",
+      "special": "ウルトラショット",
+      "icon": "/images/games/splatoon3/weapons/mini-splatling.png"
+    },
+    {
+      "ja": "スプラスピナーコラボ",
+      "en": "Zink Mini Splatling",
+      "class": "スピナー",
+      "sub": "トーピード",
+      "special": "マルチミサイル",
+      "icon": "/images/games/splatoon3/weapons/zink-mini-splatling.png"
+    },
+    {
+      "ja": "バレルスピナー",
+      "en": "Heavy Splatling",
+      "class": "スピナー",
+      "sub": "スプリンクラー",
+      "special": "ホップソナー",
+      "icon": "/images/games/splatoon3/weapons/heavy-splatling.png"
+    },
+    {
+      "ja": "バレルスピナーデコ",
+      "en": "Heavy Splatling Deco",
+      "class": "スピナー",
+      "sub": "ポイントセンサー",
+      "special": "テイオウイカ",
+      "icon": "/images/games/splatoon3/weapons/heavy-splatling-deco.png"
+    },
+    {
+      "ja": "ハイドラント",
+      "en": "Hydra Splatling",
+      "class": "スピナー",
+      "sub": "ロボボム",
+      "special": "メガホンレーザー5.1ch",
+      "icon": "/images/games/splatoon3/weapons/hydra-splatling.png"
+    },
+    {
+      "ja": "ハイドラントカスタム",
+      "en": "Custom Hydra Splatling",
+      "class": "スピナー",
+      "sub": "インクマイン",
+      "special": "エナジースタンド",
+      "icon": "/images/games/splatoon3/weapons/custom-hydra-splatling.png"
+    },
+    {
+      "ja": "クーゲルシュライバー",
+      "en": "Ballpoint Splatling",
+      "class": "スピナー",
+      "sub": "タンサンボム",
+      "special": "テイオウイカ",
+      "icon": "/images/games/splatoon3/weapons/ballpoint-splatling.png"
+    },
+    {
+      "ja": "クーゲルシュライバー・ヒュー",
+      "en": "Ballpoint Splatling Nouveau",
+      "class": "スピナー",
+      "sub": "インクマイン",
+      "special": "アメフラシ",
+      "icon": "/images/games/splatoon3/weapons/ballpoint-splatling-nouveau.png"
+    },
+    {
+      "ja": "ノーチラス47",
+      "en": "Nautilus 47",
+      "class": "スピナー",
+      "sub": "ポイントセンサー",
+      "special": "ウルトラショット",
+      "icon": "/images/games/splatoon3/weapons/nautilus-47.png"
+    },
+    {
+      "ja": "ノーチラス79",
+      "en": "Nautilus 79",
+      "class": "スピナー",
+      "sub": "キューバンボム",
+      "special": "デコイチラシ",
+      "icon": "/images/games/splatoon3/weapons/nautilus-79.png"
+    },
+    {
+      "ja": "イグザミナー",
+      "en": "Heavy Edit Splatling",
+      "class": "スピナー",
+      "sub": "カーリングボム",
+      "special": "ナイスダマ",
+      "icon": "/images/games/splatoon3/weapons/heavy-edit-splatling.png"
+    },
+    {
+      "ja": "イグザミナー・ヒュー",
+      "en": "Heavy Edit Splatling Nouveau",
+      "class": "スピナー",
+      "sub": "ロボボム",
+      "special": "マルチミサイル",
+      "icon": "/images/games/splatoon3/weapons/heavy-edit-splatling-nouveau.png"
+    },
+    {
+      "ja": "スパッタリー",
+      "en": "Dapple Dualies",
+      "class": "マニューバー",
+      "sub": "キューバンボム",
+      "special": "ウルトラショット",
+      "icon": "/images/games/splatoon3/weapons/dapple-dualies.png"
+    },
+    {
+      "ja": "スパッタリー・ヒュー",
+      "en": "Dapple Dualies Nouveau",
+      "class": "マニューバー",
+      "sub": "トーピード",
+      "special": "サメライド",
+      "icon": "/images/games/splatoon3/weapons/dapple-dualies-nouveau.png"
+    },
+    {
+      "ja": "スプラマニューバー",
+      "en": "Splat Dualies",
+      "class": "マニューバー",
+      "sub": "キューバンボム",
+      "special": "カニタンク",
+      "icon": "/images/games/splatoon3/weapons/splat-dualies.png"
+    },
+    {
+      "ja": "スプラマニューバーコラボ",
+      "en": "Enperry Splat Dualies",
+      "class": "マニューバー",
+      "sub": "スプラッシュボム",
+      "special": "カニタンク",
+      "icon": "/images/games/splatoon3/weapons/enperry-splat-dualies.png"
+    },
+    {
+      "ja": "ケルビン525",
+      "en": "Glooga Dualies",
+      "class": "マニューバー",
+      "sub": "スプラッシュシールド",
+      "special": "ショクワンダー",
+      "icon": "/images/games/splatoon3/weapons/glooga-dualies.png"
+    },
+    {
+      "ja": "ケルビン525デコ",
+      "en": "Glooga Dualies Deco",
+      "class": "マニューバー",
+      "sub": "スプラッシュボム",
+      "special": "グレートバリア",
+      "icon": "/images/games/splatoon3/weapons/glooga-dualies-deco.png"
+    },
+    {
+      "ja": "デュアルスイーパー",
+      "en": "Dualie Squelchers",
+      "class": "マニューバー",
+      "sub": "スプラッシュボム",
+      "special": "デコイチラシ",
+      "icon": "/images/games/splatoon3/weapons/dualie-squelchers.png"
+    },
+    {
+      "ja": "デュアルスイーパーカスタム",
+      "en": "Custom Dualie Squelchers",
+      "class": "マニューバー",
+      "sub": "キューバンボム",
+      "special": "メガホンレーザー5.1ch",
+      "icon": "/images/games/splatoon3/weapons/custom-dualie-squelchers.png"
+    },
+    {
+      "ja": "クアッドホッパーブラック",
+      "en": "Dark Tetra Dualies",
+      "class": "マニューバー",
+      "sub": "スプラッシュボム",
+      "special": "マルチミサイル",
+      "icon": "/images/games/splatoon3/weapons/dark-tetra-dualies.png"
+    },
+    {
+      "ja": "クアッドホッパーホワイト",
+      "en": "Light Tetra Dualies",
+      "class": "マニューバー",
+      "sub": "スプリンクラー",
+      "special": "ウルトラショット",
+      "icon": "/images/games/splatoon3/weapons/light-tetra-dualies.png"
+    },
+    {
+      "ja": "ガエンFF",
+      "en": "Douser Dualies FF",
+      "class": "マニューバー",
+      "sub": "スプラッシュボム",
+      "special": "メガホンレーザー5.1ch",
+      "icon": "/images/games/splatoon3/weapons/douser-dualies-ff.png"
+    },
+    {
+      "ja": "ガエンFFカスタム",
+      "en": "Custom Douser Dualies FF",
+      "class": "マニューバー",
+      "sub": "スプリンクラー",
+      "special": "ナイスダマ",
+      "icon": "/images/games/splatoon3/weapons/custom-douser-dualies-ff.png"
+    },
+    {
+      "ja": "パラシェルター",
+      "en": "Splat Brella",
+      "class": "シェルター",
+      "sub": "スプリンクラー",
+      "special": "トリプルトルネード",
+      "icon": "/images/games/splatoon3/weapons/splat-brella.png"
+    },
+    {
+      "ja": "パラシェルターソレーラ",
+      "en": "Sorella Brella",
+      "class": "シェルター",
+      "sub": "ロボボム",
+      "special": "メガホンレーザー5.1ch",
+      "icon": "/images/games/splatoon3/weapons/sorella-brella.png"
+    },
+    {
+      "ja": "キャンピングシェルター",
+      "en": "Tenta Brella",
+      "class": "シェルター",
+      "sub": "スプラッシュシールド",
+      "special": "マルチミサイル",
+      "icon": "/images/games/splatoon3/weapons/tenta-brella.png"
+    },
+    {
+      "ja": "キャンピングシェルターソレーラ",
+      "en": "Tenta Sorella Brella",
+      "class": "シェルター",
+      "sub": "タンサンボム",
+      "special": "カニタンク",
+      "icon": "/images/games/splatoon3/weapons/tenta-sorella-brella.png"
+    },
+    {
+      "ja": "スパイガジェット",
+      "en": "Undercover Brella",
+      "class": "シェルター",
+      "sub": "インクマイン",
+      "special": "エナジースタンド",
+      "icon": "/images/games/splatoon3/weapons/undercover-brella.png"
+    },
+    {
+      "ja": "スパイガジェットソレーラ",
+      "en": "Undercover Sorella Brella",
+      "class": "シェルター",
+      "sub": "トーピード",
+      "special": "ウルトラショット",
+      "icon": "/images/games/splatoon3/weapons/undercover-sorella-brella.png"
+    },
+    {
+      "ja": "24式張替傘・甲",
+      "en": "Recycled Brella 24 Mk I",
+      "class": "シェルター",
+      "sub": "タンサンボム",
+      "special": "ウルトラショット",
+      "icon": "/images/games/splatoon3/weapons/recycled-brella-24-mk-i.png"
+    },
+    {
+      "ja": "24式張替傘・乙",
+      "en": "Recycled Brella 24 Mk II",
+      "class": "シェルター",
+      "sub": "スプラッシュシールド",
+      "special": "アメフラシ",
+      "icon": "/images/games/splatoon3/weapons/recycled-brella-24-mk-ii.png"
+    },
+    {
+      "ja": "トライストリンガー",
+      "en": "Tri-Stringer",
+      "class": "ストリンガー",
+      "sub": "ポイズンミスト",
+      "special": "メガホンレーザー5.1ch",
+      "icon": "/images/games/splatoon3/weapons/tri-stringer.png"
+    },
+    {
+      "ja": "トライストリンガーコラボ",
+      "en": "Inkline Tri-Stringer",
+      "class": "ストリンガー",
+      "sub": "スプリンクラー",
+      "special": "ウルトラショット",
+      "icon": "/images/games/splatoon3/weapons/inkline-tri-stringer.png"
+    },
+    {
+      "ja": "LACT-450",
+      "en": "Snipewriter 5H",
+      "class": "ストリンガー",
+      "sub": "カーリングボム",
+      "special": "マルチミサイル",
+      "icon": "/images/games/splatoon3/weapons/snipewriter-5h.png"
+    },
+    {
+      "ja": "ドライブワイパー",
+      "en": "Splatana Stamper",
+      "class": "ワイパー",
+      "sub": "スプラッシュボム",
+      "special": "カニタンク",
+      "icon": "/images/games/splatoon3/weapons/splatana-stamper.png"
+    },
+    {
+      "ja": "ドライブワイパーデコ",
+      "en": "Splatana Stamper Nouveau",
+      "class": "ワイパー",
+      "sub": "ポイズンミスト",
+      "special": "エナジースタンド",
+      "icon": "/images/games/splatoon3/weapons/splatana-stamper-nouveau.png"
+    },
+    {
+      "ja": "ジムワイパー",
+      "en": "Splatana Wiper",
+      "class": "ワイパー",
+      "sub": "クイックボム",
+      "special": "ショクワンダー",
+      "icon": "/images/games/splatoon3/weapons/splatana-wiper.png"
+    },
+    {
+      "ja": "ジムワイパーデコ",
+      "en": "Splatana Wiper Deco",
+      "class": "ワイパー",
+      "sub": "ポイントセンサー",
+      "special": "テイオウイカ",
+      "icon": "/images/games/splatoon3/weapons/splatana-wiper-deco.png"
+    }
+  ],
+  "subs": [
+    {
+      "ja": "スプラッシュボム",
+      "en": "Splat Bomb",
+      "icon": "/images/games/splatoon3/subs/splat-bomb.png"
+    },
+    {
+      "ja": "キューバンボム",
+      "en": "Suction Bomb",
+      "icon": "/images/games/splatoon3/subs/suction-bomb.png"
+    },
+    {
+      "ja": "クイックボム",
+      "en": "Burst Bomb",
+      "icon": "/images/games/splatoon3/subs/burst-bomb.png"
+    },
+    {
+      "ja": "カーリングボム",
+      "en": "Curling Bomb",
+      "icon": "/images/games/splatoon3/subs/curling-bomb.png"
+    },
+    {
+      "ja": "ロボボム",
+      "en": "Autobomb",
+      "icon": "/images/games/splatoon3/subs/autobomb.png"
+    },
+    {
+      "ja": "インクマイン",
+      "en": "Ink Mine",
+      "icon": "/images/games/splatoon3/subs/ink-mine.png"
+    },
+    {
+      "ja": "ポイズンミスト",
+      "en": "Toxic Mist",
+      "icon": "/images/games/splatoon3/subs/toxic-mist.png"
+    },
+    {
+      "ja": "ポイントセンサー",
+      "en": "Point Sensor",
+      "icon": "/images/games/splatoon3/subs/point-sensor.png"
+    },
+    {
+      "ja": "スプラッシュシールド",
+      "en": "Splash Wall",
+      "icon": "/images/games/splatoon3/subs/splash-wall.png"
+    },
+    {
+      "ja": "スプリンクラー",
+      "en": "Sprinkler",
+      "icon": "/images/games/splatoon3/subs/sprinkler.png"
+    },
+    {
+      "ja": "ジャンプビーコン",
+      "en": "Squid Beakon",
+      "icon": "/images/games/splatoon3/subs/squid-beakon.png"
+    },
+    {
+      "ja": "タンサンボム",
+      "en": "Fizzy Bomb",
+      "icon": "/images/games/splatoon3/subs/fizzy-bomb.png"
+    },
+    {
+      "ja": "トーピード",
+      "en": "Torpedo",
+      "icon": "/images/games/splatoon3/subs/torpedo.png"
+    },
+    {
+      "ja": "アングルシューター",
+      "en": "Angle Shooter",
+      "icon": "/images/games/splatoon3/subs/angle-shooter.png"
+    }
+  ],
+  "specials": [
+    {
+      "ja": "グレートバリア",
+      "en": "Big Bubbler",
+      "icon": "/images/games/splatoon3/specials/big-bubbler.png"
+    },
+    {
+      "ja": "ナイスダマ",
+      "en": "Booyah Bomb",
+      "icon": "/images/games/splatoon3/specials/booyah-bomb.png"
+    },
+    {
+      "ja": "カニタンク",
+      "en": "Crab Tank",
+      "icon": "/images/games/splatoon3/specials/crab-tank.png"
+    },
+    {
+      "ja": "ジェットパック",
+      "en": "Inkjet",
+      "icon": "/images/games/splatoon3/specials/inkjet.png"
+    },
+    {
+      "ja": "アメフラシ",
+      "en": "Ink Storm",
+      "icon": "/images/games/splatoon3/specials/ink-storm.png"
+    },
+    {
+      "ja": "インクアーマー",
+      "en": "Ink Vac",
+      "icon": "/images/games/splatoon3/specials/ink-vac.png"
+    },
+    {
+      "ja": "メガホンレーザー5.1ch",
+      "en": "Killer Wail 5.1",
+      "icon": "/images/games/splatoon3/specials/killer-wail-5-1.png"
+    },
+    {
+      "ja": "テイオウイカ",
+      "en": "Kraken Royale",
+      "icon": "/images/games/splatoon3/specials/kraken-royale.png"
+    },
+    {
+      "ja": "サメライド",
+      "en": "Reefslider",
+      "icon": "/images/games/splatoon3/specials/reefslider.png"
+    },
+    {
+      "ja": "デコイチラシ",
+      "en": "Super Chump",
+      "icon": "/images/games/splatoon3/specials/super-chump.png"
+    },
+    {
+      "ja": "エナジースタンド",
+      "en": "Tacticooler",
+      "icon": "/images/games/splatoon3/specials/tacticooler.png"
+    },
+    {
+      "ja": "マルチミサイル",
+      "en": "Tenta Missiles",
+      "icon": "/images/games/splatoon3/specials/tenta-missiles.png"
+    },
+    {
+      "ja": "トリプルトルネード",
+      "en": "Triple Inkstrike",
+      "icon": "/images/games/splatoon3/specials/triple-inkstrike.png"
+    },
+    {
+      "ja": "ウルトラショット",
+      "en": "Trizooka",
+      "icon": "/images/games/splatoon3/specials/trizooka.png"
+    },
+    {
+      "ja": "ウルトラハンコ",
+      "en": "Ultra Stamp",
+      "icon": "/images/games/splatoon3/specials/ultra-stamp.png"
+    },
+    {
+      "ja": "ホップソナー",
+      "en": "Wave Breaker",
+      "icon": "/images/games/splatoon3/specials/wave-breaker.png"
+    },
+    {
+      "ja": "ショクワンダー",
+      "en": "Zipcaster",
+      "icon": "/images/games/splatoon3/specials/zipcaster.png"
+    }
+  ]
+}

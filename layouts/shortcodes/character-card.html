@@ -1,0 +1,22 @@
+{{- $name := .Get "name" -}}
+{{- $role := .Get "role" | default "" -}}
+{{- $rating := .Get "rating" | default "" -}}
+{{- $img := .Get "img" | default "" -}}
+<div class="character-card">
+  {{- if $img }}
+  <div class="character-card-img">
+    <img src="{{ $img }}" alt="{{ $name }}" loading="lazy">
+  </div>
+  {{- end }}
+  <div class="character-card-body">
+    <h4 class="character-card-name">{{ $name }}</h4>
+    {{- if $role }}<span class="character-card-role">{{ $role }}</span>{{ end }}
+    {{- if $rating }}
+    <div class="character-card-rating">
+      <span class="rating-label">評価:</span>
+      <span class="rating-value">{{ $rating }}/10</span>
+    </div>
+    {{- end }}
+    {{ .Inner | markdownify }}
+  </div>
+</div>

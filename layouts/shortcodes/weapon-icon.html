@@ -1,0 +1,9 @@
+{{- $name := .Get "name" | default "" -}}
+{{- $img := .Get "img" | default "" -}}
+{{- $link := .Get "link" | default "" -}}
+{{- $rating := .Get "rating" | default "" -}}
+{{- if $link }}<a href="{{ $link }}" class="weapon-grid-item" title="{{ $name }}">{{ else }}<div class="weapon-grid-item" title="{{ $name }}">{{ end -}}
+  {{- if $img }}<img src="{{ $img }}" alt="{{ $name }}" loading="lazy">{{ end }}
+  <span class="weapon-grid-name">{{ $name }}</span>
+  {{- if $rating }}<span class="weapon-grid-rating">{{ $rating }}</span>{{ end }}
+{{- if $link }}</a>{{ else }}</div>{{ end -}}
