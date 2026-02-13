@@ -40,12 +40,12 @@ description: "スプラトゥーン3のサーモンラン攻略。立ち回り�
 <th width="35%">編成</th>
 <td class="center">
 <div class="align">
-<a class="a-link" href="/games/splatoon3/weapons/わかばシューター/"><img alt="わかばシューター画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/splattershot-jr.png" width="60"/></a>
-<a class="a-link" href="/games/splatoon3/weapons/lact-450/"><img alt="LACT-450画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/snipewriter-5h.png" width="60"/></a>
+<a class="a-link" href="/games/splatoon3/weapons/わかばシューター/"><img alt="わかばシューター画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/splattershot-jr.png" width="60" height="60"/></a>
+<a class="a-link" href="/games/splatoon3/weapons/lact-450/"><img alt="LACT-450画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/snipewriter-5h.png" width="60" height="60"/></a>
 </div>
 <div class="align">
-<a class="a-link" href="/games/splatoon3/weapons/ジムワイパー/"><img alt="ジムワイパー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/splatana-wiper.png" width="60"/></a>
-<a class="a-link" href="#"><img alt="フルイドⅤ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/reef-lux-450.png" width="60"/></a>
+<a class="a-link" href="/games/splatoon3/weapons/ジムワイパー/"><img alt="ジムワイパー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/splatana-wiper.png" width="60" height="60"/></a>
+<a class="a-link" href="#"><img alt="フルイドⅤ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/reef-lux-450.png" width="60" height="60"/></a>
 </div>
 </td>
 </tr>
@@ -85,19 +85,19 @@ description: "スプラトゥーン3のサーモンラン攻略。立ち回り�
 <tr>
 <td width="100%">
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20"/><b class="a-bold">特別な<a class="a-link" href="#">ビッグラン</a>に関するデータを追加しました。</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20" height="22"/><b class="a-bold">特別な<a class="a-link" href="#">ビッグラン</a>に関するデータを追加しました。</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20"/><b class="a-bold"><a class="a-link" href="#">ウロコ</a>と交換できる品物を1つ追加しました。</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20" height="22"/><b class="a-bold"><a class="a-link" href="#">ウロコ</a>と交換できる品物を1つ追加しました。</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20"/><b class="a-bold">報酬メーターで、<a class="a-link" href="#">ウロコ</a>が手に入るカプセルが出現するようにしました。</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20" height="22"/><b class="a-bold">報酬メーターで、<a class="a-link" href="#">ウロコ</a>が手に入るカプセルが出現するようにしました。</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20"/><b class="a-bold">報酬メーターから手に入る<a class="a-link" href="#">ギア</a>が、月ごとではなく、シフトごとに変わるようにしました。</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20" height="22"/><b class="a-bold">報酬メーターから手に入る<a class="a-link" href="#">ギア</a>が、月ごとではなく、シフトごとに変わるようにしました。</b>
 </div>
 </td>
 </tr>
@@ -452,7 +452,7 @@ description: "スプラトゥーン3のサーモンラン攻略。立ち回り�
 <tr>
 <td width="100%">
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20"/><b class="a-bold">金イクラに触れてから実際に使用できるようになるまでの時間が、プレイヤーごとにほぼ一定になるようにしました。</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20" height="22"/><b class="a-bold">金イクラに触れてから実際に使用できるようになるまでの時間が、プレイヤーごとにほぼ一定になるようにしました。</b>
 <br/>　-通信プレイの子機のとき、金イクラが背中のウキワタンクに吸い込まれるアニメーションの速度を、通信にかかった時間に応じて調整することにより、金イクラに触れてから実際に使用できるまでの時間が親機とほぼ同じになるようにします。<br/>　‐ただし、通信の遅延が一定の水準を超える場合は、親機と同じ時間にならないことがある。</div>
 </td>
 </tr>
@@ -462,19 +462,19 @@ description: "スプラトゥーン3のサーモンラン攻略。立ち回り�
 <tr>
 <td width="100%">
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20"/><b class="a-bold">新たなオカシラシャケ「タツ」が出現するようにしました。</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20" height="22"/><b class="a-bold">新たなオカシラシャケ「タツ」が出現するようにしました。</b>
 </div>
 　-スケジュールによって、ヨコヅナが出現するか、タツが出現するかが決まります。<hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20"/><b class="a-bold">今後開催されるビッグランに関するデータを追加しました。</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20" height="22"/><b class="a-bold">今後開催されるビッグランに関するデータを追加しました。</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20"/><b class="a-bold">期間限定で開催される「バイトチームコンテスト」に関するデータを追加しました。</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20" height="22"/><b class="a-bold">期間限定で開催される「バイトチームコンテスト」に関するデータを追加しました。</b>
 </div>
 　-バイトチームコンテストは、フレンドやチャンネルのメンバーとグループを組んで、固定されたバイトシナリオでのバイトを行い、金イクラの納品数の最大スコアを競うモードなんだ。<br/>　-バイトチームコンテストのバイトは、最大5WAVEあります。<br/>　-最初のWAVEのキケン度は固定されていますが、各WAVEのノルマを大きく上回る数の金イクラを納品するおかげで、次のWAVEのキケン度が上がっていきます。<hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20"/><b class="a-bold">ウロコと品物を交換するとき、ザッカ屋などと同様に、品物のプレビューが行えるようにしました。</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20" height="22"/><b class="a-bold">ウロコと品物を交換するとき、ザッカ屋などと同様に、品物のプレビューが行えるようにしました。</b>
 </div>
 </td>
 </tr>
@@ -535,25 +535,25 @@ description: "スプラトゥーン3のサーモンラン攻略。立ち回り�
 </tr>
 <tr>
 <td class="center">
-<a class="a-link" href="#"><img alt="メガホンレーザー5.1ch画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/killer-wail-5-1.png" width="50"/>メガホンレーザー5.1ch</a>
+<a class="a-link" href="#"><img alt="メガホンレーザー5.1ch画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/killer-wail-5-1.png" width="50" height="50"/>メガホンレーザー5.1ch</a>
 </td>
 <td>・オオモノシャケを追尾する精度をこれまでより高くしました。<br/>・与えるダメージを約25%増加しました。</td>
 </tr>
 <tr>
 <td class="center">
-<a class="a-link" href="#"><img alt="トリプルトルネード画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/triple-inkstrike.png" width="50"/>トリプルトルネード</a>
+<a class="a-link" href="#"><img alt="トリプルトルネード画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/triple-inkstrike.png" width="50" height="50"/>トリプルトルネード</a>
 </td>
 <td>・ガイド装置が、シャケなどに触れたときにも起動するようにしました。<br/>・与えるダメージを約25%増加しました。</td>
 </tr>
 <tr>
 <td class="center">
-<a class="a-link" href="#"><img alt="ジェットパック画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/inkjet.png" width="50"/>ジェットパック</a>
+<a class="a-link" href="#"><img alt="ジェットパック画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/inkjet.png" width="50" height="50"/>ジェットパック</a>
 </td>
 <td>・効果が終了して戻ってきている間は、ほとんどのシャケの攻撃対象から外れるようにしました。</td>
 </tr>
 <tr>
 <td class="center">
-<a class="a-link" href="#"><img alt="ナイスダマ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/booyah-bomb.png" width="50"/>ナイスダマ</a>
+<a class="a-link" href="#"><img alt="ナイスダマ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/booyah-bomb.png" width="50" height="50"/>ナイスダマ</a>
 </td>
 <td>・ナイスダマを掲げて空中にいる間は、ほとんどのシャケの攻撃対象から外れるようにしました。</td>
 </tr>

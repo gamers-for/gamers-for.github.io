@@ -36,7 +36,7 @@ description: "スプラトゥーン3のガエンFFカスタムの性能評価・
 </tr>
 <tr>
 <td class="center" colspan="2">
-<img alt="A" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/a.webp" width="40"/>
+<img alt="A" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/a.webp" width="40" height="28"/>
 </td>
 </tr>
 <tr>
@@ -45,41 +45,41 @@ description: "スプラトゥーン3のガエンFFカスタムの性能評価・
 <tr>
 <td colspan="2">
 <div class="align">
-<a class="a-link" href="#"><img alt="クイックボム画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/burst-bomb.png" width="30"/>クイックボム</a>
+<a class="a-link" href="#"><img alt="クイックボム画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/burst-bomb.png" width="30" height="30"/>クイックボム</a>
 </div>
 <div class="align">
-<a class="a-link" href="#"><img alt="トリプルトルネード画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/triple-inkstrike.png" width="30"/>トリプルトルネード</a>
+<a class="a-link" href="#"><img alt="トリプルトルネード画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/triple-inkstrike.png" width="30" height="30"/>トリプルトルネード</a>
 </div>
 </td>
 </tr>
 <tr>
 <th width="23%">塗り</th>
 <td class="center" width="27%">
-<div class="align"><img alt="星2の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star2.png" width="90"/></div>
+<div class="align"><img alt="星2の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star2.png" width="90" height="16"/></div>
 </td>
 <th width="23%">扱いやすさ</th>
 <td class="center" width="27%">
-<div class="align"><img alt="星2の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star2.png" width="90"/></div>
+<div class="align"><img alt="星2の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star2.png" width="90" height="16"/></div>
 </td>
 </tr>
 <tr>
 <th>キル</th>
 <td class="center">
-<div class="align"><img alt="星4の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star4.png" width="90"/></div>
+<div class="align"><img alt="星4の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star4.png" width="90" height="16"/></div>
 </td>
 <th>防御・生存</th>
 <td class="center">
-<div class="align"><img alt="星3の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star3.png" width="90"/></div>
+<div class="align"><img alt="星3の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star3.png" width="90" height="16"/></div>
 </td>
 </tr>
 <tr>
 <th>アシスト</th>
 <td class="center">
-<div class="align"><img alt="星3の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star3.png" width="90"/></div>
+<div class="align"><img alt="星3の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star3.png" width="90" height="16"/></div>
 </td>
 <th>打開力</th>
 <td class="center">
-<div class="align"><img alt="星4の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star4.png" width="90"/></div>
+<div class="align"><img alt="星4の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star4.png" width="90" height="16"/></div>
 </td>
 </tr>
 </table>
@@ -94,19 +94,19 @@ description: "スプラトゥーン3のガエンFFカスタムの性能評価・
 </tr>
 <tr>
 <td class="center">
-<img alt="A" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/a.webp" width="25"/>
+<img alt="A" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/a.webp" width="25" height="18"/>
 </td>
 <td class="center">
-<img alt="A" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/a.webp" width="25"/>
+<img alt="A" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/a.webp" width="25" height="18"/>
 </td>
 <td class="center">
-<img alt="A＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/aplus.webp" width="25"/>
+<img alt="A＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/aplus.webp" width="25" height="18"/>
 </td>
 <td class="center">
-<img alt="A" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/a.webp" width="25"/>
+<img alt="A" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/a.webp" width="25" height="18"/>
 </td>
 <td class="center">
-<img alt="A" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/a.webp" width="25"/>
+<img alt="A" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/a.webp" width="25" height="18"/>
 </td>
 </tr>
 </table>
@@ -121,11 +121,11 @@ description: "スプラトゥーン3のガエンFFカスタムの性能評価・
 <tr>
 <td width="100%">
 <div class="align">
-<img alt="強い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">メイン・サブ・スペシャルのかみ合いが抜群</b>
+<img alt="強い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">メイン・サブ・スペシャルのかみ合いが抜群</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="強い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">長射程武器だけど近距離の対面性能もある</b>
+<img alt="強い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">長射程武器だけど近距離の対面性能もある</b>
 </div>
 </td>
 </tr>
@@ -135,11 +135,11 @@ description: "スプラトゥーン3のガエンFFカスタムの性能評価・
 <tr>
 <td width="100%">
 <div class="align">
-<img alt="弱い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/cross.png" width="16"/><b class="a-bold">1回しかスライドできない</b>
+<img alt="弱い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/cross.png" width="16" height="18"/><b class="a-bold">1回しかスライドできない</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="弱い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/cross.png" width="16"/><b class="a-bold">スライド硬直が長い</b>
+<img alt="弱い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/cross.png" width="16" height="18"/><b class="a-bold">スライド硬直が長い</b>
 </div>
 </td>
 </tr>
@@ -284,15 +284,15 @@ description: "スプラトゥーン3のガエンFFカスタムの性能評価・
 <tr>
 <td width="100%">
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">中衛からクイボ+メインウェポンのコンボ攻撃をする</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">中衛からクイボ+メインウェポンのコンボ攻撃をする</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">スライドは接近戦になった時のみ使う</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">スライドは接近戦になった時のみ使う</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">スペシャルで前線を押し上げる</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">スペシャルで前線を押し上げる</b>
 </div>
 </td>
 </tr>
@@ -310,19 +310,19 @@ description: "スプラトゥーン3のガエンFFカスタムの性能評価・
 <tr>
 <td width="100%">
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">ダメージを受けたら引いて回復する</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">ダメージを受けたら引いて回復する</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">スライド硬直を狙う</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">スライド硬直を狙う</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">不意打ちを仕掛ける</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">不意打ちを仕掛ける</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">スペシャルを使って対処する</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">スペシャルを使って対処する</b>
 </div>
 <hr class="a-table__line"/>
 </td>
@@ -498,10 +498,10 @@ description: "スプラトゥーン3のガエンFFカスタムの性能評価・
 <a class="a-link" href="/games/splatoon3/weapons/ガエンff/"><img alt="ガエンFF画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapons/douser-dualies-ff.png" width="50"/>ガエンFF</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="トラップ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/ink-mine.png" width="50"/>トラップ</a>
+<a class="a-link" href="#"><img alt="トラップ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/ink-mine.png" width="50" height="50"/>トラップ</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="メガホンレーザー5.1ch画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/killer-wail-5-1.png" width="50"/>メガホンレーザー5.1ch</a>
+<a class="a-link" href="#"><img alt="メガホンレーザー5.1ch画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/killer-wail-5-1.png" width="50" height="50"/>メガホンレーザー5.1ch</a>
 </td>
 </tr>
 <tr>
@@ -509,10 +509,10 @@ description: "スプラトゥーン3のガエンFFカスタムの性能評価・
 <b class="a-bold"><img alt="ガエンFFカスタム画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapons/custom-douser-dualies-ff.png" width="50"/>ガエンFFカスタム</b>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="クイックボム画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/burst-bomb.png" width="50"/>クイックボム</a>
+<a class="a-link" href="#"><img alt="クイックボム画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/burst-bomb.png" width="50" height="50"/>クイックボム</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="トリプルトルネード画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/triple-inkstrike.png" width="50"/>トリプルトルネード</a>
+<a class="a-link" href="#"><img alt="トリプルトルネード画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/triple-inkstrike.png" width="50" height="50"/>トリプルトルネード</a>
 </td>
 </tr>
 </table>
@@ -628,11 +628,11 @@ description: "スプラトゥーン3のガエンFFカスタムの性能評価・
 <th colspan="5">ルール別最強武器ランキング</th>
 </tr>
 <tr>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-area/"><img alt="スプラトゥーン2のガチエリア" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/splat-zones.png" width="100"/><br/>ガチ<br/>エリア</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-yagura/"><img alt="スプラトゥーン2のガチヤグラ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/tower-control.png" width="100"/><br/>ガチ<br/>ヤグラ</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-hoko/"><img alt="スプラトゥーン2のガチホコ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/rainmaker.png" width="100"/><br/>ガチ<br/>ホコ</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-asari/"><img alt="スプラトゥーン2のガチアサリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/clam-blitz.png" width="100"/><br/>ガチ<br/>アサリ</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-nawabari/"><img alt="スプラトゥーン2のナワバリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/turf-war.png" width="100"/><br/>ナワ<br/>バリ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-area/"><img alt="スプラトゥーン2のガチエリア" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>エリア</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-yagura/"><img alt="スプラトゥーン2のガチヤグラ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>ヤグラ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-hoko/"><img alt="スプラトゥーン2のガチホコ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>ホコ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-asari/"><img alt="スプラトゥーン2のガチアサリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>アサリ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-nawabari/"><img alt="スプラトゥーン2のナワバリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ナワ<br/>バリ</a></td>
 </tr>
 </table>
 <h3 class="a-header--3" id="hm_19">武器の評価一覧</h3>

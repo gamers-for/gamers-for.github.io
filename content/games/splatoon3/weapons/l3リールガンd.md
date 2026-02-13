@@ -36,7 +36,7 @@ description: "スプラトゥーン3のL3リールガンDの性能評価・立�
 </tr>
 <tr>
 <td class="center" colspan="2">
-<img alt="A" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/a.webp" width="40"/>
+<img alt="A" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/a.webp" width="40" height="28"/>
 </td>
 </tr>
 <tr>
@@ -45,41 +45,41 @@ description: "スプラトゥーン3のL3リールガンDの性能評価・立�
 <tr>
 <td colspan="2">
 <div class="align">
-<a class="a-link" href="#"><img alt="クイックボム画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/burst-bomb.png" width="30"/>クイックボム</a>
+<a class="a-link" href="#"><img alt="クイックボム画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/burst-bomb.png" width="30" height="30"/>クイックボム</a>
 </div>
 <div class="align">
-<a class="a-link" href="#"><img alt="ウルトラハンコ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/ultra-stamp.png" width="30"/>ウルトラハンコ</a>
+<a class="a-link" href="#"><img alt="ウルトラハンコ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/ultra-stamp.png" width="30" height="30"/>ウルトラハンコ</a>
 </div>
 </td>
 </tr>
 <tr>
 <th width="23%">塗り</th>
 <td class="center" width="27%">
-<div class="align"><img alt="星4の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star4.png" width="90"/></div>
+<div class="align"><img alt="星4の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star4.png" width="90" height="16"/></div>
 </td>
 <th width="23%">扱いやすさ</th>
 <td class="center" width="27%">
-<div class="align"><img alt="星3の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star3.png" width="90"/></div>
+<div class="align"><img alt="星3の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star3.png" width="90" height="16"/></div>
 </td>
 </tr>
 <tr>
 <th>キル</th>
 <td class="center">
-<div class="align"><img alt="星4の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star4.png" width="90"/></div>
+<div class="align"><img alt="星4の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star4.png" width="90" height="16"/></div>
 </td>
 <th>防御・生存</th>
 <td class="center">
-<div class="align"><img alt="星3の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star3.png" width="90"/></div>
+<div class="align"><img alt="星3の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star3.png" width="90" height="16"/></div>
 </td>
 </tr>
 <tr>
 <th>アシスト</th>
 <td class="center">
-<div class="align"><img alt="星3の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star3.png" width="90"/></div>
+<div class="align"><img alt="星3の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star3.png" width="90" height="16"/></div>
 </td>
 <th>打開力</th>
 <td class="center">
-<div class="align"><img alt="星2の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star2.png" width="90"/></div>
+<div class="align"><img alt="星2の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star2.png" width="90" height="16"/></div>
 </td>
 </tr>
 </table>
@@ -94,19 +94,19 @@ description: "スプラトゥーン3のL3リールガンDの性能評価・立�
 </tr>
 <tr>
 <td class="center">
-<img alt="A" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/a.webp" width="25"/>
+<img alt="A" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/a.webp" width="25" height="18"/>
 </td>
 <td class="center">
-<img alt="A" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/a.webp" width="25"/>
+<img alt="A" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/a.webp" width="25" height="18"/>
 </td>
 <td class="center">
-<img alt="A" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/a.webp" width="25"/>
+<img alt="A" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/a.webp" width="25" height="18"/>
 </td>
 <td class="center">
-<img alt="A" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/a.webp" width="25"/>
+<img alt="A" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/a.webp" width="25" height="18"/>
 </td>
 <td class="center">
-<img alt="A" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/a.webp" width="25"/>
+<img alt="A" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/a.webp" width="25" height="18"/>
 </td>
 </tr>
 </table>
@@ -121,11 +121,11 @@ description: "スプラトゥーン3のL3リールガンDの性能評価・立�
 <tr>
 <td width="100%">
 <div class="align">
-<img alt="強い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">塗りも強くキルも取れるメイン</b>
+<img alt="強い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">塗りも強くキルも取れるメイン</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="強い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">クイックボムでカバーや足元塗りができる</b>
+<img alt="強い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">クイックボムでカバーや足元塗りができる</b>
 </div>
 </td>
 </tr>
@@ -135,11 +135,11 @@ description: "スプラトゥーン3のL3リールガンDの性能評価・立�
 <tr>
 <td width="100%">
 <div class="align">
-<img alt="弱い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/cross.png" width="16"/><b class="a-bold">癖があり練習が必要</b>
+<img alt="弱い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/cross.png" width="16" height="18"/><b class="a-bold">癖があり練習が必要</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="弱い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/cross.png" width="16"/><b class="a-bold">ウルトラハンコの習得コストが高い</b>
+<img alt="弱い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/cross.png" width="16" height="18"/><b class="a-bold">ウルトラハンコの習得コストが高い</b>
 </div>
 </td>
 </tr>
@@ -260,23 +260,23 @@ description: "スプラトゥーン3のL3リールガンDの性能評価・立�
 <tr>
 <td width="100%">
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">前衛で塗りを広げながらヘイトを集める</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">前衛で塗りを広げながらヘイトを集める</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">クイックボムで味方のカバーをする</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">クイックボムで味方のカバーをする</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">クイックボムで足元塗りを作る</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">クイックボムで足元塗りを作る</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">クイックボムを駆使して相手を倒す</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">クイックボムを駆使して相手を倒す</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">ウルトラハンコで前線を荒らす</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">ウルトラハンコで前線を荒らす</b>
 </div>
 </td>
 </tr>
@@ -301,15 +301,15 @@ description: "スプラトゥーン3のL3リールガンDの性能評価・立�
 <tr>
 <td width="100%">
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">ボムを使って足元の塗りを奪う</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">ボムを使って足元の塗りを奪う</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">ウルトラハンコは正面から戦わない</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">ウルトラハンコは正面から戦わない</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">潜伏キルを狙う</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">潜伏キルを狙う</b>
 </div>
 </td>
 </tr>
@@ -447,7 +447,7 @@ description: "スプラトゥーン3のL3リールガンDの性能評価・立�
 </tr>
 <tr>
 <th width="37%"><div class="align-left">
-<div class="align"><a class="a-link" href="/games/splatoon3/weapons/lact-450/"><img alt="LACT-450画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/snipewriter-5h.png" width="30"/>ラクト</a></div>
+<div class="align"><a class="a-link" href="/games/splatoon3/weapons/lact-450/"><img alt="LACT-450画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/snipewriter-5h.png" width="30" height="30"/>ラクト</a></div>
 </div></th>
 <td width="63%"><div class="a-graph_wrap">
 <div class="a-graph"><div class="a-bar" style="width: 53%"></div></div>
@@ -479,10 +479,10 @@ description: "スプラトゥーン3のL3リールガンDの性能評価・立�
 <a class="a-link" href="/games/splatoon3/weapons/l3リールガン/"><img alt="L3リールガン画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapons/l-3-nozzlenose.png" width="50"/>L3リールガン</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="カーリングボム画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/curling-bomb.png" width="50"/>カーリングボム</a>
+<a class="a-link" href="#"><img alt="カーリングボム画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/curling-bomb.png" width="50" height="50"/>カーリングボム</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="カニタンク画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/crab-tank.png" width="50"/>カニタンク</a>
+<a class="a-link" href="#"><img alt="カニタンク画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/crab-tank.png" width="50" height="50"/>カニタンク</a>
 </td>
 </tr>
 <tr>
@@ -490,10 +490,10 @@ description: "スプラトゥーン3のL3リールガンDの性能評価・立�
 <b class="a-bold"><img alt="L3リールガンD画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapons/l-3-nozzlenose-d.png" width="50"/>L3リールガンD</b>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="クイックボム画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/burst-bomb.png" width="50"/>クイックボム</a>
+<a class="a-link" href="#"><img alt="クイックボム画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/burst-bomb.png" width="50" height="50"/>クイックボム</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="ウルトラハンコ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/ultra-stamp.png" width="50"/>ウルトラハンコ</a>
+<a class="a-link" href="#"><img alt="ウルトラハンコ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/ultra-stamp.png" width="50" height="50"/>ウルトラハンコ</a>
 </td>
 </tr>
 <tr>
@@ -503,10 +503,10 @@ description: "スプラトゥーン3のL3リールガンDの性能評価・立�
 
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="スプラッシュボム画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/splat-bomb.png" width="50"/>スプラッシュボム</a>
+<a class="a-link" href="#"><img alt="スプラッシュボム画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/splat-bomb.png" width="50" height="50"/>スプラッシュボム</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="ジェットパック画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/inkjet.png" width="50"/>ジェットパック</a>
+<a class="a-link" href="#"><img alt="ジェットパック画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/inkjet.png" width="50" height="50"/>ジェットパック</a>
 </td>
 </tr>
 </table>
@@ -520,7 +520,7 @@ description: "スプラトゥーン3のL3リールガンDの性能評価・立�
 </tr>
 <tr>
 <td class="center">
-<a class="a-link" href="#"><img alt="ウルトラハンコ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/ultra-stamp.png" width="50"/>ウルトラハンコ</a>
+<a class="a-link" href="#"><img alt="ウルトラハンコ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/ultra-stamp.png" width="50" height="50"/>ウルトラハンコ</a>
 </td>
 </tr>
 <tr>
@@ -583,7 +583,7 @@ description: "スプラトゥーン3のL3リールガンDの性能評価・立�
 </tr>
 <tr>
 <td class="center" width="20%">
-<a class="a-link" href="#"><img alt="クイックボム画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/burst-bomb.png" width="50"/>クイックボム</a>
+<a class="a-link" href="#"><img alt="クイックボム画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/burst-bomb.png" width="50" height="50"/>クイックボム</a>
 </td>
 </tr>
 <tr>
@@ -603,7 +603,7 @@ description: "スプラトゥーン3のL3リールガンDの性能評価・立�
 </tr>
 <tr>
 <td class="center" width="20%">
-<a class="a-link" href="#"><img alt="ウルトラハンコ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/ultra-stamp.png" width="50"/>ウルトラハンコ</a>
+<a class="a-link" href="#"><img alt="ウルトラハンコ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/ultra-stamp.png" width="50" height="50"/>ウルトラハンコ</a>
 </td>
 </tr>
 <tr>
@@ -680,11 +680,11 @@ description: "スプラトゥーン3のL3リールガンDの性能評価・立�
 <th colspan="5">ルール別最強武器ランキング</th>
 </tr>
 <tr>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-area/"><img alt="スプラトゥーン2のガチエリア" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/splat-zones.png" width="100"/><br/>ガチ<br/>エリア</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-yagura/"><img alt="スプラトゥーン2のガチヤグラ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/tower-control.png" width="100"/><br/>ガチ<br/>ヤグラ</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-hoko/"><img alt="スプラトゥーン2のガチホコ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/rainmaker.png" width="100"/><br/>ガチ<br/>ホコ</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-asari/"><img alt="スプラトゥーン2のガチアサリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/clam-blitz.png" width="100"/><br/>ガチ<br/>アサリ</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-nawabari/"><img alt="スプラトゥーン2のナワバリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/turf-war.png" width="100"/><br/>ナワ<br/>バリ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-area/"><img alt="スプラトゥーン2のガチエリア" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>エリア</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-yagura/"><img alt="スプラトゥーン2のガチヤグラ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>ヤグラ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-hoko/"><img alt="スプラトゥーン2のガチホコ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>ホコ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-asari/"><img alt="スプラトゥーン2のガチアサリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>アサリ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-nawabari/"><img alt="スプラトゥーン2のナワバリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ナワ<br/>バリ</a></td>
 </tr>
 </table>
 <h3 class="a-header--3" id="hm_22">武器の評価一覧</h3>

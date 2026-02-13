@@ -35,7 +35,7 @@ description: "スプラトゥーン3のモップリンDの性能評価・立ち�
 </tr>
 <tr>
 <td class="center" colspan="2">
-<img alt="B＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/bplus.webp" width="40"/>
+<img alt="B＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/bplus.webp" width="40" height="28"/>
 </td>
 </tr>
 <tr>
@@ -44,41 +44,41 @@ description: "スプラトゥーン3のモップリンDの性能評価・立ち�
 <tr>
 <td colspan="2">
 <div class="align">
-<a class="a-link" href="#"><img alt="ジャンプビーコン画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/squid-beakon.png" width="30"/>ジャンプビーコン</a>
+<a class="a-link" href="#"><img alt="ジャンプビーコン画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/squid-beakon.png" width="30" height="30"/>ジャンプビーコン</a>
 </div>
 <div class="align">
-<a class="a-link" href="#"><img alt="ホップソナー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/wave-breaker.png" width="30"/>ホップソナー</a>
+<a class="a-link" href="#"><img alt="ホップソナー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/wave-breaker.png" width="30" height="30"/>ホップソナー</a>
 </div>
 </td>
 </tr>
 <tr>
 <th width="23%">塗り</th>
 <td class="center" width="27%">
-<div class="align"><img alt="星3の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star3.png" width="90"/></div>
+<div class="align"><img alt="星3の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star3.png" width="90" height="16"/></div>
 </td>
 <th width="23%">扱いやすさ</th>
 <td class="center" width="27%">
-<div class="align"><img alt="星2の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star2.png" width="90"/></div>
+<div class="align"><img alt="星2の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star2.png" width="90" height="16"/></div>
 </td>
 </tr>
 <tr>
 <th>キル</th>
 <td class="center">
-<div class="align"><img alt="星3の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star3.png" width="90"/></div>
+<div class="align"><img alt="星3の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star3.png" width="90" height="16"/></div>
 </td>
 <th>防御・生存</th>
 <td class="center">
-<div class="align"><img alt="星2の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star2.png" width="90"/></div>
+<div class="align"><img alt="星2の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star2.png" width="90" height="16"/></div>
 </td>
 </tr>
 <tr>
 <th>アシスト</th>
 <td class="center">
-<div class="align"><img alt="星3の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star3.png" width="90"/></div>
+<div class="align"><img alt="星3の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star3.png" width="90" height="16"/></div>
 </td>
 <th>打開力</th>
 <td class="center">
-<div class="align"><img alt="星3の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star3.png" width="90"/></div>
+<div class="align"><img alt="星3の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star3.png" width="90" height="16"/></div>
 </td>
 </tr>
 </table>
@@ -93,19 +93,19 @@ description: "スプラトゥーン3のモップリンDの性能評価・立ち�
 </tr>
 <tr>
 <td class="center">
-<img alt="B" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/b.webp" width="25"/>
+<img alt="B" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/b.webp" width="25" height="18"/>
 </td>
 <td class="center">
-<img alt="B＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/bplus.webp" width="25"/>
+<img alt="B＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/bplus.webp" width="25" height="18"/>
 </td>
 <td class="center">
-<img alt="B＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/bplus.webp" width="25"/>
+<img alt="B＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/bplus.webp" width="25" height="18"/>
 </td>
 <td class="center">
-<img alt="B＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/bplus.webp" width="25"/>
+<img alt="B＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/bplus.webp" width="25" height="18"/>
 </td>
 <td class="center">
-<img alt="B＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/bplus.webp" width="25"/>
+<img alt="B＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/bplus.webp" width="25" height="18"/>
 </td>
 </tr>
 </table>
@@ -120,11 +120,11 @@ description: "スプラトゥーン3のモップリンDの性能評価・立ち�
 <tr>
 <td width="100%">
 <div class="align">
-<img alt="強い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">射程が長めで塗り範囲が広い</b>
+<img alt="強い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">射程が長めで塗り範囲が広い</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="強い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">曲射で壁裏や高低差などに強い</b>
+<img alt="強い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">曲射で壁裏や高低差などに強い</b>
 </div>
 </td>
 </tr>
@@ -134,11 +134,11 @@ description: "スプラトゥーン3のモップリンDの性能評価・立ち�
 <tr>
 <td width="100%">
 <div class="align">
-<img alt="弱い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/cross.png" width="16"/><b class="a-bold">射撃後の硬直が長め</b>
+<img alt="弱い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/cross.png" width="16" height="18"/><b class="a-bold">射撃後の硬直が長め</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="弱い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/cross.png" width="16"/><b class="a-bold">メインウェポンのみでキルを取れる実力が必要</b>
+<img alt="弱い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/cross.png" width="16" height="18"/><b class="a-bold">メインウェポンのみでキルを取れる実力が必要</b>
 </div>
 </td>
 </tr>
@@ -250,19 +250,19 @@ description: "スプラトゥーン3のモップリンDの性能評価・立ち�
 <tr>
 <td width="100%">
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">地形を利用して攻撃する</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">地形を利用して攻撃する</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">相手を倒す時は一点に当てる意識をする</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">相手を倒す時は一点に当てる意識をする</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">塗る時は左右に視点を動かして範囲攻撃をする</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">塗る時は左右に視点を動かして範囲攻撃をする</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">メイン・サブ・スペを活かして盤面を維持・管理する</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">メイン・サブ・スペを活かして盤面を維持・管理する</b>
 </div>
 </td>
 </tr>
@@ -285,15 +285,15 @@ description: "スプラトゥーン3のモップリンDの性能評価・立ち�
 <tr>
 <td width="100%">
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">地形の影を索敵・けん制をする</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">地形の影を索敵・けん制をする</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">ダメージを受けたら引いて回復する</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">ダメージを受けたら引いて回復する</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">ジャンプビーコンを壊す</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">ジャンプビーコンを壊す</b>
 </div>
 </td>
 </tr>
@@ -431,7 +431,7 @@ description: "スプラトゥーン3のモップリンDの性能評価・立ち�
 </tr>
 <tr>
 <th width="37%"><div class="align-left">
-<div class="align"><a class="a-link" href="/games/splatoon3/weapons/lact-450/"><img alt="LACT-450画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/snipewriter-5h.png" width="30"/>ラクト</a></div>
+<div class="align"><a class="a-link" href="/games/splatoon3/weapons/lact-450/"><img alt="LACT-450画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/snipewriter-5h.png" width="30" height="30"/>ラクト</a></div>
 </div></th>
 <td width="63%"><div class="a-graph_wrap">
 <div class="a-graph"><div class="a-bar" style="width: 53%"></div></div>
@@ -463,10 +463,10 @@ description: "スプラトゥーン3のモップリンDの性能評価・立ち�
 <a class="a-link" href="/games/splatoon3/weapons/モップリン/"><img alt="モップリン画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapons/dread-wringer.png" width="50"/>モップリン</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="キューバンボム画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/suction-bomb.png" width="50"/>キューバンボム</a>
+<a class="a-link" href="#"><img alt="キューバンボム画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/suction-bomb.png" width="50" height="50"/>キューバンボム</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="サメライド画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/reefslider.png" width="50"/>サメライド</a>
+<a class="a-link" href="#"><img alt="サメライド画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/reefslider.png" width="50" height="50"/>サメライド</a>
 </td>
 </tr>
 <tr>
@@ -474,10 +474,10 @@ description: "スプラトゥーン3のモップリンDの性能評価・立ち�
 <b class="a-bold"><img alt="モップリンD画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapons/dread-wringer-d.png" width="50"/>モップリンD</b>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="ジャンプビーコン画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/squid-beakon.png" width="50"/>ジャンプビーコン</a>
+<a class="a-link" href="#"><img alt="ジャンプビーコン画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/squid-beakon.png" width="50" height="50"/>ジャンプビーコン</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="ホップソナー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/wave-breaker.png" width="50"/>ホップソナー</a>
+<a class="a-link" href="#"><img alt="ホップソナー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/wave-breaker.png" width="50" height="50"/>ホップソナー</a>
 </td>
 </tr>
 <tr>
@@ -487,10 +487,10 @@ description: "スプラトゥーン3のモップリンDの性能評価・立ち�
 
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="カーリングボム画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/curling-bomb.png" width="50"/>カーリングボム</a>
+<a class="a-link" href="#"><img alt="カーリングボム画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/curling-bomb.png" width="50" height="50"/>カーリングボム</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="カニタンク画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/crab-tank.png" width="50"/>カニタンク</a>
+<a class="a-link" href="#"><img alt="カニタンク画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/crab-tank.png" width="50" height="50"/>カニタンク</a>
 </td>
 </tr>
 </table>
@@ -554,11 +554,11 @@ description: "スプラトゥーン3のモップリンDの性能評価・立ち�
 <th colspan="5">ルール別最強武器ランキング</th>
 </tr>
 <tr>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-area/"><img alt="スプラトゥーン2のガチエリア" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/splat-zones.png" width="100"/><br/>ガチ<br/>エリア</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-yagura/"><img alt="スプラトゥーン2のガチヤグラ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/tower-control.png" width="100"/><br/>ガチ<br/>ヤグラ</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-hoko/"><img alt="スプラトゥーン2のガチホコ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/rainmaker.png" width="100"/><br/>ガチ<br/>ホコ</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-asari/"><img alt="スプラトゥーン2のガチアサリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/clam-blitz.png" width="100"/><br/>ガチ<br/>アサリ</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-nawabari/"><img alt="スプラトゥーン2のナワバリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/turf-war.png" width="100"/><br/>ナワ<br/>バリ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-area/"><img alt="スプラトゥーン2のガチエリア" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>エリア</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-yagura/"><img alt="スプラトゥーン2のガチヤグラ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>ヤグラ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-hoko/"><img alt="スプラトゥーン2のガチホコ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>ホコ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-asari/"><img alt="スプラトゥーン2のガチアサリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>アサリ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-nawabari/"><img alt="スプラトゥーン2のナワバリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ナワ<br/>バリ</a></td>
 </tr>
 </table>
 <h3 class="a-header--3" id="hm_17">武器の評価一覧</h3>

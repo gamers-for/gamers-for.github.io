@@ -78,12 +78,12 @@ description: "スプラトゥーン3の初心者におすすめの武器を紹�
 <a class="a-link" href="/games/splatoon3/weapons/わかばシューター/"><img alt="わかばシューター画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapons/splattershot-jr.png" width="50"/>わかばシューター</a>
 </td>
 <td width="60%"><div class="align">
-<a class="a-link" href="#"><img alt="スプラッシュボム画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/splat-bomb.png" width="30"/>スプラッシュボム</a>
+<a class="a-link" href="#"><img alt="スプラッシュボム画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/splat-bomb.png" width="30" height="30"/>スプラッシュボム</a>
 </div></td>
 </tr>
 <tr>
 <td><div class="align">
-<a class="a-link" href="#"><img alt="グレートバリア画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/big-bubbler.png" width="30"/>グレートバリア</a>
+<a class="a-link" href="#"><img alt="グレートバリア画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/big-bubbler.png" width="30" height="30"/>グレートバリア</a>
 </div></td>
 </tr>
 <tr>
@@ -118,12 +118,12 @@ description: "スプラトゥーン3の初心者におすすめの武器を紹�
 <a class="a-link" href="/games/splatoon3/weapons/スプラシューター/"><img alt="スプラシューター画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapons/splattershot.png" width="50"/>スプラシューター</a>
 </td>
 <td width="60%"><div class="align">
-<a class="a-link" href="#"><img alt="キューバンボム画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/suction-bomb.png" width="30"/>キューバンボム</a>
+<a class="a-link" href="#"><img alt="キューバンボム画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/suction-bomb.png" width="30" height="30"/>キューバンボム</a>
 </div></td>
 </tr>
 <tr>
 <td><div class="align">
-<a class="a-link" href="#"><img alt="ウルトラショット画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/trizooka.png" width="30"/>ウルトラショット</a>
+<a class="a-link" href="#"><img alt="ウルトラショット画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/trizooka.png" width="30" height="30"/>ウルトラショット</a>
 </div></td>
 </tr>
 <tr>
@@ -159,12 +159,12 @@ description: "スプラトゥーン3の初心者におすすめの武器を紹�
 <a class="a-link" href="/games/splatoon3/weapons/バレルスピナー/"><img alt="バレルスピナー画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapons/heavy-splatling.png" width="50"/>バレルスピナー</a>
 </td>
 <td width="60%"><div class="align">
-<a class="a-link" href="#"><img alt="スプリンクラー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/sprinkler.png" width="30"/>スプリンクラー</a>
+<a class="a-link" href="#"><img alt="スプリンクラー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/sprinkler.png" width="30" height="30"/>スプリンクラー</a>
 </div></td>
 </tr>
 <tr>
 <td><div class="align">
-<a class="a-link" href="#"><img alt="ホップソナー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/wave-breaker.png" width="30"/>ホップソナー</a>
+<a class="a-link" href="#"><img alt="ホップソナー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/wave-breaker.png" width="30" height="30"/>ホップソナー</a>
 </div></td>
 </tr>
 <tr>
@@ -199,12 +199,12 @@ description: "スプラトゥーン3の初心者におすすめの武器を紹�
 <a class="a-link" href="/games/splatoon3/weapons/n-zap85/"><img alt="N-ZAP85画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapons/n-zap-85.png" width="50"/>N-ZAP85</a>
 </td>
 <td width="60%"><div class="align">
-<a class="a-link" href="#"><img alt="キューバンボム画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/suction-bomb.png" width="30"/>キューバンボム</a>
+<a class="a-link" href="#"><img alt="キューバンボム画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/suction-bomb.png" width="30" height="30"/>キューバンボム</a>
 </div></td>
 </tr>
 <tr>
 <td><div class="align">
-<a class="a-link" href="#"><img alt="エナジースタンド画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/tacticooler.png" width="30"/>エナジースタンド</a>
+<a class="a-link" href="#"><img alt="エナジースタンド画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/tacticooler.png" width="30" height="30"/>エナジースタンド</a>
 </div></td>
 </tr>
 <tr>
@@ -240,12 +240,12 @@ description: "スプラトゥーン3の初心者におすすめの武器を紹�
 <a class="a-link" href="/games/splatoon3/weapons/スクリュースロッシャー/"><img alt="スクリュースロッシャー画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapons/sloshing-machine.png" width="50"/>スクリュースロッシャー</a>
 </td>
 <td width="60%"><div class="align">
-<a class="a-link" href="#"><img alt="タンサンボム画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/fizzy-bomb.png" width="30"/>タンサンボム</a>
+<a class="a-link" href="#"><img alt="タンサンボム画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/fizzy-bomb.png" width="30" height="30"/>タンサンボム</a>
 </div></td>
 </tr>
 <tr>
 <td><div class="align">
-<a class="a-link" href="#"><img alt="ナイスダマ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/booyah-bomb.png" width="30"/>ナイスダマ</a>
+<a class="a-link" href="#"><img alt="ナイスダマ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/booyah-bomb.png" width="30" height="30"/>ナイスダマ</a>
 </div></td>
 </tr>
 <tr>
@@ -282,12 +282,12 @@ description: "スプラトゥーン3の初心者におすすめの武器を紹�
 <a class="a-link" href="/games/splatoon3/weapons/シャープマーカー/"><img alt="シャープマーカー画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapons/splash-o-matic.png" width="50"/>シャープマーカー</a>
 </td>
 <td width="60%"><div class="align">
-<a class="a-link" href="#"><img alt="クイックボム画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/burst-bomb.png" width="30"/>クイックボム</a>
+<a class="a-link" href="#"><img alt="クイックボム画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/burst-bomb.png" width="30" height="30"/>クイックボム</a>
 </div></td>
 </tr>
 <tr>
 <td><div class="align">
-<a class="a-link" href="#"><img alt="カニタンク画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/crab-tank.png" width="30"/>カニタンク</a>
+<a class="a-link" href="#"><img alt="カニタンク画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/crab-tank.png" width="30" height="30"/>カニタンク</a>
 </div></td>
 </tr>
 <tr>
@@ -361,11 +361,11 @@ description: "スプラトゥーン3の初心者におすすめの武器を紹�
 <th colspan="5">ルール別最強武器ランキング</th>
 </tr>
 <tr>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-area/"><img alt="スプラトゥーン2のガチエリア" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/splat-zones.png" width="100"/><br/>ガチ<br/>エリア</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-yagura/"><img alt="スプラトゥーン2のガチヤグラ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/tower-control.png" width="100"/><br/>ガチ<br/>ヤグラ</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-hoko/"><img alt="スプラトゥーン2のガチホコ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/rainmaker.png" width="100"/><br/>ガチ<br/>ホコ</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-asari/"><img alt="スプラトゥーン2のガチアサリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/clam-blitz.png" width="100"/><br/>ガチ<br/>アサリ</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-nawabari/"><img alt="スプラトゥーン2のナワバリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/turf-war.png" width="100"/><br/>ナワ<br/>バリ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-area/"><img alt="スプラトゥーン2のガチエリア" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>エリア</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-yagura/"><img alt="スプラトゥーン2のガチヤグラ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>ヤグラ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-hoko/"><img alt="スプラトゥーン2のガチホコ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>ホコ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-asari/"><img alt="スプラトゥーン2のガチアサリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>アサリ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-nawabari/"><img alt="スプラトゥーン2のナワバリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ナワ<br/>バリ</a></td>
 </tr>
 </table>
 

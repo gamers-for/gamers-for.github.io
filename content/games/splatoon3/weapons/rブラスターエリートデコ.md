@@ -30,13 +30,13 @@ description: "スプラトゥーン3のRブラスターエリートデコの性�
 <table class="a-table a-table table--fixed a-table" style="">
 <tr>
 <td class="center" colspan="2" rowspan="4" width="50%">
-<img alt="Rブラスターエリートデコ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/custom-range-blaster.png" width="80"/><br/>Rブラスターエリートデコ
+<img alt="Rブラスターエリートデコ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/custom-range-blaster.png" width="80" height="80"/><br/>Rブラスターエリートデコ
 </td>
 <th colspan="2" width="50%">総合評価</th>
 </tr>
 <tr>
 <td class="center" colspan="2">
-<img alt="S＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/splus.webp" width="40"/>
+<img alt="S＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/splus.webp" width="40" height="28"/>
 </td>
 </tr>
 <tr>
@@ -45,41 +45,41 @@ description: "スプラトゥーン3のRブラスターエリートデコの性�
 <tr>
 <td colspan="2">
 <div class="align">
-<a class="a-link" href="#"><img alt="ラインマーカー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/line-marker.png" width="30"/>ラインマーカー</a>
+<a class="a-link" href="#"><img alt="ラインマーカー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/line-marker.png" width="30" height="30"/>ラインマーカー</a>
 </div>
 <div class="align">
-<a class="a-link" href="#"><img alt="メガホンレーザー5.1ch画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/killer-wail-5-1.png" width="30"/>メガホンレーザー5.1ch</a>
+<a class="a-link" href="#"><img alt="メガホンレーザー5.1ch画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/killer-wail-5-1.png" width="30" height="30"/>メガホンレーザー5.1ch</a>
 </div>
 </td>
 </tr>
 <tr>
 <th width="23%">塗り</th>
 <td class="center" width="27%">
-<div class="align"><img alt="星1の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star1.png" width="90"/></div>
+<div class="align"><img alt="星1の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star1.png" width="90" height="16"/></div>
 </td>
 <th width="23%">扱いやすさ</th>
 <td class="center" width="27%">
-<div class="align"><img alt="星1の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star1.png" width="90"/></div>
+<div class="align"><img alt="星1の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star1.png" width="90" height="16"/></div>
 </td>
 </tr>
 <tr>
 <th>キル</th>
 <td class="center">
-<div class="align"><img alt="星5の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star5.png" width="90"/></div>
+<div class="align"><img alt="星5の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star5.png" width="90" height="16"/></div>
 </td>
 <th>防御・生存</th>
 <td class="center">
-<div class="align"><img alt="星3の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star3.png" width="90"/></div>
+<div class="align"><img alt="星3の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star3.png" width="90" height="16"/></div>
 </td>
 </tr>
 <tr>
 <th>アシスト</th>
 <td class="center">
-<div class="align"><img alt="星5の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star5.png" width="90"/></div>
+<div class="align"><img alt="星5の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star5.png" width="90" height="16"/></div>
 </td>
 <th>打開力</th>
 <td class="center">
-<div class="align"><img alt="星4の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star4.png" width="90"/></div>
+<div class="align"><img alt="星4の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star4.png" width="90" height="16"/></div>
 </td>
 </tr>
 </table>
@@ -94,19 +94,19 @@ description: "スプラトゥーン3のRブラスターエリートデコの性�
 </tr>
 <tr>
 <td class="center">
-<img alt="A＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/aplus.webp" width="25"/>
+<img alt="A＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/aplus.webp" width="25" height="18"/>
 </td>
 <td class="center">
-<img alt="S" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/s.webp" width="25"/>
+<img alt="S" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/s.webp" width="25" height="18"/>
 </td>
 <td class="center">
-<img alt="S＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/splus.webp" width="25"/>
+<img alt="S＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/splus.webp" width="25" height="18"/>
 </td>
 <td class="center">
-<img alt="S" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/s.webp" width="25"/>
+<img alt="S" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/s.webp" width="25" height="18"/>
 </td>
 <td class="center">
-<img alt="S" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/s.webp" width="25"/>
+<img alt="S" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/s.webp" width="25" height="18"/>
 </td>
 </tr>
 </table>
@@ -121,11 +121,11 @@ description: "スプラトゥーン3のRブラスターエリートデコの性�
 <tr>
 <td width="100%">
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20"/><b class="a-bold">ブラスターの中で最長の射程</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20" height="22"/><b class="a-bold">ブラスターの中で最長の射程</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20"/><b class="a-bold">サポート性能に優れている</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20" height="22"/><b class="a-bold">サポート性能に優れている</b>
 </div>
 </td>
 </tr>
@@ -135,7 +135,7 @@ description: "スプラトゥーン3のRブラスターエリートデコの性�
 <tr>
 <td width="100%">
 <div class="align">
-<img alt="弱い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/cross.png" width="16"/><b class="a-bold">塗りはあまり苦手な部類</b>
+<img alt="弱い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/cross.png" width="16" height="18"/><b class="a-bold">塗りはあまり苦手な部類</b>
 </div>
 </td>
 </tr>
@@ -201,15 +201,15 @@ description: "スプラトゥーン3のRブラスターエリートデコの性�
 <tr>
 <td width="100%">
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20"/><b class="a-bold">後方から味方をサポートするのが基本</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20" height="22"/><b class="a-bold">後方から味方をサポートするのが基本</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20"/><b class="a-bold">距離の維持にはポイズンミストが便利</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20" height="22"/><b class="a-bold">距離の維持にはポイズンミストが便利</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20"/><b class="a-bold">キューインキは味方と連携して使う</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20" height="22"/><b class="a-bold">キューインキは味方と連携して使う</b>
 </div>
 </td>
 </tr>
@@ -228,11 +228,11 @@ description: "スプラトゥーン3のRブラスターエリートデコの性�
 <tr>
 <td width="100%">
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">相手の懐に潜り込もう</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">相手の懐に潜り込もう</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">キューインキを使っているところを狙う</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">キューインキを使っているところを狙う</b>
 </div>
 </td>
 </tr>
@@ -325,7 +325,7 @@ description: "スプラトゥーン3のRブラスターエリートデコの性�
 </tr>
 <tr>
 <th width="37%"><div class="align-left">
-<div class="align"><b class="a-bold"><img alt="Rブラスターエリートデコ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/custom-range-blaster.png" width="30"/>エリデコ</b></div>
+<div class="align"><b class="a-bold"><img alt="Rブラスターエリートデコ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/custom-range-blaster.png" width="30" height="30"/>エリデコ</b></div>
 </div></th>
 <td width="63%"><div class="a-graph_wrap">
 <div class="a-graph"><div class="a-bar" style="width: 53%"></div></div>
@@ -402,21 +402,21 @@ description: "スプラトゥーン3のRブラスターエリートデコの性�
 <a class="a-link" href="/games/splatoon3/weapons/rブラスターエリート/"><img alt="Rブラスターエリート画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapons/range-blaster.png" width="50"/>Rブラスターエリート</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="ポイズンミスト画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/toxic-mist.png" width="50"/>ポイズンミスト</a>
+<a class="a-link" href="#"><img alt="ポイズンミスト画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/toxic-mist.png" width="50" height="50"/>ポイズンミスト</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="キューインキ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/ink-vac.png" width="50"/>キューインキ</a>
+<a class="a-link" href="#"><img alt="キューインキ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/ink-vac.png" width="50" height="50"/>キューインキ</a>
 </td>
 </tr>
 <tr>
 <td class="center">
-<b class="a-bold"><img alt="Rブラスターエリートデコ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/custom-range-blaster.png" width="50"/>Rブラスターエリートデコ</b>
+<b class="a-bold"><img alt="Rブラスターエリートデコ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/custom-range-blaster.png" width="50" height="50"/>Rブラスターエリートデコ</b>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="ラインマーカー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/line-marker.png" width="50"/>ラインマーカー</a>
+<a class="a-link" href="#"><img alt="ラインマーカー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/line-marker.png" width="50" height="50"/>ラインマーカー</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="メガホンレーザー5.1ch画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/killer-wail-5-1.png" width="50"/>メガホンレーザー5.1ch</a>
+<a class="a-link" href="#"><img alt="メガホンレーザー5.1ch画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/killer-wail-5-1.png" width="50" height="50"/>メガホンレーザー5.1ch</a>
 </td>
 </tr>
 <tr>
@@ -426,10 +426,10 @@ description: "スプラトゥーン3のRブラスターエリートデコの性�
 
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="キューバンボム画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/suction-bomb.png" width="50"/>キューバンボム</a>
+<a class="a-link" href="#"><img alt="キューバンボム画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/suction-bomb.png" width="50" height="50"/>キューバンボム</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="エナジースタンド画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/tacticooler.png" width="50"/>エナジースタンド</a>
+<a class="a-link" href="#"><img alt="エナジースタンド画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/tacticooler.png" width="50" height="50"/>エナジースタンド</a>
 </td>
 </tr>
 </table>
@@ -443,7 +443,7 @@ description: "スプラトゥーン3のRブラスターエリートデコの性�
 </tr>
 <tr>
 <td class="center">
-<a class="a-link" href="#"><img alt="ラインマーカー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/line-marker.png" width="50"/>ラインマーカー</a>
+<a class="a-link" href="#"><img alt="ラインマーカー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/line-marker.png" width="50" height="50"/>ラインマーカー</a>
 </td>
 </tr>
 <tr>
@@ -476,7 +476,7 @@ description: "スプラトゥーン3のRブラスターエリートデコの性�
 </tr>
 <tr>
 <td class="center">
-<a class="a-link" href="#"><img alt="メガホンレーザー5.1ch画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/killer-wail-5-1.png" width="50"/>メガホンレーザー5.1ch</a>
+<a class="a-link" href="#"><img alt="メガホンレーザー5.1ch画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/killer-wail-5-1.png" width="50" height="50"/>メガホンレーザー5.1ch</a>
 </td>
 </tr>
 <tr>
@@ -508,7 +508,7 @@ description: "スプラトゥーン3のRブラスターエリートデコの性�
 </tr>
 <tr>
 <td class="center" width="20%">
-<a class="a-link" href="#"><img alt="ラインマーカー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/line-marker.png" width="50"/>ラインマーカー</a>
+<a class="a-link" href="#"><img alt="ラインマーカー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/line-marker.png" width="50" height="50"/>ラインマーカー</a>
 </td>
 </tr>
 <tr>
@@ -583,11 +583,11 @@ description: "スプラトゥーン3のRブラスターエリートデコの性�
 <th colspan="5">ルール別最強武器ランキング</th>
 </tr>
 <tr>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-area/"><img alt="スプラトゥーン2のガチエリア" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/splat-zones.png" width="100"/><br/>ガチ<br/>エリア</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-yagura/"><img alt="スプラトゥーン2のガチヤグラ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/tower-control.png" width="100"/><br/>ガチ<br/>ヤグラ</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-hoko/"><img alt="スプラトゥーン2のガチホコ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/rainmaker.png" width="100"/><br/>ガチ<br/>ホコ</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-asari/"><img alt="スプラトゥーン2のガチアサリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/clam-blitz.png" width="100"/><br/>ガチ<br/>アサリ</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-nawabari/"><img alt="スプラトゥーン2のナワバリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/turf-war.png" width="100"/><br/>ナワ<br/>バリ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-area/"><img alt="スプラトゥーン2のガチエリア" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>エリア</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-yagura/"><img alt="スプラトゥーン2のガチヤグラ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>ヤグラ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-hoko/"><img alt="スプラトゥーン2のガチホコ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>ホコ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-asari/"><img alt="スプラトゥーン2のガチアサリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>アサリ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-nawabari/"><img alt="スプラトゥーン2のナワバリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ナワ<br/>バリ</a></td>
 </tr>
 </table>
 <h3 class="a-header--3" id="hm_17">武器の評価一覧</h3>

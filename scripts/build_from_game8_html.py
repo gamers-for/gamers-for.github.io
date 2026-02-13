@@ -353,6 +353,9 @@ def process_images(wrapper, weapon_icon_map, sub_icon_map, special_icon_map, tie
         if normalized_alt in tier_map:
             img["src"] = tier_map[normalized_alt]
             img["loading"] = "lazy"
+            # ティア画像は100x71 → heightを補正
+            if width > 0 and not img.get("height"):
+                img["height"] = str(round(width * 71 / 100))
             continue
 
         # --- 「画像」を除去してマッチ ---
@@ -364,18 +367,24 @@ def process_images(wrapper, weapon_icon_map, sub_icon_map, special_icon_map, tie
         if clean_alt in weapon_icon_map:
             img["src"] = weapon_icon_map[clean_alt]
             img["loading"] = "lazy"
+            if width > 0 and not img.get("height"):
+                img["height"] = str(width)  # 正方形
             continue
 
         # --- サブ名マッチ ---
         if clean_alt in sub_icon_map:
             img["src"] = sub_icon_map[clean_alt]
             img["loading"] = "lazy"
+            if width > 0 and not img.get("height"):
+                img["height"] = str(width)  # 正方形
             continue
 
         # --- スペシャル名マッチ ---
         if clean_alt in special_icon_map:
             img["src"] = special_icon_map[clean_alt]
             img["loading"] = "lazy"
+            if width > 0 and not img.get("height"):
+                img["height"] = str(width)  # 正方形
             continue
 
         # --- ギアパワーアイコン ---
@@ -385,24 +394,38 @@ def process_images(wrapper, weapon_icon_map, sub_icon_map, special_icon_map, tie
             continue
 
         # --- 星評価画像 ---
+        # 元画像220x39の横長バー → widthに応じてheight補正
         star_match = re.match(r'星(\d+)', clean_alt)
         if star_match:
             star_key = f"星{star_match.group(1)}"
             if star_key in STAR_ICONS:
                 img["src"] = IMG_PREFIX + STAR_ICONS[star_key]
                 img["loading"] = "lazy"
+                if width > 0 and not img.get("height"):
+                    img["height"] = str(round(width * 39 / 220))
                 continue
 
         # --- ルールアイコン ---
+        # width>=80のルール画像はナビバナー → プレースホルダー
         if alt in RULE_ICONS:
-            img["src"] = IMG_PREFIX + RULE_ICONS[alt]
-            img["loading"] = "lazy"
+            if width >= 80:
+                img["src"] = _black_placeholder_src(width, int(img.get("height", 0) or 0))
+                img["loading"] = "lazy"
+            else:
+                img["src"] = IMG_PREFIX + RULE_ICONS[alt]
+                img["loading"] = "lazy"
             continue
 
         # --- マーカーアイコン (強い点/弱い点/ポイント/NG行動) ---
         if alt in MARKER_ICONS:
             img["src"] = IMG_PREFIX + MARKER_ICONS[alt]
             img["loading"] = "lazy"
+            # check/cross: 32x36, point: 20x20
+            if width > 0 and not img.get("height"):
+                if "point" in MARKER_ICONS[alt]:
+                    img["height"] = str(width)
+                else:
+                    img["height"] = str(round(width * 36 / 32))
             continue
 
         # --- ブランドアイコン ---
@@ -421,6 +444,8 @@ def process_images(wrapper, weapon_icon_map, sub_icon_map, special_icon_map, tie
         if alt in BUTTON_ICONS:
             img["src"] = IMG_PREFIX + BUTTON_ICONS[alt]
             img["loading"] = "lazy"
+            if width > 0 and not img.get("height"):
+                img["height"] = str(width)  # 正方形
             continue
 
         # --- その他のGame8画像 → <img>のまま、サイズ別黒画像に ---

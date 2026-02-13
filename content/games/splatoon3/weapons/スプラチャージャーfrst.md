@@ -50,7 +50,7 @@ description: "スプラトゥーン3のスプラチャージャーFRSTの性能�
 </tr>
 <tr>
 <td class="center"><div class="align">
-<a class="a-link" href="#"><img alt="スプリンクラー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/sprinkler.png" width="30"/>スプリンクラー</a>
+<a class="a-link" href="#"><img alt="スプリンクラー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/sprinkler.png" width="30" height="30"/>スプリンクラー</a>
 </div></td>
 </tr>
 <tr>
@@ -59,7 +59,7 @@ description: "スプラトゥーン3のスプラチャージャーFRSTの性能�
 <tr>
 <td class="center">
 <div class="align">
-<a class="a-link" href="#"><img alt="カニタンク画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/crab-tank.png" width="30"/>カニタンク</a>
+<a class="a-link" href="#"><img alt="カニタンク画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/crab-tank.png" width="30" height="30"/>カニタンク</a>
 </div>
 <hr class="a-table__line"/>【<b class="a-bold">スペシャル必要Pt：190</b>】</td>
 </tr>
@@ -107,7 +107,7 @@ description: "スプラトゥーン3のスプラチャージャーFRSTの性能�
 </tr>
 <tr>
 <td class="center" colspan="5">
-<img alt="A" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/a.webp" width="40"/>
+<img alt="A" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/a.webp" width="40" height="28"/>
 </td>
 </tr>
 <tr>
@@ -119,19 +119,19 @@ description: "スプラトゥーン3のスプラチャージャーFRSTの性能�
 </tr>
 <tr>
 <td class="center">
-<img alt="B" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/b.webp" width="25"/>
+<img alt="B" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/b.webp" width="25" height="18"/>
 </td>
 <td class="center">
-<img alt="A" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/a.webp" width="25"/>
+<img alt="A" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/a.webp" width="25" height="18"/>
 </td>
 <td class="center">
-<img alt="A" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/a.webp" width="25"/>
+<img alt="A" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/a.webp" width="25" height="18"/>
 </td>
 <td class="center">
-<img alt="B＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/bplus.webp" width="25"/>
+<img alt="B＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/bplus.webp" width="25" height="18"/>
 </td>
 <td class="center">
-<img alt="B＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/bplus.webp" width="25"/>
+<img alt="B＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/bplus.webp" width="25" height="18"/>
 </td>
 </tr>
 </table>
@@ -139,31 +139,31 @@ description: "スプラトゥーン3のスプラチャージャーFRSTの性能�
 <tr>
 <th width="23%">塗り</th>
 <td class="center" width="27%">
-<div class="align"><img alt="星2の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star2.png" width="90"/></div>
+<div class="align"><img alt="星2の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star2.png" width="90" height="16"/></div>
 </td>
 <th width="23%">扱いやすさ</th>
 <td class="center" width="27%">
-<div class="align"><img alt="星2の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star2.png" width="90"/></div>
+<div class="align"><img alt="星2の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star2.png" width="90" height="16"/></div>
 </td>
 </tr>
 <tr>
 <th>攻撃・キル</th>
 <td class="center">
-<div class="align"><img alt="星3の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star3.png" width="90"/></div>
+<div class="align"><img alt="星3の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star3.png" width="90" height="16"/></div>
 </td>
 <th>防御・生存</th>
 <td class="center">
-<div class="align"><img alt="星3の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star3.png" width="90"/></div>
+<div class="align"><img alt="星3の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star3.png" width="90" height="16"/></div>
 </td>
 </tr>
 <tr>
 <th>アシスト</th>
 <td class="center">
-<div class="align"><img alt="星2の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star2.png" width="90"/></div>
+<div class="align"><img alt="星2の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star2.png" width="90" height="16"/></div>
 </td>
 <th>打開力</th>
 <td class="center">
-<div class="align"><img alt="星1の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star1.png" width="90"/></div>
+<div class="align"><img alt="星1の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star1.png" width="90" height="16"/></div>
 </td>
 </tr>
 </table>
@@ -333,11 +333,11 @@ description: "スプラトゥーン3のスプラチャージャーFRSTの性能�
 <tr>
 <td width="100%">
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20"/><b class="a-bold">射程が長くてチャージ速度が速い</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20" height="22"/><b class="a-bold">射程が長くてチャージ速度が速い</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20"/><b class="a-bold">バランスのいい武器性能</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20" height="22"/><b class="a-bold">バランスのいい武器性能</b>
 </div>
 </td>
 </tr>
@@ -353,11 +353,11 @@ description: "スプラトゥーン3のスプラチャージャーFRSTの性能�
 <tr>
 <td width="100%">
 <div class="align">
-<img alt="残念ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/cross.png" width="20"/><b class="a-bold">接近戦に弱い</b>
+<img alt="残念ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/cross.png" width="20" height="22"/><b class="a-bold">接近戦に弱い</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="残念ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/cross.png" width="20"/><b class="a-bold">エイム力が必要</b>
+<img alt="残念ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/cross.png" width="20" height="22"/><b class="a-bold">エイム力が必要</b>
 </div>
 </td>
 </tr>
@@ -372,31 +372,31 @@ description: "スプラトゥーン3のスプラチャージャーFRSTの性能�
 <tr>
 <td width="100%">
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20"/><b class="a-bold">体と射線を隠す</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20" height="22"/><b class="a-bold">体と射線を隠す</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20"/><b class="a-bold">ドラックショットは基本は使わない</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20" height="22"/><b class="a-bold">ドラックショットは基本は使わない</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20"/><b class="a-bold">チャージキープでもしっかり照準を合わせて撃つ</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20" height="22"/><b class="a-bold">チャージキープでもしっかり照準を合わせて撃つ</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20"/><b class="a-bold">相手の長射程武器に圧力をかける</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20" height="22"/><b class="a-bold">相手の長射程武器に圧力をかける</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20"/><b class="a-bold">塗りで味方をサポートする</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20" height="22"/><b class="a-bold">塗りで味方をサポートする</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20"/><b class="a-bold">裏取りや相手の接近に警戒する</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20" height="22"/><b class="a-bold">裏取りや相手の接近に警戒する</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20"/><b class="a-bold">要所でカニタンクを使う</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20" height="22"/><b class="a-bold">要所でカニタンクを使う</b>
 </div>
 </td>
 </tr>
@@ -438,10 +438,10 @@ description: "スプラトゥーン3のスプラチャージャーFRSTの性能�
 <a class="a-link" href="/games/splatoon3/weapons/スプラスコープ/"><img alt="スプラスコープ画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapons/splatterscope.png" width="50"/>スプラスコープ</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="スプリンクラー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/sprinkler.png" width="50"/>スプリンクラー</a>
+<a class="a-link" href="#"><img alt="スプリンクラー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/sprinkler.png" width="50" height="50"/>スプリンクラー</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="カニタンク画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/crab-tank.png" width="50"/>カニタンク</a>
+<a class="a-link" href="#"><img alt="カニタンク画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/crab-tank.png" width="50" height="50"/>カニタンク</a>
 </td>
 </tr>
 <tr>
@@ -449,10 +449,10 @@ description: "スプラトゥーン3のスプラチャージャーFRSTの性能�
 <b class="a-bold"><img alt="スプラチャージャーFRST画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapons/splat-charger-frst.png" width="50"/>スプラチャージャーFRST</b>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="スプリンクラー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/sprinkler.png" width="50"/>スプリンクラー</a>
+<a class="a-link" href="#"><img alt="スプリンクラー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/sprinkler.png" width="50" height="50"/>スプリンクラー</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="カニタンク画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/crab-tank.png" width="50"/>カニタンク</a>
+<a class="a-link" href="#"><img alt="カニタンク画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/crab-tank.png" width="50" height="50"/>カニタンク</a>
 </td>
 </tr>
 <tr>
@@ -460,10 +460,10 @@ description: "スプラトゥーン3のスプラチャージャーFRSTの性能�
 <a class="a-link" href="/games/splatoon3/weapons/スプラスコープコラボ/"><img alt="スプラスコープコラボ画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapons/z-f-splatterscope.png" width="50"/>スプラスコープコラボ</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="スプラッシュシールド画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/splash-wall.png" width="50"/>スプラッシュシールド</a>
+<a class="a-link" href="#"><img alt="スプラッシュシールド画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/splash-wall.png" width="50" height="50"/>スプラッシュシールド</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="トリプルトルネード画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/triple-inkstrike.png" width="50"/>トリプルトルネード</a>
+<a class="a-link" href="#"><img alt="トリプルトルネード画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/triple-inkstrike.png" width="50" height="50"/>トリプルトルネード</a>
 </td>
 </tr>
 <tr>
@@ -471,10 +471,10 @@ description: "スプラトゥーン3のスプラチャージャーFRSTの性能�
 <a class="a-link" href="/games/splatoon3/weapons/スプラチャージャーFRSTコラボ/"><img alt="スプラチャージャーFRSTコラボ画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapons/z-f-splat-charger.png" width="50"/>スプラチャージャーFRSTコラボ</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="スプラッシュシールド画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/splash-wall.png" width="50"/>スプラッシュシールド</a>
+<a class="a-link" href="#"><img alt="スプラッシュシールド画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/splash-wall.png" width="50" height="50"/>スプラッシュシールド</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="トリプルトルネード画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/triple-inkstrike.png" width="50"/>トリプルトルネード</a>
+<a class="a-link" href="#"><img alt="トリプルトルネード画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/triple-inkstrike.png" width="50" height="50"/>トリプルトルネード</a>
 </td>
 </tr>
 <tr>
@@ -482,10 +482,10 @@ description: "スプラトゥーン3のスプラチャージャーFRSTの性能�
 <a class="a-link" href="/games/splatoon3/weapons/オーダーチャージャーレプリカ/"><img alt="オーダーチャージャーレプリカ画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>オーダーチャージャーレプリカ</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="スプリンクラー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/sprinkler.png" width="50"/>スプリンクラー</a>
+<a class="a-link" href="#"><img alt="スプリンクラー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/sprinkler.png" width="50" height="50"/>スプリンクラー</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="カニタンク画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/crab-tank.png" width="50"/>カニタンク</a>
+<a class="a-link" href="#"><img alt="カニタンク画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/crab-tank.png" width="50" height="50"/>カニタンク</a>
 </td>
 </tr>
 <tr>
@@ -495,10 +495,10 @@ description: "スプラトゥーン3のスプラチャージャーFRSTの性能�
 
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="スプリンクラー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/sprinkler.png" width="50"/>スプリンクラー</a>
+<a class="a-link" href="#"><img alt="スプリンクラー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/sprinkler.png" width="50" height="50"/>スプリンクラー</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="カニタンク画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/crab-tank.png" width="50"/>カニタンク</a>
+<a class="a-link" href="#"><img alt="カニタンク画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/crab-tank.png" width="50" height="50"/>カニタンク</a>
 </td>
 </tr>
 <tr>
@@ -508,10 +508,10 @@ description: "スプラトゥーン3のスプラチャージャーFRSTの性能�
 
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="スプリンクラー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/sprinkler.png" width="50"/>スプリンクラー</a>
+<a class="a-link" href="#"><img alt="スプリンクラー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/sprinkler.png" width="50" height="50"/>スプリンクラー</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="カニタンク画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/crab-tank.png" width="50"/>カニタンク</a>
+<a class="a-link" href="#"><img alt="カニタンク画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/crab-tank.png" width="50" height="50"/>カニタンク</a>
 </td>
 </tr>
 </table>
@@ -526,7 +526,7 @@ description: "スプラトゥーン3のスプラチャージャーFRSTの性能�
 </tr>
 <tr>
 <td class="center">
-<a class="a-link" href="#"><img alt="カニタンク画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/crab-tank.png" width="50"/>カニタンク</a>
+<a class="a-link" href="#"><img alt="カニタンク画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/crab-tank.png" width="50" height="50"/>カニタンク</a>
 </td>
 </tr>
 <tr>
@@ -560,7 +560,7 @@ description: "スプラトゥーン3のスプラチャージャーFRSTの性能�
 </tr>
 <tr>
 <td class="center">
-<a class="a-link" href="#"><img alt="カニタンク画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/crab-tank.png" width="50"/>カニタンク</a>
+<a class="a-link" href="#"><img alt="カニタンク画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/crab-tank.png" width="50" height="50"/>カニタンク</a>
 </td>
 </tr>
 <tr>
@@ -597,7 +597,7 @@ description: "スプラトゥーン3のスプラチャージャーFRSTの性能�
 </tr>
 <tr>
 <td class="center" width="20%">
-<a class="a-link" href="#"><img alt="カニタンク画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/crab-tank.png" width="50"/>カニタンク</a>
+<a class="a-link" href="#"><img alt="カニタンク画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/crab-tank.png" width="50" height="50"/>カニタンク</a>
 </td>
 </tr>
 <tr>
@@ -634,7 +634,7 @@ description: "スプラトゥーン3のスプラチャージャーFRSTの性能�
 </tr>
 <tr>
 <td class="center" width="20%">
-<a class="a-link" href="#"><img alt="カニタンク画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/crab-tank.png" width="50"/>カニタンク</a>
+<a class="a-link" href="#"><img alt="カニタンク画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/crab-tank.png" width="50" height="50"/>カニタンク</a>
 </td>
 </tr>
 <tr>
@@ -655,7 +655,7 @@ description: "スプラトゥーン3のスプラチャージャーFRSTの性能�
 </tr>
 <tr>
 <td class="center" width="20%">
-<a class="a-link" href="#"><img alt="カニタンク画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/crab-tank.png" width="50"/>カニタンク</a>
+<a class="a-link" href="#"><img alt="カニタンク画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/crab-tank.png" width="50" height="50"/>カニタンク</a>
 </td>
 </tr>
 <tr>
@@ -731,11 +731,11 @@ description: "スプラトゥーン3のスプラチャージャーFRSTの性能�
 <th colspan="5">ルール別最強武器ランキング</th>
 </tr>
 <tr>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-area/"><img alt="スプラトゥーン2のガチエリア" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/splat-zones.png" width="100"/><br/>ガチ<br/>エリア</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-yagura/"><img alt="スプラトゥーン2のガチヤグラ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/tower-control.png" width="100"/><br/>ガチ<br/>ヤグラ</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-hoko/"><img alt="スプラトゥーン2のガチホコ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/rainmaker.png" width="100"/><br/>ガチ<br/>ホコ</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-asari/"><img alt="スプラトゥーン2のガチアサリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/clam-blitz.png" width="100"/><br/>ガチ<br/>アサリ</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-nawabari/"><img alt="スプラトゥーン2のナワバリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/turf-war.png" width="100"/><br/>ナワ<br/>バリ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-area/"><img alt="スプラトゥーン2のガチエリア" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>エリア</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-yagura/"><img alt="スプラトゥーン2のガチヤグラ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>ヤグラ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-hoko/"><img alt="スプラトゥーン2のガチホコ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>ホコ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-asari/"><img alt="スプラトゥーン2のガチアサリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>アサリ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-nawabari/"><img alt="スプラトゥーン2のナワバリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ナワ<br/>バリ</a></td>
 </tr>
 </table>
 <h3 class="a-header--3" id="hm_23">武器の評価一覧</h3>

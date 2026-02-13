@@ -21,11 +21,11 @@ description: "スプラトゥーン3のギアパワーランキング。おす�
 <th colspan="5">ルール別最強武器ランキング</th>
 </tr>
 <tr>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-area/"><img alt="スプラトゥーン3のガチエリア" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/splat-zones.png" width="100"/><br/>ガチ<br/>エリア</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-yagura/"><img alt="スプラトゥーン3のガチヤグラ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/tower-control.png" width="100"/><br/>ガチ<br/>ヤグラ</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-hoko/"><img alt="スプラトゥーン3のガチホコ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/rainmaker.png" width="100"/><br/>ガチ<br/>ホコ</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-asari/"><img alt="スプラトゥーン3のガチアサリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/clam-blitz.png" width="100"/><br/>ガチ<br/>アサリ</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-nawabari/"><img alt="スプラトゥーン3のナワバリ" class="a-img" loading="lazy" src="/images/games/splatoon3/rules/turf-war.png" width="100"/><br/>ナワ<br/>バリ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-area/"><img alt="スプラトゥーン3のガチエリア" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>エリア</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-yagura/"><img alt="スプラトゥーン3のガチヤグラ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>ヤグラ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-hoko/"><img alt="スプラトゥーン3のガチホコ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>ホコ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-asari/"><img alt="スプラトゥーン3のガチアサリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>アサリ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-nawabari/"><img alt="スプラトゥーン3のナワバリ" class="a-img" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ナワ<br/>バリ</a></td>
 </tr>
 </table>
 <p></p>
@@ -45,7 +45,7 @@ description: "スプラトゥーン3のギアパワーランキング。おす�
 <table class="a-table a-table" style="">
 <tr>
 <th colspan="3" width="100%">
-<img alt="X" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/x.webp" width="30"/>
+<img alt="X" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/x.webp" width="30" height="21"/>
 </th>
 </tr>
 <td class="center" width="33%">
@@ -75,7 +75,7 @@ description: "スプラトゥーン3のギアパワーランキング。おす�
 </tr>
 <tr>
 <th colspan="3" width="100%">
-<img alt="S＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/splus.webp" width="30"/>
+<img alt="S＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/splus.webp" width="30" height="21"/>
 </th>
 </tr>
 <td class="center" width="33%">
@@ -113,7 +113,7 @@ description: "スプラトゥーン3のギアパワーランキング。おす�
 </tr>
 <tr>
 <th colspan="3" width="100%">
-<img alt="S" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/s.webp" width="30"/>
+<img alt="S" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/s.webp" width="30" height="21"/>
 </th>
 </tr>
 <td class="center" width="33%">
@@ -132,7 +132,7 @@ description: "スプラトゥーン3のギアパワーランキング。おす�
 </tr>
 <tr>
 <th colspan="3" width="100%">
-<img alt="A" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/a.webp" width="30"/>
+<img alt="A" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/a.webp" width="30" height="21"/>
 </th>
 </tr>
 <td class="center" width="33%">
@@ -148,7 +148,7 @@ description: "スプラトゥーン3のギアパワーランキング。おす�
 </tr>
 <tr>
 <th colspan="3" width="100%">
-<img alt="B" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/b.webp" width="30"/>
+<img alt="B" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/b.webp" width="30" height="21"/>
 </th>
 </tr>
 <td class="center" width="33%">

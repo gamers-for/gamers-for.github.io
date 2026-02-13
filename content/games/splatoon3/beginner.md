@@ -126,11 +126,11 @@ description: "スプラトゥーン3の初心者向け攻略ガイド。基本�
 <th class="center" width="60%">内容</th>
 </tr>
 <tr>
-<th width="40%"><img alt="Nintendo SwitchのLスティック" class="a-img" loading="lazy" src="/images/games/splatoon3/buttons/l-stick.png" width="20"/></th>
+<th width="40%"><img alt="Nintendo SwitchのLスティック" class="a-img" loading="lazy" src="/images/games/splatoon3/buttons/l-stick.png" width="20" height="20"/></th>
 <td class="center" width="60%">移動<br/>（倒し具合で速度が変化）</td>
 </tr>
 <tr>
-<th><img alt="Nintendo SwitchのRスティック" class="a-img" loading="lazy" src="/images/games/splatoon3/buttons/r-stick.png" width="20"/></th>
+<th><img alt="Nintendo SwitchのRスティック" class="a-img" loading="lazy" src="/images/games/splatoon3/buttons/r-stick.png" width="20" height="20"/></th>
 <td class="center">視点移動</td>
 </tr>
 <tr>
@@ -146,16 +146,16 @@ description: "スプラトゥーン3の初心者向け攻略ガイド。基本�
 <td class="center">サブウェポン</td>
 </tr>
 <tr>
-<th><img alt="Nintendo SwitchのZLボタン" class="a-img" loading="lazy" src="/images/games/splatoon3/buttons/zl-button.png" width="30"/></th>
+<th><img alt="Nintendo SwitchのZLボタン" class="a-img" loading="lazy" src="/images/games/splatoon3/buttons/zl-button.png" width="30" height="30"/></th>
 <td class="center">イカセンプク</td>
 </tr>
 <tr>
-<th><img alt="Nintendo SwitchのZRボタン" class="a-img" loading="lazy" src="/images/games/splatoon3/buttons/zr-button.png" width="30"/></th>
+<th><img alt="Nintendo SwitchのZRボタン" class="a-img" loading="lazy" src="/images/games/splatoon3/buttons/zr-button.png" width="30" height="30"/></th>
 <td class="center">メインウェポン</td>
 </tr>
 <tr>
 <th><div class="align">
-<img alt="Nintendo SwitchのRスティック" class="a-img" loading="lazy" src="/images/games/splatoon3/buttons/r-stick.png" width="20"/>スティック押し込み</div></th>
+<img alt="Nintendo SwitchのRスティック" class="a-img" loading="lazy" src="/images/games/splatoon3/buttons/r-stick.png" width="20" height="20"/>スティック押し込み</div></th>
 <td class="center">（スペシャルが溜まっている時）<br/>スペシャル使用</td>
 </tr>
 <tr>
@@ -202,17 +202,17 @@ description: "スプラトゥーン3の初心者向け攻略ガイド。基本�
 </tr>
 <tr>
 <th><div class="align">
-<img alt="Nintendo SwitchのRスティック" class="a-img" loading="lazy" src="/images/games/splatoon3/buttons/r-stick.png" width="15"/>操作感度</div></th>
+<img alt="Nintendo SwitchのRスティック" class="a-img" loading="lazy" src="/images/games/splatoon3/buttons/r-stick.png" width="15" height="15"/>操作感度</div></th>
 <td>3.0〜5.0</td>
 </tr>
 <tr>
 <th><div class="align">
-<img alt="Nintendo SwitchのRスティック" class="a-img" loading="lazy" src="/images/games/splatoon3/buttons/r-stick.png" width="15"/>上下操作</div></th>
+<img alt="Nintendo SwitchのRスティック" class="a-img" loading="lazy" src="/images/games/splatoon3/buttons/r-stick.png" width="15" height="15"/>上下操作</div></th>
 <td>ノーマル(ジャイロオフ時のみ設定可)</td>
 </tr>
 <tr>
 <th><div class="align">
-<img alt="Nintendo SwitchのRスティック" class="a-img" loading="lazy" src="/images/games/splatoon3/buttons/r-stick.png" width="15"/>左右操作</div></th>
+<img alt="Nintendo SwitchのRスティック" class="a-img" loading="lazy" src="/images/games/splatoon3/buttons/r-stick.png" width="15" height="15"/>左右操作</div></th>
 <td>ノーマル</td>
 </tr>
 </table>
@@ -324,11 +324,11 @@ description: "スプラトゥーン3の初心者向け攻略ガイド。基本�
 <th colspan="5">ルール別最強武器ランキング</th>
 </tr>
 <tr>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-area/"><img alt="スプラトゥーン2のガチエリア" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/splat-zones.png" width="100"/><br/>ガチ<br/>エリア</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-yagura/"><img alt="スプラトゥーン2のガチヤグラ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/tower-control.png" width="100"/><br/>ガチ<br/>ヤグラ</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-hoko/"><img alt="スプラトゥーン2のガチホコ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/rainmaker.png" width="100"/><br/>ガチ<br/>ホコ</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-asari/"><img alt="スプラトゥーン2のガチアサリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/clam-blitz.png" width="100"/><br/>ガチ<br/>アサリ</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-nawabari/"><img alt="スプラトゥーン2のナワバリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/turf-war.png" width="100"/><br/>ナワ<br/>バリ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-area/"><img alt="スプラトゥーン2のガチエリア" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>エリア</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-yagura/"><img alt="スプラトゥーン2のガチヤグラ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>ヤグラ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-hoko/"><img alt="スプラトゥーン2のガチホコ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>ホコ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-asari/"><img alt="スプラトゥーン2のガチアサリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>アサリ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-nawabari/"><img alt="スプラトゥーン2のナワバリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ナワ<br/>バリ</a></td>
 </tr>
 </table>
 
@@ -359,7 +359,7 @@ description: "スプラトゥーン3の初心者向け攻略ガイド。基本�
 </tr>
 <tr>
 <td class="center"><div class="align">
-<img alt="Nintendo SwitchのLスティック" class="a-img" loading="lazy" src="/images/games/splatoon3/buttons/l-stick.png" width="20"/>　＋　<img alt="Nintendo SwitchのBボタン" class="a-img" height="20" loading="lazy" src="/images/games/splatoon3/buttons/b-button.png" width="20"/>
+<img alt="Nintendo SwitchのLスティック" class="a-img" loading="lazy" src="/images/games/splatoon3/buttons/l-stick.png" width="20" height="20"/>　＋　<img alt="Nintendo SwitchのBボタン" class="a-img" height="20" loading="lazy" src="/images/games/splatoon3/buttons/b-button.png" width="20"/>
 </div></td>
 <td>・進行方向と逆方向のスティック入力＋Bボタンジャンプで、イカ状態で回転する<br/>・<span class="a-red">跳んだ瞬間アーマー状態（ある程度のダメージ無効）になり、移動方向の切り返しができる</span>
 </td>

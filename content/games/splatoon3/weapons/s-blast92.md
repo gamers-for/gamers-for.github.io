@@ -31,13 +31,13 @@ description: "スプラトゥーン3のS-BLAST92の性能評価・立ち回り�
 <table class="a-table a-table table--fixed a-table" style="">
 <tr>
 <td class="center" colspan="2" rowspan="4" width="50%">
-<img alt="S-BLAST92画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/s-blast-92.png" width="80"/><br/>S-BLAST92
+<img alt="S-BLAST92画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/s-blast-92.png" width="80" height="80"/><br/>S-BLAST92
 </td>
 <th colspan="2" width="50%">総合評価</th>
 </tr>
 <tr>
 <td class="center" colspan="2">
-<img alt="B＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/bplus.webp" width="40"/>
+<img alt="B＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/bplus.webp" width="40" height="28"/>
 </td>
 </tr>
 <tr>
@@ -46,41 +46,41 @@ description: "スプラトゥーン3のS-BLAST92の性能評価・立ち回り�
 <tr>
 <td colspan="2">
 <div class="align">
-<a class="a-link" href="#"><img alt="スプリンクラー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/sprinkler.png" width="30"/>スプリンクラー</a>
+<a class="a-link" href="#"><img alt="スプリンクラー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/sprinkler.png" width="30" height="30"/>スプリンクラー</a>
 </div>
 <div class="align">
-<a class="a-link" href="#"><img alt="サメライド画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/reefslider.png" width="30"/>サメライド</a>
+<a class="a-link" href="#"><img alt="サメライド画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/reefslider.png" width="30" height="30"/>サメライド</a>
 </div>
 </td>
 </tr>
 <tr>
 <th width="23%">塗り</th>
 <td class="center" width="27%">
-<div class="align"><img alt="星2の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star2.png" width="90"/></div>
+<div class="align"><img alt="星2の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star2.png" width="90" height="16"/></div>
 </td>
 <th width="23%">扱いやすさ</th>
 <td class="center" width="27%">
-<div class="align"><img alt="星2の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star2.png" width="90"/></div>
+<div class="align"><img alt="星2の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star2.png" width="90" height="16"/></div>
 </td>
 </tr>
 <tr>
 <th>キル</th>
 <td class="center">
-<div class="align"><img alt="星4の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star4.png" width="90"/></div>
+<div class="align"><img alt="星4の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star4.png" width="90" height="16"/></div>
 </td>
 <th>防御・生存</th>
 <td class="center">
-<div class="align"><img alt="星2の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star2.png" width="90"/></div>
+<div class="align"><img alt="星2の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star2.png" width="90" height="16"/></div>
 </td>
 </tr>
 <tr>
 <th>アシスト</th>
 <td class="center">
-<div class="align"><img alt="星3の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star3.png" width="90"/></div>
+<div class="align"><img alt="星3の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star3.png" width="90" height="16"/></div>
 </td>
 <th>打開力</th>
 <td class="center">
-<div class="align"><img alt="星2の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star2.png" width="90"/></div>
+<div class="align"><img alt="星2の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star2.png" width="90" height="16"/></div>
 </td>
 </tr>
 </table>
@@ -95,19 +95,19 @@ description: "スプラトゥーン3のS-BLAST92の性能評価・立ち回り�
 </tr>
 <tr>
 <td class="center">
-<img alt="B＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/bplus.webp" width="25"/>
+<img alt="B＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/bplus.webp" width="25" height="18"/>
 </td>
 <td class="center">
-<img alt="B＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/bplus.webp" width="25"/>
+<img alt="B＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/bplus.webp" width="25" height="18"/>
 </td>
 <td class="center">
-<img alt="A" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/a.webp" width="25"/>
+<img alt="A" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/a.webp" width="25" height="18"/>
 </td>
 <td class="center">
-<img alt="B＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/bplus.webp" width="25"/>
+<img alt="B＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/bplus.webp" width="25" height="18"/>
 </td>
 <td class="center">
-<img alt="B＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/bplus.webp" width="25"/>
+<img alt="B＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/bplus.webp" width="25" height="18"/>
 </td>
 </tr>
 </table>
@@ -122,11 +122,11 @@ description: "スプラトゥーン3のS-BLAST92の性能評価・立ち回り�
 <tr>
 <td width="100%">
 <div class="align">
-<img alt="強い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">射程が長く直撃なら1確</b>
+<img alt="強い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">射程が長く直撃なら1確</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="強い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">近距離遠距離両対応ができる</b>
+<img alt="強い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">近距離遠距離両対応ができる</b>
 </div>
 </td>
 </tr>
@@ -136,11 +136,11 @@ description: "スプラトゥーン3のS-BLAST92の性能評価・立ち回り�
 <tr>
 <td width="100%">
 <div class="align">
-<img alt="弱い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/cross.png" width="16"/><b class="a-bold">高台に攻撃を通すのが難しい</b>
+<img alt="弱い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/cross.png" width="16" height="18"/><b class="a-bold">高台に攻撃を通すのが難しい</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="弱い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/cross.png" width="16"/><b class="a-bold">サブスペがどちらもあまり強くない</b>
+<img alt="弱い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/cross.png" width="16" height="18"/><b class="a-bold">サブスペがどちらもあまり強くない</b>
 </div>
 </td>
 </tr>
@@ -206,15 +206,15 @@ description: "スプラトゥーン3のS-BLAST92の性能評価・立ち回り�
 <tr>
 <td width="100%">
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">敵の位置によって射程を使い分ける</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">敵の位置によって射程を使い分ける</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">トラップを後ろに仕掛けておく</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">トラップを後ろに仕掛けておく</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">サメライドは密集地帯や相手のスペシャルに合わせて使う</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">サメライドは密集地帯や相手のスペシャルに合わせて使う</b>
 </div>
 </td>
 </tr>
@@ -230,15 +230,15 @@ description: "スプラトゥーン3のS-BLAST92の性能評価・立ち回り�
 <tr>
 <td width="100%">
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">相手の懐に潜り込んで戦う</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">相手の懐に潜り込んで戦う</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">トラップに気を付ける</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">トラップに気を付ける</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">サメライドの溜まり具合に気をつける</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16" height="18"/><b class="a-bold">サメライドの溜まり具合に気をつける</b>
 </div>
 </td>
 </tr>
@@ -351,7 +351,7 @@ description: "スプラトゥーン3のS-BLAST92の性能評価・立ち回り�
 </tr>
 <tr>
 <th width="37%"><div class="align-left">
-<div class="align"><b class="a-bold"><img alt="S-BLAST92画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/s-blast-92.png" width="30"/>エスブラ92</b></div>
+<div class="align"><b class="a-bold"><img alt="S-BLAST92画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/s-blast-92.png" width="30" height="30"/>エスブラ92</b></div>
 </div></th>
 <td width="63%"><div class="a-graph_wrap">
 <div class="a-graph"><div class="a-bar" style="width: 46%"></div></div>
@@ -378,7 +378,7 @@ description: "スプラトゥーン3のS-BLAST92の性能評価・立ち回り�
 </tr>
 <tr>
 <th width="37%"><div class="align-left">
-<div class="align"><a class="a-link" href="/games/splatoon3/weapons/lact-450/"><img alt="LACT-450画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/snipewriter-5h.png" width="30"/>ラクト</a></div>
+<div class="align"><a class="a-link" href="/games/splatoon3/weapons/lact-450/"><img alt="LACT-450画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/snipewriter-5h.png" width="30" height="30"/>ラクト</a></div>
 </div></th>
 <td width="63%"><div class="a-graph_wrap">
 <div class="a-graph"><div class="a-bar" style="width: 53%"></div></div>
@@ -407,13 +407,13 @@ description: "スプラトゥーン3のS-BLAST92の性能評価・立ち回り�
 </tr>
 <tr>
 <td class="center">
-<b class="a-bold"><img alt="S-BLAST92画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/s-blast-92.png" width="50"/>S-BLAST92</b>
+<b class="a-bold"><img alt="S-BLAST92画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/s-blast-92.png" width="50" height="50"/>S-BLAST92</b>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="スプリンクラー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/sprinkler.png" width="50"/>スプリンクラー</a>
+<a class="a-link" href="#"><img alt="スプリンクラー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/sprinkler.png" width="50" height="50"/>スプリンクラー</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="サメライド画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/reefslider.png" width="50"/>サメライド</a>
+<a class="a-link" href="#"><img alt="サメライド画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/reefslider.png" width="50" height="50"/>サメライド</a>
 </td>
 </tr>
 <tr>
@@ -421,10 +421,10 @@ description: "スプラトゥーン3のS-BLAST92の性能評価・立ち回り�
 <a class="a-link" href="/games/splatoon3/weapons/s-blast91/"><img alt="S-BLAST91画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapons/s-blast-91.png" width="50"/>S-BLAST91</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="クイックボム画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/burst-bomb.png" width="50"/>クイックボム</a>
+<a class="a-link" href="#"><img alt="クイックボム画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/burst-bomb.png" width="50" height="50"/>クイックボム</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="ナイスダマ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/booyah-bomb.png" width="50"/>ナイスダマ</a>
+<a class="a-link" href="#"><img alt="ナイスダマ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/booyah-bomb.png" width="50" height="50"/>ナイスダマ</a>
 </td>
 </tr>
 </table>
@@ -454,7 +454,7 @@ description: "スプラトゥーン3のS-BLAST92の性能評価・立ち回り�
 </tr>
 <tr>
 <td class="center" width="20%">
-<a class="a-link" href="#"><img alt="サメライド画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/reefslider.png" width="50"/>サメライド</a>
+<a class="a-link" href="#"><img alt="サメライド画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/reefslider.png" width="50" height="50"/>サメライド</a>
 </td>
 </tr>
 <tr>
@@ -489,7 +489,7 @@ description: "スプラトゥーン3のS-BLAST92の性能評価・立ち回り�
 </tr>
 <tr>
 <td class="center" width="20%">
-<a class="a-link" href="#"><img alt="サメライド画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/reefslider.png" width="50"/>サメライド</a>
+<a class="a-link" href="#"><img alt="サメライド画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/reefslider.png" width="50" height="50"/>サメライド</a>
 </td>
 </tr>
 <tr>
@@ -540,7 +540,7 @@ description: "スプラトゥーン3のS-BLAST92の性能評価・立ち回り�
 </tr>
 <tr>
 <td class="center" width="20%">
-<a class="a-link" href="#"><img alt="サメライド画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/reefslider.png" width="50"/>サメライド</a>
+<a class="a-link" href="#"><img alt="サメライド画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/reefslider.png" width="50" height="50"/>サメライド</a>
 </td>
 </tr>
 <tr>
@@ -604,7 +604,7 @@ description: "スプラトゥーン3のS-BLAST92の性能評価・立ち回り�
 </tr>
 <tr>
 <td class="center" width="20%">
-<a class="a-link" href="#"><img alt="スプリンクラー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/sprinkler.png" width="50"/>スプリンクラー</a>
+<a class="a-link" href="#"><img alt="スプリンクラー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/sprinkler.png" width="50" height="50"/>スプリンクラー</a>
 </td>
 </tr>
 <tr>
@@ -699,11 +699,11 @@ description: "スプラトゥーン3のS-BLAST92の性能評価・立ち回り�
 <th colspan="5">ルール別最強武器ランキング</th>
 </tr>
 <tr>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-area/"><img alt="スプラトゥーン2のガチエリア" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/splat-zones.png" width="100"/><br/>ガチ<br/>エリア</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-yagura/"><img alt="スプラトゥーン2のガチヤグラ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/tower-control.png" width="100"/><br/>ガチ<br/>ヤグラ</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-hoko/"><img alt="スプラトゥーン2のガチホコ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/rainmaker.png" width="100"/><br/>ガチ<br/>ホコ</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-asari/"><img alt="スプラトゥーン2のガチアサリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/clam-blitz.png" width="100"/><br/>ガチ<br/>アサリ</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-nawabari/"><img alt="スプラトゥーン2のナワバリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/turf-war.png" width="100"/><br/>ナワ<br/>バリ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-area/"><img alt="スプラトゥーン2のガチエリア" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>エリア</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-yagura/"><img alt="スプラトゥーン2のガチヤグラ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>ヤグラ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-hoko/"><img alt="スプラトゥーン2のガチホコ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>ホコ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-asari/"><img alt="スプラトゥーン2のガチアサリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>アサリ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-nawabari/"><img alt="スプラトゥーン2のナワバリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ナワ<br/>バリ</a></td>
 </tr>
 </table>
 <h3 class="a-header--3" id="hm_22">武器の評価一覧</h3>
