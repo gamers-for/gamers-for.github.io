@@ -8,7 +8,7 @@ tags: ["スプラトゥーン3", "マニューバー", "ガエンFF"]
 description: "スプラトゥーン3のガエンFFの性能評価・立ち回り解説。サブスプラッシュシールド、スペシャルマルチミサイルの使い方やおすすめギアパワーを紹介。"
 ---
 
-<p class="a-paragraph"><img alt="ガエンFF" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/></p>
+<p class="a-paragraph"><img alt="ガエンFF" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/weapons/douser-dualies-ff-hero.png" width="440" height="248"/></p>
 <p class="a-paragraph">スプラトゥーン3(スプラ3)における、ガエンFFについて徹底解説していくよ！</p>
 <p></p>
 <div class="a-outline">
@@ -578,7 +578,7 @@ description: "スプラトゥーン3のガエンFFの性能評価・立ち回り
 </div>
 <h2 class="a-header--2" id="hl_8">ガエンFFの元ネタ</h2>
 <h3 class="a-header--3" id="hm_18">消火器がモチーフ</h3>
-<p class="a-paragraph"><img alt="ガエンFF" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/></p>
+<p class="a-paragraph"><img alt="ガエンFF" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/weapons/douser-dualies-ff-hero.png" width="440" height="248"/></p>
 <p class="a-paragraph">ガエンFFは消火器がモチーフだ。名前の「ガエン」は漢字で「臥煙」と書き、江戸の町火消しの鳶の人のことを指します。さらに「FF」は英語で消防士の「Firefighter」から来ていると思われる。</p>
 
 <h2 class="a-header--2" id="hl_9">関連記事</h2>
@@ -640,11 +640,11 @@ description: "スプラトゥーン3のガエンFFの性能評価・立ち回り
 <th colspan="5">ルール別最強武器ランキング</th>
 </tr>
 <tr>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-area/"><img alt="スプラトゥーン2のガチエリア" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>エリア</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-yagura/"><img alt="スプラトゥーン2のガチヤグラ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>ヤグラ</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-hoko/"><img alt="スプラトゥーン2のガチホコ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>ホコ</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-asari/"><img alt="スプラトゥーン2のガチアサリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ガチ<br/>アサリ</a></td>
-<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-nawabari/"><img alt="スプラトゥーン2のナワバリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/placeholders/black-100x100.png" width="100"/><br/>ナワ<br/>バリ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-area/"><img alt="スプラトゥーン2のガチエリア" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/splat-zones-large.png" width="100"/><br/>ガチ<br/>エリア</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-yagura/"><img alt="スプラトゥーン2のガチヤグラ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/tower-control-large.png" width="100"/><br/>ガチ<br/>ヤグラ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-hoko/"><img alt="スプラトゥーン2のガチホコ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/rainmaker-large.png" width="100"/><br/>ガチ<br/>ホコ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-asari/"><img alt="スプラトゥーン2のガチアサリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/clam-blitz-large.png" width="100"/><br/>ガチ<br/>アサリ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-nawabari/"><img alt="スプラトゥーン2のナワバリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/turf-war-large.png" width="100"/><br/>ナワ<br/>バリ</a></td>
 </tr>
 </table>
 <h3 class="a-header--3" id="hm_21">武器の評価一覧</h3>
