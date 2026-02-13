@@ -62,11 +62,11 @@ description: "スプラトゥーン3のRブラスターエリートの性能評�
 <table>
 <tr><th style="background:#e8f5e9;color:#2e7d32">強い点</th></tr>
 <tr><td>
-<b>○ ポイントセンサーとメガホンレーザー5.1chのシナジーがバッチリ。組み合わせの噛み合いが◎</b>
+<b>○ ブラスターの爆風で壁裏の敵にもダメージが入る。遮蔽物越しの戦いが超得意</b><hr><b>○ ポイントセンサーで敵の位置を味方全員に共有。索敵能力がピカイチ</b><hr><b>○ メガホンレーザー5.1chが広範囲をカバー。牽制・キル・エリア管理なんでもこなせる</b>
 </td></tr>
 <tr><th style="background:#ffebee;color:#c62828">弱い点</th></tr>
 <tr><td>
-<b>✕ キルタイムが遅めなので、真正面からの撃ち合いはちょっと厳しい</b>
+<b>✕ キルタイムが遅めなので、真正面からの撃ち合いはちょっと厳しい</b><hr><b>✕ ポイントセンサー自体にダメージがなく、直接的な火力補助にはならない</b>
 </td></tr>
 </table>
 <p>Rブラスターエリートは、ブラスターの中でも最長の射程を持つ武器です。ポイズンミストを使ったサポート性能も優れており、相手の機動力を奪いながらダメージを与え味方のカバーをするのは強力な動きと言えますが、スペシャルのキューインキはかなりイマイチなスペシャルのためそこまで評価が高い武器ではないのが現状です。</p>
@@ -142,6 +142,7 @@ description: "スプラトゥーン3のRブラスターエリートの性能評�
 <tr><th>武器名</th><th>サブ</th><th>スペシャル</th></tr>
 <tr><td><img src="/gamers-for/images/games/splatoon3/weapons/range-blaster.png" alt="Rブラスターエリート" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../rブラスターエリート/">Rブラスターエリート</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/point-sensor.png" alt="ポイントセンサー" loading="lazy" width="20" height="20" style="vertical-align:middle"> ポイントセンサー</td><td><img src="/gamers-for/images/games/splatoon3/specials/killer-wail-5-1.png" alt="メガホンレーザー5.1ch" loading="lazy" width="20" height="20" style="vertical-align:middle"> メガホンレーザー5.1ch</td></tr>
 <tr><td><img src="/gamers-for/images/games/splatoon3/weapons/custom-range-blaster.png" alt="Rブラスターエリートデコ" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../rブラスターエリートデコ/">Rブラスターエリートデコ</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/toxic-mist.png" alt="ポイズンミスト" loading="lazy" width="20" height="20" style="vertical-align:middle"> ポイズンミスト</td><td><img src="/gamers-for/images/games/splatoon3/specials/ink-storm.png" alt="アメフラシ" loading="lazy" width="20" height="20" style="vertical-align:middle"> アメフラシ</td></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/range-blaster-wntr.png" alt="RブラスターエリートWNTR" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../rブラスターエリートwntr/">RブラスターエリートWNTR</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/suction-bomb.png" alt="キューバンボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> キューバンボム</td><td><img src="/gamers-for/images/games/splatoon3/specials/tacticooler.png" alt="エナジースタンド" loading="lazy" width="20" height="20" style="vertical-align:middle"> エナジースタンド</td></tr>
 </table>
 
 <h2>関連記事</h2>

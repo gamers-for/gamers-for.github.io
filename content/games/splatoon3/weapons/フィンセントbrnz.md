@@ -18,7 +18,7 @@ description: "スプラトゥーン3のフィンセントBRNZの性能評価・�
   <th colspan="2" style="text-align:center">総合評価</th>
 </tr>
 <tr>
-  <td colspan="2" style="text-align:center;font-size:1.3em"><strong></strong> <strong></strong></td>
+  <td colspan="2" style="text-align:center;font-size:1.3em"><img src="/gamers-for/images/games/splatoon3/tiers/b.webp" alt="B" loading="lazy" width="36" height="36" style="vertical-align:middle"> <strong>B</strong></td>
 </tr>
 <tr>
   <th colspan="2" style="text-align:center">サブ・スペシャル</th>
@@ -50,11 +50,11 @@ description: "スプラトゥーン3のフィンセントBRNZの性能評価・�
   <th style="text-align:center">ガチアサリ</th>
 </tr>
 <tr>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/bplus.webp" alt="B+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>B+</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/b.webp" alt="B" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>B</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/cplus.webp" alt="C+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>C+</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/bplus.webp" alt="B+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>B+</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/bplus.webp" alt="B+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>B+</strong></td>
 </tr>
 </table>
 
@@ -62,11 +62,11 @@ description: "スプラトゥーン3のフィンセントBRNZの性能評価・�
 <table>
 <tr><th style="background:#e8f5e9;color:#2e7d32">強い点</th></tr>
 <tr><td>
-<b>○ スプラッシュシールドとウルトラショットのシナジーがバッチリ。組み合わせの噛み合いが◎</b>
+<b>○ フデの超高速移動で前線を荒らしまくれる。塗りスピードもトップクラス</b><hr><b>○ スプラッシュシールドで撃ち合いを有利に。シールド越しに一方的に攻撃できる場面が強い</b><hr><b>○ ウルトラショットで遠くの敵を確実に仕留められる。打開時の切り札として超優秀</b>
 </td></tr>
 <tr><th style="background:#ffebee;color:#c62828">弱い点</th></tr>
 <tr><td>
-<b>✕ 立ち回りの工夫次第でカバーできるけど、慣れは必要</b>
+<b>✕ 一発のダメージが低くて正面からの撃ち合いは不利。立ち回りでカバーが必要</b><hr><b>✕ スプラッシュシールドは設置場所を間違えると効果が薄い。置き場の判断が重要</b>
 </td></tr>
 </table>
 
@@ -113,15 +113,24 @@ description: "スプラトゥーン3のフィンセントBRNZの性能評価・�
 <tr><td>フデの強みは圧倒的な機動力。塗りながら超高速で移動できるから、裏取りや奇襲がめちゃくちゃ得意！前線を荒らして相手の注意を引きつけよう。</td></tr>
 </table>
 <h3>サブウェポン「スプラッシュシールド」の使い方</h3>
-<p>スプラッシュシールドをメインの弱点を補うように使おう。牽制や索敵、塗り拡大に活用するのがコツだよ。</p>
+<p>スプラッシュシールドで撃ち合いを有利に。シールド越しに一方的に攻撃できる場面が強い。メインだけでは届かない場面で積極的に投げていこう。</p>
 <h3>スペシャル「ウルトラショット」の使い方</h3>
-<p>ウルトラショットは試合の流れを変える切り札。ここぞの場面で発動して戦況をひっくり返そう。</p>
+<p>ウルトラショットで遠くの敵を確実に仕留められる。打開時の切り札として超優秀。溜まったら味方の動きを見て、タイミングを合わせて発動しよう。</p>
 
 <h2>フィンセントBRNZの性能</h2>
 <h3>性能</h3>
 <table>
 <tr><th>ブキ種</th><td>フデ</td></tr>
 <tr><th>解放ランク</th><td>-</td></tr>
+</table>
+
+<h2>フィンセントBRNZの同名武器と違い</h2>
+<h3>サブとスペシャルが違うだけ</h3>
+<table>
+<tr><th>武器名</th><th>サブ</th><th>スペシャル</th></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/painbrush-brnz.png" alt="フィンセントBRNZ" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../フィンセントbrnz/">フィンセントBRNZ</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/splash-wall.png" alt="スプラッシュシールド" loading="lazy" width="20" height="20" style="vertical-align:middle"> スプラッシュシールド</td><td><img src="/gamers-for/images/games/splatoon3/specials/trizooka.png" alt="ウルトラショット" loading="lazy" width="20" height="20" style="vertical-align:middle"> ウルトラショット</td></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/painbrush.png" alt="フィンセント" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../フィンセント/">フィンセント</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/curling-bomb.png" alt="カーリングボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> カーリングボム</td><td><img src="/gamers-for/images/games/splatoon3/specials/wave-breaker.png" alt="ホップソナー" loading="lazy" width="20" height="20" style="vertical-align:middle"> ホップソナー</td></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/painbrush-nouveau.png" alt="フィンセントヒュー" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../フィンセントヒュー/">フィンセントヒュー</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/splat-bomb.png" alt="スプラッシュボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> スプラッシュボム</td><td><img src="/gamers-for/images/games/splatoon3/specials/crab-tank.png" alt="カニタンク" loading="lazy" width="20" height="20" style="vertical-align:middle"> カニタンク</td></tr>
 </table>
 
 <h2>関連記事</h2>

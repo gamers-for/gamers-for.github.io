@@ -18,7 +18,7 @@ description: "スプラトゥーン3のドライブワイパーRUSTの性能評�
   <th colspan="2" style="text-align:center">総合評価</th>
 </tr>
 <tr>
-  <td colspan="2" style="text-align:center;font-size:1.3em"><strong></strong> <strong></strong></td>
+  <td colspan="2" style="text-align:center;font-size:1.3em"><img src="/gamers-for/images/games/splatoon3/tiers/aplus.webp" alt="A+" loading="lazy" width="36" height="36" style="vertical-align:middle"> <strong>A+</strong></td>
 </tr>
 <tr>
   <th colspan="2" style="text-align:center">サブ・スペシャル</th>
@@ -50,11 +50,11 @@ description: "スプラトゥーン3のドライブワイパーRUSTの性能評�
   <th style="text-align:center">ガチアサリ</th>
 </tr>
 <tr>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/aplus.webp" alt="A+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>A+</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/aplus.webp" alt="A+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>A+</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/aplus.webp" alt="A+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>A+</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/s.webp" alt="S" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>S</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/aplus.webp" alt="A+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>A+</strong></td>
 </tr>
 </table>
 
@@ -62,11 +62,11 @@ description: "スプラトゥーン3のドライブワイパーRUSTの性能評�
 <table>
 <tr><th style="background:#e8f5e9;color:#2e7d32">強い点</th></tr>
 <tr><td>
-<b>○ カーリングボムとウルトラショットのシナジーがバッチリ。組み合わせの噛み合いが◎</b>
+<b>○ ワイパーのヨコ斬り広範囲＋タメ斬り遠距離の使い分けで、あらゆる距離に対応可能</b><hr><b>○ カーリングボムで道を作りながら素早く前線に行ける。奇襲ルートの開拓が得意</b><hr><b>○ ウルトラショットで遠くの敵を確実に仕留められる。打開時の切り札として超優秀</b>
 </td></tr>
 <tr><th style="background:#ffebee;color:#c62828">弱い点</th></tr>
 <tr><td>
-<b>✕ 立ち回りの工夫次第でカバーできるけど、慣れは必要</b>
+<b>✕ 中距離が微妙に苦手。タメ斬りの隙を突かれると反撃が厳しい</b>
 </td></tr>
 </table>
 
@@ -113,15 +113,27 @@ description: "スプラトゥーン3のドライブワイパーRUSTの性能評�
 <tr><td>ワイパーはヨコ斬りとタメ斬りの使い分けが命。ヨコ斬りは近距離の広範囲、タメ斬りは遠距離の高ダメージと、2つの攻撃を状況で切り替えるのが基本！</td></tr>
 </table>
 <h3>サブウェポン「カーリングボム」の使い方</h3>
-<p>カーリングボムをメインの弱点を補うように使おう。牽制や索敵、塗り拡大に活用するのがコツだよ。</p>
+<p>カーリングボムで道を作りながら素早く前線に行ける。奇襲ルートの開拓が得意。メインだけでは届かない場面で積極的に投げていこう。</p>
 <h3>スペシャル「ウルトラショット」の使い方</h3>
-<p>ウルトラショットは試合の流れを変える切り札。ここぞの場面で発動して戦況をひっくり返そう。</p>
+<p>ウルトラショットで遠くの敵を確実に仕留められる。打開時の切り札として超優秀。溜まったら味方の動きを見て、タイミングを合わせて発動しよう。</p>
 
 <h2>ドライブワイパーRUSTの性能</h2>
 <h3>性能</h3>
 <table>
 <tr><th>ブキ種</th><td>ワイパー</td></tr>
 <tr><th>解放ランク</th><td>-</td></tr>
+<tr><th>攻撃力</th><td>タメ:100/通常:30</td></tr>
+<tr><th>キルタイム</th><td>溜め斬りで高火力</td></tr>
+<tr><th>射程（試し撃ち）</th><td>2.5</td></tr>
+</table>
+
+<h2>ドライブワイパーRUSTの同名武器と違い</h2>
+<h3>サブとスペシャルが違うだけ</h3>
+<table>
+<tr><th>武器名</th><th>サブ</th><th>スペシャル</th></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/splatana-stamper-rust.png" alt="ドライブワイパーRUST" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../ドライブワイパーrust/">ドライブワイパーRUST</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/curling-bomb.png" alt="カーリングボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> カーリングボム</td><td><img src="/gamers-for/images/games/splatoon3/specials/trizooka.png" alt="ウルトラショット" loading="lazy" width="20" height="20" style="vertical-align:middle"> ウルトラショット</td></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/splatana-stamper.png" alt="ドライブワイパー" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../ドライブワイパー/">ドライブワイパー</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/toxic-mist.png" alt="ポイズンミスト" loading="lazy" width="20" height="20" style="vertical-align:middle"> ポイズンミスト</td><td><img src="/gamers-for/images/games/splatoon3/specials/tacticooler.png" alt="エナジースタンド" loading="lazy" width="20" height="20" style="vertical-align:middle"> エナジースタンド</td></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/splatana-stamper-nouveau.png" alt="ドライブワイパーデコ" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../ドライブワイパーデコ/">ドライブワイパーデコ</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/ink-mine.png" alt="トラップ" loading="lazy" width="20" height="20" style="vertical-align:middle"> トラップ</td><td><img src="/gamers-for/images/games/splatoon3/specials/trizooka.png" alt="ウルトラショット" loading="lazy" width="20" height="20" style="vertical-align:middle"> ウルトラショット</td></tr>
 </table>
 
 <h2>関連記事</h2>

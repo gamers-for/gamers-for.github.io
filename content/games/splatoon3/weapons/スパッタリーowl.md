@@ -18,7 +18,7 @@ description: "スプラトゥーン3のスパッタリーOWLの性能評価・�
   <th colspan="2" style="text-align:center">総合評価</th>
 </tr>
 <tr>
-  <td colspan="2" style="text-align:center;font-size:1.3em"><strong></strong> <strong></strong></td>
+  <td colspan="2" style="text-align:center;font-size:1.3em"><img src="/gamers-for/images/games/splatoon3/tiers/a.webp" alt="A" loading="lazy" width="36" height="36" style="vertical-align:middle"> <strong>A</strong></td>
 </tr>
 <tr>
   <th colspan="2" style="text-align:center">サブ・スペシャル</th>
@@ -50,11 +50,11 @@ description: "スプラトゥーン3のスパッタリーOWLの性能評価・�
   <th style="text-align:center">ガチアサリ</th>
 </tr>
 <tr>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/a.webp" alt="A" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>A</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/a.webp" alt="A" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>A</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/bplus.webp" alt="B+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>B+</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/aplus.webp" alt="A+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>A+</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/aplus.webp" alt="A+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>A+</strong></td>
 </tr>
 </table>
 
@@ -62,11 +62,11 @@ description: "スプラトゥーン3のスパッタリーOWLの性能評価・�
 <table>
 <tr><th style="background:#e8f5e9;color:#2e7d32">強い点</th></tr>
 <tr><td>
-<b>○ スプラッシュボムとメガホンレーザー5.1chのシナジーがバッチリ。組み合わせの噛み合いが◎</b>
+<b>○ マニューバーのスライド機動力で対面を有利に運べる。回避しながら攻撃できる</b><hr><b>○ スプラッシュボムでキルもクリアリングもこなせる。汎用性が高く、投げ得な場面が多い</b><hr><b>○ メガホンレーザー5.1chが広範囲をカバー。牽制・キル・エリア管理なんでもこなせる</b>
 </td></tr>
 <tr><th style="background:#ffebee;color:#c62828">弱い点</th></tr>
 <tr><td>
-<b>✕ 立ち回りの工夫次第でカバーできるけど、慣れは必要</b>
+<b>✕ 射程が短いから、長射程武器にはアウトレンジされがち</b><hr><b>✕ スプラッシュボムのインク消費が重く、ボム後のインク管理に注意が必要</b>
 </td></tr>
 </table>
 
@@ -113,15 +113,27 @@ description: "スプラトゥーン3のスパッタリーOWLの性能評価・�
 <tr><td>マニューバーはスライドを使った機動力が最大の武器！スライド後は集弾率が上がるから、スライドしながらキルを取るのが基本。</td></tr>
 </table>
 <h3>サブウェポン「スプラッシュボム」の使い方</h3>
-<p>スプラッシュボムをメインの弱点を補うように使おう。牽制や索敵、塗り拡大に活用するのがコツだよ。</p>
+<p>スプラッシュボムでキルもクリアリングもこなせる。汎用性が高く、投げ得な場面が多い。メインだけでは届かない場面で積極的に投げていこう。</p>
 <h3>スペシャル「メガホンレーザー5.1ch」の使い方</h3>
-<p>メガホンレーザー5.1chは試合の流れを変える切り札。ここぞの場面で発動して戦況をひっくり返そう。</p>
+<p>メガホンレーザー5.1chが広範囲をカバー。牽制・キル・エリア管理なんでもこなせる。溜まったら味方の動きを見て、タイミングを合わせて発動しよう。</p>
 
 <h2>スパッタリーOWLの性能</h2>
 <h3>性能</h3>
 <table>
 <tr><th>ブキ種</th><td>マニューバー</td></tr>
 <tr><th>解放ランク</th><td>-</td></tr>
+<tr><th>攻撃力</th><td>36</td></tr>
+<tr><th>キルタイム</th><td>短射程高機動</td></tr>
+<tr><th>射程（試し撃ち）</th><td>1.7</td></tr>
+</table>
+
+<h2>スパッタリーOWLの同名武器と違い</h2>
+<h3>サブとスペシャルが違うだけ</h3>
+<table>
+<tr><th>武器名</th><th>サブ</th><th>スペシャル</th></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/dapple-dualies-owl.png" alt="スパッタリーOWL" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../スパッタリーowl/">スパッタリーOWL</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/splat-bomb.png" alt="スプラッシュボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> スプラッシュボム</td><td><img src="/gamers-for/images/games/splatoon3/specials/killer-wail-5-1.png" alt="メガホンレーザー5.1ch" loading="lazy" width="20" height="20" style="vertical-align:middle"> メガホンレーザー5.1ch</td></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/dapple-dualies.png" alt="スパッタリー" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../スパッタリー/">スパッタリー</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/squid-beakon.png" alt="ジャンプビーコン" loading="lazy" width="20" height="20" style="vertical-align:middle"> ジャンプビーコン</td><td><img src="/gamers-for/images/games/splatoon3/specials/reefslider.png" alt="サメライド" loading="lazy" width="20" height="20" style="vertical-align:middle"> サメライド</td></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/dapple-dualies-nouveau.png" alt="スパッタリーヒュー" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../スパッタリーヒュー/">スパッタリーヒュー</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/ink-mine.png" alt="トラップ" loading="lazy" width="20" height="20" style="vertical-align:middle"> トラップ</td><td><img src="/gamers-for/images/games/splatoon3/specials/tacticooler.png" alt="エナジースタンド" loading="lazy" width="20" height="20" style="vertical-align:middle"> エナジースタンド</td></tr>
 </table>
 
 <h2>関連記事</h2>

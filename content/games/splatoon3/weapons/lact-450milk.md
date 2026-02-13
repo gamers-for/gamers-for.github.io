@@ -18,7 +18,7 @@ description: "スプラトゥーン3のLACT-450MILKの性能評価・立ち回�
   <th colspan="2" style="text-align:center">総合評価</th>
 </tr>
 <tr>
-  <td colspan="2" style="text-align:center;font-size:1.3em"><strong></strong> <strong></strong></td>
+  <td colspan="2" style="text-align:center;font-size:1.3em"><img src="/gamers-for/images/games/splatoon3/tiers/a.webp" alt="A" loading="lazy" width="36" height="36" style="vertical-align:middle"> <strong>A</strong></td>
 </tr>
 <tr>
   <th colspan="2" style="text-align:center">サブ・スペシャル</th>
@@ -50,11 +50,11 @@ description: "スプラトゥーン3のLACT-450MILKの性能評価・立ち回�
   <th style="text-align:center">ガチアサリ</th>
 </tr>
 <tr>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/bplus.webp" alt="B+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>B+</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/a.webp" alt="A" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>A</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/a.webp" alt="A" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>A</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/a.webp" alt="A" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>A</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/a.webp" alt="A" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>A</strong></td>
 </tr>
 </table>
 
@@ -62,11 +62,11 @@ description: "スプラトゥーン3のLACT-450MILKの性能評価・立ち回�
 <table>
 <tr><th style="background:#e8f5e9;color:#2e7d32">強い点</th></tr>
 <tr><td>
-<b>○ トーピードとナイスダマのシナジーがバッチリ。組み合わせの噛み合いが◎</b>
+<b>○ ストリンガーの3方向同時射撃で広範囲をカバー。索敵と牽制の両立が可能</b><hr><b>○ トーピードは索敵しながら遠くの相手にもダメージを入れられる。追撃性能が高い</b><hr><b>○ ナイスダマの圧倒的な範囲と火力で打開力バツグン。発動中のアーマーで生存もできる</b>
 </td></tr>
 <tr><th style="background:#ffebee;color:#c62828">弱い点</th></tr>
 <tr><td>
-<b>✕ 立ち回りの工夫次第でカバーできるけど、慣れは必要</b>
+<b>✕ チャージが必要で即座に反撃しにくい。接近戦は基本不利</b>
 </td></tr>
 </table>
 
@@ -113,15 +113,27 @@ description: "スプラトゥーン3のLACT-450MILKの性能評価・立ち回�
 <tr><td>ストリンガーは3方向に同時射撃できるのが特徴。広範囲をカバーできるから、索敵と牽制が得意！</td></tr>
 </table>
 <h3>サブウェポン「トーピード」の使い方</h3>
-<p>トーピードをメインの弱点を補うように使おう。牽制や索敵、塗り拡大に活用するのがコツだよ。</p>
+<p>トーピードは索敵しながら遠くの相手にもダメージを入れられる。追撃性能が高い。メインだけでは届かない場面で積極的に投げていこう。</p>
 <h3>スペシャル「ナイスダマ」の使い方</h3>
-<p>ナイスダマは試合の流れを変える切り札。ここぞの場面で発動して戦況をひっくり返そう。</p>
+<p>ナイスダマの圧倒的な範囲と火力で打開力バツグン。発動中のアーマーで生存もできる。溜まったら味方の動きを見て、タイミングを合わせて発動しよう。</p>
 
 <h2>LACT-450MILKの性能</h2>
 <h3>性能</h3>
 <table>
 <tr><th>ブキ種</th><td>ストリンガー</td></tr>
 <tr><th>解放ランク</th><td>-</td></tr>
+<tr><th>攻撃力</th><td>36×5(フル)</td></tr>
+<tr><th>キルタイム</th><td>5本の矢</td></tr>
+<tr><th>射程（試し撃ち）</th><td>3.5</td></tr>
+</table>
+
+<h2>LACT-450MILKの同名武器と違い</h2>
+<h3>サブとスペシャルが違うだけ</h3>
+<table>
+<tr><th>武器名</th><th>サブ</th><th>スペシャル</th></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/tri-stringer-milk.png" alt="LACT-450MILK" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../lact-450milk/">LACT-450MILK</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/torpedo.png" alt="トーピード" loading="lazy" width="20" height="20" style="vertical-align:middle"> トーピード</td><td><img src="/gamers-for/images/games/splatoon3/specials/booyah-bomb.png" alt="ナイスダマ" loading="lazy" width="20" height="20" style="vertical-align:middle"> ナイスダマ</td></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/snipewriter-5h.png" alt="LACT-450" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../lact-450/">LACT-450</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/curling-bomb.png" alt="カーリングボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> カーリングボム</td><td><img src="/gamers-for/images/games/splatoon3/specials/tenta-missiles.png" alt="マルチミサイル" loading="lazy" width="20" height="20" style="vertical-align:middle"> マルチミサイル</td></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/snipewriter-5b.png" alt="LACT-450デコ" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../lact-450デコ/">LACT-450デコ</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/burst-bomb.png" alt="クイックボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> クイックボム</td><td><img src="/gamers-for/images/games/splatoon3/specials/inkjet.png" alt="ジェットパック" loading="lazy" width="20" height="20" style="vertical-align:middle"> ジェットパック</td></tr>
 </table>
 
 <h2>関連記事</h2>

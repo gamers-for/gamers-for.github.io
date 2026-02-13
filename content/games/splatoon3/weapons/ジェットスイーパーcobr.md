@@ -18,7 +18,7 @@ description: "スプラトゥーン3のジェットスイーパーCOBRの性能�
   <th colspan="2" style="text-align:center">総合評価</th>
 </tr>
 <tr>
-  <td colspan="2" style="text-align:center;font-size:1.3em"><strong></strong> <strong></strong></td>
+  <td colspan="2" style="text-align:center;font-size:1.3em"><img src="/gamers-for/images/games/splatoon3/tiers/c.webp" alt="C" loading="lazy" width="36" height="36" style="vertical-align:middle"> <strong>C</strong></td>
 </tr>
 <tr>
   <th colspan="2" style="text-align:center">サブ・スペシャル</th>
@@ -31,7 +31,7 @@ description: "スプラトゥーン3のジェットスイーパーCOBRの性能�
   <th>扱いやすさ</th><td>★★★★☆</td>
 </tr>
 <tr>
-  <th>キル</th><td>★★★☆☆</td>
+  <th>キル</th><td>★★☆☆☆</td>
   <th>防御・生存</th><td>★★★☆☆</td>
 </tr>
 <tr>
@@ -50,11 +50,11 @@ description: "スプラトゥーン3のジェットスイーパーCOBRの性能�
   <th style="text-align:center">ガチアサリ</th>
 </tr>
 <tr>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/cplus.webp" alt="C+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>C+</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/c.webp" alt="C" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>C</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/c.webp" alt="C" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>C</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/c.webp" alt="C" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>C</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/c.webp" alt="C" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>C</strong></td>
 </tr>
 </table>
 
@@ -62,11 +62,11 @@ description: "スプラトゥーン3のジェットスイーパーCOBRの性能�
 <table>
 <tr><th style="background:#e8f5e9;color:#2e7d32">強い点</th></tr>
 <tr><td>
-<b>○ クイックボムとウルトラチャクチのシナジーがバッチリ。組み合わせの噛み合いが◎</b>
+<b>○ 射程がめちゃくちゃ長くて、安全な距離からガンガン撃てるのが強み</b><hr><b>○ クイックボムで素早くダメージを入れられる。メインとのコンボで対面力が大幅アップ</b><hr><b>○ ウルトラチャクチで至近距離の敵を一網打尽。接近戦の切り札として心強い</b>
 </td></tr>
 <tr><th style="background:#ffebee;color:#c62828">弱い点</th></tr>
 <tr><td>
-<b>✕ 立ち回りの工夫次第でカバーできるけど、慣れは必要</b>
+<b>✕ キルタイムが遅めなので、真正面からの撃ち合いはちょっと厳しい</b>
 </td></tr>
 </table>
 
@@ -113,15 +113,26 @@ description: "スプラトゥーン3のジェットスイーパーCOBRの性能�
 <tr><td>シューターの基本は中距離で相手をしっかりキルすること。自分の射程をちゃんと把握して、有利な間合いで戦うのが超大事！塗りもキルもバランスよくこなせるのがシューターの強みだから、味方のカバーをしつつ前線を上げていこう。</td></tr>
 </table>
 <h3>サブウェポン「クイックボム」の使い方</h3>
-<p>クイックボムをメインの弱点を補うように使おう。牽制や索敵、塗り拡大に活用するのがコツだよ。</p>
+<p>クイックボムで素早くダメージを入れられる。メインとのコンボで対面力が大幅アップ。メインだけでは届かない場面で積極的に投げていこう。</p>
 <h3>スペシャル「ウルトラチャクチ」の使い方</h3>
-<p>ウルトラチャクチは試合の流れを変える切り札。ここぞの場面で発動して戦況をひっくり返そう。</p>
+<p>ウルトラチャクチで至近距離の敵を一網打尽。接近戦の切り札として心強い。溜まったら味方の動きを見て、タイミングを合わせて発動しよう。</p>
 
 <h2>ジェットスイーパーCOBRの性能</h2>
 <h3>性能</h3>
 <table>
 <tr><th>ブキ種</th><td>シューター</td></tr>
 <tr><th>解放ランク</th><td>-</td></tr>
+<tr><th>攻撃力</th><td>32</td></tr>
+<tr><th>キルタイム</th><td>0.416秒</td></tr>
+<tr><th>射程（試し撃ち）</th><td>4.2</td></tr>
+</table>
+
+<h2>ジェットスイーパーCOBRの同名武器と違い</h2>
+<h3>サブとスペシャルが違うだけ</h3>
+<table>
+<tr><th>武器名</th><th>サブ</th><th>スペシャル</th></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/jet-squelcher-cobr.png" alt="ジェットスイーパーCOBR" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../ジェットスイーパーcobr/">ジェットスイーパーCOBR</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/burst-bomb.png" alt="クイックボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> クイックボム</td><td><img src="/gamers-for/images/games/splatoon3/specials/ultra-stamp.png" alt="ウルトラチャクチ" loading="lazy" width="20" height="20" style="vertical-align:middle"> ウルトラチャクチ</td></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/jet-squelcher.png" alt="ジェットスイーパー" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../ジェットスイーパー/">ジェットスイーパー</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/line-marker.png" alt="ラインマーカー" loading="lazy" width="20" height="20" style="vertical-align:middle"> ラインマーカー</td><td><img src="/gamers-for/images/games/splatoon3/specials/ink-vac.png" alt="キューインキ" loading="lazy" width="20" height="20" style="vertical-align:middle"> キューインキ</td></tr>
 </table>
 
 <h2>関連記事</h2>

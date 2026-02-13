@@ -18,7 +18,7 @@ description: "スプラトゥーン3のヒッセンASHの性能評価・立ち�
   <th colspan="2" style="text-align:center">総合評価</th>
 </tr>
 <tr>
-  <td colspan="2" style="text-align:center;font-size:1.3em"><strong></strong> <strong></strong></td>
+  <td colspan="2" style="text-align:center;font-size:1.3em"><img src="/gamers-for/images/games/splatoon3/tiers/aplus.webp" alt="A+" loading="lazy" width="36" height="36" style="vertical-align:middle"> <strong>A+</strong></td>
 </tr>
 <tr>
   <th colspan="2" style="text-align:center">サブ・スペシャル</th>
@@ -31,7 +31,7 @@ description: "スプラトゥーン3のヒッセンASHの性能評価・立ち�
   <th>扱いやすさ</th><td>★★★☆☆</td>
 </tr>
 <tr>
-  <th>キル</th><td>★★★☆☆</td>
+  <th>キル</th><td>★★★★☆</td>
   <th>防御・生存</th><td>★★★☆☆</td>
 </tr>
 <tr>
@@ -50,11 +50,11 @@ description: "スプラトゥーン3のヒッセンASHの性能評価・立ち�
   <th style="text-align:center">ガチアサリ</th>
 </tr>
 <tr>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/aplus.webp" alt="A+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>A+</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/s.webp" alt="S" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>S</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/s.webp" alt="S" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>S</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/a.webp" alt="A" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>A</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/aplus.webp" alt="A+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>A+</strong></td>
 </tr>
 </table>
 
@@ -62,11 +62,11 @@ description: "スプラトゥーン3のヒッセンASHの性能評価・立ち�
 <table>
 <tr><th style="background:#e8f5e9;color:#2e7d32">強い点</th></tr>
 <tr><td>
-<b>○ スプラッシュボムとスミナガシートのシナジーがバッチリ。組み合わせの噛み合いが◎</b>
+<b>○ 2確の高火力で撃ち合いに強い！ゴリ押しが効くタイプ</b><hr><b>○ スプラッシュボムでキルもクリアリングもこなせる。汎用性が高く、投げ得な場面が多い</b><hr><b>○ スミナガシートで相手の視界をカット。一方的に攻撃できる状況を作れる</b>
 </td></tr>
 <tr><th style="background:#ffebee;color:#c62828">弱い点</th></tr>
 <tr><td>
-<b>✕ 立ち回りの工夫次第でカバーできるけど、慣れは必要</b>
+<b>✕ キルタイムが遅めなので、真正面からの撃ち合いはちょっと厳しい</b><hr><b>✕ スプラッシュボムのインク消費が重く、ボム後のインク管理に注意が必要</b>
 </td></tr>
 </table>
 
@@ -113,15 +113,27 @@ description: "スプラトゥーン3のヒッセンASHの性能評価・立ち�
 <tr><td>スロッシャーは放物線を描くインクで障害物越しに攻撃できるのがめちゃ強い。高台から降ってくるインクは避けにくいから、地形を活かした戦い方が基本！</td></tr>
 </table>
 <h3>サブウェポン「スプラッシュボム」の使い方</h3>
-<p>スプラッシュボムをメインの弱点を補うように使おう。牽制や索敵、塗り拡大に活用するのがコツだよ。</p>
+<p>スプラッシュボムでキルもクリアリングもこなせる。汎用性が高く、投げ得な場面が多い。メインだけでは届かない場面で積極的に投げていこう。</p>
 <h3>スペシャル「スミナガシート」の使い方</h3>
-<p>スミナガシートは試合の流れを変える切り札。ここぞの場面で発動して戦況をひっくり返そう。</p>
+<p>スミナガシートで相手の視界をカット。一方的に攻撃できる状況を作れる。溜まったら味方の動きを見て、タイミングを合わせて発動しよう。</p>
 
 <h2>ヒッセンASHの性能</h2>
 <h3>性能</h3>
 <table>
 <tr><th>ブキ種</th><td>スロッシャー</td></tr>
 <tr><th>解放ランク</th><td>-</td></tr>
+<tr><th>攻撃力</th><td>62</td></tr>
+<tr><th>キルタイム</th><td>0.617秒</td></tr>
+<tr><th>射程（試し撃ち）</th><td>2.3</td></tr>
+</table>
+
+<h2>ヒッセンASHの同名武器と違い</h2>
+<h3>サブとスペシャルが違うだけ</h3>
+<table>
+<tr><th>武器名</th><th>サブ</th><th>スペシャル</th></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/tri-slosher-ash.png" alt="ヒッセンASH" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../ヒッセンash/">ヒッセンASH</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/splat-bomb.png" alt="スプラッシュボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> スプラッシュボム</td><td><img src="/gamers-for/images/games/splatoon3/specials/splattercolor-screen.png" alt="スミナガシート" loading="lazy" width="20" height="20" style="vertical-align:middle"> スミナガシート</td></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/tri-slosher.png" alt="ヒッセン" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../ヒッセン/">ヒッセン</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/toxic-mist.png" alt="ポイズンミスト" loading="lazy" width="20" height="20" style="vertical-align:middle"> ポイズンミスト</td><td><img src="/gamers-for/images/games/splatoon3/specials/inkjet.png" alt="ジェットパック" loading="lazy" width="20" height="20" style="vertical-align:middle"> ジェットパック</td></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/tri-slosher-nouveau.png" alt="ヒッセンヒュー" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../ヒッセンヒュー/">ヒッセンヒュー</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/point-sensor.png" alt="ポイントセンサー" loading="lazy" width="20" height="20" style="vertical-align:middle"> ポイントセンサー</td><td><img src="/gamers-for/images/games/splatoon3/specials/tacticooler.png" alt="エナジースタンド" loading="lazy" width="20" height="20" style="vertical-align:middle"> エナジースタンド</td></tr>
 </table>
 
 <h2>関連記事</h2>

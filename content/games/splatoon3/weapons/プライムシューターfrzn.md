@@ -18,7 +18,7 @@ description: "スプラトゥーン3のプライムシューターFRZNの性能�
   <th colspan="2" style="text-align:center">総合評価</th>
 </tr>
 <tr>
-  <td colspan="2" style="text-align:center;font-size:1.3em"><strong></strong> <strong></strong></td>
+  <td colspan="2" style="text-align:center;font-size:1.3em"><img src="/gamers-for/images/games/splatoon3/tiers/s.webp" alt="S" loading="lazy" width="36" height="36" style="vertical-align:middle"> <strong>S</strong></td>
 </tr>
 <tr>
   <th colspan="2" style="text-align:center">サブ・スペシャル</th>
@@ -50,11 +50,11 @@ description: "スプラトゥーン3のプライムシューターFRZNの性能�
   <th style="text-align:center">ガチアサリ</th>
 </tr>
 <tr>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/splus.webp" alt="S+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>S+</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/s.webp" alt="S" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>S</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/s.webp" alt="S" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>S</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/s.webp" alt="S" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>S</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/s.webp" alt="S" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>S</strong></td>
 </tr>
 </table>
 
@@ -62,11 +62,11 @@ description: "スプラトゥーン3のプライムシューターFRZNの性能�
 <table>
 <tr><th style="background:#e8f5e9;color:#2e7d32">強い点</th></tr>
 <tr><td>
-<b>○ スプラッシュボムとマルチミサイルのシナジーがバッチリ。組み合わせの噛み合いが◎</b>
+<b>○ シューターの安定した連射力で、塗りもキルもバランスよくこなせる</b><hr><b>○ スプラッシュボムでキルもクリアリングもこなせる。汎用性が高く、投げ得な場面が多い</b><hr><b>○ マルチミサイルで複数の敵を同時にロックオン。味方との連携キルが取りやすい</b>
 </td></tr>
 <tr><th style="background:#ffebee;color:#c62828">弱い点</th></tr>
 <tr><td>
-<b>✕ 立ち回りの工夫次第でカバーできるけど、慣れは必要</b>
+<b>✕ 射程が中程度なので、長射程に一方的に撃たれる場面があるのが課題</b><hr><b>✕ スプラッシュボムのインク消費が重く、ボム後のインク管理に注意が必要</b>
 </td></tr>
 </table>
 
@@ -113,15 +113,27 @@ description: "スプラトゥーン3のプライムシューターFRZNの性能�
 <tr><td>シューターの基本は中距離で相手をしっかりキルすること。自分の射程をちゃんと把握して、有利な間合いで戦うのが超大事！塗りもキルもバランスよくこなせるのがシューターの強みだから、味方のカバーをしつつ前線を上げていこう。</td></tr>
 </table>
 <h3>サブウェポン「スプラッシュボム」の使い方</h3>
-<p>スプラッシュボムをメインの弱点を補うように使おう。牽制や索敵、塗り拡大に活用するのがコツだよ。</p>
+<p>スプラッシュボムでキルもクリアリングもこなせる。汎用性が高く、投げ得な場面が多い。メインだけでは届かない場面で積極的に投げていこう。</p>
 <h3>スペシャル「マルチミサイル」の使い方</h3>
-<p>マルチミサイルは試合の流れを変える切り札。ここぞの場面で発動して戦況をひっくり返そう。</p>
+<p>マルチミサイルで複数の敵を同時にロックオン。味方との連携キルが取りやすい。溜まったら味方の動きを見て、タイミングを合わせて発動しよう。</p>
 
 <h2>プライムシューターFRZNの性能</h2>
 <h3>性能</h3>
 <table>
 <tr><th>ブキ種</th><td>シューター</td></tr>
 <tr><th>解放ランク</th><td>-</td></tr>
+<tr><th>攻撃力</th><td>45</td></tr>
+<tr><th>キルタイム</th><td>0.283秒</td></tr>
+<tr><th>射程（試し撃ち）</th><td>3.2</td></tr>
+</table>
+
+<h2>プライムシューターFRZNの同名武器と違い</h2>
+<h3>サブとスペシャルが違うだけ</h3>
+<table>
+<tr><th>武器名</th><th>サブ</th><th>スペシャル</th></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/splattershot-pro-frzn.png" alt="プライムシューターFRZN" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../プライムシューターfrzn/">プライムシューターFRZN</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/splat-bomb.png" alt="スプラッシュボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> スプラッシュボム</td><td><img src="/gamers-for/images/games/splatoon3/specials/tenta-missiles.png" alt="マルチミサイル" loading="lazy" width="20" height="20" style="vertical-align:middle"> マルチミサイル</td></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/splattershot-pro.png" alt="プライムシューター" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../プライムシューター/">プライムシューター</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/point-sensor.png" alt="ポイントセンサー" loading="lazy" width="20" height="20" style="vertical-align:middle"> ポイントセンサー</td><td><img src="/gamers-for/images/games/splatoon3/specials/trizooka.png" alt="ウルトラショット" loading="lazy" width="20" height="20" style="vertical-align:middle"> ウルトラショット</td></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/forge-splattershot-pro.png" alt="プライムシューターコラボ" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../プライムシューターコラボ/">プライムシューターコラボ</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/suction-bomb.png" alt="キューバンボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> キューバンボム</td><td><img src="/gamers-for/images/games/splatoon3/specials/wave-breaker.png" alt="ホップソナー" loading="lazy" width="20" height="20" style="vertical-align:middle"> ホップソナー</td></tr>
 </table>
 
 <h2>関連記事</h2>

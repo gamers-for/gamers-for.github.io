@@ -18,7 +18,7 @@ description: "スプラトゥーン3のスプラスコープFRSTの性能評価�
   <th colspan="2" style="text-align:center">総合評価</th>
 </tr>
 <tr>
-  <td colspan="2" style="text-align:center;font-size:1.3em"><strong></strong> <strong></strong></td>
+  <td colspan="2" style="text-align:center;font-size:1.3em"><img src="/gamers-for/images/games/splatoon3/tiers/bplus.webp" alt="B+" loading="lazy" width="36" height="36" style="vertical-align:middle"> <strong>B+</strong></td>
 </tr>
 <tr>
   <th colspan="2" style="text-align:center">サブ・スペシャル</th>
@@ -50,11 +50,11 @@ description: "スプラトゥーン3のスプラスコープFRSTの性能評価�
   <th style="text-align:center">ガチアサリ</th>
 </tr>
 <tr>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/bplus.webp" alt="B+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>B+</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/bplus.webp" alt="B+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>B+</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/bplus.webp" alt="B+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>B+</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/bplus.webp" alt="B+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>B+</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/bplus.webp" alt="B+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>B+</strong></td>
 </tr>
 </table>
 
@@ -62,11 +62,11 @@ description: "スプラトゥーン3のスプラスコープFRSTの性能評価�
 <table>
 <tr><th style="background:#e8f5e9;color:#2e7d32">強い点</th></tr>
 <tr><td>
-<b>○ スプリンクラーとカニタンクのシナジーがバッチリ。組み合わせの噛み合いが◎</b>
+<b>○ スプリンクラーで自動的に塗りが広がる。スペシャルの溜まりが早くなるのがGood</b><hr><b>○ カニタンクに変身すると高火力＋高耐久で無双できる。打開時のエース性能が光る</b>
 </td></tr>
 <tr><th style="background:#ffebee;color:#c62828">弱い点</th></tr>
 <tr><td>
-<b>✕ 立ち回りの工夫次第でカバーできるけど、慣れは必要</b>
+<b>✕ スプリンクラーは戦闘中のサポート力が弱め。対面の強化には直接繋がりにくい</b><hr><b>✕ カニタンクは発動位置が重要。背後を取られると解除を狙われやすい</b>
 </td></tr>
 </table>
 
@@ -113,15 +113,25 @@ description: "スプラトゥーン3のスプラスコープFRSTの性能評価�
 <tr><td>武器の特性をしっかり理解して、得意な間合いで戦おう。</td></tr>
 </table>
 <h3>サブウェポン「スプリンクラー」の使い方</h3>
-<p>スプリンクラーをメインの弱点を補うように使おう。牽制や索敵、塗り拡大に活用するのがコツだよ。</p>
+<p>スプリンクラーで自動的に塗りが広がる。スペシャルの溜まりが早くなるのがGood。メインだけでは届かない場面で積極的に投げていこう。</p>
 <h3>スペシャル「カニタンク」の使い方</h3>
-<p>カニタンクは試合の流れを変える切り札。ここぞの場面で発動して戦況をひっくり返そう。</p>
+<p>カニタンクに変身すると高火力＋高耐久で無双できる。打開時のエース性能が光る。溜まったら味方の動きを見て、タイミングを合わせて発動しよう。</p>
 
 <h2>スプラスコープFRSTの性能</h2>
 <h3>性能</h3>
 <table>
 <tr><th>ブキ種</th><td>チャージャー（スコープ付き）</td></tr>
 <tr><th>解放ランク</th><td>-</td></tr>
+<tr><th>攻撃力</th><td>射程(試し撃ちライン)</td></tr>
+</table>
+
+<h2>スプラスコープFRSTの同名武器と違い</h2>
+<h3>サブとスペシャルが違うだけ</h3>
+<table>
+<tr><th>武器名</th><th>サブ</th><th>スペシャル</th></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/splatterscope-frst.png" alt="スプラスコープFRST" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../スプラスコープfrst/">スプラスコープFRST</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/sprinkler.png" alt="スプリンクラー" loading="lazy" width="20" height="20" style="vertical-align:middle"> スプリンクラー</td><td><img src="/gamers-for/images/games/splatoon3/specials/crab-tank.png" alt="カニタンク" loading="lazy" width="20" height="20" style="vertical-align:middle"> カニタンク</td></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/splatterscope.png" alt="スプラスコープ" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../スプラスコープ/">スプラスコープ</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/splat-bomb.png" alt="スプラッシュボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> スプラッシュボム</td><td><img src="/gamers-for/images/games/splatoon3/specials/ink-vac.png" alt="キューインキ" loading="lazy" width="20" height="20" style="vertical-align:middle"> キューインキ</td></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/z-f-splatterscope.png" alt="スプラスコープコラボ" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../スプラスコープコラボ/">スプラスコープコラボ</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/splash-wall.png" alt="スプラッシュシールド" loading="lazy" width="20" height="20" style="vertical-align:middle"> スプラッシュシールド</td><td><img src="/gamers-for/images/games/splatoon3/specials/triple-inkstrike.png" alt="トリプルトルネード" loading="lazy" width="20" height="20" style="vertical-align:middle"> トリプルトルネード</td></tr>
 </table>
 
 <h2>関連記事</h2>

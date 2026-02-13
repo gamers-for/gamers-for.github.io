@@ -18,7 +18,7 @@ description: "スプラトゥーン3のシャープマーカーGECKの性能評�
   <th colspan="2" style="text-align:center">総合評価</th>
 </tr>
 <tr>
-  <td colspan="2" style="text-align:center;font-size:1.3em"><strong></strong> <strong></strong></td>
+  <td colspan="2" style="text-align:center;font-size:1.3em"><img src="/gamers-for/images/games/splatoon3/tiers/splus.webp" alt="S+" loading="lazy" width="36" height="36" style="vertical-align:middle"> <strong>S+</strong></td>
 </tr>
 <tr>
   <th colspan="2" style="text-align:center">サブ・スペシャル</th>
@@ -31,7 +31,7 @@ description: "スプラトゥーン3のシャープマーカーGECKの性能評�
   <th>扱いやすさ</th><td>★★★★☆</td>
 </tr>
 <tr>
-  <th>キル</th><td>★★★☆☆</td>
+  <th>キル</th><td>★★☆☆☆</td>
   <th>防御・生存</th><td>★★★☆☆</td>
 </tr>
 <tr>
@@ -50,11 +50,11 @@ description: "スプラトゥーン3のシャープマーカーGECKの性能評�
   <th style="text-align:center">ガチアサリ</th>
 </tr>
 <tr>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
+  <td style="text-align:center"><span style="font-size:24px;font-weight:900;color:#e74c3c;">X</span> <strong>X</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/splus.webp" alt="S+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>S+</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/splus.webp" alt="S+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>S+</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/splus.webp" alt="S+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>S+</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/splus.webp" alt="S+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>S+</strong></td>
 </tr>
 </table>
 
@@ -62,11 +62,11 @@ description: "スプラトゥーン3のシャープマーカーGECKの性能評�
 <table>
 <tr><th style="background:#e8f5e9;color:#2e7d32">強い点</th></tr>
 <tr><td>
-<b>○ ポイズンミストとアメフラシのシナジーがバッチリ。組み合わせの噛み合いが◎</b>
+<b>○ シューターの安定した連射力で、塗りもキルもバランスよくこなせる</b><hr><b>○ ポイズンミストで相手の動きを鈍くできる。エリア管理や逃げる相手の足止めに有効</b><hr><b>○ アメフラシで広範囲に継続ダメージ。じわじわ敵の行動範囲を狭められる</b>
 </td></tr>
 <tr><th style="background:#ffebee;color:#c62828">弱い点</th></tr>
 <tr><td>
-<b>✕ 立ち回りの工夫次第でカバーできるけど、慣れは必要</b>
+<b>✕ ダメージが低めだから、確定数が多くて撃ち合いは苦手かも</b><hr><b>✕ ポイズンミストはダメージ判定がなく、相手が避ければ効果が薄い</b>
 </td></tr>
 </table>
 
@@ -113,15 +113,27 @@ description: "スプラトゥーン3のシャープマーカーGECKの性能評�
 <tr><td>シューターの基本は中距離で相手をしっかりキルすること。自分の射程をちゃんと把握して、有利な間合いで戦うのが超大事！塗りもキルもバランスよくこなせるのがシューターの強みだから、味方のカバーをしつつ前線を上げていこう。</td></tr>
 </table>
 <h3>サブウェポン「ポイズンミスト」の使い方</h3>
-<p>ポイズンミストをメインの弱点を補うように使おう。牽制や索敵、塗り拡大に活用するのがコツだよ。</p>
+<p>ポイズンミストで相手の動きを鈍くできる。エリア管理や逃げる相手の足止めに有効。メインだけでは届かない場面で積極的に投げていこう。</p>
 <h3>スペシャル「アメフラシ」の使い方</h3>
-<p>アメフラシは試合の流れを変える切り札。ここぞの場面で発動して戦況をひっくり返そう。</p>
+<p>アメフラシで広範囲に継続ダメージ。じわじわ敵の行動範囲を狭められる。溜まったら味方の動きを見て、タイミングを合わせて発動しよう。</p>
 
 <h2>シャープマーカーGECKの性能</h2>
 <h3>性能</h3>
 <table>
 <tr><th>ブキ種</th><td>シューター</td></tr>
 <tr><th>解放ランク</th><td>-</td></tr>
+<tr><th>攻撃力</th><td>28</td></tr>
+<tr><th>キルタイム</th><td>0.267秒</td></tr>
+<tr><th>射程（試し撃ち）</th><td>2.2</td></tr>
+</table>
+
+<h2>シャープマーカーGECKの同名武器と違い</h2>
+<h3>サブとスペシャルが違うだけ</h3>
+<table>
+<tr><th>武器名</th><th>サブ</th><th>スペシャル</th></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/splash-o-matic-geck.png" alt="シャープマーカーGECK" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../シャープマーカーgeck/">シャープマーカーGECK</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/toxic-mist.png" alt="ポイズンミスト" loading="lazy" width="20" height="20" style="vertical-align:middle"> ポイズンミスト</td><td><img src="/gamers-for/images/games/splatoon3/specials/ink-storm.png" alt="アメフラシ" loading="lazy" width="20" height="20" style="vertical-align:middle"> アメフラシ</td></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/splash-o-matic.png" alt="シャープマーカー" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../シャープマーカー/">シャープマーカー</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/burst-bomb.png" alt="クイックボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> クイックボム</td><td><img src="/gamers-for/images/games/splatoon3/specials/crab-tank.png" alt="カニタンク" loading="lazy" width="20" height="20" style="vertical-align:middle"> カニタンク</td></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/neo-splash-o-matic.png" alt="シャープマーカーネオ" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../シャープマーカーネオ/">シャープマーカーネオ</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/burst-bomb.png" alt="クイックボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> クイックボム</td><td><img src="/gamers-for/images/games/splatoon3/specials/triple-inkstrike.png" alt="トリプルトルネード" loading="lazy" width="20" height="20" style="vertical-align:middle"> トリプルトルネード</td></tr>
 </table>
 
 <h2>関連記事</h2>

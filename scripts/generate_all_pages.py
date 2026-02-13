@@ -165,6 +165,103 @@ CASUAL_WEAKNESS = {
     "hard_to_use": "操作が結構ムズいから、使いこなすまでに練習が必要",
 }
 
+# サブウェポン別の強み（武器と組み合わせて使う）
+SUB_STRENGTHS = {
+    "スプラッシュボム": "スプラッシュボムでキルもクリアリングもこなせる。汎用性が高く、投げ得な場面が多い",
+    "キューバンボム": "キューバンボムの固定力が優秀。エリア管理やヤグラ上の相手を退かすのに効果的",
+    "クイックボム": "クイックボムで素早くダメージを入れられる。メインとのコンボで対面力が大幅アップ",
+    "カーリングボム": "カーリングボムで道を作りながら素早く前線に行ける。奇襲ルートの開拓が得意",
+    "ロボットボム": "ロボットボムが敵を追尾して索敵＆牽制。相手の位置が把握しやすくなる",
+    "トラップ": "トラップで裏取りを防げる。センサー効果で敵の接近がバレバレに",
+    "ポイントセンサー": "ポイントセンサーで敵の位置を味方全員に共有。索敵能力がピカイチ",
+    "スプラッシュシールド": "スプラッシュシールドで撃ち合いを有利に。シールド越しに一方的に攻撃できる場面が強い",
+    "スプリンクラー": "スプリンクラーで自動的に塗りが広がる。スペシャルの溜まりが早くなるのがGood",
+    "タンサンボム": "タンサンボムは振れば振るほど爆発回数が増える。塗りにもキルにも使える万能ボム",
+    "ジャンプビーコン": "ジャンプビーコンで味方の前線復帰をサポート。チーム全体の機動力が上がる",
+    "トーピード": "トーピードは索敵しながら遠くの相手にもダメージを入れられる。追撃性能が高い",
+    "ポイズンミスト": "ポイズンミストで相手の動きを鈍くできる。エリア管理や逃げる相手の足止めに有効",
+    "ラインマーカー": "ラインマーカーで着弾点の相手をマーキング。壁越しでも位置がバレバレになる",
+}
+
+# サブウェポン別の弱み
+SUB_WEAKNESSES = {
+    "スプラッシュボム": "スプラッシュボムのインク消費が重く、ボム後のインク管理に注意が必要",
+    "キューバンボム": "キューバンボムはインク消費70%とかなり重い。連投するとインク切れしやすい",
+    "ロボットボム": "ロボットボムは追尾が遅くて直接キルを取りにくい。牽制向きでキル性能は低め",
+    "トラップ": "トラップは設置型で即効性がない。能動的な攻めには向かないサブ",
+    "ポイントセンサー": "ポイントセンサー自体にダメージがなく、直接的な火力補助にはならない",
+    "スプラッシュシールド": "スプラッシュシールドは設置場所を間違えると効果が薄い。置き場の判断が重要",
+    "スプリンクラー": "スプリンクラーは戦闘中のサポート力が弱め。対面の強化には直接繋がりにくい",
+    "ジャンプビーコン": "ジャンプビーコンは自分の戦闘力アップには貢献しない。サポート特化型のサブ",
+    "ポイズンミスト": "ポイズンミストはダメージ判定がなく、相手が避ければ効果が薄い",
+}
+
+# スペシャル別の強み
+SPECIAL_STRENGTHS = {
+    "ウルトラショット": "ウルトラショットで遠くの敵を確実に仕留められる。打開時の切り札として超優秀",
+    "ナイスダマ": "ナイスダマの圧倒的な範囲と火力で打開力バツグン。発動中のアーマーで生存もできる",
+    "カニタンク": "カニタンクに変身すると高火力＋高耐久で無双できる。打開時のエース性能が光る",
+    "ウルトラチャクチ": "ウルトラチャクチで至近距離の敵を一網打尽。接近戦の切り札として心強い",
+    "メガホンレーザー5.1ch": "メガホンレーザー5.1chが広範囲をカバー。牽制・キル・エリア管理なんでもこなせる",
+    "ジェットパック": "ジェットパックで空中から一方的に攻撃できる。地上の敵には圧倒的に有利",
+    "グレートバリア": "グレートバリアで味方ごとバリアに入れる。チームの拠点確保がめちゃくちゃ安定する",
+    "エナジースタンド": "エナジースタンドでチーム全員を強化。復活短縮＋インク回復で味方全体の継戦力UP",
+    "ホップソナー": "ホップソナーで広範囲の索敵＋ダメージ。設置するだけでエリア制圧力が上がる",
+    "テイオウイカ": "テイオウイカの突進で高速キルを狙える。打開時の奇襲性能がピカイチ",
+    "トリプルトルネード": "トリプルトルネードで3箇所同時に攻撃。エリア管理や敵の分断に効果的",
+    "アメフラシ": "アメフラシで広範囲に継続ダメージ。じわじわ敵の行動範囲を狭められる",
+    "サメライド": "サメライドの突進＋爆発で一気に距離を詰めてキルが取れる。意表をつく奇襲が強い",
+    "ウルトラハンコ": "ウルトラハンコの連続攻撃で前線を強引にこじ開けられる。投げ飛ばしも超強力",
+    "キューインキ": "キューインキで敵のインクを吸い込んで跳ね返せる。防御と攻撃を同時にこなす",
+    "デコイチラシ": "デコイチラシで相手のセンサーを撹乱。味方の動きが読まれにくくなるサポート型",
+    "スミナガシート": "スミナガシートで相手の視界をカット。一方的に攻撃できる状況を作れる",
+    "ショクワンダー": "ショクワンダーで壁や天井を自由に移動。奇襲ルートの幅が一気に広がる",
+    "マルチミサイル": "マルチミサイルで複数の敵を同時にロックオン。味方との連携キルが取りやすい",
+}
+
+# スペシャル別の弱み
+SPECIAL_WEAKNESSES = {
+    "カニタンク": "カニタンクは発動位置が重要。背後を取られると解除を狙われやすい",
+    "ジェットパック": "ジェットパック中はチャージャーに狙われやすい。発動タイミングの見極めが大事",
+    "ショクワンダー": "ショクワンダーは使いこなすのが難しい。操作に慣れるまで練習が必要",
+    "ウルトラハンコ": "ウルトラハンコは発動中に横や後ろから撃たれると脆い。突っ込みすぎ注意",
+    "サメライド": "サメライドは読まれると着地を狩られやすい。一直線だから避けられることも",
+    "デコイチラシ": "デコイチラシは直接的なキル貢献が薄い。サポート特化で攻めには向かない",
+}
+
+# 武器種別の強み
+CLASS_STRENGTHS = {
+    "シューター": "シューターの安定した連射力で、塗りもキルもバランスよくこなせる",
+    "ブラスター": "ブラスターの爆風で壁裏の敵にもダメージが入る。遮蔽物越しの戦いが超得意",
+    "ローラー": "ローラーのヨコ振り一撃キルの脅威が絶大。潜伏からの奇襲は回避困難",
+    "フデ": "フデの超高速移動で前線を荒らしまくれる。塗りスピードもトップクラス",
+    "チャージャー": "チャージャーの圧倒的な射程で、存在するだけで相手の動きを制限できる",
+    "スロッシャー": "スロッシャーの放物線攻撃で、高台や障害物越しに一方的に攻撃できる",
+    "スピナー": "スピナーのチャージ後の圧倒的な連射力で、弾幕による制圧が可能",
+    "マニューバー": "マニューバーのスライド機動力で対面を有利に運べる。回避しながら攻撃できる",
+    "シェルター": "シェルターの傘展開で敵の攻撃をブロック。味方の盾にもなれるのが唯一無二",
+    "ストリンガー": "ストリンガーの3方向同時射撃で広範囲をカバー。索敵と牽制の両立が可能",
+    "ワイパー": "ワイパーのヨコ斬り広範囲＋タメ斬り遠距離の使い分けで、あらゆる距離に対応可能",
+}
+
+# 武器種別の弱み
+CLASS_WEAKNESSES = {
+    "シューター": "射程が中程度なので、長射程に一方的に撃たれる場面があるのが課題",
+    "ブラスター": "連射が遅いから外すと一気にピンチ。対面の精度が求められる上級者向け武器",
+    "ローラー": "射程が短くてインクの飛沫が頼り。正面切っての撃ち合いは不得意",
+    "フデ": "一発のダメージが低くて正面からの撃ち合いは不利。立ち回りでカバーが必要",
+    "チャージャー": "接近されると一気に不利。自衛力が低いから味方のカバーが必須",
+    "スロッシャー": "連射力が低くて近距離のシューターに押し込まれると厳しい",
+    "スピナー": "チャージ中は無防備。急な対面やインファイトはかなり苦手",
+    "マニューバー": "スライド後の硬直中に狙われるリスクがある。インク管理もシビア",
+    "シェルター": "傘の耐久値が削られると脆い。チャージャーの一撃で傘が壊れることも",
+    "ストリンガー": "チャージが必要で即座に反撃しにくい。接近戦は基本不利",
+    "ワイパー": "中距離が微妙に苦手。タメ斬りの隙を突かれると反撃が厳しい",
+}
+
+# バリアント武器の追加サフィックスパターン
+VARIANT_SUFFIXES = r'(コラボ|ネオ|デコ|ヒュー|ベッチュー|フォイル|オルタナ|ソレーラ|ソレッラ|ツキ|耀|冥|封|艶|彩|幻|煌|燈|幕|帳|鋼|翠|極|颯|響|叡|壊|咲|凜|剛|駆|鍛|詩|律|爪|角|蹄|圧|繚|惑|箔|彗|GECK|ANGL|OWL|BRNZ|ASH|RUST|FRZN|FRST|WNTR|COBR|PYTN|SNAK|MILK|CREM|MAGM|DAWN|ROSE)$'
+
 
 # =============================================
 # ヘルパー関数
@@ -229,7 +326,7 @@ def write_file(path, content):
 def adjust_tier(base_tier, bonus):
     """ルール別補正でティアを上下"""
     if not base_tier or base_tier not in TIER_NUM:
-        return base_tier
+        base_tier = "B"  # デフォルト
     idx = TIER_NUM[base_tier]
     new_idx = max(0, min(len(TIER_ORDER) - 1, idx - bonus))
     return TIER_ORDER[new_idx]
@@ -330,8 +427,13 @@ def estimate_stars(w):
 
 
 def get_strengths(w):
-    """武器の強みテキストを生成"""
+    """武器の強みテキストを生成（武器種・サブ・スペシャルに基づく個別テキスト）"""
     strengths = []
+    cls = w.get("class", "")
+    sub = w.get("sub", "")
+    special = w.get("special", "")
+
+    # 1. ダメージ・射程・キルタイムからの強み
     if w.get("damage"):
         try:
             dmg = float(w["damage"])
@@ -356,14 +458,34 @@ def get_strengths(w):
                 strengths.append(CASUAL_STRENGTH["fast_kill"])
         except ValueError:
             pass
+
+    # 2. 武器種の強み（stats系がなかった場合のみ追加）
+    if not strengths and cls in CLASS_STRENGTHS:
+        strengths.append(CLASS_STRENGTHS[cls])
+
+    # 3. サブの強み
+    if sub in SUB_STRENGTHS:
+        strengths.append(SUB_STRENGTHS[sub])
+
+    # 4. スペシャルの強み（上限3つに抑える）
+    if len(strengths) < 3 and special in SPECIAL_STRENGTHS:
+        strengths.append(SPECIAL_STRENGTHS[special])
+
+    # フォールバック（ここに到達することはほぼないが念のため）
     if not strengths:
-        strengths.append(f"{w['sub']}と{w['special']}のシナジーがバッチリ。組み合わせの噛み合いが◎")
-    return strengths
+        strengths.append(CLASS_STRENGTHS.get(cls, "バランスの取れた構成で堅実に戦える"))
+
+    return strengths[:3]
 
 
 def get_weaknesses(w):
-    """武器の弱みテキストを生成"""
+    """武器の弱みテキストを生成（武器種・サブ・スペシャルに基づく個別テキスト）"""
     weaknesses = []
+    cls = w.get("class", "")
+    sub = w.get("sub", "")
+    special = w.get("special", "")
+
+    # 1. ダメージ・射程・キルタイムからの弱み
     if w.get("damage"):
         try:
             dmg = float(w["damage"])
@@ -386,17 +508,81 @@ def get_weaknesses(w):
                 weaknesses.append(CASUAL_WEAKNESS["slow_kill"])
         except ValueError:
             pass
+
+    # 2. 武器種の弱み（stats系がなかった場合のみ追加）
+    if not weaknesses and cls in CLASS_WEAKNESSES:
+        weaknesses.append(CLASS_WEAKNESSES[cls])
+
+    # 3. サブ/スペシャルの弱み
+    if len(weaknesses) < 2 and sub in SUB_WEAKNESSES:
+        weaknesses.append(SUB_WEAKNESSES[sub])
+    if len(weaknesses) < 2 and special in SPECIAL_WEAKNESSES:
+        weaknesses.append(SPECIAL_WEAKNESSES[special])
+
+    # フォールバック
     if not weaknesses:
-        weaknesses.append("立ち回りの工夫次第でカバーできるけど、慣れは必要")
-    return weaknesses
+        weaknesses.append(CLASS_WEAKNESSES.get(cls, "立ち回りの工夫でカバーが必要。慣れるまでは練度が要る"))
+
+    return weaknesses[:2]
 
 
 def find_variants(weapons, target_name):
     """同名武器のバリアントを検索"""
-    base = re.sub(r'(コラボ|ネオ|デコ|ヒュー|ベッチュー|フォイル|オルタナ|ソレーラ|ソレッラ|ツキ)$', '', target_name)
+    base = re.sub(VARIANT_SUFFIXES, '', target_name)
     variants = [w for w in weapons if w["name"] != target_name and
-                re.sub(r'(コラボ|ネオ|デコ|ヒュー|ベッチュー|フォイル|オルタナ|ソレーラ|ソレッラ|ツキ)$', '', w["name"]) == base]
+                re.sub(VARIANT_SUFFIXES, '', w["name"]) == base]
     return variants
+
+
+def find_base_weapon(weapons, target_name):
+    """ベース武器を検索して、tier等のデータを継承するために返す"""
+    base_name = re.sub(VARIANT_SUFFIXES, '', target_name)
+    if base_name == target_name:
+        return None
+    # 完全一致で探す
+    base_w = next((w for w in weapons if w['name'] == base_name and w.get('tier', '')), None)
+    if base_w:
+        return base_w
+    # startswithで探す
+    candidates = [w for w in weapons if w['name'].startswith(base_name) and w['name'] != target_name and w.get('tier', '')]
+    if candidates:
+        return candidates[0]
+    return None
+
+
+def inherit_base_data(w, all_weapons):
+    """ベース武器からtier等のデータを継承（元の武器データは変更しない、新dictを返す）"""
+    result = dict(w)
+    if result.get('tier', ''):
+        return result  # すでにデータがある
+
+    base = find_base_weapon(all_weapons, w['name'])
+    if not base:
+        return result
+
+    # tier継承（同じ武器種でサブスペが違うだけなので、1段階落として設定）
+    base_tier = base.get('tier', '')
+    if base_tier:
+        base_idx = TIER_NUM.get(base_tier, 4)
+        # バリアント武器は通常のベースより若干評価が不明なので、同じか1段階下
+        new_idx = min(len(TIER_ORDER) - 1, base_idx + 1)
+        result['tier'] = TIER_ORDER[new_idx]
+
+    # rule_tiers継承（ベースから計算）
+    if not result.get('rule_tiers'):
+        inherited_tier = result.get('tier', 'B')
+        cls = result.get('class', '')
+        result['rule_tiers'] = {}
+        for rk in RULE_NAMES:
+            bonus = RULE_CLASS_BONUS[rk].get(cls, 0)
+            result['rule_tiers'][rk] = adjust_tier(inherited_tier, bonus)
+
+    # damage/range/kill_time継承
+    for key in ['damage', 'range', 'kill_time', 'effective_range', 'special_points', 'unlock_rank']:
+        if not result.get(key, '') and base.get(key, ''):
+            result[key] = base[key]
+
+    return result
 
 
 def esc(text):
@@ -411,11 +597,14 @@ def esc(text):
 # =============================================
 def generate_weapon_page_html(w, all_weapons):
     """Game8と同じ構造のHTMLで武器ページを生成"""
+    # ベース武器からデータを継承
+    w = inherit_base_data(w, all_weapons)
+
     name = w["name"]
     cls = w.get("class", "その他")
     sub = w.get("sub", "")
     special = w.get("special", "")
-    tier = w.get("tier", "B")
+    tier = w.get("tier") or "B"
     slug = weapon_slug(name)
 
     # アイコンパス
@@ -428,10 +617,9 @@ def generate_weapon_page_html(w, all_weapons):
 
     # ルール別評価
     rule_tiers = {}
-    if w.get("rule_tiers"):
-        rule_tiers = w["rule_tiers"]
-    elif w.get("rule_ratings"):
-        rule_tiers = w["rule_ratings"]
+    rt_data = w.get("rule_tiers") or w.get("rule_ratings") or {}
+    if rt_data and any(str(v).strip() for v in rt_data.values()):
+        rule_tiers = rt_data
     else:
         for rk in RULE_NAMES:
             bonus = RULE_CLASS_BONUS[rk].get(cls, 0)
@@ -607,10 +795,14 @@ def generate_weapon_page_html(w, all_weapons):
         html += '<table>\n'
         html += f'<tr><td>{esc(playstyle)}</td></tr>\n'
         html += '</table>\n'
+        # サブの使い方（具体的に）
+        sub_desc = SUB_STRENGTHS.get(sub, f"{sub}でメインの弱点を補おう。状況に合わせて使い分けるのが大事")
         html += f'<h3>サブウェポン「{esc(sub)}」の使い方</h3>\n'
-        html += f'<p>{esc(sub)}をメインの弱点を補うように使おう。牽制や索敵、塗り拡大に活用するのがコツだよ。</p>\n'
+        html += f'<p>{esc(sub_desc)}。メインだけでは届かない場面で積極的に投げていこう。</p>\n'
+        # スペシャルの使い方（具体的に）
+        sp_desc = SPECIAL_STRENGTHS.get(special, f"{special}は使いどころが大事。味方と合わせて発動すると効果倍増")
         html += f'<h3>スペシャル「{esc(special)}」の使い方</h3>\n'
-        html += f'<p>{esc(special)}は試合の流れを変える切り札。ここぞの場面で発動して戦況をひっくり返そう。</p>\n'
+        html += f'<p>{esc(sp_desc)}。溜まったら味方の動きを見て、タイミングを合わせて発動しよう。</p>\n'
     html += '\n'
 
     # ----- h2: 対策 -----
@@ -717,20 +909,22 @@ def generate_weapon_pages():
     for cls in CLASS_ORDER:
         if cls not in class_weapons:
             continue
-        group = sorted(class_weapons[cls], key=lambda w: (rating_to_num(w.get("tier", "")), w["name"]))
-        index_html += f'<h2>{esc(cls)}（{len(group)}種）</h2>\n'
+        # inherit_base_dataで全武器にtierを付与してからソート
+        enriched_group = [inherit_base_data(w, weapons) for w in class_weapons[cls]]
+        enriched_group.sort(key=lambda w: (rating_to_num(w.get("tier") or ""), w["name"]))
+        index_html += f'<h2>{esc(cls)}（{len(enriched_group)}種）</h2>\n'
         index_html += '<table>\n'
         index_html += '<tr><th>武器</th><th>サブ</th><th>スペシャル</th><th>評価</th></tr>\n'
-        for w in group:
-            wicon = icon_img(w.get("icon", ""), w["name"], 28)
-            sub_ic = icon_img(w.get("sub_icon", ""), w.get("sub", ""), 20)
-            sp_ic = icon_img(w.get("special_icon", ""), w.get("special", ""), 20)
-            slug = weapon_slug(w["name"])
-            t = w.get("tier", "-")
+        for ew in enriched_group:
+            wicon = icon_img(ew.get("icon", ""), ew["name"], 28)
+            sub_ic = icon_img(ew.get("sub_icon", ""), ew.get("sub", ""), 20)
+            sp_ic = icon_img(ew.get("special_icon", ""), ew.get("special", ""), 20)
+            slug = weapon_slug(ew["name"])
+            t = ew.get("tier") or "-"
             index_html += f'<tr>'
-            index_html += f'<td>{wicon} <a href="{slug}/">{esc(w["name"])}</a></td>'
-            index_html += f'<td>{sub_ic} {esc(w.get("sub", ""))}</td>'
-            index_html += f'<td>{sp_ic} {esc(w.get("special", ""))}</td>'
+            index_html += f'<td>{wicon} <a href="{slug}/">{esc(ew["name"])}</a></td>'
+            index_html += f'<td>{sub_ic} {esc(ew.get("sub", ""))}</td>'
+            index_html += f'<td>{sp_ic} {esc(ew.get("special", ""))}</td>'
             index_html += f'<td style="text-align:center">{tier_img_small(t, 20)} <strong>{t}</strong></td>'
             index_html += f'</tr>\n'
         index_html += '</table>\n\n'
@@ -751,7 +945,7 @@ description: "スプラトゥーン3の全{len(weapons)}武器データベース
     count = 0
     for w in weapons:
         slug = weapon_slug(w["name"])
-        tier = w.get("tier", "B")
+        w_enriched = inherit_base_data(w, weapons)
 
         page_html = generate_weapon_page_html(w, weapons)
 
@@ -778,7 +972,9 @@ description: "スプラトゥーン3の{w['name']}の性能評価・立ち回り
 # =============================================
 def generate_tier_list():
     weapons = MASTER["weapons"]
-    tiered = [w for w in weapons if w.get("tier")]
+    # 全武器にベース武器からtierを継承
+    enriched = [inherit_base_data(w, weapons) for w in weapons]
+    tiered = [w for w in enriched if w.get("tier")]
     tiered.sort(key=lambda w: (rating_to_num(w["tier"]), w["name"]))
 
     tier_groups = {}
@@ -938,15 +1134,19 @@ def generate_rule_ranking(rule_key):
 
     rule = rule_info[rule_key]
     weapons = MASTER["weapons"]
-    tiered = [w for w in weapons if w.get("tier")]
+    # 全武器にベースデータを継承
+    enriched = [inherit_base_data(w, weapons) for w in weapons]
+    tiered = [w for w in enriched if w.get("tier")]
     boosts = RULE_CLASS_BONUS[rule_key]
 
     adjusted = []
     for w in tiered:
-        if w.get("rule_tiers") and rule_key in w["rule_tiers"]:
-            new_tier = w["rule_tiers"][rule_key]
-        elif w.get("rule_ratings") and rule_key in w["rule_ratings"]:
-            new_tier = w["rule_ratings"][rule_key]
+        rt = w.get("rule_tiers") or {}
+        rr = w.get("rule_ratings") or {}
+        if rt.get(rule_key, '').strip():
+            new_tier = rt[rule_key]
+        elif rr.get(rule_key, '').strip():
+            new_tier = rr[rule_key]
         else:
             bonus = boosts.get(w.get("class", ""), 0)
             new_tier = adjust_tier(w["tier"], bonus)

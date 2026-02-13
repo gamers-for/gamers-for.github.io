@@ -18,7 +18,7 @@ description: "スプラトゥーン3のカーボンローラーANGLの性能評�
   <th colspan="2" style="text-align:center">総合評価</th>
 </tr>
 <tr>
-  <td colspan="2" style="text-align:center;font-size:1.3em"><strong></strong> <strong></strong></td>
+  <td colspan="2" style="text-align:center;font-size:1.3em"><img src="/gamers-for/images/games/splatoon3/tiers/c.webp" alt="C" loading="lazy" width="36" height="36" style="vertical-align:middle"> <strong>C</strong></td>
 </tr>
 <tr>
   <th colspan="2" style="text-align:center">サブ・スペシャル</th>
@@ -50,11 +50,11 @@ description: "スプラトゥーン3のカーボンローラーANGLの性能評�
   <th style="text-align:center">ガチアサリ</th>
 </tr>
 <tr>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/c.webp" alt="C" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>C</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/c.webp" alt="C" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>C</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/c.webp" alt="C" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>C</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/cplus.webp" alt="C+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>C+</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/c.webp" alt="C" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>C</strong></td>
 </tr>
 </table>
 
@@ -62,11 +62,11 @@ description: "スプラトゥーン3のカーボンローラーANGLの性能評�
 <table>
 <tr><th style="background:#e8f5e9;color:#2e7d32">強い点</th></tr>
 <tr><td>
-<b>○ タンサンボムとデコイチラシのシナジーがバッチリ。組み合わせの噛み合いが◎</b>
+<b>○ ローラーのヨコ振り一撃キルの脅威が絶大。潜伏からの奇襲は回避困難</b><hr><b>○ タンサンボムは振れば振るほど爆発回数が増える。塗りにもキルにも使える万能ボム</b><hr><b>○ デコイチラシで相手のセンサーを撹乱。味方の動きが読まれにくくなるサポート型</b>
 </td></tr>
 <tr><th style="background:#ffebee;color:#c62828">弱い点</th></tr>
 <tr><td>
-<b>✕ 立ち回りの工夫次第でカバーできるけど、慣れは必要</b>
+<b>✕ 射程が短くてインクの飛沫が頼り。正面切っての撃ち合いは不得意</b><hr><b>✕ デコイチラシは直接的なキル貢献が薄い。サポート特化で攻めには向かない</b>
 </td></tr>
 </table>
 
@@ -113,15 +113,27 @@ description: "スプラトゥーン3のカーボンローラーANGLの性能評�
 <tr><td>ローラーは潜伏からの奇襲が命。ヨコ振りで一撃キルを狙うのが基本で、相手の位置をしっかり把握してから仕掛けるのが大事。正面から突っ込むのはNG。</td></tr>
 </table>
 <h3>サブウェポン「タンサンボム」の使い方</h3>
-<p>タンサンボムをメインの弱点を補うように使おう。牽制や索敵、塗り拡大に活用するのがコツだよ。</p>
+<p>タンサンボムは振れば振るほど爆発回数が増える。塗りにもキルにも使える万能ボム。メインだけでは届かない場面で積極的に投げていこう。</p>
 <h3>スペシャル「デコイチラシ」の使い方</h3>
-<p>デコイチラシは試合の流れを変える切り札。ここぞの場面で発動して戦況をひっくり返そう。</p>
+<p>デコイチラシで相手のセンサーを撹乱。味方の動きが読まれにくくなるサポート型。溜まったら味方の動きを見て、タイミングを合わせて発動しよう。</p>
 
 <h2>カーボンローラーANGLの性能</h2>
 <h3>性能</h3>
 <table>
 <tr><th>ブキ種</th><td>ローラー</td></tr>
 <tr><th>解放ランク</th><td>-</td></tr>
+<tr><th>攻撃力</th><td>横:25-100</td></tr>
+<tr><th>キルタイム</th><td>軽量、速い振り</td></tr>
+<tr><th>射程（試し撃ち）</th><td>2.7</td></tr>
+</table>
+
+<h2>カーボンローラーANGLの同名武器と違い</h2>
+<h3>サブとスペシャルが違うだけ</h3>
+<table>
+<tr><th>武器名</th><th>サブ</th><th>スペシャル</th></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/carbon-roller-angl.png" alt="カーボンローラーANGL" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../カーボンローラーangl/">カーボンローラーANGL</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/fizzy-bomb.png" alt="タンサンボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> タンサンボム</td><td><img src="/gamers-for/images/games/splatoon3/specials/super-chump.png" alt="デコイチラシ" loading="lazy" width="20" height="20" style="vertical-align:middle"> デコイチラシ</td></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/carbon-roller.png" alt="カーボンローラー" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../カーボンローラー/">カーボンローラー</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/autobomb.png" alt="ロボットボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> ロボットボム</td><td><img src="/gamers-for/images/games/splatoon3/specials/zipcaster.png" alt="ショクワンダー" loading="lazy" width="20" height="20" style="vertical-align:middle"> ショクワンダー</td></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/carbon-roller-deco.png" alt="カーボンローラーデコ" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../カーボンローラーデコ/">カーボンローラーデコ</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/burst-bomb.png" alt="クイックボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> クイックボム</td><td><img src="/gamers-for/images/games/splatoon3/specials/trizooka.png" alt="ウルトラショット" loading="lazy" width="20" height="20" style="vertical-align:middle"> ウルトラショット</td></tr>
 </table>
 
 <h2>関連記事</h2>

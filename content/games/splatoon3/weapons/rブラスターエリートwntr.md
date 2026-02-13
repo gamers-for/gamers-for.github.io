@@ -18,7 +18,7 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
   <th colspan="2" style="text-align:center">総合評価</th>
 </tr>
 <tr>
-  <td colspan="2" style="text-align:center;font-size:1.3em"><strong></strong> <strong></strong></td>
+  <td colspan="2" style="text-align:center;font-size:1.3em"><img src="/gamers-for/images/games/splatoon3/tiers/cplus.webp" alt="C+" loading="lazy" width="36" height="36" style="vertical-align:middle"> <strong>C+</strong></td>
 </tr>
 <tr>
   <th colspan="2" style="text-align:center">サブ・スペシャル</th>
@@ -50,11 +50,11 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
   <th style="text-align:center">ガチアサリ</th>
 </tr>
 <tr>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/c.webp" alt="C" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>C</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/cplus.webp" alt="C+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>C+</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/bplus.webp" alt="B+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>B+</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/cplus.webp" alt="C+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>C+</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/cplus.webp" alt="C+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>C+</strong></td>
 </tr>
 </table>
 
@@ -62,11 +62,11 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
 <table>
 <tr><th style="background:#e8f5e9;color:#2e7d32">強い点</th></tr>
 <tr><td>
-<b>○ キューバンボムとエナジースタンドのシナジーがバッチリ。組み合わせの噛み合いが◎</b>
+<b>○ ブラスターの爆風で壁裏の敵にもダメージが入る。遮蔽物越しの戦いが超得意</b><hr><b>○ キューバンボムの固定力が優秀。エリア管理やヤグラ上の相手を退かすのに効果的</b><hr><b>○ エナジースタンドでチーム全員を強化。復活短縮＋インク回復で味方全体の継戦力UP</b>
 </td></tr>
 <tr><th style="background:#ffebee;color:#c62828">弱い点</th></tr>
 <tr><td>
-<b>✕ 立ち回りの工夫次第でカバーできるけど、慣れは必要</b>
+<b>✕ キルタイムが遅めなので、真正面からの撃ち合いはちょっと厳しい</b><hr><b>✕ キューバンボムはインク消費70%とかなり重い。連投するとインク切れしやすい</b>
 </td></tr>
 </table>
 
@@ -113,15 +113,27 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
 <tr><td>ブラスターは爆風を使って壁裏の相手もキルできるのが最大の強み！直撃を当てれば一撃で倒せるから、エイム力があればめちゃくちゃ強い。ただし連射が遅いから、外すと一気にピンチになる。</td></tr>
 </table>
 <h3>サブウェポン「キューバンボム」の使い方</h3>
-<p>キューバンボムをメインの弱点を補うように使おう。牽制や索敵、塗り拡大に活用するのがコツだよ。</p>
+<p>キューバンボムの固定力が優秀。エリア管理やヤグラ上の相手を退かすのに効果的。メインだけでは届かない場面で積極的に投げていこう。</p>
 <h3>スペシャル「エナジースタンド」の使い方</h3>
-<p>エナジースタンドは試合の流れを変える切り札。ここぞの場面で発動して戦況をひっくり返そう。</p>
+<p>エナジースタンドでチーム全員を強化。復活短縮＋インク回復で味方全体の継戦力UP。溜まったら味方の動きを見て、タイミングを合わせて発動しよう。</p>
 
 <h2>RブラスターエリートWNTRの性能</h2>
 <h3>性能</h3>
 <table>
 <tr><th>ブキ種</th><td>ブラスター</td></tr>
 <tr><th>解放ランク</th><td>-</td></tr>
+<tr><th>攻撃力</th><td>直撃:85/爆風:35</td></tr>
+<tr><th>キルタイム</th><td>0.383秒</td></tr>
+<tr><th>射程（試し撃ち）</th><td>3.8</td></tr>
+</table>
+
+<h2>RブラスターエリートWNTRの同名武器と違い</h2>
+<h3>サブとスペシャルが違うだけ</h3>
+<table>
+<tr><th>武器名</th><th>サブ</th><th>スペシャル</th></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/range-blaster-wntr.png" alt="RブラスターエリートWNTR" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../rブラスターエリートwntr/">RブラスターエリートWNTR</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/suction-bomb.png" alt="キューバンボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> キューバンボム</td><td><img src="/gamers-for/images/games/splatoon3/specials/tacticooler.png" alt="エナジースタンド" loading="lazy" width="20" height="20" style="vertical-align:middle"> エナジースタンド</td></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/range-blaster.png" alt="Rブラスターエリート" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../rブラスターエリート/">Rブラスターエリート</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/point-sensor.png" alt="ポイントセンサー" loading="lazy" width="20" height="20" style="vertical-align:middle"> ポイントセンサー</td><td><img src="/gamers-for/images/games/splatoon3/specials/killer-wail-5-1.png" alt="メガホンレーザー5.1ch" loading="lazy" width="20" height="20" style="vertical-align:middle"> メガホンレーザー5.1ch</td></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/custom-range-blaster.png" alt="Rブラスターエリートデコ" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../rブラスターエリートデコ/">Rブラスターエリートデコ</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/toxic-mist.png" alt="ポイズンミスト" loading="lazy" width="20" height="20" style="vertical-align:middle"> ポイズンミスト</td><td><img src="/gamers-for/images/games/splatoon3/specials/ink-storm.png" alt="アメフラシ" loading="lazy" width="20" height="20" style="vertical-align:middle"> アメフラシ</td></tr>
 </table>
 
 <h2>関連記事</h2>

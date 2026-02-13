@@ -18,7 +18,7 @@ description: "スプラトゥーン3のスプラチャージャーFRSTの性能�
   <th colspan="2" style="text-align:center">総合評価</th>
 </tr>
 <tr>
-  <td colspan="2" style="text-align:center;font-size:1.3em"><strong></strong> <strong></strong></td>
+  <td colspan="2" style="text-align:center;font-size:1.3em"><img src="/gamers-for/images/games/splatoon3/tiers/bplus.webp" alt="B+" loading="lazy" width="36" height="36" style="vertical-align:middle"> <strong>B+</strong></td>
 </tr>
 <tr>
   <th colspan="2" style="text-align:center">サブ・スペシャル</th>
@@ -50,11 +50,11 @@ description: "スプラトゥーン3のスプラチャージャーFRSTの性能�
   <th style="text-align:center">ガチアサリ</th>
 </tr>
 <tr>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/cplus.webp" alt="C+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>C+</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/bplus.webp" alt="B+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>B+</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/bplus.webp" alt="B+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>B+</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/bplus.webp" alt="B+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>B+</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/b.webp" alt="B" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>B</strong></td>
 </tr>
 </table>
 
@@ -62,11 +62,11 @@ description: "スプラトゥーン3のスプラチャージャーFRSTの性能�
 <table>
 <tr><th style="background:#e8f5e9;color:#2e7d32">強い点</th></tr>
 <tr><td>
-<b>○ スプリンクラーとカニタンクのシナジーがバッチリ。組み合わせの噛み合いが◎</b>
+<b>○ 射程がめちゃくちゃ長くて、安全な距離からガンガン撃てるのが強み</b><hr><b>○ スプリンクラーで自動的に塗りが広がる。スペシャルの溜まりが早くなるのがGood</b><hr><b>○ カニタンクに変身すると高火力＋高耐久で無双できる。打開時のエース性能が光る</b>
 </td></tr>
 <tr><th style="background:#ffebee;color:#c62828">弱い点</th></tr>
 <tr><td>
-<b>✕ 立ち回りの工夫次第でカバーできるけど、慣れは必要</b>
+<b>✕ キルタイムが遅めなので、真正面からの撃ち合いはちょっと厳しい</b><hr><b>✕ スプリンクラーは戦闘中のサポート力が弱め。対面の強化には直接繋がりにくい</b>
 </td></tr>
 </table>
 
@@ -113,15 +113,27 @@ description: "スプラトゥーン3のスプラチャージャーFRSTの性能�
 <tr><td>チャージャーは後方から味方をサポートする狙撃手。高台を確保して、相手の前線を下げさせるのが仕事。存在自体がめっちゃ強い。</td></tr>
 </table>
 <h3>サブウェポン「スプリンクラー」の使い方</h3>
-<p>スプリンクラーをメインの弱点を補うように使おう。牽制や索敵、塗り拡大に活用するのがコツだよ。</p>
+<p>スプリンクラーで自動的に塗りが広がる。スペシャルの溜まりが早くなるのがGood。メインだけでは届かない場面で積極的に投げていこう。</p>
 <h3>スペシャル「カニタンク」の使い方</h3>
-<p>カニタンクは試合の流れを変える切り札。ここぞの場面で発動して戦況をひっくり返そう。</p>
+<p>カニタンクに変身すると高火力＋高耐久で無双できる。打開時のエース性能が光る。溜まったら味方の動きを見て、タイミングを合わせて発動しよう。</p>
 
 <h2>スプラチャージャーFRSTの性能</h2>
 <h3>性能</h3>
 <table>
 <tr><th>ブキ種</th><td>チャージャー</td></tr>
 <tr><th>解放ランク</th><td>-</td></tr>
+<tr><th>攻撃力</th><td>フル:160</td></tr>
+<tr><th>キルタイム</th><td>1.067秒</td></tr>
+<tr><th>射程（試し撃ち）</th><td>5.2</td></tr>
+</table>
+
+<h2>スプラチャージャーFRSTの同名武器と違い</h2>
+<h3>サブとスペシャルが違うだけ</h3>
+<table>
+<tr><th>武器名</th><th>サブ</th><th>スペシャル</th></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/splat-charger-frst.png" alt="スプラチャージャーFRST" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../スプラチャージャーfrst/">スプラチャージャーFRST</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/sprinkler.png" alt="スプリンクラー" loading="lazy" width="20" height="20" style="vertical-align:middle"> スプリンクラー</td><td><img src="/gamers-for/images/games/splatoon3/specials/crab-tank.png" alt="カニタンク" loading="lazy" width="20" height="20" style="vertical-align:middle"> カニタンク</td></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/splat-charger.png" alt="スプラチャージャー" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../スプラチャージャー/">スプラチャージャー</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/splat-bomb.png" alt="スプラッシュボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> スプラッシュボム</td><td><img src="/gamers-for/images/games/splatoon3/specials/ink-vac.png" alt="キューインキ" loading="lazy" width="20" height="20" style="vertical-align:middle"> キューインキ</td></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/z-f-splat-charger.png" alt="スプラチャージャーコラボ" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../スプラチャージャーコラボ/">スプラチャージャーコラボ</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/splash-wall.png" alt="スプラッシュシールド" loading="lazy" width="20" height="20" style="vertical-align:middle"> スプラッシュシールド</td><td><img src="/gamers-for/images/games/splatoon3/specials/triple-inkstrike.png" alt="トリプルトルネード" loading="lazy" width="20" height="20" style="vertical-align:middle"> トリプルトルネード</td></tr>
 </table>
 
 <h2>関連記事</h2>

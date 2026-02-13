@@ -18,7 +18,7 @@ description: "スプラトゥーン3のスプラスピナーPYTNの性能評価�
   <th colspan="2" style="text-align:center">総合評価</th>
 </tr>
 <tr>
-  <td colspan="2" style="text-align:center;font-size:1.3em"><strong></strong> <strong></strong></td>
+  <td colspan="2" style="text-align:center;font-size:1.3em"><img src="/gamers-for/images/games/splatoon3/tiers/a.webp" alt="A" loading="lazy" width="36" height="36" style="vertical-align:middle"> <strong>A</strong></td>
 </tr>
 <tr>
   <th colspan="2" style="text-align:center">サブ・スペシャル</th>
@@ -31,7 +31,7 @@ description: "スプラトゥーン3のスプラスピナーPYTNの性能評価�
   <th>扱いやすさ</th><td>★★★☆☆</td>
 </tr>
 <tr>
-  <th>キル</th><td>★★★☆☆</td>
+  <th>キル</th><td>★★☆☆☆</td>
   <th>防御・生存</th><td>★★☆☆☆</td>
 </tr>
 <tr>
@@ -50,11 +50,11 @@ description: "スプラトゥーン3のスプラスピナーPYTNの性能評価�
   <th style="text-align:center">ガチアサリ</th>
 </tr>
 <tr>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
-  <td style="text-align:center"><strong></strong> <strong></strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/a.webp" alt="A" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>A</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/aplus.webp" alt="A+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>A+</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/a.webp" alt="A" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>A</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/bplus.webp" alt="B+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>B+</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/bplus.webp" alt="B+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>B+</strong></td>
 </tr>
 </table>
 
@@ -62,11 +62,11 @@ description: "スプラトゥーン3のスプラスピナーPYTNの性能評価�
 <table>
 <tr><th style="background:#e8f5e9;color:#2e7d32">強い点</th></tr>
 <tr><td>
-<b>○ ジャンプビーコンとウルトラショットのシナジーがバッチリ。組み合わせの噛み合いが◎</b>
+<b>○ スピナーのチャージ後の圧倒的な連射力で、弾幕による制圧が可能</b><hr><b>○ ジャンプビーコンで味方の前線復帰をサポート。チーム全体の機動力が上がる</b><hr><b>○ ウルトラショットで遠くの敵を確実に仕留められる。打開時の切り札として超優秀</b>
 </td></tr>
 <tr><th style="background:#ffebee;color:#c62828">弱い点</th></tr>
 <tr><td>
-<b>✕ 立ち回りの工夫次第でカバーできるけど、慣れは必要</b>
+<b>✕ チャージ中は無防備。急な対面やインファイトはかなり苦手</b><hr><b>✕ ジャンプビーコンは自分の戦闘力アップには貢献しない。サポート特化型のサブ</b>
 </td></tr>
 </table>
 
@@ -113,15 +113,27 @@ description: "スプラトゥーン3のスプラスピナーPYTNの性能評価�
 <tr><td>スピナーはチャージ後の連射火力が圧倒的。弾幕を張って相手を制圧するのが基本で、ポジションを取ってからの撃ち合いがめちゃくちゃ強い！</td></tr>
 </table>
 <h3>サブウェポン「ジャンプビーコン」の使い方</h3>
-<p>ジャンプビーコンをメインの弱点を補うように使おう。牽制や索敵、塗り拡大に活用するのがコツだよ。</p>
+<p>ジャンプビーコンで味方の前線復帰をサポート。チーム全体の機動力が上がる。メインだけでは届かない場面で積極的に投げていこう。</p>
 <h3>スペシャル「ウルトラショット」の使い方</h3>
-<p>ウルトラショットは試合の流れを変える切り札。ここぞの場面で発動して戦況をひっくり返そう。</p>
+<p>ウルトラショットで遠くの敵を確実に仕留められる。打開時の切り札として超優秀。溜まったら味方の動きを見て、タイミングを合わせて発動しよう。</p>
 
 <h2>スプラスピナーPYTNの性能</h2>
 <h3>性能</h3>
 <table>
 <tr><th>ブキ種</th><td>スピナー</td></tr>
 <tr><th>解放ランク</th><td>-</td></tr>
+<tr><th>攻撃力</th><td>32</td></tr>
+<tr><th>キルタイム</th><td>軽量、速いチャージ</td></tr>
+<tr><th>射程（試し撃ち）</th><td>3.2</td></tr>
+</table>
+
+<h2>スプラスピナーPYTNの同名武器と違い</h2>
+<h3>サブとスペシャルが違うだけ</h3>
+<table>
+<tr><th>武器名</th><th>サブ</th><th>スペシャル</th></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/mini-splatling-pytn.png" alt="スプラスピナーPYTN" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../スプラスピナーpytn/">スプラスピナーPYTN</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/squid-beakon.png" alt="ジャンプビーコン" loading="lazy" width="20" height="20" style="vertical-align:middle"> ジャンプビーコン</td><td><img src="/gamers-for/images/games/splatoon3/specials/trizooka.png" alt="ウルトラショット" loading="lazy" width="20" height="20" style="vertical-align:middle"> ウルトラショット</td></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/mini-splatling.png" alt="スプラスピナー" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../スプラスピナー/">スプラスピナー</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/burst-bomb.png" alt="クイックボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> クイックボム</td><td><img src="/gamers-for/images/games/splatoon3/specials/ultra-stamp.png" alt="ウルトラハンコ" loading="lazy" width="20" height="20" style="vertical-align:middle"> ウルトラハンコ</td></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/zink-mini-splatling.png" alt="スプラスピナーコラボ" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../スプラスピナーコラボ/">スプラスピナーコラボ</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/toxic-mist.png" alt="ポイズンミスト" loading="lazy" width="20" height="20" style="vertical-align:middle"> ポイズンミスト</td><td><img src="/gamers-for/images/games/splatoon3/specials/killer-wail-5-1.png" alt="メガホンレーザー5.1ch" loading="lazy" width="20" height="20" style="vertical-align:middle"> メガホンレーザー5.1ch</td></tr>
 </table>
 
 <h2>関連記事</h2>

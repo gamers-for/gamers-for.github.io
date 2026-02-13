@@ -62,11 +62,11 @@ description: "スプラトゥーン3のLACT-450デコの性能評価・立ち回
 <table>
 <tr><th style="background:#e8f5e9;color:#2e7d32">強い点</th></tr>
 <tr><td>
-<b>○ クイックボムとジェットパックのシナジーがバッチリ。組み合わせの噛み合いが◎</b>
+<b>○ ストリンガーの3方向同時射撃で広範囲をカバー。索敵と牽制の両立が可能</b><hr><b>○ クイックボムで素早くダメージを入れられる。メインとのコンボで対面力が大幅アップ</b><hr><b>○ ジェットパックで空中から一方的に攻撃できる。地上の敵には圧倒的に有利</b>
 </td></tr>
 <tr><th style="background:#ffebee;color:#c62828">弱い点</th></tr>
 <tr><td>
-<b>✕ 立ち回りの工夫次第でカバーできるけど、慣れは必要</b>
+<b>✕ チャージが必要で即座に反撃しにくい。接近戦は基本不利</b><hr><b>✕ ジェットパック中はチャージャーに狙われやすい。発動タイミングの見極めが大事</b>
 </td></tr>
 </table>
 
@@ -113,9 +113,9 @@ description: "スプラトゥーン3のLACT-450デコの性能評価・立ち回
 <tr><td>ストリンガーは3方向に同時射撃できるのが特徴。広範囲をカバーできるから、索敵と牽制が得意！</td></tr>
 </table>
 <h3>サブウェポン「クイックボム」の使い方</h3>
-<p>クイックボムをメインの弱点を補うように使おう。牽制や索敵、塗り拡大に活用するのがコツだよ。</p>
+<p>クイックボムで素早くダメージを入れられる。メインとのコンボで対面力が大幅アップ。メインだけでは届かない場面で積極的に投げていこう。</p>
 <h3>スペシャル「ジェットパック」の使い方</h3>
-<p>ジェットパックは試合の流れを変える切り札。ここぞの場面で発動して戦況をひっくり返そう。</p>
+<p>ジェットパックで空中から一方的に攻撃できる。地上の敵には圧倒的に有利。溜まったら味方の動きを見て、タイミングを合わせて発動しよう。</p>
 
 <h2>LACT-450デコの性能</h2>
 <h3>性能</h3>
@@ -130,6 +130,7 @@ description: "スプラトゥーン3のLACT-450デコの性能評価・立ち回
 <tr><th>武器名</th><th>サブ</th><th>スペシャル</th></tr>
 <tr><td><img src="/gamers-for/images/games/splatoon3/weapons/snipewriter-5b.png" alt="LACT-450デコ" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../lact-450デコ/">LACT-450デコ</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/burst-bomb.png" alt="クイックボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> クイックボム</td><td><img src="/gamers-for/images/games/splatoon3/specials/inkjet.png" alt="ジェットパック" loading="lazy" width="20" height="20" style="vertical-align:middle"> ジェットパック</td></tr>
 <tr><td><img src="/gamers-for/images/games/splatoon3/weapons/snipewriter-5h.png" alt="LACT-450" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../lact-450/">LACT-450</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/curling-bomb.png" alt="カーリングボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> カーリングボム</td><td><img src="/gamers-for/images/games/splatoon3/specials/tenta-missiles.png" alt="マルチミサイル" loading="lazy" width="20" height="20" style="vertical-align:middle"> マルチミサイル</td></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/tri-stringer-milk.png" alt="LACT-450MILK" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../lact-450milk/">LACT-450MILK</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/torpedo.png" alt="トーピード" loading="lazy" width="20" height="20" style="vertical-align:middle"> トーピード</td><td><img src="/gamers-for/images/games/splatoon3/specials/booyah-bomb.png" alt="ナイスダマ" loading="lazy" width="20" height="20" style="vertical-align:middle"> ナイスダマ</td></tr>
 </table>
 
 <h2>関連記事</h2>

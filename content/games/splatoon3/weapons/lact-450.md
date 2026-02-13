@@ -62,11 +62,11 @@ description: "スプラトゥーン3のLACT-450の性能評価・立ち回り解
 <table>
 <tr><th style="background:#e8f5e9;color:#2e7d32">強い点</th></tr>
 <tr><td>
-<b>○ カーリングボムとマルチミサイルのシナジーがバッチリ。組み合わせの噛み合いが◎</b>
+<b>○ ストリンガーの3方向同時射撃で広範囲をカバー。索敵と牽制の両立が可能</b><hr><b>○ カーリングボムで道を作りながら素早く前線に行ける。奇襲ルートの開拓が得意</b><hr><b>○ マルチミサイルで複数の敵を同時にロックオン。味方との連携キルが取りやすい</b>
 </td></tr>
 <tr><th style="background:#ffebee;color:#c62828">弱い点</th></tr>
 <tr><td>
-<b>✕ 立ち回りの工夫次第でカバーできるけど、慣れは必要</b>
+<b>✕ チャージが必要で即座に反撃しにくい。接近戦は基本不利</b>
 </td></tr>
 </table>
 <p>LACT-450は塗りが強くてマルチミサイルの回転率が高い武器です。しかしキル能力が低いため使いこなすのはかなり難しい武器と言えます。</p>
@@ -146,6 +146,7 @@ description: "スプラトゥーン3のLACT-450の性能評価・立ち回り解
 <tr><th>武器名</th><th>サブ</th><th>スペシャル</th></tr>
 <tr><td><img src="/gamers-for/images/games/splatoon3/weapons/snipewriter-5h.png" alt="LACT-450" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../lact-450/">LACT-450</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/curling-bomb.png" alt="カーリングボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> カーリングボム</td><td><img src="/gamers-for/images/games/splatoon3/specials/tenta-missiles.png" alt="マルチミサイル" loading="lazy" width="20" height="20" style="vertical-align:middle"> マルチミサイル</td></tr>
 <tr><td><img src="/gamers-for/images/games/splatoon3/weapons/snipewriter-5b.png" alt="LACT-450デコ" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../lact-450デコ/">LACT-450デコ</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/burst-bomb.png" alt="クイックボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> クイックボム</td><td><img src="/gamers-for/images/games/splatoon3/specials/inkjet.png" alt="ジェットパック" loading="lazy" width="20" height="20" style="vertical-align:middle"> ジェットパック</td></tr>
+<tr><td><img src="/gamers-for/images/games/splatoon3/weapons/tri-stringer-milk.png" alt="LACT-450MILK" loading="lazy" width="24" height="24" style="vertical-align:middle"> <a href="../lact-450milk/">LACT-450MILK</a></td><td><img src="/gamers-for/images/games/splatoon3/subs/torpedo.png" alt="トーピード" loading="lazy" width="20" height="20" style="vertical-align:middle"> トーピード</td><td><img src="/gamers-for/images/games/splatoon3/specials/booyah-bomb.png" alt="ナイスダマ" loading="lazy" width="20" height="20" style="vertical-align:middle"> ナイスダマ</td></tr>
 </table>
 
 <h2>関連記事</h2>
