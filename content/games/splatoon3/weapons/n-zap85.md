@@ -8,7 +8,7 @@ tags: ["スプラトゥーン3", "シューター", "N-ZAP85"]
 description: "スプラトゥーン3のN-ZAP85の性能評価・立ち回り解説。サブキューバンボム、スペシャルエナジースタンドの使い方やおすすめギアパワーを紹介。"
 ---
 
-<p class="a-paragraph"><img alt="N-ZAP85" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/></p>
+<p class="a-paragraph"><img alt="N-ZAP85" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/></p>
 <p class="a-paragraph">スプラトゥーン3(スプラ3)における、N-ZAP85（黒ザップ）のすべてを詳しく紹介するよ。</p>
 <p></p>
 <div class="a-outline">
@@ -272,12 +272,12 @@ description: "スプラトゥーン3のN-ZAP85の性能評価・立ち回り解�
 <p class="a-paragraph">開幕は前線の気持ち後ろで自陣を広げ、エナジースタンドが溜まったタイミングで一気に攻めましょう。序盤で人数有利が取れるとその後の展開が楽になるので、開幕はキルを狙いつつもエナジースタンドを貯めることを意識すべきだ。</p>
 
 <h3 class="a-header--3" id="hm_6">中盤以降はとにかく前線でキルを意識</h3>
-<p class="a-paragraph"><img alt="前線で戦う" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/></p>
+<p class="a-paragraph"><img alt="前線で戦う" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/></p>
 <p class="a-paragraph">中盤以降はとにかく前線でキルすることを意識して立回りましょう。塗りも強い武器ですが、前線でキルを取れるポテンシャルがあるのに、後方で動くのはめちゃくちゃ勿体ないんだ。</p>
 <h4 class="a-header--4" id="hs_1">リードしてる時は視界が取れる高所で立ち回る</h4>
 <p class="a-paragraph">リードしてる時は視界が取れる高所で立回りましょう。リスキルはリスクが高いので、複数の相手の動向を見ながら、ボムで圧をかけたりするだけで問題ない。</p>
 <h3 class="a-header--3" id="hm_7">エナジースタンドを使う際は強気に攻める</h3>
-<p class="a-paragraph"><img alt="エナスタ使用" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/></p>
+<p class="a-paragraph"><img alt="エナスタ使用" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/></p>
 <p class="a-paragraph">エナジースタンドを使う際は強気に攻めましょう。素早い動きで相手のエイムをずらしながら戦うこともできる。。イカ速とヒト速が大幅にアップするからだ</p>
 <p class="a-paragraph">また、<b class="a-bold">復活時間が1秒になるぶっ壊れ効果が付与</b>されるので、デスに恐れずキルを狙いに行きましょう。</p>
 <h4 class="a-header--4" id="hs_2">エナジースタンドで付与される効果</h4>
@@ -506,14 +506,14 @@ description: "スプラトゥーン3のN-ZAP85の性能評価・立ち回り解�
 <br/> <br/><b class="a-bold">・地上での射撃のブレを約5%軽減しました。</b>
 </td>
 </tr>
-<tr><td class="center">アプデ前ヒト速<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>ヒト速0.0</td></tr>
-<tr><td class="center">アプデ後ヒト速<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>ヒト速0.0</td></tr>
+<tr><td class="center">アプデ前ヒト速<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>ヒト速0.0</td></tr>
+<tr><td class="center">アプデ後ヒト速<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>ヒト速0.0</td></tr>
 <tr><td class="center">アプデ前弾ブレ<div class="imageLink js-archive-open-image-modal" data-archive-url="" data-image-url="" data-micromodal-trigger="js-archive-open-image-modal">
-<img alt="アプデ前ZAP" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/><span class="imageLink__icon">拡大</span>
+<img alt="アプデ前ZAP" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/><span class="imageLink__icon">拡大</span>
 </div>
 </td></tr>
 <tr><td class="center">アプデ後弾ブレ<div class="imageLink js-archive-open-image-modal" data-archive-url="" data-image-url="" data-micromodal-trigger="js-archive-open-image-modal">
-<img alt="アプデ後ZAP" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/><span class="imageLink__icon">拡大</span>
+<img alt="アプデ後ZAP" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/><span class="imageLink__icon">拡大</span>
 </div>
 </td></tr>
 </table>
@@ -533,9 +533,9 @@ description: "スプラトゥーン3のN-ZAP85の性能評価・立ち回り解�
 <br/><b class="a-bold">・射撃を続けることによって増すブレやすさが、最大になるまでの時間を長くしました。</b>
 </td>
 </tr>
-<tr><td class="center">アプデ前<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<tr><td class="center">アプデ前<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td></tr>
-<tr><td class="center">アプデ後<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<tr><td class="center">アプデ後<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td></tr>
 </table>
 <h3 class="a-header--3" id="hm_16">2024年1月24日(火)のアップデート調整内容</h3>
@@ -577,13 +577,13 @@ description: "スプラトゥーン3のN-ZAP85の性能評価・立ち回り解�
 </tr>
 <tr>
 <td class="center">アプデ前<div class="imageLink js-archive-open-image-modal" data-archive-url="" data-image-url="" data-micromodal-trigger="js-archive-open-image-modal">
-<img alt="アプデ前N-ZAP85" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/><span class="imageLink__icon">拡大</span>
+<img alt="アプデ前N-ZAP85" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/><span class="imageLink__icon">拡大</span>
 </div>
 </td>
 </tr>
 <tr>
 <td class="center">アプデ後<div class="imageLink js-archive-open-image-modal" data-archive-url="" data-image-url="" data-micromodal-trigger="js-archive-open-image-modal">
-<img alt="アプデ後N-ZAP85" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/><span class="imageLink__icon">拡大</span>
+<img alt="アプデ後N-ZAP85" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/><span class="imageLink__icon">拡大</span>
 </div>
 </td>
 </tr>
@@ -609,11 +609,11 @@ description: "スプラトゥーン3のN-ZAP85の性能評価・立ち回り解�
 </td>
 </tr>
 <tr>
-<td class="center">アプデ前(スペ性なし)<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<td class="center">アプデ前(スペ性なし)<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td>
 </tr>
 <tr>
-<td class="center">アプデ後(スペ性なし)<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<td class="center">アプデ後(スペ性なし)<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td>
 </tr>
 </table>
@@ -638,11 +638,11 @@ description: "スプラトゥーン3のN-ZAP85の性能評価・立ち回り解�
 </td>
 </tr>
 <tr>
-<td class="center">アプデ前<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<td class="center">アプデ前<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td>
 </tr>
 <tr>
-<td class="center">アプデ後<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>投げる距離約+1.5、受け取れる距離約+1.1</td>
+<td class="center">アプデ後<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>投げる距離約+1.5、受け取れる距離約+1.1</td>
 </tr>
 </table>
 <h3 class="a-header--3" id="hm_20">2023年2月28日(火)のアップデート調整内容</h3>
@@ -686,7 +686,7 @@ description: "スプラトゥーン3のN-ZAP85の性能評価・立ち回り解�
 <h3 class="a-header--3" id="hm_22">新武器の評価一覧</h3>
 <table class="a-table a-table table--fixed a-table" style="">
 <tr>
-<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="新ブキ一覧" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>▶︎新武器のサブスペ・評価一覧</a></td>
+<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="新ブキ一覧" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>▶︎新武器のサブスペ・評価一覧</a></td>
 </tr>
 <tr>
 <th class="center" colspan="3" width="100%">新ブキ</th>
@@ -735,7 +735,7 @@ description: "スプラトゥーン3のN-ZAP85の性能評価・立ち回り解�
 <h3 class="a-header--3" id="hm_23">最強武器ランキング一覧</h3>
 <table class="a-table a-table a-table" style="">
 <tr>
-<td class="center" colspan="5" width="100%"><a class="a-link" href="/games/splatoon3/tier-list/"><img alt="最強" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>▶︎最強ブキ</a></td>
+<td class="center" colspan="5" width="100%"><a class="a-link" href="/games/splatoon3/tier-list/"><img alt="最強" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>▶︎最強ブキ</a></td>
 </tr>
 <tr>
 <th colspan="5">ルール別最強武器ランキング</th>
@@ -751,7 +751,7 @@ description: "スプラトゥーン3のN-ZAP85の性能評価・立ち回り解�
 <h3 class="a-header--3" id="hm_24">武器の評価一覧</h3>
 <table class="a-table a-table table--fixed a-table" style="">
 <tr>
-<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="ブキ評価" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>▶︎武器の評価一覧に戻る</a></td>
+<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="ブキ評価" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>▶︎武器の評価一覧に戻る</a></td>
 </tr>
 <tr>
 <th class="center" colspan="3" width="100%">ブキ種別評価一覧</th>
@@ -799,8 +799,8 @@ description: "スプラトゥーン3のN-ZAP85の性能評価・立ち回り解�
 <h3 class="a-header--3" id="hm_25">ブキ関連人気記事</h3>
 <table class="a-table a-table a-table" style="">
 <tr>
-<td class="center" width="33%"><a class="a-link" href="#"><img alt="射程ランキング・射程表" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>射程表</a></td>
-<td class="center" width="33%"><a class="a-link" href="#"><img alt="武器の入手方法" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>入手方法</a></td>
-<td class="center" width="33%"><a class="a-link" href="#"><img alt="サブスペ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>サブスペ一覧</a></td>
+<td class="center" width="33%"><a class="a-link" href="#"><img alt="射程ランキング・射程表" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>射程表</a></td>
+<td class="center" width="33%"><a class="a-link" href="#"><img alt="武器の入手方法" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>入手方法</a></td>
+<td class="center" width="33%"><a class="a-link" href="#"><img alt="サブスペ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>サブスペ一覧</a></td>
 </tr>
 </table>

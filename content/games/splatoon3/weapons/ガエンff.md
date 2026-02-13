@@ -8,7 +8,7 @@ tags: ["スプラトゥーン3", "マニューバー", "ガエンFF"]
 description: "スプラトゥーン3のガエンFFの性能評価・立ち回り解説。サブスプラッシュシールド、スペシャルマルチミサイルの使い方やおすすめギアパワーを紹介。"
 ---
 
-<p class="a-paragraph"><img alt="ガエンFF" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/></p>
+<p class="a-paragraph"><img alt="ガエンFF" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/></p>
 <p class="a-paragraph">スプラトゥーン3(スプラ3)における、ガエンFFについて徹底解説していくよ！</p>
 <p></p>
 <div class="a-outline">
@@ -541,9 +541,9 @@ description: "スプラトゥーン3のガエンFFの性能評価・立ち回り
 <br/><b class="a-bold">・スライド後、次に行動できるようになるまでの時間を約3/60秒間短くしました。</b>
 </td>
 </tr>
-<tr><td class="center">アプデ前<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<tr><td class="center">アプデ前<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td></tr>
-<tr><td class="center">アプデ後<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<tr><td class="center">アプデ後<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td></tr>
 </table>
 <h3 class="a-header--3" id="hm_17">2024年7月18日のアップデート調整内容</h3>
@@ -559,33 +559,33 @@ description: "スプラトゥーン3のガエンFFの性能評価・立ち回り
 <br/><b class="a-bold">・・スライドのインクの燃費量を、インクタンクの12%から、10%に軽減しました。</b>
 </td>
 </tr>
-<tr><td class="center">アプデ前立ち撃ち<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<tr><td class="center">アプデ前立ち撃ち<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td></tr>
-<tr><td class="center">アプデ後立ち撃ち<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<tr><td class="center">アプデ後立ち撃ち<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td></tr>
-<tr><td class="center">アプデ前スライド撃ち<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<tr><td class="center">アプデ前スライド撃ち<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td></tr>
-<tr><td class="center">アプデ後スライド撃ち<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<tr><td class="center">アプデ後スライド撃ち<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td></tr>
-<tr><td class="center">アプデ前スライド<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>8回</td></tr>
-<tr><td class="center">アプデ後スライド<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>10回</td></tr>
-<tr><td class="center">アプデ前スライド&amp;スライド撃ち連続<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<tr><td class="center">アプデ前スライド<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>8回</td></tr>
+<tr><td class="center">アプデ後スライド<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>10回</td></tr>
+<tr><td class="center">アプデ前スライド&amp;スライド撃ち連続<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td></tr>
-<tr><td class="center">アプデ後スライド&amp;スライド撃ち連続<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<tr><td class="center">アプデ後スライド&amp;スライド撃ち連続<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td></tr>
 </table>
 <p class="a-paragraph"></p></div>
 </div>
 <h2 class="a-header--2" id="hl_8">ガエンFFの元ネタ</h2>
 <h3 class="a-header--3" id="hm_18">消火器がモチーフ</h3>
-<p class="a-paragraph"><img alt="ガエンFF" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/></p>
+<p class="a-paragraph"><img alt="ガエンFF" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/></p>
 <p class="a-paragraph">ガエンFFは消火器がモチーフだ。名前の「ガエン」は漢字で「臥煙」と書き、江戸の町火消しの鳶の人のことを指します。さらに「FF」は英語で消防士の「Firefighter」から来ていると思われる。</p>
 
 <h2 class="a-header--2" id="hl_9">関連記事</h2>
 <h3 class="a-header--3" id="hm_19">新武器の評価一覧</h3>
 <table class="a-table a-table table--fixed a-table" style="">
 <tr>
-<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="新ブキ一覧" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>▶︎新武器のサブスペ・評価一覧</a></td>
+<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="新ブキ一覧" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>▶︎新武器のサブスペ・評価一覧</a></td>
 </tr>
 <tr>
 <th class="center" colspan="3" width="100%">新ブキ</th>
@@ -634,7 +634,7 @@ description: "スプラトゥーン3のガエンFFの性能評価・立ち回り
 <h3 class="a-header--3" id="hm_20">最強武器ランキング一覧</h3>
 <table class="a-table a-table a-table" style="">
 <tr>
-<td class="center" colspan="5" width="100%"><a class="a-link" href="/games/splatoon3/tier-list/"><img alt="最強" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>▶︎最強ブキ</a></td>
+<td class="center" colspan="5" width="100%"><a class="a-link" href="/games/splatoon3/tier-list/"><img alt="最強" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>▶︎最強ブキ</a></td>
 </tr>
 <tr>
 <th colspan="5">ルール別最強武器ランキング</th>
@@ -650,7 +650,7 @@ description: "スプラトゥーン3のガエンFFの性能評価・立ち回り
 <h3 class="a-header--3" id="hm_21">武器の評価一覧</h3>
 <table class="a-table a-table table--fixed a-table" style="">
 <tr>
-<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="ブキ評価" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>▶︎武器の評価一覧に戻る</a></td>
+<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="ブキ評価" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>▶︎武器の評価一覧に戻る</a></td>
 </tr>
 <tr>
 <th class="center" colspan="3" width="100%">ブキ種別評価一覧</th>
@@ -698,8 +698,8 @@ description: "スプラトゥーン3のガエンFFの性能評価・立ち回り
 <h3 class="a-header--3" id="hm_22">ブキ関連人気記事</h3>
 <table class="a-table a-table a-table" style="">
 <tr>
-<td class="center" width="33%"><a class="a-link" href="#"><img alt="射程ランキング・射程表" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>射程表</a></td>
-<td class="center" width="33%"><a class="a-link" href="#"><img alt="武器の入手方法" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>入手方法</a></td>
-<td class="center" width="33%"><a class="a-link" href="#"><img alt="サブスペ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>サブスペ一覧</a></td>
+<td class="center" width="33%"><a class="a-link" href="#"><img alt="射程ランキング・射程表" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>射程表</a></td>
+<td class="center" width="33%"><a class="a-link" href="#"><img alt="武器の入手方法" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>入手方法</a></td>
+<td class="center" width="33%"><a class="a-link" href="#"><img alt="サブスペ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>サブスペ一覧</a></td>
 </tr>
 </table>

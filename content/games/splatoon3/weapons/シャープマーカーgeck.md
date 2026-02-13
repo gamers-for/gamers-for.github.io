@@ -8,7 +8,7 @@ tags: ["スプラトゥーン3", "シューター", "シャープマーカーGEC
 description: "スプラトゥーン3のシャープマーカーGECKの性能評価・立ち回り解説。サブポイズンミスト、スペシャルアメフラシの使い方やおすすめギアパワーを紹介。"
 ---
 
-<p class="a-paragraph"><img alt="シャープマーカーGECK" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/></p>
+<p class="a-paragraph"><img alt="シャープマーカーGECK" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/></p>
 <p class="a-paragraph">スプラトゥーン3(スプラ3)における、シャープマーカーGECK（シャプマ）を詳しくまとめていくよ。</p>
 <p></p>
 <div class="a-outline">
@@ -348,7 +348,7 @@ description: "スプラトゥーン3のシャープマーカーGECKの性能評�
 <h3 class="a-header--3" id="hm_6">イカニンジャを駆使してキルを取る</h3>
 <p class="a-paragraph">シャープマーカーGECKは、メイン射撃の射程が短めのためイカニンジャを駆使して相手に近づきキルを取りましょう。一方で味方インクがあまり塗り広がっていない場合のイカニンジャはあまり強くないため、そのときは塗りをしてアメフラシを溜めるなどイカニンジャが弱い状況の見極めとそのときの無理をしない動き方も同時に覚えましょう。</p>
 <h3 class="a-header--3" id="hm_7">クイボでカバーをすることを意識する</h3>
-<p class="a-paragraph"><img alt="ポイズンミストから対面に入る" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/><br/>シャープマーカーGECKのサブはポイズンミストのためメインで倒しきることができなかった敵や味方のカバーに使いましょう。サブ性能アップ0.2がちょうど自分の対面にも味方のカバーにも入りやすい程度のクイボの飛距離のためイチオシ。</p>
+<p class="a-paragraph"><img alt="ポイズンミストから対面に入る" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/><br/>シャープマーカーGECKのサブはポイズンミストのためメインで倒しきることができなかった敵や味方のカバーに使いましょう。サブ性能アップ0.2がちょうど自分の対面にも味方のカバーにも入りやすい程度のクイボの飛距離のためイチオシ。</p>
 <h3 class="a-header--3" id="hm_8">アメフラシの回転を意識する</h3>
 <p class="a-paragraph">シャープマーカーGECKはスペシャルのアメフラシがかなり優秀だ。だから、逆転や相手に位置がバレている際は無理してメインとサブで突っ込むのではなく塗りをしてしっかりアメフラシを溜めましょう。アメフラシを使えさえすればボムの直撃+爆風と射撃一発で敵を仕留められるので戦況をひっくり返せます。</p>
 <p class="a-paragraph"><a class="a-btn" href="#"><span>▶︎アメフラシの詳しい使い方を見る</span></a></p>
@@ -634,7 +634,7 @@ description: "スプラトゥーン3のシャープマーカーGECKの性能評�
 <h3 class="a-header--3" id="hm_19">新武器の評価一覧</h3>
 <table class="a-table a-table table--fixed a-table" style="">
 <tr>
-<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="新ブキ一覧" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>▶︎新武器のサブスペ・評価一覧</a></td>
+<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="新ブキ一覧" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>▶︎新武器のサブスペ・評価一覧</a></td>
 </tr>
 <tr>
 <th class="center" colspan="3" width="100%">新ブキ</th>
@@ -683,7 +683,7 @@ description: "スプラトゥーン3のシャープマーカーGECKの性能評�
 <h3 class="a-header--3" id="hm_20">最強武器ランキング一覧</h3>
 <table class="a-table a-table a-table" style="">
 <tr>
-<td class="center" colspan="5" width="100%"><a class="a-link" href="/games/splatoon3/tier-list/"><img alt="最強" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>▶︎最強ブキ</a></td>
+<td class="center" colspan="5" width="100%"><a class="a-link" href="/games/splatoon3/tier-list/"><img alt="最強" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>▶︎最強ブキ</a></td>
 </tr>
 <tr>
 <th colspan="5">ルール別最強武器ランキング</th>
@@ -699,7 +699,7 @@ description: "スプラトゥーン3のシャープマーカーGECKの性能評�
 <h3 class="a-header--3" id="hm_21">武器の評価一覧</h3>
 <table class="a-table a-table table--fixed a-table" style="">
 <tr>
-<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="ブキ評価" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>▶︎武器の評価一覧に戻る</a></td>
+<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="ブキ評価" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>▶︎武器の評価一覧に戻る</a></td>
 </tr>
 <tr>
 <th class="center" colspan="3" width="100%">ブキ種別評価一覧</th>
@@ -747,8 +747,8 @@ description: "スプラトゥーン3のシャープマーカーGECKの性能評�
 <h3 class="a-header--3" id="hm_22">ブキ関連人気記事</h3>
 <table class="a-table a-table a-table" style="">
 <tr>
-<td class="center" width="33%"><a class="a-link" href="#"><img alt="射程ランキング・射程表" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>射程表</a></td>
-<td class="center" width="33%"><a class="a-link" href="#"><img alt="武器の入手方法" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>入手方法</a></td>
-<td class="center" width="33%"><a class="a-link" href="#"><img alt="サブスペ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>サブスペ一覧</a></td>
+<td class="center" width="33%"><a class="a-link" href="#"><img alt="射程ランキング・射程表" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>射程表</a></td>
+<td class="center" width="33%"><a class="a-link" href="#"><img alt="武器の入手方法" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>入手方法</a></td>
+<td class="center" width="33%"><a class="a-link" href="#"><img alt="サブスペ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>サブスペ一覧</a></td>
 </tr>
 </table>

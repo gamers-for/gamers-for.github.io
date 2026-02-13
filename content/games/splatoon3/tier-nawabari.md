@@ -5,15 +5,15 @@ date: 2026-02-13
 description: "スプラトゥーン3のナワバリバトルにおける最強武器ランキング。"
 ---
 
-<p class="a-paragraph"><img alt="ナワバリバトルの最強武器" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/><br/>スプラトゥーン3(スプラ3)における、ナワバリバトルの最強武器ランキングだ。</p>
+<p class="a-paragraph"><img alt="ナワバリバトルの最強武器" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/><br/>スプラトゥーン3(スプラ3)における、ナワバリバトルの最強武器ランキングだ。</p>
 <table class="a-table" style="">
 <tr>
 <th colspan="3" width="100%">最強記事リンク</th>
 </tr>
 <tr>
-<td class="center" width="33%"><a class="a-link" href="/games/splatoon3/tier-list/"><img alt="最強ブキ" class="a-img" height="60" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="60"/>最強ブキ</a></td>
-<td class="center" width="33%"><a class="a-link" href="#"><img alt="最強スペシャル" class="a-img" height="60" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="60"/>最強スペシャル</a></td>
-<td class="center" width="33%"><a class="a-link" href="/games/splatoon3/gear-powers/"><img alt="最強ギアパワー" class="a-img" height="60" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="60"/>最強ギアパワー</a></td>
+<td class="center" width="33%"><a class="a-link" href="/games/splatoon3/tier-list/"><img alt="最強ブキ" class="a-img" height="60" loading="lazy" src="/images/games/splatoon3/placeholders/black-60x60.png" width="60"/>最強ブキ</a></td>
+<td class="center" width="33%"><a class="a-link" href="#"><img alt="最強スペシャル" class="a-img" height="60" loading="lazy" src="/images/games/splatoon3/placeholders/black-60x60.png" width="60"/>最強スペシャル</a></td>
+<td class="center" width="33%"><a class="a-link" href="/games/splatoon3/gear-powers/"><img alt="最強ギアパワー" class="a-img" height="60" loading="lazy" src="/images/games/splatoon3/placeholders/black-60x60.png" width="60"/>最強ギアパワー</a></td>
 </tr>
 </table>
 <table class="a-table" style="">
@@ -531,33 +531,33 @@ description: "スプラトゥーン3のナワバリバトルにおける最強�
 <h2 class="a-header--2" id="hl_3">関連記事</h2>
 <table class="a-table" style="">
 <tr>
-<td class="center" colspan="2"><a class="a-link" href="/games/splatoon3/tier-list/"><img alt="最強" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>最強ブキ</a></td>
+<td class="center" colspan="2"><a class="a-link" href="/games/splatoon3/tier-list/"><img alt="最強" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>最強ブキ</a></td>
 </tr>
 <tr>
 <th colspan="2">最強記事</th>
 </tr>
 <tr>
 <td class="center" width="50%">
-<a class="a-link" href="/games/splatoon3/tier-area/"><img alt="ガチエリア最強ランキング" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>エリア最強武器</a>
+<a class="a-link" href="/games/splatoon3/tier-area/"><img alt="ガチエリア最強ランキング" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>エリア最強武器</a>
 </td>
 <td class="center" width="50%">
-<a class="a-link" href="/games/splatoon3/tier-yagura/"><img alt="ガチヤグラ最強ランキング" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>ヤグラ最強武器</a>
+<a class="a-link" href="/games/splatoon3/tier-yagura/"><img alt="ガチヤグラ最強ランキング" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>ヤグラ最強武器</a>
 </td>
 </tr>
 <tr>
 <td class="center" width="50%">
-<a class="a-link" href="/games/splatoon3/tier-hoko/"><img alt="ガチホコ最強ランキング" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>ホコ最強武器</a>
+<a class="a-link" href="/games/splatoon3/tier-hoko/"><img alt="ガチホコ最強ランキング" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>ホコ最強武器</a>
 </td>
 <td class="center" width="50%">
-<a class="a-link" href="/games/splatoon3/tier-asari/"><img alt="ガチアサリ最強ランキング" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>アサリ最強武器</a>
+<a class="a-link" href="/games/splatoon3/tier-asari/"><img alt="ガチアサリ最強ランキング" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>アサリ最強武器</a>
 </td>
 </tr>
 <tr>
-<td class="center" width="50%"><a class="a-link" href="#"><img alt="最強スペシャル" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>最強スペシャル</a></td>
-<td class="center" width="50%"><a class="a-link" href="/games/splatoon3/gear-powers/"><img alt="最強ギアパワー" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>最強ギアパワー</a></td>
+<td class="center" width="50%"><a class="a-link" href="#"><img alt="最強スペシャル" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>最強スペシャル</a></td>
+<td class="center" width="50%"><a class="a-link" href="/games/splatoon3/gear-powers/"><img alt="最強ギアパワー" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>最強ギアパワー</a></td>
 </tr>
 <tr>
-<td class="center" width="50%"><b class="a-bold"><img alt="ナワバリ最強武器" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>ナワバリ最強武器</b></td>
+<td class="center" width="50%"><b class="a-bold"><img alt="ナワバリ最強武器" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>ナワバリ最強武器</b></td>
 <td class="center" width="50%">-</td>
 </tr>
 </table>

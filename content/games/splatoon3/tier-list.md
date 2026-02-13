@@ -5,16 +5,16 @@ date: 2026-02-13
 description: "スプラトゥーン3の最強武器ランキング。全武器のティア評価を掲載。"
 ---
 
-<p class="a-paragraph"><img alt="最強武器ランキング" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/></p>
+<p class="a-paragraph"><img alt="最強武器ランキング" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/></p>
 <p class="a-paragraph">スプラトゥーン3(スプラ3)最強ブキのランキングだ。ウデマエS+50カンストの管理者が考えているよ。</p>
 <table class="a-table" style="">
 <tr>
 <th colspan="3" width="100%">最強記事リンク</th>
 </tr>
 <tr>
-<td class="center" width="33%"><b class="a-bold"><img alt="最強ブキ" class="a-img" height="60" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="60"/>最強ブキ</b></td>
-<td class="center" width="33%"><a class="a-link" href="#"><img alt="最強スペシャル" class="a-img" height="60" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="60"/>最強スペシャル</a></td>
-<td class="center" width="33%"><a class="a-link" href="/games/splatoon3/gear-powers/"><img alt="最強ギアパワー" class="a-img" height="60" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="60"/>最強ギアパワー</a></td>
+<td class="center" width="33%"><b class="a-bold"><img alt="最強ブキ" class="a-img" height="60" loading="lazy" src="/images/games/splatoon3/placeholders/black-60x60.png" width="60"/>最強ブキ</b></td>
+<td class="center" width="33%"><a class="a-link" href="#"><img alt="最強スペシャル" class="a-img" height="60" loading="lazy" src="/images/games/splatoon3/placeholders/black-60x60.png" width="60"/>最強スペシャル</a></td>
+<td class="center" width="33%"><a class="a-link" href="/games/splatoon3/gear-powers/"><img alt="最強ギアパワー" class="a-img" height="60" loading="lazy" src="/images/games/splatoon3/placeholders/black-60x60.png" width="60"/>最強ギアパワー</a></td>
 </tr>
 </table>
 <table class="a-table" style="">
@@ -285,7 +285,7 @@ description: "スプラトゥーン3の最強武器ランキング。全武器�
 <h3 class="a-header--3" id="hm_2">ガチエリアの最強武器ランキング</h3>
 <table class="a-table a-table" style="">
 <tr>
-<th width="15%"><img alt="評価X" class="a-img" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="30"/></th>
+<th width="15%"><img alt="評価X" class="a-img" loading="lazy" src="/images/games/splatoon3/placeholders/black-30x30.png" width="30"/></th>
 <td width="85%">
 <div class="align">
 <a class="a-link" href="/games/splatoon3/weapons/ジムワイパー/"><img alt="ジムワイパー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/splatana-wiper.png" width="60"/></a>
@@ -298,7 +298,7 @@ description: "スプラトゥーン3の最強武器ランキング。全武器�
 </td>
 </tr>
 <tr>
-<th><img alt="評価S＋" class="a-img" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="30"/></th>
+<th><img alt="評価S＋" class="a-img" loading="lazy" src="/images/games/splatoon3/placeholders/black-30x30.png" width="30"/></th>
 <td><div class="align">
 <a class="a-link" href="/games/splatoon3/weapons/n-zap85/"><img alt="N-ZAP85画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/n-zap-85.png" width="60"/></a>
 <a class="a-link" href="/games/splatoon3/weapons/プライムシューター/"><img alt="プライムシューター画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/splattershot-pro.png" width="60"/></a>
@@ -323,7 +323,7 @@ description: "スプラトゥーン3の最強武器ランキング。全武器�
 <h3 class="a-header--3" id="hm_3">ガチヤグラの最強武器ランキング</h3>
 <table class="a-table a-table" style="">
 <tr>
-<th width="15%"><img alt="評価X" class="a-img" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="30"/></th>
+<th width="15%"><img alt="評価X" class="a-img" loading="lazy" src="/images/games/splatoon3/placeholders/black-30x30.png" width="30"/></th>
 <td width="85%">
 <div class="align">
 <a class="a-link" href="/games/splatoon3/weapons/ジムワイパー/"><img alt="ジムワイパー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/splatana-wiper.png" width="60"/></a>
@@ -338,7 +338,7 @@ description: "スプラトゥーン3の最強武器ランキング。全武器�
 </td>
 </tr>
 <tr>
-<th><img alt="評価S＋" class="a-img" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="30"/></th>
+<th><img alt="評価S＋" class="a-img" loading="lazy" src="/images/games/splatoon3/placeholders/black-30x30.png" width="30"/></th>
 <td><div class="align">
 <a class="a-link" href="/games/splatoon3/weapons/ホットブラスター/"><img alt="ホットブラスター画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/blaster.png" width="60"/></a>
 <a class="a-link" href="/games/splatoon3/weapons/n-zap85/"><img alt="N-ZAP85画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/n-zap-85.png" width="60"/></a>
@@ -369,7 +369,7 @@ description: "スプラトゥーン3の最強武器ランキング。全武器�
 <h3 class="a-header--3" id="hm_4">ガチホコの最強武器ランキング</h3>
 <table class="a-table a-table" style="">
 <tr>
-<th width="15%"><img alt="評価X" class="a-img" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="30"/></th>
+<th width="15%"><img alt="評価X" class="a-img" loading="lazy" src="/images/games/splatoon3/placeholders/black-30x30.png" width="30"/></th>
 <td width="85%">
 <div class="align">
 <a class="a-link" href="/games/splatoon3/weapons/ジムワイパー/"><img alt="ジムワイパー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/splatana-wiper.png" width="60"/></a>
@@ -381,7 +381,7 @@ description: "スプラトゥーン3の最強武器ランキング。全武器�
 </td>
 </tr>
 <tr>
-<th><img alt="評価S＋" class="a-img" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="30"/></th>
+<th><img alt="評価S＋" class="a-img" loading="lazy" src="/images/games/splatoon3/placeholders/black-30x30.png" width="30"/></th>
 <td><div class="align">
 <a class="a-link" href="/games/splatoon3/weapons/トライストリンガー/"><img alt="ドライブワイパー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/splatana-stamper.png" width="60"/></a>
 <a class="a-link" href="/games/splatoon3/weapons/n-zap85/"><img alt="N-ZAP85画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/n-zap-85.png" width="60"/></a>
@@ -408,7 +408,7 @@ description: "スプラトゥーン3の最強武器ランキング。全武器�
 <h3 class="a-header--3" id="hm_5">ガチアサリの最強武器ランキング</h3>
 <table class="a-table a-table" style="">
 <tr>
-<th width="15%"><img alt="評価X" class="a-img" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="30"/></th>
+<th width="15%"><img alt="評価X" class="a-img" loading="lazy" src="/images/games/splatoon3/placeholders/black-30x30.png" width="30"/></th>
 <td width="85%">
 <div class="align">
 <a class="a-link" href="/games/splatoon3/weapons/ジムワイパー/"><img alt="ジムワイパー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/splatana-wiper.png" width="60"/></a>
@@ -420,7 +420,7 @@ description: "スプラトゥーン3の最強武器ランキング。全武器�
 </td>
 </tr>
 <tr>
-<th><img alt="評価S＋" class="a-img" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="30"/></th>
+<th><img alt="評価S＋" class="a-img" loading="lazy" src="/images/games/splatoon3/placeholders/black-30x30.png" width="30"/></th>
 <td><div class="align">
 <a class="a-link" href="/games/splatoon3/weapons/n-zap85/"><img alt="N-ZAP85画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/n-zap-85.png" width="60"/></a>
 <a class="a-link" href="/games/splatoon3/weapons/プライムシューター/"><img alt="プライムシューター画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/splattershot-pro.png" width="60"/></a>
@@ -447,7 +447,7 @@ description: "スプラトゥーン3の最強武器ランキング。全武器�
 <h3 class="a-header--3" id="hm_6">ナワバリの最強武器ランキング</h3>
 <table class="a-table a-table" style="">
 <tr>
-<th width="15%"><img alt="評価X" class="a-img" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="30"/></th>
+<th width="15%"><img alt="評価X" class="a-img" loading="lazy" src="/images/games/splatoon3/placeholders/black-30x30.png" width="30"/></th>
 <td width="85%">
 <div class="align">
 <a class="a-link" href="/games/splatoon3/weapons/バケットスロッシャー/"><img alt="バケットスロッシャー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/slosher.png" width="60"/></a>
@@ -458,7 +458,7 @@ description: "スプラトゥーン3の最強武器ランキング。全武器�
 </td>
 </tr>
 <tr>
-<th><img alt="評価S＋" class="a-img" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="30"/></th>
+<th><img alt="評価S＋" class="a-img" loading="lazy" src="/images/games/splatoon3/placeholders/black-30x30.png" width="30"/></th>
 <td><div class="align">
 <a class="a-link" href="/games/splatoon3/weapons/ジムワイパー/"><img alt="ジムワイパー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/splatana-wiper.png" width="60"/></a>
 <a class="a-link" href="/games/splatoon3/weapons/ダイナモローラー/"><img alt="ダイナモローラー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/dynamo-roller.png" width="60"/></a>
@@ -499,11 +499,11 @@ description: "スプラトゥーン3の最強武器ランキング。全武器�
 </tr>
 <tr>
 <td class="center"><div class="imageLink js-archive-open-image-modal" data-archive-url="" data-image-url="" data-micromodal-trigger="js-archive-open-image-modal">
-<img alt="執筆者ウデマエS+50" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/><span class="imageLink__icon">拡大</span>
+<img alt="執筆者ウデマエS+50" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/><span class="imageLink__icon">拡大</span>
 </div></td>
 <td class="center">
 <div class="imageLink js-archive-open-image-modal" data-archive-url="" data-image-url="" data-micromodal-trigger="js-archive-open-image-modal">
-<img alt="サモラカンストの証拠" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/><span class="imageLink__icon">拡大</span>
+<img alt="サモラカンストの証拠" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/><span class="imageLink__icon">拡大</span>
 </div>
 </td>
 </tr>
@@ -525,37 +525,37 @@ description: "スプラトゥーン3の最強武器ランキング。全武器�
 <h2 class="a-header--2" id="hl_4">関連記事</h2>
 <table class="a-table" style="">
 <tr>
-<td class="center" colspan="2"><a class="a-link" href="/splatoon3"><img alt="攻略TOP" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>攻略TOPに戻る</a></td>
+<td class="center" colspan="2"><a class="a-link" href="/splatoon3"><img alt="攻略TOP" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>攻略TOPに戻る</a></td>
 </tr>
 <tr>
 <th colspan="2">攻略データベース</th>
 </tr>
 <tr>
-<td class="center"><b class="a-bold"><img alt="最強武器" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>最強武器ランキング</b></td>
-<td class="center" width="50%"><a class="a-link" href="#"><img alt="ブキ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>ブキ</a></td>
+<td class="center"><b class="a-bold"><img alt="最強武器" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>最強武器ランキング</b></td>
+<td class="center" width="50%"><a class="a-link" href="#"><img alt="ブキ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>ブキ</a></td>
 </tr>
 <tr>
-<td class="center" width="50%"><a class="a-link" href="#"><img alt="スペシャル" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>スペシャル</a></td>
-<td class="center"><a class="a-link" href="/games/splatoon3/gear/"><img alt="ギア" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>ギアブランド</a></td>
+<td class="center" width="50%"><a class="a-link" href="#"><img alt="スペシャル" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>スペシャル</a></td>
+<td class="center"><a class="a-link" href="/games/splatoon3/gear/"><img alt="ギア" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>ギアブランド</a></td>
 </tr>
 <tr>
-<td class="center"><a class="a-link" href="/games/splatoon3/gear-powers/"><img alt="ギアパワー" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>ギアパワー</a></td>
-<td class="center"><a class="a-link" href="#"><img alt="サブ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>サブ</a></td>
+<td class="center"><a class="a-link" href="/games/splatoon3/gear-powers/"><img alt="ギアパワー" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>ギアパワー</a></td>
+<td class="center"><a class="a-link" href="#"><img alt="サブ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>サブ</a></td>
 </tr>
 <tr>
-<td class="center"><a class="a-link" href="/games/splatoon3/stages/"><img alt="ステージ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>ステージ</a></td>
-<td class="center"><a class="a-link" href="#"><img alt="フェス投票" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>フェス</a></td>
+<td class="center"><a class="a-link" href="/games/splatoon3/stages/"><img alt="ステージ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>ステージ</a></td>
+<td class="center"><a class="a-link" href="#"><img alt="フェス投票" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>フェス</a></td>
 </tr>
 <tr>
-<td class="center"><a class="a-link" href="#"><img alt="ヒーローモード" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>ヒーローモード</a></td>
-<td class="center"><a class="a-link" href="/games/splatoon3/salmon-run/"><img alt="サーモンラン" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>サーモンラン</a></td>
+<td class="center"><a class="a-link" href="#"><img alt="ヒーローモード" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>ヒーローモード</a></td>
+<td class="center"><a class="a-link" href="/games/splatoon3/salmon-run/"><img alt="サーモンラン" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>サーモンラン</a></td>
 </tr>
 <tr>
-<td class="center"><a class="a-link" href="#"><img alt="ナワバトラーのパーシャル" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>ナワバトラー</a></td>
-<td class="center"><a class="a-link" href="#"><img alt="アップデート最新情報" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>アップデート最新情報</a></td>
+<td class="center"><a class="a-link" href="#"><img alt="ナワバトラーのパーシャル" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>ナワバトラー</a></td>
+<td class="center"><a class="a-link" href="#"><img alt="アップデート最新情報" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>アップデート最新情報</a></td>
 </tr>
 <tr>
-<td class="center"><a class="a-link" href="#"><img alt="バンカラマッチ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>バンカラマッチ</a></td>
-<td class="center"><a class="a-link" href="#"><img alt="イベントマッチ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>イベントマッチ</a></td>
+<td class="center"><a class="a-link" href="#"><img alt="バンカラマッチ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>バンカラマッチ</a></td>
+<td class="center"><a class="a-link" href="#"><img alt="イベントマッチ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>イベントマッチ</a></td>
 </tr>
 </table>

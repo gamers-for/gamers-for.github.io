@@ -5,7 +5,7 @@ date: 2026-02-13
 description: "スプラトゥーン3の初心者におすすめの武器を紹介。"
 ---
 
-<p class="a-paragraph"><img alt="初心者おすすめ武器" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/></p>
+<p class="a-paragraph"><img alt="初心者おすすめ武器" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/></p>
 <p class="a-paragraph">スプラトゥーン3(スプラ3)における、初心者良い選択武器を紹介している。</p>
 <p class="a-paragraph"><a class="a-btn" href="#"><span>▶︎初心者が最初にやることはこちら！</span></a></p>
 <p></p>
@@ -324,11 +324,11 @@ description: "スプラトゥーン3の初心者におすすめの武器を紹�
 <tr>
 <td width="100%">
 <div class="align">
-<img alt="スプラトゥーン3のガチマッチのポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="16"/><b class="a-bold">上達したいなら強い持ち武器を1つ定める</b>
+<img alt="スプラトゥーン3のガチマッチのポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/placeholders/black-16x16.png" width="16"/><b class="a-bold">上達したいなら強い持ち武器を1つ定める</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="スプラトゥーン3のガチマッチのポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="16"/><b class="a-bold">その武器の役割を理解して使う</b>
+<img alt="スプラトゥーン3のガチマッチのポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/placeholders/black-16x16.png" width="16"/><b class="a-bold">その武器の役割を理解して使う</b>
 </div>
 </td>
 </tr>
@@ -338,24 +338,24 @@ description: "スプラトゥーン3の初心者におすすめの武器を紹�
 <tr>
 <td width="100%">
 <div class="align">
-<img alt="スプラトゥーン3のガチマッチNG行動" class="a-img" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="16"/><b class="a-bold">扱いづらい・動き方が難しい武器を選ぶ</b>
+<img alt="スプラトゥーン3のガチマッチNG行動" class="a-img" loading="lazy" src="/images/games/splatoon3/placeholders/black-16x16.png" width="16"/><b class="a-bold">扱いづらい・動き方が難しい武器を選ぶ</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="スプラトゥーン3のガチマッチNG行動" class="a-img" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="16"/><b class="a-bold">武器をコロコロ変える</b>
+<img alt="スプラトゥーン3のガチマッチNG行動" class="a-img" loading="lazy" src="/images/games/splatoon3/placeholders/black-16x16.png" width="16"/><b class="a-bold">武器をコロコロ変える</b>
 </div>
 </td>
 </tr>
 </table>
 <h3 class="a-header--3" id="hm_7">上達したいなら強い持ち武器を1つ定めよう</h3>
-<p class="a-paragraph"><img alt="スプラシューター" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/></p>
+<p class="a-paragraph"><img alt="スプラシューター" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/></p>
 <p class="a-paragraph">スプラトゥーンには様々な楽しみ方があるので、正直どんな武器でも使って大丈夫だ。ただ、「初心者だけど早く上達して勝てるようになりたい！」と考える方は武器をコロコロ変えずに自分の持ち武器を1つ決めましょう。1つの武器を使い続けることにより練度が上がり、<span class="a-red">その武器の強み弱みを理解しながら動けるようになるため</span>です。</p>
 <p class="a-paragraph">なかでもナワバリバトルだけでなく、バンカラマッチでウデマエを上げていきたい方は、自分の好きなルールで強い武器を選ぶと良いでしょう。</p>
 <p class="a-paragraph"><a class="a-btn" href="#"><span>▶︎エイムのコツと練習方法を見る</span></a></p>
 <h4 class="a-header--4" id="hs_7">最強ランキング記事をチェック！</h4>
 <table class="a-table a-table" style="">
 <tr>
-<td class="center" colspan="5"><a class="a-link" href="/games/splatoon3/tier-list/"><img alt="最強" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>▶︎最強武器ランキングはこちら！</a></td>
+<td class="center" colspan="5"><a class="a-link" href="/games/splatoon3/tier-list/"><img alt="最強" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>▶︎最強武器ランキングはこちら！</a></td>
 </tr>
 <tr>
 <th colspan="5">ルール別最強武器ランキング</th>
@@ -414,7 +414,7 @@ description: "スプラトゥーン3の初心者におすすめの武器を紹�
 <h2 class="a-header--2" id="hl_4">関連記事</h2>
 <table class="a-table" style="">
 <tr>
-<td class="center" colspan="2"><a class="a-link" href="#"><img alt="初心者攻略記事" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>初心者がやるべきこと！攻略情報まとめを見る</a></td>
+<td class="center" colspan="2"><a class="a-link" href="#"><img alt="初心者攻略記事" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>初心者がやるべきこと！攻略情報まとめを見る</a></td>
 </tr>
 <tr>
 <th colspan="2">プレイ・テクニック解説記事一覧</th>

@@ -8,7 +8,7 @@ tags: ["スプラトゥーン3", "シューター", "プロモデラーRG"]
 description: "スプラトゥーン3のプロモデラーRGの性能評価・立ち回り解説。サブスプラッシュボム、スペシャルナイスダマの使い方やおすすめギアパワーを紹介。"
 ---
 
-<p class="a-paragraph"><img alt="プロモデラーRG" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/></p>
+<p class="a-paragraph"><img alt="プロモデラーRG" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/></p>
 <p class="a-paragraph">スプラトゥーン3(スプラ3)における、プロモデラーRG（金モデラー）について徹底解説していくよ！</p>
 <p></p>
 <div class="a-outline">
@@ -462,8 +462,8 @@ description: "スプラトゥーン3のプロモデラーRGの性能評価・立
 <br/><b class="a-bold">・弾の速度を約3%速くし、飛距離を伸ばしました。</b>
 </td>
 </tr>
-<tr><td class="center">アプデ前<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>確定数維持射程約2.1</td></tr>
-<tr><td class="center">アプデ後<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>確定数維持射程約2.2</td></tr>
+<tr><td class="center">アプデ前<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>確定数維持射程約2.1</td></tr>
+<tr><td class="center">アプデ後<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>確定数維持射程約2.2</td></tr>
 </table>
 <p class="a-paragraph"> </p>
 <div class="a-accordion">
@@ -493,9 +493,9 @@ description: "スプラトゥーン3のプロモデラーRGの性能評価・立
 <br/><b class="a-bold">・<a class="a-link" href="#">グレートバリア</a>に与えるダメージを約33%増やしました。</b>
 </td>
 </tr>
-<tr><td class="center">アプデ前<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<tr><td class="center">アプデ前<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td></tr>
-<tr><td class="center">アプデ後<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<tr><td class="center">アプデ後<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td></tr>
 </table>
 <h3 class="a-header--3" id="hm_19">2024年7月18日のアップデート調整内容</h3>
@@ -511,11 +511,11 @@ description: "スプラトゥーン3のプロモデラーRGの性能評価・立
 </td>
 </tr>
 <tr><td class="center">アプデ前1発<div class="imageLink js-archive-open-image-modal" data-archive-url="" data-image-url="" data-micromodal-trigger="js-archive-open-image-modal">
-<img alt="アプデ前モデラー" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/><span class="imageLink__icon">拡大</span>
+<img alt="アプデ前モデラー" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/><span class="imageLink__icon">拡大</span>
 </div>
 </td></tr>
 <tr><td class="center">アプデ後1発<div class="imageLink js-archive-open-image-modal" data-archive-url="" data-image-url="" data-micromodal-trigger="js-archive-open-image-modal">
-<img alt="アプデ後モデラー" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/><span class="imageLink__icon">拡大</span>
+<img alt="アプデ後モデラー" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/><span class="imageLink__icon">拡大</span>
 </div>
 </td></tr>
 </table>
@@ -560,11 +560,11 @@ description: "スプラトゥーン3のプロモデラーRGの性能評価・立
 <tr>
 </tr>
 <tr>
-<td class="center">アプデ前<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<td class="center">アプデ前<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td>
 </tr>
 <tr>
-<td class="center">アプデ後<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<td class="center">アプデ後<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td>
 </tr>
 </table>
@@ -588,11 +588,11 @@ description: "スプラトゥーン3のプロモデラーRGの性能評価・立
 </td>
 </tr>
 <tr>
-<td class="center">アプデ前<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<td class="center">アプデ前<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td>
 </tr>
 <tr>
-<td class="center">アプデ後<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<td class="center">アプデ後<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td>
 </tr>
 </table>
@@ -609,11 +609,11 @@ description: "スプラトゥーン3のプロモデラーRGの性能評価・立
 </td>
 </tr>
 <tr>
-<td class="center">アプデ前<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<td class="center">アプデ前<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td>
 </tr>
 <tr>
-<td class="center">アプデ後<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<td class="center">アプデ後<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td>
 </tr>
 </table>
@@ -621,7 +621,7 @@ description: "スプラトゥーン3のプロモデラーRGの性能評価・立
 </div>
 <h2 class="a-header--2" id="hl_8">プロモデラーRGの実装日</h2>
 <h3 class="a-header--3" id="hm_24">2022/12/01(木)に実装された</h3>
-<p class="a-paragraph"><img alt="新シーズン" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/><br/>プロモデラーRG(金モデ)は、2022/12/01(木)午前9時に実装されました。アップデートでは、それ以外に新武器や新要素も追加されている。</p>
+<p class="a-paragraph"><img alt="新シーズン" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/><br/>プロモデラーRG(金モデ)は、2022/12/01(木)午前9時に実装されました。アップデートでは、それ以外に新武器や新要素も追加されている。</p>
 <table class="a-table a-table" style="">
 <tr>
 <th class="center" colspan="2">アップデート関連記事</th>
@@ -636,7 +636,7 @@ description: "スプラトゥーン3のプロモデラーRGの性能評価・立
 <h3 class="a-header--3" id="hm_25">新武器の評価一覧</h3>
 <table class="a-table a-table table--fixed a-table" style="">
 <tr>
-<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="新ブキ一覧" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>▶︎新武器のサブスペ・評価一覧</a></td>
+<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="新ブキ一覧" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>▶︎新武器のサブスペ・評価一覧</a></td>
 </tr>
 <tr>
 <th class="center" colspan="3" width="100%">新ブキ</th>
@@ -685,7 +685,7 @@ description: "スプラトゥーン3のプロモデラーRGの性能評価・立
 <h3 class="a-header--3" id="hm_26">最強武器ランキング一覧</h3>
 <table class="a-table a-table a-table" style="">
 <tr>
-<td class="center" colspan="5" width="100%"><a class="a-link" href="/games/splatoon3/tier-list/"><img alt="最強" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>▶︎最強ブキ</a></td>
+<td class="center" colspan="5" width="100%"><a class="a-link" href="/games/splatoon3/tier-list/"><img alt="最強" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>▶︎最強ブキ</a></td>
 </tr>
 <tr>
 <th colspan="5">ルール別最強武器ランキング</th>
@@ -701,7 +701,7 @@ description: "スプラトゥーン3のプロモデラーRGの性能評価・立
 <h3 class="a-header--3" id="hm_27">武器の評価一覧</h3>
 <table class="a-table a-table table--fixed a-table" style="">
 <tr>
-<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="ブキ評価" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>▶︎武器の評価一覧に戻る</a></td>
+<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="ブキ評価" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>▶︎武器の評価一覧に戻る</a></td>
 </tr>
 <tr>
 <th class="center" colspan="3" width="100%">ブキ種別評価一覧</th>
@@ -749,8 +749,8 @@ description: "スプラトゥーン3のプロモデラーRGの性能評価・立
 <h3 class="a-header--3" id="hm_28">ブキ関連人気記事</h3>
 <table class="a-table a-table a-table" style="">
 <tr>
-<td class="center" width="33%"><a class="a-link" href="#"><img alt="射程ランキング・射程表" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>射程表</a></td>
-<td class="center" width="33%"><a class="a-link" href="#"><img alt="武器の入手方法" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>入手方法</a></td>
-<td class="center" width="33%"><a class="a-link" href="#"><img alt="サブスペ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>サブスペ一覧</a></td>
+<td class="center" width="33%"><a class="a-link" href="#"><img alt="射程ランキング・射程表" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>射程表</a></td>
+<td class="center" width="33%"><a class="a-link" href="#"><img alt="武器の入手方法" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>入手方法</a></td>
+<td class="center" width="33%"><a class="a-link" href="#"><img alt="サブスペ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>サブスペ一覧</a></td>
 </tr>
 </table>

@@ -31,6 +31,20 @@ STATIC_IMG = PROJECT_ROOT / "static" / "images" / "games" / "splatoon3"
 # Hugo baseURL prefix (for GitHub Pages)
 BASE_URL_PREFIX = ""
 
+# ─── プレースホルダー黒画像 ──────────────────────────
+def _black_placeholder_src(width, height=0):
+    """サイズに応じた黒プレースホルダー画像パスを返す"""
+    if height and height > 0:
+        actual_w, actual_h = width, height
+    elif width <= 100:
+        actual_w, actual_h = width, width  # 正方形
+    else:
+        actual_w = width
+        actual_h = round(width * 248 / 440)  # ~16:9
+    if actual_w <= 0:
+        actual_w, actual_h = 50, 50
+    return f"{BASE_URL_PREFIX}/images/games/splatoon3/placeholders/black-{actual_w}x{actual_h}.png"
+
 # ─── マスターデータ読み込み ──────────────────────────
 def load_master_data():
     with open(PARSED_DIR / "splatoon3_master_merged.json", "r") as f:
@@ -247,7 +261,7 @@ def remove_unwanted_elements(wrapper):
         while soup_root.parent:
             soup_root = soup_root.parent
         placeholder_img = soup_root.new_tag("img",
-            src=f"{BASE_URL_PREFIX}/images/games/splatoon3/placeholder-icon.png",
+            src=_black_placeholder_src(50, 50),
             alt="動画", width="50", height="50",
             **{"class": "a-img", "loading": "lazy"})
         video.replace_with(placeholder_img)
@@ -324,7 +338,8 @@ def process_images(wrapper, weapon_icon_map, sub_icon_map, special_icon_map, tie
 
         # --- 大きい画像 (hero, width>200) → <img>のままsrcをプレースホルダーに ---
         if width > 200 or (width == 0 and "original" in actual_src):
-            img["src"] = IMG_PREFIX + "placeholder-icon.png"
+            height = int(img.get("height", 0) or 0)
+            img["src"] = _black_placeholder_src(width if width > 0 else 440, height)
             img["loading"] = "lazy"
             if "img-placeholder" not in img.get("class", []):
                 current_classes = img.get("class", [])
@@ -408,9 +423,10 @@ def process_images(wrapper, weapon_icon_map, sub_icon_map, special_icon_map, tie
             img["loading"] = "lazy"
             continue
 
-        # --- その他のGame8画像 → <img>のまま、汎用プレースホルダー画像に ---
+        # --- その他のGame8画像 → <img>のまま、サイズ別黒画像に ---
         if "game8.jp" in actual_src or "img.game8.jp" in actual_src:
-            img["src"] = IMG_PREFIX + "placeholder-icon.png"
+            height = int(img.get("height", 0) or 0)
+            img["src"] = _black_placeholder_src(width if width > 0 else 50, height)
             img["loading"] = "lazy"
             continue
 
@@ -905,7 +921,7 @@ def remove_forbidden_names(html):
     IMG_PREFIX = f"{BASE_URL_PREFIX}/images/games/splatoon3/"
     html = re.sub(r'<source[^>]*src=""[^>]*/?>', '', html)
     html = re.sub(r'<video[^>]*>\s*</video>', '', html)
-    html = re.sub(r'src=""', f'src="{IMG_PREFIX}placeholder-icon.png"', html)
+    html = re.sub(r'src=""', f'src="{IMG_PREFIX}placeholders/black-50x50.png"', html)
 
     # テキスト中の禁止ワード除去
     forbidden = [

@@ -8,7 +8,7 @@ tags: ["スプラトゥーン3", "ストリンガー", "フルイドVカスタ�
 description: "スプラトゥーン3のフルイドVカスタムの性能評価・立ち回り解説。サブトラップ、スペシャルデコイチラシの使い方やおすすめギアパワーを紹介。"
 ---
 
-<p class="a-paragraph"><img alt="フルイドVカスタム" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/></p>
+<p class="a-paragraph"><img alt="フルイドVカスタム" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/></p>
 <p class="a-paragraph">スプラトゥーン3(スプラ3)における、フルイドVカスタム（ラクト）について徹底解説していくよ！</p>
 <p></p>
 <div class="a-outline">
@@ -281,7 +281,7 @@ description: "スプラトゥーン3のフルイドVカスタムの性能評価�
 <p class="a-paragraph">フルイドVカスタムは立ち撃ちだと「ヨコ射ち」となり横長に、ジャンプ撃ちだと「タテ射ち」となり縦長の照準になるよ。射撃中、ヒト状態の時は縦長の当たり判定になるので、タテ射ちを使うことにより相手に全弾ヒットさせやすくなるよ。</p>
 <p class="a-paragraph"><a class="a-link" href="#">Ver.3.1.0のアプデ</a>によりヨコ射ちでも1発で倒しやすくなりましたが、距離が離れている相手にはタテ射ちの方が全弾ヒットさせやすいよ。</p>
 <h3 class="a-header--3" id="hm_7">半チャージで相手の体力を削りきる</h3>
-<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 <p class="a-paragraph">全弾ヒットさせて1発で倒せるのが理想ですが、実戦ではなかなか1発では倒せないでしょう。とはいえフルイドVカスタムは1本で45ダメージなので2本ヒットさせるだけでも90ダメージとなり、相手の体力をほとんど削れる。素早い半チャージで追撃し、倒しきりましょう。この時1本でも当たればいいので、ヨコ射ちを使うと良いなんだ。</p>
 <p class="a-paragraph">それに少しダメージを負っている相手であれば2本当てるだけで倒せるので、全弾ヒットさせられなくても倒せることがあるよ。</p>
 <h3 class="a-header--3" id="hm_8">マルミサはなるべく多くの相手をロックオンする</h3>
@@ -517,9 +517,9 @@ description: "スプラトゥーン3のフルイドVカスタムの性能評価�
 <b class="a-bold">・空中でも地上と同じ速度でチャージできるようにしました。</b>
 </td>
 </tr>
-<tr><td class="center">アプデ前<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<tr><td class="center">アプデ前<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td></tr>
-<tr><td class="center">アプデ後<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<tr><td class="center">アプデ後<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td></tr>
 </table>
 <p class="a-paragraph"> </p>
@@ -539,10 +539,10 @@ description: "スプラトゥーン3のフルイドVカスタムの性能評価�
 </td>
 </tr>
 <tr>
-<td class="center">アプデ前チャージなし連射<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>33発</td>
+<td class="center">アプデ前チャージなし連射<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>33発</td>
 </tr>
 <tr>
-<td class="center">アプデ後チャージなし連射<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>28発</td>
+<td class="center">アプデ後チャージなし連射<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>28発</td>
 </tr>
 </table>
 <h3 class="a-header--3" id="hm_17">2023年10月18日のアップデート調整内容</h3>
@@ -644,7 +644,7 @@ description: "スプラトゥーン3のフルイドVカスタムの性能評価�
 <h3 class="a-header--3" id="hm_21">新武器の評価一覧</h3>
 <table class="a-table a-table table--fixed a-table" style="">
 <tr>
-<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="新ブキ一覧" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>▶︎新武器のサブスペ・評価一覧</a></td>
+<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="新ブキ一覧" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>▶︎新武器のサブスペ・評価一覧</a></td>
 </tr>
 <tr>
 <th class="center" colspan="3" width="100%">新ブキ</th>
@@ -693,7 +693,7 @@ description: "スプラトゥーン3のフルイドVカスタムの性能評価�
 <h3 class="a-header--3" id="hm_22">最強武器ランキング一覧</h3>
 <table class="a-table a-table a-table" style="">
 <tr>
-<td class="center" colspan="5" width="100%"><a class="a-link" href="/games/splatoon3/tier-list/"><img alt="最強" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>▶︎最強ブキ</a></td>
+<td class="center" colspan="5" width="100%"><a class="a-link" href="/games/splatoon3/tier-list/"><img alt="最強" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>▶︎最強ブキ</a></td>
 </tr>
 <tr>
 <th colspan="5">ルール別最強武器ランキング</th>
@@ -709,7 +709,7 @@ description: "スプラトゥーン3のフルイドVカスタムの性能評価�
 <h3 class="a-header--3" id="hm_23">武器の評価一覧</h3>
 <table class="a-table a-table table--fixed a-table" style="">
 <tr>
-<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="ブキ評価" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>▶︎武器の評価一覧に戻る</a></td>
+<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="ブキ評価" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>▶︎武器の評価一覧に戻る</a></td>
 </tr>
 <tr>
 <th class="center" colspan="3" width="100%">ブキ種別評価一覧</th>
@@ -757,8 +757,8 @@ description: "スプラトゥーン3のフルイドVカスタムの性能評価�
 <h3 class="a-header--3" id="hm_24">ブキ関連人気記事</h3>
 <table class="a-table a-table a-table" style="">
 <tr>
-<td class="center" width="33%"><a class="a-link" href="#"><img alt="射程ランキング・射程表" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>射程表</a></td>
-<td class="center" width="33%"><a class="a-link" href="#"><img alt="武器の入手方法" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>入手方法</a></td>
-<td class="center" width="33%"><a class="a-link" href="#"><img alt="サブスペ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>サブスペ一覧</a></td>
+<td class="center" width="33%"><a class="a-link" href="#"><img alt="射程ランキング・射程表" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>射程表</a></td>
+<td class="center" width="33%"><a class="a-link" href="#"><img alt="武器の入手方法" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>入手方法</a></td>
+<td class="center" width="33%"><a class="a-link" href="#"><img alt="サブスペ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>サブスペ一覧</a></td>
 </tr>
 </table>

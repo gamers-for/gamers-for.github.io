@@ -8,7 +8,7 @@ tags: ["スプラトゥーン3", "スロッシャー", "モップリンD"]
 description: "スプラトゥーン3のモップリンDの性能評価・立ち回り解説。サブジャンプビーコン、スペシャルサメライドの使い方やおすすめギアパワーを紹介。"
 ---
 
-<p class="a-paragraph"><img alt="モップリンD" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/></p>
+<p class="a-paragraph"><img alt="モップリンD" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/></p>
 <p class="a-paragraph">スプラトゥーン3(スプラ3)における、モップリンD（モプD）について徹底解説していくよ！</p>
 <p></p>
 <div class="a-outline">
@@ -271,10 +271,10 @@ description: "スプラトゥーン3のモップリンDの性能評価・立ち�
 <p class="a-paragraph">モップリンDは<a class="a-link" href="#">スロッシャー</a>種の武器なので、曲射が得意な武器だ。地形の遮蔽物や高低差を活かして、相手の射線からは隠れながら一方的に攻撃するのがおすすめ。</p>
 
 <h3 class="a-header--3" id="hm_6">相手を倒す時は一点に当てる意識をする</h3>
-<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 <p class="a-paragraph">モップリンDで相手を倒す際は、2発のインクを一点に集中させるように当てる意識をしよう。1振り2発合計で90ダメージ出るので、<a class="a-link" href="#">ホップソナー</a>などで少しでもダメージを受けている相手であれば1振りで倒せます。</p>
 <h3 class="a-header--3" id="hm_7">塗る時は左右に視点を動かして範囲攻撃をする</h3>
-<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 <p class="a-paragraph">モップリンDは1振りで2発のインクが出る武器なんだ。塗る時は視点を左右に動かしてインクをバラけさせることにより、効率良く塗り広げることも可能だ。</p>
 <h4 class="a-header--4" id="hs_1">相手にダメージを与えているとき範囲攻撃でも良い</h4>
 <p class="a-paragraph">相手に1振り2発の90ダメージを与えた後や、味方が相手にダメージを与えていてカバーに入る際は、一点攻撃ではなく範囲攻撃をしても良いだ。残り40ダメージ程度で倒せる場合は、範囲攻撃の方が相手に当てやすくなり、キルを取りやすくなるよ。</p>
@@ -499,7 +499,7 @@ description: "スプラトゥーン3のモップリンDの性能評価・立ち�
 <h3 class="a-header--3" id="hm_15">新武器の評価一覧</h3>
 <table class="a-table a-table table--fixed a-table" style="">
 <tr>
-<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="新ブキ一覧" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>▶︎新武器のサブスペ・評価一覧</a></td>
+<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="新ブキ一覧" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>▶︎新武器のサブスペ・評価一覧</a></td>
 </tr>
 <tr>
 <th class="center" colspan="3" width="100%">新ブキ</th>
@@ -548,7 +548,7 @@ description: "スプラトゥーン3のモップリンDの性能評価・立ち�
 <h3 class="a-header--3" id="hm_16">最強武器ランキング一覧</h3>
 <table class="a-table a-table a-table" style="">
 <tr>
-<td class="center" colspan="5" width="100%"><a class="a-link" href="/games/splatoon3/tier-list/"><img alt="最強" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>▶︎最強ブキ</a></td>
+<td class="center" colspan="5" width="100%"><a class="a-link" href="/games/splatoon3/tier-list/"><img alt="最強" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>▶︎最強ブキ</a></td>
 </tr>
 <tr>
 <th colspan="5">ルール別最強武器ランキング</th>
@@ -564,7 +564,7 @@ description: "スプラトゥーン3のモップリンDの性能評価・立ち�
 <h3 class="a-header--3" id="hm_17">武器の評価一覧</h3>
 <table class="a-table a-table table--fixed a-table" style="">
 <tr>
-<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="ブキ評価" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>▶︎武器の評価一覧に戻る</a></td>
+<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="ブキ評価" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>▶︎武器の評価一覧に戻る</a></td>
 </tr>
 <tr>
 <th class="center" colspan="3" width="100%">ブキ種別評価一覧</th>
@@ -612,8 +612,8 @@ description: "スプラトゥーン3のモップリンDの性能評価・立ち�
 <h3 class="a-header--3" id="hm_18">ブキ関連人気記事</h3>
 <table class="a-table a-table a-table" style="">
 <tr>
-<td class="center" width="33%"><a class="a-link" href="#"><img alt="射程ランキング・射程表" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>射程表</a></td>
-<td class="center" width="33%"><a class="a-link" href="#"><img alt="武器の入手方法" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>入手方法</a></td>
-<td class="center" width="33%"><a class="a-link" href="#"><img alt="サブスペ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>サブスペ一覧</a></td>
+<td class="center" width="33%"><a class="a-link" href="#"><img alt="射程ランキング・射程表" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>射程表</a></td>
+<td class="center" width="33%"><a class="a-link" href="#"><img alt="武器の入手方法" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>入手方法</a></td>
+<td class="center" width="33%"><a class="a-link" href="#"><img alt="サブスペ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>サブスペ一覧</a></td>
 </tr>
 </table>

@@ -8,7 +8,7 @@ tags: ["スプラトゥーン3", "ブラスター", "S-BLAST92"]
 description: "スプラトゥーン3のS-BLAST92の性能評価・立ち回り解説。サブスプリンクラー、スペシャルサメライドの使い方やおすすめギアパワーを紹介。"
 ---
 
-<p class="a-paragraph"><img alt="S-BLAST92" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/></p>
+<p class="a-paragraph"><img alt="S-BLAST92" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/></p>
 <p class="a-paragraph">スプラトゥーン3(スプラ3)における、S-BLAST92（エスブラ92(Sブラ)）のすべてを詳しく紹介するよ。</p>
 <p></p>
 <div class="a-outline">
@@ -442,9 +442,9 @@ description: "スプラトゥーン3のS-BLAST92の性能評価・立ち回り�
 <b class="a-bold">・連射間隔を約5/60秒間短くしました。</b>
 </td>
 </tr>
-<tr><td class="center">アプデ前<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<tr><td class="center">アプデ前<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td></tr>
-<tr><td class="center">アプデ後<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<tr><td class="center">アプデ後<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td></tr>
 </table>
 <h4 class="a-header--4" id="hs_2">スペシャルの調整内容</h4>
@@ -468,13 +468,13 @@ description: "スプラトゥーン3のS-BLAST92の性能評価・立ち回り�
 <br/><b class="a-bold">・爆発での塗りの半径を約5%小さくしました。</b>
 </td>
 </tr>
-<tr><td class="center">アプデ前ダメージ範囲<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>半径約2.7(スペ性なし)</td></tr>
-<tr><td class="center">アプデ後ダメージ範囲<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>半径約2.9(スペ性なし)</td></tr>
+<tr><td class="center">アプデ前ダメージ範囲<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>半径約2.7(スペ性なし)</td></tr>
+<tr><td class="center">アプデ後ダメージ範囲<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>半径約2.9(スペ性なし)</td></tr>
 <tr><td class="center">アプデ前塗り範囲<div class="imageLink js-archive-open-image-modal" data-archive-url="" data-image-url="" data-micromodal-trigger="js-archive-open-image-modal">
-<img alt="アプデ前サメライド塗り" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/><span class="imageLink__icon">拡大</span>
+<img alt="アプデ前サメライド塗り" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/><span class="imageLink__icon">拡大</span>
 </div>半径約1.3(スペ性なし)</td></tr>
 <tr><td class="center">アプデ後塗り範囲<div class="imageLink js-archive-open-image-modal" data-archive-url="" data-image-url="" data-micromodal-trigger="js-archive-open-image-modal">
-<img alt="アプデ後サメライド塗り" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/><span class="imageLink__icon">拡大</span>
+<img alt="アプデ後サメライド塗り" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/><span class="imageLink__icon">拡大</span>
 </div>半径約1.2(スペ性なし)</td></tr>
 </table>
 <p class="a-paragraph"> </p>
@@ -503,13 +503,13 @@ description: "スプラトゥーン3のS-BLAST92の性能評価・立ち回り�
 <br/><b class="a-bold">・発動した地形が移動しているとき、レールもそれに合わせて移動するようにしました。</b>
 </td>
 </tr>
-<tr><td class="center">アプデ前レール塗りなし<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<tr><td class="center">アプデ前レール塗りなし<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td></tr>
-<tr><td class="center">アプデ後レール塗り<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<tr><td class="center">アプデ後レール塗り<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td></tr>
-<tr><td class="center">アプデ前レール移動なし<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<tr><td class="center">アプデ前レール移動なし<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td></tr>
-<tr><td class="center">アプデ後レール移動<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<tr><td class="center">アプデ後レール移動<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td></tr>
 </table>
 <h3 class="a-header--3" id="hm_15">2024年4月18日のアップデート調整内容</h3>
@@ -524,11 +524,11 @@ description: "スプラトゥーン3のS-BLAST92の性能評価・立ち回り�
 </td>
 </tr>
 <tr><td class="center">アプデ前<div class="imageLink js-archive-open-image-modal" data-archive-url="" data-image-url="" data-micromodal-trigger="js-archive-open-image-modal">
-<img alt="アプデ前Sブラ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/><span class="imageLink__icon">拡大</span>
+<img alt="アプデ前Sブラ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/><span class="imageLink__icon">拡大</span>
 </div>
 </td></tr>
 <tr><td class="center">アプデ後<div class="imageLink js-archive-open-image-modal" data-archive-url="" data-image-url="" data-micromodal-trigger="js-archive-open-image-modal">
-<img alt="アプデ後Sブラ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/><span class="imageLink__icon">拡大</span>
+<img alt="アプデ後Sブラ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/><span class="imageLink__icon">拡大</span>
 </div>
 </td></tr>
 </table>
@@ -552,11 +552,11 @@ description: "スプラトゥーン3のS-BLAST92の性能評価・立ち回り�
 </td>
 </tr>
 <tr>
-<td class="center">アプデ前<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<td class="center">アプデ前<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td>
 </tr>
 <tr>
-<td class="center">アプデ後<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<td class="center">アプデ後<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td>
 </tr>
 </table>
@@ -572,10 +572,10 @@ description: "スプラトゥーン3のS-BLAST92の性能評価・立ち回り�
 </td>
 </tr>
 <tr>
-<td class="center">アプデ前<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>10発</td>
+<td class="center">アプデ前<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>10発</td>
 </tr>
 <tr>
-<td class="center">アプデ後<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>11発</td>
+<td class="center">アプデ後<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>11発</td>
 </tr>
 <tr>
 <td>
@@ -585,13 +585,13 @@ description: "スプラトゥーン3のS-BLAST92の性能評価・立ち回り�
 </tr>
 <tr>
 <td class="center">アプデ前<div class="imageLink js-archive-open-image-modal" data-archive-url="" data-image-url="" data-micromodal-trigger="js-archive-open-image-modal">
-<img alt="5.1.0前エスブラアク強1.0" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/><span class="imageLink__icon">拡大</span>
+<img alt="5.1.0前エスブラアク強1.0" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/><span class="imageLink__icon">拡大</span>
 </div>
 <a class="a-link" href="#">アクション強化</a>1.0(3.9表記)</td>
 </tr>
 <tr>
 <td class="center">アプデ後<div class="imageLink js-archive-open-image-modal" data-archive-url="" data-image-url="" data-micromodal-trigger="js-archive-open-image-modal">
-<img alt="5.1.0後エスブラアク強1.0" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/><span class="imageLink__icon">拡大</span>
+<img alt="5.1.0後エスブラアク強1.0" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/><span class="imageLink__icon">拡大</span>
 </div>
 <a class="a-link" href="#">アクション強化</a>1.0(3.9表記)</td>
 </tr>
@@ -617,11 +617,11 @@ description: "スプラトゥーン3のS-BLAST92の性能評価・立ち回り�
 </td>
 </tr>
 <tr>
-<td class="center">アプデ前<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<td class="center">アプデ前<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td>
 </tr>
 <tr>
-<td class="center">アプデ後<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<td class="center">アプデ後<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td>
 </tr>
 </table>
@@ -635,7 +635,7 @@ description: "スプラトゥーン3のS-BLAST92の性能評価・立ち回り�
 <table class="a-table a-table" style="">
 <tr>
 <td class="center" width="100%">
-<img alt="スーパースコープ" class="a-img" height="110" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="110"/>スマブラSPのスーパースコープ
+<img alt="スーパースコープ" class="a-img" height="110" loading="lazy" src="/images/games/splatoon3/placeholders/black-110x110.png" width="110"/>スマブラSPのスーパースコープ
 </td>
 </tr>
 </table>
@@ -644,7 +644,7 @@ description: "スプラトゥーン3のS-BLAST92の性能評価・立ち回り�
 <h3 class="a-header--3" id="hm_20">新武器の評価一覧</h3>
 <table class="a-table a-table table--fixed a-table" style="">
 <tr>
-<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="新ブキ一覧" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>▶︎新武器のサブスペ・評価一覧</a></td>
+<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="新ブキ一覧" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>▶︎新武器のサブスペ・評価一覧</a></td>
 </tr>
 <tr>
 <th class="center" colspan="3" width="100%">新ブキ</th>
@@ -693,7 +693,7 @@ description: "スプラトゥーン3のS-BLAST92の性能評価・立ち回り�
 <h3 class="a-header--3" id="hm_21">最強武器ランキング一覧</h3>
 <table class="a-table a-table a-table" style="">
 <tr>
-<td class="center" colspan="5" width="100%"><a class="a-link" href="/games/splatoon3/tier-list/"><img alt="最強" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>▶︎最強ブキ</a></td>
+<td class="center" colspan="5" width="100%"><a class="a-link" href="/games/splatoon3/tier-list/"><img alt="最強" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>▶︎最強ブキ</a></td>
 </tr>
 <tr>
 <th colspan="5">ルール別最強武器ランキング</th>
@@ -709,7 +709,7 @@ description: "スプラトゥーン3のS-BLAST92の性能評価・立ち回り�
 <h3 class="a-header--3" id="hm_22">武器の評価一覧</h3>
 <table class="a-table a-table table--fixed a-table" style="">
 <tr>
-<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="ブキ評価" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>▶︎武器の評価一覧に戻る</a></td>
+<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="ブキ評価" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>▶︎武器の評価一覧に戻る</a></td>
 </tr>
 <tr>
 <th class="center" colspan="3" width="100%">ブキ種別評価一覧</th>
@@ -757,8 +757,8 @@ description: "スプラトゥーン3のS-BLAST92の性能評価・立ち回り�
 <h3 class="a-header--3" id="hm_23">ブキ関連人気記事</h3>
 <table class="a-table a-table a-table" style="">
 <tr>
-<td class="center" width="33%"><a class="a-link" href="#"><img alt="射程ランキング・射程表" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>射程表</a></td>
-<td class="center" width="33%"><a class="a-link" href="#"><img alt="武器の入手方法" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>入手方法</a></td>
-<td class="center" width="33%"><a class="a-link" href="#"><img alt="サブスペ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>サブスペ一覧</a></td>
+<td class="center" width="33%"><a class="a-link" href="#"><img alt="射程ランキング・射程表" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>射程表</a></td>
+<td class="center" width="33%"><a class="a-link" href="#"><img alt="武器の入手方法" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>入手方法</a></td>
+<td class="center" width="33%"><a class="a-link" href="#"><img alt="サブスペ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>サブスペ一覧</a></td>
 </tr>
 </table>

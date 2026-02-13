@@ -5,7 +5,7 @@ date: 2026-02-13
 description: "スプラトゥーン3の全ギアパワー一覧。各ギアの効果を解説。"
 ---
 
-<p class="a-paragraph"><img alt="ギアパワー" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/></p>
+<p class="a-paragraph"><img alt="ギアパワー" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/></p>
 <p class="a-paragraph">スプラトゥーン3(スプラ3)における、ギアパワー一覧をバッチリ載せているよ。</p>
 <table class="a-table" style="">
 <tr>
@@ -271,7 +271,7 @@ description: "スプラトゥーン3の全ギアパワー一覧。各ギアの�
 </tr>
 <tr>
 <td class="center">
-<img alt="？画像" class="a-img" height="30" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="30"/>？
+<img alt="？画像" class="a-img" height="30" loading="lazy" src="/images/games/splatoon3/placeholders/black-30x30.png" width="30"/>？
 
 
 </td>
@@ -317,7 +317,7 @@ description: "スプラトゥーン3の全ギアパワー一覧。各ギアの�
 </tr>
 <tr>
 <td class="center">
-<img alt="メイン性能アップ画像" class="a-img" height="30" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="30"/>メイン性能アップ
+<img alt="メイン性能アップ画像" class="a-img" height="30" loading="lazy" src="/images/games/splatoon3/placeholders/black-30x30.png" width="30"/>メイン性能アップ
 
 
 </td>
@@ -327,7 +327,7 @@ description: "スプラトゥーン3の全ギアパワー一覧。各ギアの�
 </tr>
 <tr>
 <td class="center">
-<img alt="爆風ダメージ軽減・改画像" class="a-img" height="30" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="30"/>爆風ダメージ軽減・改
+<img alt="爆風ダメージ軽減・改画像" class="a-img" height="30" loading="lazy" src="/images/games/splatoon3/placeholders/black-30x30.png" width="30"/>爆風ダメージ軽減・改
 
 
 </td>
@@ -363,37 +363,37 @@ description: "スプラトゥーン3の全ギアパワー一覧。各ギアの�
 <h2 class="a-header--2" id="hl_4">関連記事</h2>
 <table class="a-table" style="">
 <tr>
-<td class="center" colspan="2"><a class="a-link" href="/splatoon3"><img alt="攻略TOP" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>攻略TOPに戻る</a></td>
+<td class="center" colspan="2"><a class="a-link" href="/splatoon3"><img alt="攻略TOP" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>攻略TOPに戻る</a></td>
 </tr>
 <tr>
 <th colspan="2">攻略データベース</th>
 </tr>
 <tr>
-<td class="center"><a class="a-link" href="/games/splatoon3/tier-list/"><img alt="最強武器" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>最強武器ランキング</a></td>
-<td class="center" width="50%"><a class="a-link" href="#"><img alt="ブキ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>ブキ</a></td>
+<td class="center"><a class="a-link" href="/games/splatoon3/tier-list/"><img alt="最強武器" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>最強武器ランキング</a></td>
+<td class="center" width="50%"><a class="a-link" href="#"><img alt="ブキ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>ブキ</a></td>
 </tr>
 <tr>
-<td class="center" width="50%"><a class="a-link" href="#"><img alt="スペシャル" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>スペシャル</a></td>
-<td class="center"><a class="a-link" href="/games/splatoon3/gear/"><img alt="ギア" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>ギアブランド</a></td>
+<td class="center" width="50%"><a class="a-link" href="#"><img alt="スペシャル" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>スペシャル</a></td>
+<td class="center"><a class="a-link" href="/games/splatoon3/gear/"><img alt="ギア" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>ギアブランド</a></td>
 </tr>
 <tr>
-<td class="center"><b class="a-bold"><img alt="ギアパワー" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>ギアパワー</b></td>
-<td class="center"><a class="a-link" href="#"><img alt="サブ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>サブ</a></td>
+<td class="center"><b class="a-bold"><img alt="ギアパワー" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>ギアパワー</b></td>
+<td class="center"><a class="a-link" href="#"><img alt="サブ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>サブ</a></td>
 </tr>
 <tr>
-<td class="center"><a class="a-link" href="/games/splatoon3/stages/"><img alt="ステージ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>ステージ</a></td>
-<td class="center"><a class="a-link" href="#"><img alt="フェス投票" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>フェス</a></td>
+<td class="center"><a class="a-link" href="/games/splatoon3/stages/"><img alt="ステージ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>ステージ</a></td>
+<td class="center"><a class="a-link" href="#"><img alt="フェス投票" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>フェス</a></td>
 </tr>
 <tr>
-<td class="center"><a class="a-link" href="#"><img alt="ヒーローモード" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>ヒーローモード</a></td>
-<td class="center"><a class="a-link" href="/games/splatoon3/salmon-run/"><img alt="サーモンラン" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>サーモンラン</a></td>
+<td class="center"><a class="a-link" href="#"><img alt="ヒーローモード" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>ヒーローモード</a></td>
+<td class="center"><a class="a-link" href="/games/splatoon3/salmon-run/"><img alt="サーモンラン" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>サーモンラン</a></td>
 </tr>
 <tr>
-<td class="center"><a class="a-link" href="#"><img alt="ナワバトラーのパーシャル" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>ナワバトラー</a></td>
-<td class="center"><a class="a-link" href="#"><img alt="アップデート最新情報" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>アップデート最新情報</a></td>
+<td class="center"><a class="a-link" href="#"><img alt="ナワバトラーのパーシャル" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>ナワバトラー</a></td>
+<td class="center"><a class="a-link" href="#"><img alt="アップデート最新情報" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>アップデート最新情報</a></td>
 </tr>
 <tr>
-<td class="center"><a class="a-link" href="#"><img alt="バンカラマッチ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>バンカラマッチ</a></td>
-<td class="center"><a class="a-link" href="#"><img alt="イベントマッチ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>イベントマッチ</a></td>
+<td class="center"><a class="a-link" href="#"><img alt="バンカラマッチ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>バンカラマッチ</a></td>
+<td class="center"><a class="a-link" href="#"><img alt="イベントマッチ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>イベントマッチ</a></td>
 </tr>
 </table>

@@ -5,7 +5,7 @@ date: 2026-02-13
 description: "スプラトゥーン3のステージ一覧。各ステージの特徴と攻略情報。"
 ---
 
-<p class="a-paragraph"><img alt="ステージ（マップ）一覧｜新ステージも掲載" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/></p>
+<p class="a-paragraph"><img alt="ステージ（マップ）一覧｜新ステージも掲載" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/></p>
 <p class="a-paragraph">スプラトゥーン3(スプラ3)における、ステージ（マップ）一覧をバッチリ載せているよ。</p>
 <p></p>
 <div class="a-outline">
@@ -27,20 +27,20 @@ description: "スプラトゥーン3のステージ一覧。各ステージの�
 <table class="a-table a-table" style="">
 <tr>
 <td class="center" width="50%">
-<a class="a-link" href="/games/splatoon3/stages/デカライン高架下/"><img alt="デカライン高架下画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="220"/>デカライン高架下</a>
+<a class="a-link" href="/games/splatoon3/stages/デカライン高架下/"><img alt="デカライン高架下画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-220x124.png" width="220" height="124"/>デカライン高架下</a>
 </td>
 <td class="center" width="50%">-</td>
 </tr>
 </table>
 <h4 class="a-header--4" id="hs_1">デカライン高架下</h4>
-<p class="a-paragraph"><img alt="デカライン高架下" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/></p>
+<p class="a-paragraph"><img alt="デカライン高架下" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/></p>
 <p class="a-paragraph">スプラ1を象徴するステージ「デカライン高架下」がスプラ3で復刻登場します。特出したギミックはありませんが、イカ状態でカナアミを通り抜けて通る通路があったり、塗れる壁が多いのが特徴なんだ。</p>
 <p class="a-paragraph"><a class="a-btn" href="/games/splatoon3/stages/デカライン高架下/"><span>▶︎デカライン高架下のステージマップを見る</span></a></p>
 <h3 class="a-header--3" id="hm_2">ステージは今後もアップデートで追加される？</h3>
-<p class="a-paragraph"><img alt="アップデートでステージ追加予定" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/><br/>今後のアップデートでもステージが追加される予定だ。アップデートで追加されるステージは過去作で登場したが大きく改修されたステージ、過去作で登場してほぼ原型のままのステージだけでなく、全く新しいステージも追加される。</p>
+<p class="a-paragraph"><img alt="アップデートでステージ追加予定" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/><br/>今後のアップデートでもステージが追加される予定だ。アップデートで追加されるステージは過去作で登場したが大きく改修されたステージ、過去作で登場してほぼ原型のままのステージだけでなく、全く新しいステージも追加される。</p>
 <p class="a-paragraph"><a class="a-btn" href="#"><span>▶︎アップデート最新情報まとめ｜アプデはいつ？</span></a></p>
 <h4 class="a-header--4" id="hs_2">デカライン高架下が最後のステージ？</h4>
-<p class="a-paragraph"><img alt="リュウグウターミナルのマップ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/></p>
+<p class="a-paragraph"><img alt="リュウグウターミナルのマップ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/></p>
 <p class="a-paragraph">スプラ2では線対象のステージ「ムツゴ楼」が最後の追加ステージとなっていました。線対象の<a class="a-link" href="/games/splatoon3/stages/リュウグウターミナル/">リュウグウターミナル</a>が追加されていることから、ボーナスアップデートとして追加された<a class="a-link" href="/games/splatoon3/stages/デカライン高架下/">デカライン高架下</a>を例外とすれば、今後のステージ追加の可能性は低いでしょう。</p>
 
 
@@ -49,23 +49,23 @@ description: "スプラトゥーン3のステージ一覧。各ステージの�
 <table class="a-table a-table a-table" style="">
 <tr>
 <td class="center" width="50%">
-<a class="a-link" href="/games/splatoon3/stages/ユノハナ大渓谷/"><img alt="ユノハナ大渓谷画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="220"/>ユノハナ大渓谷</a>
+<a class="a-link" href="/games/splatoon3/stages/ユノハナ大渓谷/"><img alt="ユノハナ大渓谷画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-220x124.png" width="220" height="124"/>ユノハナ大渓谷</a>
 </td>
 <td class="center" width="50%">
-<a class="a-link" href="/games/splatoon3/stages/ゴンズイ地区/"><img alt="ゴンズイ地区画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="220"/>ゴンズイ地区</a>
-</td>
-</tr>
-<tr>
-<td class="center" width="50%">
-<a class="a-link" href="/games/splatoon3/stages/ヤガラ市場/"><img alt="ヤガラ市場画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="220"/>ヤガラ市場</a>
-</td>
-<td class="center" width="50%">
-<a class="a-link" href="/games/splatoon3/stages/マテガイ放水路/"><img alt="マテガイ放水路画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="220"/>マテガイ放水路</a>
+<a class="a-link" href="/games/splatoon3/stages/ゴンズイ地区/"><img alt="ゴンズイ地区画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-220x124.png" width="220" height="124"/>ゴンズイ地区</a>
 </td>
 </tr>
 <tr>
 <td class="center" width="50%">
-<a class="a-link" href="/games/splatoon3/stages/ナメロウ金属/"><img alt="ナメロウ金属画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="220"/>ナメロウ金属</a>
+<a class="a-link" href="/games/splatoon3/stages/ヤガラ市場/"><img alt="ヤガラ市場画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-220x124.png" width="220" height="124"/>ヤガラ市場</a>
+</td>
+<td class="center" width="50%">
+<a class="a-link" href="/games/splatoon3/stages/マテガイ放水路/"><img alt="マテガイ放水路画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-220x124.png" width="220" height="124"/>マテガイ放水路</a>
+</td>
+</tr>
+<tr>
+<td class="center" width="50%">
+<a class="a-link" href="/games/splatoon3/stages/ナメロウ金属/"><img alt="ナメロウ金属画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-220x124.png" width="220" height="124"/>ナメロウ金属</a>
 </td>
 </tr>
 </table>
@@ -73,15 +73,15 @@ description: "スプラトゥーン3のステージ一覧。各ステージの�
 <table class="a-table a-table a-table" style="">
 <tr>
 <td class="center" width="50%">
-<a class="a-link" href="/games/splatoon3/stages/マサバ海峡大橋/"><img alt="マサバ海峡大橋画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="220"/>マサバ海峡大橋</a>
+<a class="a-link" href="/games/splatoon3/stages/マサバ海峡大橋/"><img alt="マサバ海峡大橋画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-220x124.png" width="220" height="124"/>マサバ海峡大橋</a>
 </td>
 <td class="center" width="50%">
-<a class="a-link" href="/games/splatoon3/stages/キンメダイ美術館/"><img alt="キンメダイ美術館画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="220"/>キンメダイ美術館</a>
+<a class="a-link" href="/games/splatoon3/stages/キンメダイ美術館/"><img alt="キンメダイ美術館画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-220x124.png" width="220" height="124"/>キンメダイ美術館</a>
 </td>
 </tr>
 <tr>
 <td class="center" width="50%">
-<a class="a-link" href="/games/splatoon3/stages/マヒマヒリゾート/"><img alt="マヒマヒリゾート＆スパ画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="220"/>マヒマヒリゾート＆スパ</a>
+<a class="a-link" href="/games/splatoon3/stages/マヒマヒリゾート/"><img alt="マヒマヒリゾート＆スパ画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-220x124.png" width="220" height="124"/>マヒマヒリゾート＆スパ</a>
 </td>
 </tr>
 </table>
@@ -89,18 +89,18 @@ description: "スプラトゥーン3のステージ一覧。各ステージの�
 <table class="a-table a-table a-table" style="">
 <tr>
 <td class="center" width="50%">
-<a class="a-link" href="/games/splatoon3/stages/海女美術大学/"><img alt="海女美術大学画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="220"/>海女美術大学</a>
+<a class="a-link" href="/games/splatoon3/stages/海女美術大学/"><img alt="海女美術大学画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-220x124.png" width="220" height="124"/>海女美術大学</a>
 </td>
 <td class="center" width="50%">
-<a class="a-link" href="/games/splatoon3/stages/チョウザメ造船/"><img alt="チョウザメ造船画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="220"/>チョウザメ造船</a>
+<a class="a-link" href="/games/splatoon3/stages/チョウザメ造船/"><img alt="チョウザメ造船画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-220x124.png" width="220" height="124"/>チョウザメ造船</a>
 </td>
 </tr>
 <tr>
 <td class="center" width="50%">
-<a class="a-link" href="/games/splatoon3/stages/ザトウマーケット/"><img alt="ザトウマーケット画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="220"/>ザトウマーケット</a>
+<a class="a-link" href="/games/splatoon3/stages/ザトウマーケット/"><img alt="ザトウマーケット画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-220x124.png" width="220" height="124"/>ザトウマーケット</a>
 </td>
 <td class="center" width="50%">
-<a class="a-link" href="/games/splatoon3/stages/スメーシーワールド/"><img alt="スメーシーワールド画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="220"/>スメーシーワールド</a>
+<a class="a-link" href="/games/splatoon3/stages/スメーシーワールド/"><img alt="スメーシーワールド画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-220x124.png" width="220" height="124"/>スメーシーワールド</a>
 </td>
 </tr>
 <tr>
@@ -111,10 +111,10 @@ description: "スプラトゥーン3のステージ一覧。各ステージの�
 <table class="a-table a-table a-table" style="">
 <tr>
 <td class="center" width="50%">
-<a class="a-link" href="/games/splatoon3/stages/クサヤ温泉/"><img alt="クサヤ温泉画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="220"/>クサヤ温泉</a>
+<a class="a-link" href="/games/splatoon3/stages/クサヤ温泉/"><img alt="クサヤ温泉画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-220x124.png" width="220" height="124"/>クサヤ温泉</a>
 </td>
 <td class="center" width="50%">
-<a class="a-link" href="/games/splatoon3/stages/ヒラメが丘団地/"><img alt="ヒラメが丘団地画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="220"/>ヒラメが丘団地</a>
+<a class="a-link" href="/games/splatoon3/stages/ヒラメが丘団地/"><img alt="ヒラメが丘団地画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-220x124.png" width="220" height="124"/>ヒラメが丘団地</a>
 </td>
 </tr>
 <tr>
@@ -124,10 +124,10 @@ description: "スプラトゥーン3のステージ一覧。各ステージの�
 <table class="a-table a-table a-table" style="">
 <tr>
 <td class="center" width="50%">
-<a class="a-link" href="/games/splatoon3/stages/ナンプラー遺跡/"><img alt="ナンプラー遺跡画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="220"/>ナンプラー遺跡</a>
+<a class="a-link" href="/games/splatoon3/stages/ナンプラー遺跡/"><img alt="ナンプラー遺跡画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-220x124.png" width="220" height="124"/>ナンプラー遺跡</a>
 </td>
 <td class="center" width="50%">
-<a class="a-link" href="/games/splatoon3/stages/マンタマリア号/"><img alt="マンタマリア号画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="220"/>マンタマリア号</a>
+<a class="a-link" href="/games/splatoon3/stages/マンタマリア号/"><img alt="マンタマリア号画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-220x124.png" width="220" height="124"/>マンタマリア号</a>
 </td>
 </tr>
 <tr>
@@ -137,10 +137,10 @@ description: "スプラトゥーン3のステージ一覧。各ステージの�
 <table class="a-table a-table a-table" style="">
 <tr>
 <td class="center" width="50%">
-<a class="a-link" href="/games/splatoon3/stages/タラポートショッピングパーク/"><img alt="タラポートショッピングパーク画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="220"/>タラポートショッピングパーク</a>
+<a class="a-link" href="/games/splatoon3/stages/タラポートショッピングパーク/"><img alt="タラポートショッピングパーク画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-220x124.png" width="220" height="124"/>タラポートショッピングパーク</a>
 </td>
 <td class="center" width="50%">
-<a class="a-link" href="/games/splatoon3/stages/コンブトラック/"><img alt="コンブトラック画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="220"/>コンブトラック</a>
+<a class="a-link" href="/games/splatoon3/stages/コンブトラック/"><img alt="コンブトラック画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-220x124.png" width="220" height="124"/>コンブトラック</a>
 </td>
 </tr>
 <tr>
@@ -150,10 +150,10 @@ description: "スプラトゥーン3のステージ一覧。各ステージの�
 <table class="a-table a-table a-table" style="">
 <tr>
 <td class="center" width="50%">
-<a class="a-link" href="/games/splatoon3/stages/タカアシ経済特区/"><img alt="タカアシ経済特区画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="220"/>タカアシ経済特区</a>
+<a class="a-link" href="/games/splatoon3/stages/タカアシ経済特区/"><img alt="タカアシ経済特区画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-220x124.png" width="220" height="124"/>タカアシ経済特区</a>
 </td>
 <td class="center" width="50%">
-<a class="a-link" href="/games/splatoon3/stages/オヒョウ海運/"><img alt="オヒョウ海運画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="220"/>オヒョウ海運</a>
+<a class="a-link" href="/games/splatoon3/stages/オヒョウ海運/"><img alt="オヒョウ海運画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-220x124.png" width="220" height="124"/>オヒョウ海運</a>
 </td>
 </tr>
 <tr>
@@ -163,10 +163,10 @@ description: "スプラトゥーン3のステージ一覧。各ステージの�
 <table class="a-table a-table a-table" style="">
 <tr>
 <td class="center" width="50%">
-<a class="a-link" href="/games/splatoon3/stages/バイガイ亭/"><img alt="バイガイ亭画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="220"/>バイガイ亭</a>
+<a class="a-link" href="/games/splatoon3/stages/バイガイ亭/"><img alt="バイガイ亭画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-220x124.png" width="220" height="124"/>バイガイ亭</a>
 </td>
 <td class="center" width="50%">
-<a class="a-link" href="/games/splatoon3/stages/ネギトロ炭鉱/"><img alt="ネギトロ炭鉱画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="220"/>ネギトロ炭鉱</a>
+<a class="a-link" href="/games/splatoon3/stages/ネギトロ炭鉱/"><img alt="ネギトロ炭鉱画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-220x124.png" width="220" height="124"/>ネギトロ炭鉱</a>
 </td>
 </tr>
 <tr>
@@ -176,7 +176,7 @@ description: "スプラトゥーン3のステージ一覧。各ステージの�
 <table class="a-table a-table" style="">
 <tr>
 <td class="center" width="50%">
-<a class="a-link" href="/games/splatoon3/stages/カジキ空港/"><img alt="カジキ空港画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="220"/>カジキ空港</a>
+<a class="a-link" href="/games/splatoon3/stages/カジキ空港/"><img alt="カジキ空港画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-220x124.png" width="220" height="124"/>カジキ空港</a>
 </td>
 <td class="center" width="50%">-</td>
 </tr>
@@ -185,7 +185,7 @@ description: "スプラトゥーン3のステージ一覧。各ステージの�
 <table class="a-table a-table" style="">
 <tr>
 <td class="center" width="50%">
-<a class="a-link" href="/games/splatoon3/stages/リュウグウターミナル/"><img alt="リュウグウターミナル画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="220"/>リュウグウターミナル</a>
+<a class="a-link" href="/games/splatoon3/stages/リュウグウターミナル/"><img alt="リュウグウターミナル画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-220x124.png" width="220" height="124"/>リュウグウターミナル</a>
 </td>
 <td class="center" width="50%">-</td>
 </tr>
@@ -194,7 +194,7 @@ description: "スプラトゥーン3のステージ一覧。各ステージの�
 <table class="a-table a-table" style="">
 <tr>
 <td class="center" width="50%">
-<a class="a-link" href="/games/splatoon3/stages/デカライン高架下/"><img alt="デカライン高架下画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="220"/>デカライン高架下</a>
+<a class="a-link" href="/games/splatoon3/stages/デカライン高架下/"><img alt="デカライン高架下画像" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-220x124.png" width="220" height="124"/>デカライン高架下</a>
 </td>
 <td class="center" width="50%">-</td>
 </tr>
@@ -204,37 +204,37 @@ description: "スプラトゥーン3のステージ一覧。各ステージの�
 <h2 class="a-header--2" id="hl_3">関連記事</h2>
 <table class="a-table" style="">
 <tr>
-<td class="center" colspan="2"><a class="a-link" href="/splatoon3"><img alt="攻略TOP" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>攻略TOPに戻る</a></td>
+<td class="center" colspan="2"><a class="a-link" href="/splatoon3"><img alt="攻略TOP" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>攻略TOPに戻る</a></td>
 </tr>
 <tr>
 <th colspan="2">攻略データベース</th>
 </tr>
 <tr>
-<td class="center"><a class="a-link" href="/games/splatoon3/tier-list/"><img alt="最強武器" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>最強武器ランキング</a></td>
-<td class="center" width="50%"><a class="a-link" href="#"><img alt="ブキ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>ブキ</a></td>
+<td class="center"><a class="a-link" href="/games/splatoon3/tier-list/"><img alt="最強武器" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>最強武器ランキング</a></td>
+<td class="center" width="50%"><a class="a-link" href="#"><img alt="ブキ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>ブキ</a></td>
 </tr>
 <tr>
-<td class="center" width="50%"><a class="a-link" href="#"><img alt="スペシャル" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>スペシャル</a></td>
-<td class="center"><a class="a-link" href="/games/splatoon3/gear/"><img alt="ギア" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>ギアブランド</a></td>
+<td class="center" width="50%"><a class="a-link" href="#"><img alt="スペシャル" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>スペシャル</a></td>
+<td class="center"><a class="a-link" href="/games/splatoon3/gear/"><img alt="ギア" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>ギアブランド</a></td>
 </tr>
 <tr>
-<td class="center"><a class="a-link" href="/games/splatoon3/gear-powers/"><img alt="ギアパワー" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>ギアパワー</a></td>
-<td class="center"><a class="a-link" href="#"><img alt="サブ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>サブ</a></td>
+<td class="center"><a class="a-link" href="/games/splatoon3/gear-powers/"><img alt="ギアパワー" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>ギアパワー</a></td>
+<td class="center"><a class="a-link" href="#"><img alt="サブ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>サブ</a></td>
 </tr>
 <tr>
-<td class="center"><b class="a-bold"><img alt="ステージ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>ステージ</b></td>
-<td class="center"><a class="a-link" href="#"><img alt="フェス投票" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>フェス</a></td>
+<td class="center"><b class="a-bold"><img alt="ステージ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>ステージ</b></td>
+<td class="center"><a class="a-link" href="#"><img alt="フェス投票" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>フェス</a></td>
 </tr>
 <tr>
-<td class="center"><a class="a-link" href="#"><img alt="ヒーローモード" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>ヒーローモード</a></td>
-<td class="center"><a class="a-link" href="/games/splatoon3/salmon-run/"><img alt="サーモンラン" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>サーモンラン</a></td>
+<td class="center"><a class="a-link" href="#"><img alt="ヒーローモード" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>ヒーローモード</a></td>
+<td class="center"><a class="a-link" href="/games/splatoon3/salmon-run/"><img alt="サーモンラン" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>サーモンラン</a></td>
 </tr>
 <tr>
-<td class="center"><a class="a-link" href="#"><img alt="ナワバトラーのパーシャル" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>ナワバトラー</a></td>
-<td class="center"><a class="a-link" href="#"><img alt="アップデート最新情報" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>アップデート最新情報</a></td>
+<td class="center"><a class="a-link" href="#"><img alt="ナワバトラーのパーシャル" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>ナワバトラー</a></td>
+<td class="center"><a class="a-link" href="#"><img alt="アップデート最新情報" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>アップデート最新情報</a></td>
 </tr>
 <tr>
-<td class="center"><a class="a-link" href="#"><img alt="バンカラマッチ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>バンカラマッチ</a></td>
-<td class="center"><a class="a-link" href="#"><img alt="イベントマッチ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>イベントマッチ</a></td>
+<td class="center"><a class="a-link" href="#"><img alt="バンカラマッチ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>バンカラマッチ</a></td>
+<td class="center"><a class="a-link" href="#"><img alt="イベントマッチ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>イベントマッチ</a></td>
 </tr>
 </table>

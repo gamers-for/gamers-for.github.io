@@ -8,7 +8,7 @@ tags: ["スプラトゥーン3", "スピナー", "バレルスピナーROSE"]
 description: "スプラトゥーン3のバレルスピナーROSEの性能評価・立ち回り解説。サブポイズンミスト、スペシャルテイオウイカの使い方やおすすめギアパワーを紹介。"
 ---
 
-<p class="a-paragraph"><img alt="バレルスピナーROSE" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/></p>
+<p class="a-paragraph"><img alt="バレルスピナーROSE" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/></p>
 <p class="a-paragraph">スプラトゥーン3(スプラ3)における、バレルスピナーROSEを詳しくまとめていくよ。</p>
 <p></p>
 <div class="a-outline">
@@ -271,14 +271,14 @@ description: "スプラトゥーン3のバレルスピナーROSEの性能評価�
 </tr>
 </table>
 <h3 class="a-header--3" id="hm_5">基本フルチャージでキルと塗りを行う</h3>
-<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 <p class="a-paragraph">基本はフルチャージで敵を攻撃し、余ったチャージ分のインクで周りを塗る動きが推奨。</p>
 <h3 class="a-header--3" id="hm_6">射撃中はイカ状態になってキャンセル</h3>
-<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 <p class="a-paragraph">射撃中に敵から逃げたい時や射線を避けたい時は、イカ状態になって射撃キャンセルするのがおすすめ。</p>
 
 <h3 class="a-header--3" id="hm_7">相手が近づいて来た時は少しだけチャージして倒す</h3>
-<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 <p class="a-paragraph">バレルスピナーROSEは少しのチャージでも敵を1人倒すくらいの火力は出るので、近接戦を強いられた時は少しだけチャージして攻撃するのがおすすめ。</p>
 <h3 class="a-header--3" id="hm_8">味方のカバーを心がける</h3>
 <p class="a-paragraph">バレルスピナーROSEは中後衛ポジションから、前線の味方をカバーする戦い方を心がけましょう。この時射程差を生かすと、一方的に相手を落とすこともできちゃう。</p>
@@ -479,7 +479,7 @@ description: "スプラトゥーン3のバレルスピナーROSEの性能評価�
 </tr>
 <tr>
 <td class="center">
-<a class="a-link" href="/games/splatoon3/weapons/オーダースピナーレプリカ/"><img alt="オーダースピナーレプリカ画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>オーダースピナーレプリカ</a>
+<a class="a-link" href="/games/splatoon3/weapons/オーダースピナーレプリカ/"><img alt="オーダースピナーレプリカ画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>オーダースピナーレプリカ</a>
 </td>
 <td class="center">
 <a class="a-link" href="#"><img alt="ポイズンミスト画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/toxic-mist.png" width="50"/>ポイズンミスト</a>
@@ -505,13 +505,13 @@ description: "スプラトゥーン3のバレルスピナーROSEの性能評価�
 <b class="a-bold">・フルチャージにかかる時間を約3/60秒間短くしました。</b>
 <br/>　-この変更により、1段階目のチャージが終わるまでの時間も、約2/60秒間短くなっている。</td>
 </tr>
-<tr><td class="center">アプデ前射撃継続時間<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<tr><td class="center">アプデ前射撃継続時間<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td></tr>
-<tr><td class="center">アプデ後射撃継続時間<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<tr><td class="center">アプデ後射撃継続時間<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td></tr>
-<tr><td class="center">アプデ前チャージ速度<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<tr><td class="center">アプデ前チャージ速度<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td></tr>
-<tr><td class="center">アプデ後チャージ速度<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<tr><td class="center">アプデ後チャージ速度<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td></tr>
 </table>
 <p class="a-paragraph"> </p>
@@ -539,11 +539,11 @@ description: "スプラトゥーン3のバレルスピナーROSEの性能評価�
 </td>
 </tr>
 <tr>
-<td class="center">アプデ前<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<td class="center">アプデ前<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td>
 </tr>
 <tr>
-<td class="center">アプデ後<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<td class="center">アプデ後<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholders/black-50x50.png" width="50"/>
 </td>
 </tr>
 </table>
@@ -554,7 +554,7 @@ description: "スプラトゥーン3のバレルスピナーROSEの性能評価�
 <h3 class="a-header--3" id="hm_18">新武器の評価一覧</h3>
 <table class="a-table a-table table--fixed a-table" style="">
 <tr>
-<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="新ブキ一覧" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>▶︎新武器のサブスペ・評価一覧</a></td>
+<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="新ブキ一覧" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>▶︎新武器のサブスペ・評価一覧</a></td>
 </tr>
 <tr>
 <th class="center" colspan="3" width="100%">新ブキ</th>
@@ -603,7 +603,7 @@ description: "スプラトゥーン3のバレルスピナーROSEの性能評価�
 <h3 class="a-header--3" id="hm_19">最強武器ランキング一覧</h3>
 <table class="a-table a-table a-table" style="">
 <tr>
-<td class="center" colspan="5" width="100%"><a class="a-link" href="/games/splatoon3/tier-list/"><img alt="最強" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>▶︎最強ブキ</a></td>
+<td class="center" colspan="5" width="100%"><a class="a-link" href="/games/splatoon3/tier-list/"><img alt="最強" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>▶︎最強ブキ</a></td>
 </tr>
 <tr>
 <th colspan="5">ルール別最強武器ランキング</th>
@@ -619,7 +619,7 @@ description: "スプラトゥーン3のバレルスピナーROSEの性能評価�
 <h3 class="a-header--3" id="hm_20">武器の評価一覧</h3>
 <table class="a-table a-table table--fixed a-table" style="">
 <tr>
-<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="ブキ評価" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>▶︎武器の評価一覧に戻る</a></td>
+<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="ブキ評価" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>▶︎武器の評価一覧に戻る</a></td>
 </tr>
 <tr>
 <th class="center" colspan="3" width="100%">ブキ種別評価一覧</th>
@@ -667,8 +667,8 @@ description: "スプラトゥーン3のバレルスピナーROSEの性能評価�
 <h3 class="a-header--3" id="hm_21">ブキ関連人気記事</h3>
 <table class="a-table a-table a-table" style="">
 <tr>
-<td class="center" width="33%"><a class="a-link" href="#"><img alt="射程ランキング・射程表" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>射程表</a></td>
-<td class="center" width="33%"><a class="a-link" href="#"><img alt="武器の入手方法" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>入手方法</a></td>
-<td class="center" width="33%"><a class="a-link" href="#"><img alt="サブスペ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>サブスペ一覧</a></td>
+<td class="center" width="33%"><a class="a-link" href="#"><img alt="射程ランキング・射程表" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>射程表</a></td>
+<td class="center" width="33%"><a class="a-link" href="#"><img alt="武器の入手方法" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>入手方法</a></td>
+<td class="center" width="33%"><a class="a-link" href="#"><img alt="サブスペ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholders/black-440x248.png" width="440" height="248"/>サブスペ一覧</a></td>
 </tr>
 </table>
