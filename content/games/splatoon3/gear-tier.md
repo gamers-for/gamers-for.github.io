@@ -1,111 +1,399 @@
 ---
-title: "【スプラトゥーン3】最強ギアパワーランキング"
-linkTitle: "最強ギアパワー"
-date: 2026-02-12
-categories: ["最強ランキング"]
-tags: ["スプラトゥーン3", "ギアパワー", "ランキング"]
-description: "スプラトゥーン3の最強ギアパワーランキング。全ギアパワーをS+〜Cランクで評価し、おすすめの武器種との組み合わせも解説。"
+title: "【スプラ3】ギアパワー一覧と効果"
+weight: 16
+date: 2026-02-13
+description: "スプラトゥーン3の全ギアパワー一覧。各ギアの効果を解説。"
 ---
 
-## 最強ギアパワーランキング
+<p class="a-paragraph"><img alt="ギアパワー" class="a-img img-placeholder" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="440"/></p>
+<p class="a-paragraph">スプラトゥーン3(スプラ3)における、ギアパワー一覧をバッチリ載せているよ。</p>
+<table class="a-table" style="">
+<tr>
+<th colspan="3">ギア・ギアパワー関連記事</th>
+</tr>
+<tr>
+<td class="center" width="33%"><a class="a-link" href="/gamers-for/games/splatoon3/gear/">ギアブランド</a></td>
+<td class="center" width="33%"><b class="a-bold">ギアパワー一覧</b></td>
+<td class="center" width="33%"><a class="a-link" href="#">ギア厳選</a></td>
+</tr>
+<tr>
+<td class="center"><a class="a-link" href="#">ギアパワー付け方</a></td>
+<td class="center" width="33%"><a class="a-link" href="#">ギアスロット</a></td>
+<td class="center" width="33%"><a class="a-link" href="#">ギアのレア度</a></td>
+</tr>
+<tr>
+<td class="center" width="33%"><a class="a-link" href="#">ギアパワーのかけら</a></td>
+<td class="center"><a class="a-link" href="#">ギア入手方法</a></td>
+<td class="center">-</td>
+</tr>
+</table>
+<p></p>
+<div class="a-outline">
+<p><svg aria-hidden="true" class="svg-inline--fa fa-list-ul fa-w-16" data-icon="list-ul" data-prefix="fas" focusable="false" role="img" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M48 48a48 48 0 1 0 48 48 48 48 0 0 0-48-48zm0 160a48 48 0 1 0 48 48 48 48 0 0 0-48-48zm0 160a48 48 0 1 0 48 48 48 48 0 0 0-48-48zm448 16H176a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h320a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-320H176a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h320a16 16 0 0 0 16-16V80a16 16 0 0 0-16-16zm0 160H176a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h320a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16z"></path></svg>目次</p>
+<ul>
+<li><a class="track_nier" href="#hl_1">ギアパワーの一覧と効果</a></li>
+<li><a class="track_nier" href="#hl_2">新ギアパワーと廃止されたギアパワー</a></li>
+<li><a class="track_nier" href="#hl_3">ギアパワーの解説記事一覧</a></li>
+<li><a class="track_nier" href="#hl_4">関連記事</a></li>
+</ul>
+</div>
 
-![バナー](/images/games/splatoon3/banners/banner_001.webp)
 
-全ギアパワーを汎用性・効果の大きさ・使用率の高さを基準にランク付け。どの武器にも付けやすいギアパワーを高く評価している。
+<h2 class="a-header--2" id="hl_1">ギアパワーの一覧と効果</h2>
+<table class="a-table a-table a-table" style="">
+<tr>
+<th width="30%">ギアパワー</th>
+<th width="70%">付きやすいブランド／効果</th>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="#"><img alt="インク効率アップ（メイン）画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/ink-saver-main.png" width="30"/>インク効率アップ（メイン）</a>
+</td>
+<td>
+<div class="align"><a class="a-link" href="#"><img alt="ジモン画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/brands/jimon.png" width="30"/>ジモン</a></div>
+<div class="align"><a class="a-link" href="#"><img alt="タタキケンサキ画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/brands/takoroka.png" width="30"/>タタキケンサキ</a></div>
+<hr class="a-table__line"/>メインウェポンの消費インク量が少なくなる。</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="#"><img alt="インク効率アップ（サブ）画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/ink-saver-sub.png" width="30"/>インク効率アップ（サブ）</a>
+</td>
+<td>
+<div class="align"><a class="a-link" href="#"><img alt="ホッコリー画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/brands/hokkori.png" width="30"/>ホッコリー</a></div>
+<div class="align"><a class="a-link" href="#"><img alt="アナアキ画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/brands/anaki.png" width="30"/>アナアキ</a></div>
+<hr class="a-table__line"/>サブウェポンの消費インク量が少なくなるよ。</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="#"><img alt="インク回復力アップ画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/ink-recovery-up.png" width="30"/>インク回復力アップ</a>
+</td>
+<td>
+<div class="align"><a class="a-link" href="#"><img alt="アロメ画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/brands/zekko.png" width="30"/>アロメ</a></div>
+<hr class="a-table__line"/>インクタンク回復速度がアップします。</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="#"><img alt="ヒト移動速度アップ画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/run-speed-up.png" width="30"/>ヒト移動速度アップ</a>
+</td>
+<td>
+<div class="align"><a class="a-link" href="#"><img alt="ロッケンベルグ画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/brands/rockenberg.png" width="30"/>ロッケンベルグ</a></div>
+<hr class="a-table__line"/>ヒト状態の移動速度がアップします。</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="#"><img alt="イカダッシュ速度アップ画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/swim-speed-up.png" width="30"/>イカダッシュ速度アップ</a>
+</td>
+<td>
+<div class="align"><a class="a-link" href="#"><img alt="クラーゲス画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/brands/krak-on.png" width="30"/>クラーゲス</a></div>
+<hr class="a-table__line"/>イカダッシュ時の移動速度がアップします。</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="#"><img alt="スペシャル増加量アップ画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/special-charge-up.png" width="30"/>スペシャル増加量アップ</a>
+</td>
+<td>
+<div class="align"><a class="a-link" href="#"><img alt="ヤコ画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/brands/inkline.png" width="30"/>ヤコ</a></div>
+<hr class="a-table__line"/>スペシャルゲージの増加量がアップします。</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="#"><img alt="スペシャル減少量ダウン画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/special-saver.png" width="30"/>スペシャル減少量ダウン</a>
+</td>
+<td>
+<div class="align"><a class="a-link" href="#"><img alt="エゾッコ画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/brands/ezokko.png" width="30"/>エゾッコ</a></div>
+<div class="align"><a class="a-link" href="#"><img alt="エゾッコリー画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/brands/ezokkori.png" width="30"/>エゾッコリー</a></div>
+<hr class="a-table__line"/>プレイヤーがやられた時のスペシャルゲージの減少量が少なくなるよ。</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="#"><img alt="スペシャル性能アップ画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/special-power-up.png" width="30"/>スペシャル性能アップ</a>
+</td>
+<td>
+<div class="align"><a class="a-link" href="#"><img alt="フォーリマ画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/brands/forge.png" width="30"/>フォーリマ</a></div>
+<hr class="a-table__line"/>スペシャルウェポンの性能がアップします。</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="#"><img alt="復活時間短縮画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/quick-respawn.png" width="30"/>復活時間短縮</a>
+</td>
+<td>
+<div class="align"><a class="a-link" href="#"><img alt="ホタックス画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/brands/toni-kensa.png" width="30"/>ホタックス</a></div>
+<hr class="a-table__line"/>相手を一人も倒せないまま連続でやられた時、復活時間が短くなる。</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="#"><img alt="スーパージャンプ時間短縮画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/quick-super-jump.png" width="30"/>スーパージャンプ時間短縮</a>
+</td>
+<td>
+<div class="align"><a class="a-link" href="#"><img alt="アイロニック画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/brands/annaki.png" width="30"/>アイロニック</a></div>
+<hr class="a-table__line"/>スーパージャンプの時間が短くなる。</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="#"><img alt="サブ性能アップ画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/sub-power-up.png" width="30"/>サブ性能アップ</a>
+</td>
+<td>
+<div class="align"><a class="a-link" href="#"><img alt="エンペリー画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/brands/enperry.png" width="30"/>エンペリー</a></div>
+<hr class="a-table__line"/>サブウェポンの性能がアップします。</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="#"><img alt="相手インク影響軽減画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/ink-resistance-up.png" width="30"/>相手インク影響軽減</a>
+</td>
+<td>
+<div class="align"><a class="a-link" href="#"><img alt="バトロイカ画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/brands/splash-mob.png" width="30"/>バトロイカ</a></div>
+<hr class="a-table__line"/>相手のインクをふんだ時のダメージや移動速度の減少量が少なくなるよ。</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="#"><img alt="サブ影響軽減画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/sub-resistance-up.png" width="30"/>サブ影響軽減</a>
+</td>
+<td>
+<div class="align"><a class="a-link" href="#"><img alt="シグレニ画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/brands/barazushi.png" width="30"/>シグレニ</a></div>
+<hr class="a-table__line"/>サブウェポンによるダメージや効果を軽減します。</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="#"><img alt="アクション強化画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/intensify-action.png" width="30"/>アクション強化</a>
+</td>
+<td>
+<div class="align"><a class="a-link" href="#"><img alt="バラズシ画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/brands/barazushi.png" width="30"/>バラズシ</a></div>
+<div class="align"><a class="a-link" href="#"><img alt="シチリン画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/brands/shichirin.png" width="30"/>シチリン</a></div>
+<hr class="a-table__line"/>イカロールやイカノボリが行いやすくなるとともに、ジャンプ直後に攻撃するときの射撃のブレが少なくなる。</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="#"><img alt="スタートダッシュ画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/opening-gambit.png" width="30"/>スタートダッシュ</a>
+</td>
+<td>
+なし
+<hr class="a-table__line"/>対戦開始から30カウントの間移動に関する効果がかなりアップします。<hr class="a-table__line"/>※<span class="a-red">アタマのメインギアパワー限定</span>
+</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="#"><img alt="ラストスパート画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/last-ditch-effort.png" width="30"/>ラストスパート</a>
+</td>
+<td>
+なし
+<hr class="a-table__line"/>対戦終了の30カウント前からインク効率とインク回復速度がかなりアップします。<hr class="a-table__line"/>※<span class="a-red">アタマのメインギアパワー限定</span>
+</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="#"><img alt="逆境強化画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/tenacity.png" width="30"/>逆境強化</a>
+</td>
+<td>
+なし
+<hr class="a-table__line"/>自チームの人数が相手チームより少ない場合、少しずつスペシャルゲージが増えます。<hr class="a-table__line"/>※<span class="a-red">アタマのメインギアパワー限定</span>
+</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="#"><img alt="カムバック画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/comeback.png" width="30"/>カムバック</a>
+</td>
+<td>
+なし
+<hr class="a-table__line"/>プレイヤーがやられて復帰後、しばらくの間一部の能力がかなりアップします。<hr class="a-table__line"/>※<span class="a-red">アタマのメインギアパワー限定</span>
+</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="#"><img alt="イカニンジャ画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/ninja-squid.png" width="30"/>イカニンジャ</a>
+</td>
+<td>
+なし
+<hr class="a-table__line"/>地面をイカダッシュした時にインクが飛び散らなくなるが、移動速度が少しダウンします。<hr class="a-table__line"/>※<span class="a-red">フクのメインギアパワー限定</span>
+</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="#"><img alt="リベンジ画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/haunt.png" width="30"/>リベンジ</a>
+</td>
+<td>
+なし
+<hr class="a-table__line"/>復活したとき、自分を倒した相手の位置が遠くから見えるようになるよ。<hr class="a-table__line"/>※<span class="a-red">フクのメインギアパワー限定</span>
+</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="#"><img alt="サーマルインク画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/thermal-ink.png" width="30"/>サーマルインク</a>
+</td>
+<td>
+なし
+<hr class="a-table__line"/>メインウェポンの弾を直接当てた相手が、しばらくの間遠くから見えるようになる。<hr class="a-table__line"/>※<span class="a-red">フクのメインギアパワー限定</span>
+</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="#"><img alt="復活ペナルティアップ画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/respawn-punisher.png" width="30"/>復活ペナルティアップ</a>
+</td>
+<td>
+なし
+<hr class="a-table__line"/>自プレイヤーと倒した相手のスペシャル減少量と復活時間が増えます。<hr class="a-table__line"/>※<span class="a-red">フクのメインギアパワー限定</span>
+</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="#"><img alt="追加ギアパワー倍化画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/ability-doubler.png" width="30"/>追加ギアパワー倍化</a>
+</td>
+<td>
+なし
+<hr class="a-table__line"/>このギアについている追加ギアパワーを1つで2コ分の効果にします。<hr class="a-table__line"/>※<span class="a-red">フクのメインギアパワー限定</span>
+</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="#"><img alt="ステルスジャンプ画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/stealth-jump.png" width="30"/>ステルスジャンプ</a>
+</td>
+<td>
+なし
+<hr class="a-table__line"/>スーパージャンプの着地点を示すマーカーが、はなれた場所から見えなくなる。<hr class="a-table__line"/>※<span class="a-red">クツのメインギアパワー限定</span>
+</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="#"><img alt="対物攻撃力アップ画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/object-shredder.png" width="30"/>対物攻撃力アップ</a>
+</td>
+<td>
+なし
+<hr class="a-table__line"/>プレイヤー以外の物体に対して攻撃したときのダメージを増やします。<hr class="a-table__line"/>※<span class="a-red">クツのメインギアパワー限定</span>
+</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="#"><img alt="受け身術画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/drop-roller.png" width="30"/>受け身術</a>
+</td>
+<td>
+なし
+<hr class="a-table__line"/>スーパージャンプ着地時にスティックをたおしておくと着地と同時に前転します。<hr class="a-table__line"/>※<span class="a-red">クツのメインギアパワー限定</span>
+</td>
+</tr>
+<tr>
+<td class="center">
+<img alt="？画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="30"/>？
 
-### 評価基準
 
-| 基準 | 説明 |
-|------|------|
-| **汎用性** | 特定の武器に限らず、幅広い武器種で効果を発揮するか |
-| **体感効果** | メインギアパワー1つでも効果を実感できるか |
-| **環境での使用率** | 上位プレイヤーの間での採用率 |
-| **ルール非依存** | ナワバリ・バンカラマッチ問わず有効か |
+</td>
+<td>
+なし
+<hr class="a-table__line"/>
+</td>
+</tr>
+</table>
+<p class="a-paragraph"><a class="a-btn" href="/gamers-for/games/splatoon3/gear-powers/"><span>▶︎ギアパワーの推奨最強ランキングを見る</span></a></p>
 
----
 
-### S+ランク — 最優先で付けたいギアパワー
+<h2 class="a-header--2" id="hl_2">新ギアパワーと廃止されたギアパワー</h2>
+<h3 class="a-header--3" id="hm_1">スプラ3からの新ギアパワーは2つ追加！</h3>
+<table class="a-table a-table a-table" style="">
+<tr>
+<th width="30%">ギアパワー</th>
+<th width="70%">付きやすいブランド／効果</th>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="#"><img alt="サブ影響軽減画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/sub-resistance-up.png" width="30"/>サブ影響軽減</a>
+</td>
+<td>
+<div class="align"><a class="a-link" href="#"><img alt="シグレニ画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/brands/barazushi.png" width="30"/>シグレニ</a></div>
+<hr class="a-table__line"/>サブウェポンによるダメージや効果を軽減します。</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="#"><img alt="アクション強化画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/intensify-action.png" width="30"/>アクション強化</a>
+</td>
+<td>
+<div class="align"><a class="a-link" href="#"><img alt="バラズシ画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/brands/barazushi.png" width="30"/>バラズシ</a></div>
+<div class="align"><a class="a-link" href="#"><img alt="シチリン画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/brands/shichirin.png" width="30"/>シチリン</a></div>
+<hr class="a-table__line"/>イカロールやイカノボリが行いやすくなるとともに、ジャンプ直後に攻撃するときの射撃のブレが少なくなるよ。</td>
+</tr>
+</table>
+<h4 class="a-header--4" id="hs_1">スプラ3からなくなったギアパワーはこの2つ</h4>
+<table class="a-table a-table a-table" style="">
+<tr>
+<th width="30%">ギアパワー</th>
+<th width="70%">付きやすいブランド／効果</th>
+</tr>
+<tr>
+<td class="center">
+<img alt="メイン性能アップ画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="30"/>メイン性能アップ
 
-| ギアパワー | 評価理由 | おすすめ武器種 |
-|-----------|---------|--------------|
-| **[イカダッシュ速度アップ](../gear-powers/#イカダッシュ速度アップ)** | 機動力が全武器種で恩恵大。迷ったらこれ | 全武器 |
-| **[ステルスジャンプ](../gear-powers/#ステルスジャンプ)** | スーパージャンプの着地狩りを防止。前衛は必須級 | 前衛武器全般 |
-| **[カムバック](../gear-powers/#カムバック)** | 復活後20秒間6種のギア効果。デス前提の前線武器と相性◎ | 短射程シューター、ローラー |
-| **[スペシャル増加量アップ](../gear-powers/#スペシャル増加量アップ)** | スペシャルの回転率UP。塗り武器と特に相性が良い | 塗り武器全般 |
 
-### Sランク — 優先的に付けたいギアパワー
+</td>
+<td>
+なし
+<hr class="a-table__line"/>メインウェポンの性能の一部を強化する。強化内容は武器ごとに異なる。</td>
+</tr>
+<tr>
+<td class="center">
+<img alt="爆風ダメージ軽減・改画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="30"/>爆風ダメージ軽減・改
 
-| ギアパワー | 評価理由 | おすすめ武器種 |
-|-----------|---------|--------------|
-| **[スペシャル減少量ダウン](../gear-powers/#スペシャル減少量ダウン)** | デス時のスペシャルゲージ減少を抑制。カムバックと併用◎ | 前衛武器 |
-| **[アクション強化](../gear-powers/#アクション強化)** | イカロール・イカノボリの性能UP＋ジャンプ撃ちのブレ軽減 | マニューバー、シューター |
-| **[インク回復量アップ](../gear-powers/#インク回復量アップ)** | イカ潜伏時のインク回復速度UP。インク管理が楽になる | インク消費の激しい武器 |
-| **[インク効率アップ（メイン）](../gear-powers/#インク効率アップメイン)** | メイン武器のインク消費量ダウン。継戦能力UP | チャージャー、スピナー |
-| **[インク効率アップ（サブ）](../gear-powers/#インク効率アップサブ)** | サブウェポンの消費量ダウン。ボム多投が可能に | ボム持ち武器 |
 
-### A+ランク — 武器種によっては必須
+</td>
+<td>
+なし
+<hr class="a-table__line"/>サブウェポン・スペシャルウェポンにおける爆発系ダメージを軽減します。</td>
+</tr>
+</table>
+<h2 class="a-header--2" id="hl_3">ギアパワーの解説記事一覧</h2>
+<table class="a-table" style="">
+<tr>
+<th colspan="3">ギア・ギアパワー関連記事</th>
+</tr>
+<tr>
+<td class="center" width="33%"><a class="a-link" href="/gamers-for/games/splatoon3/gear/">ギアブランド</a></td>
+<td class="center" width="33%"><b class="a-bold">ギアパワー一覧</b></td>
+<td class="center" width="33%"><a class="a-link" href="#">ギア厳選</a></td>
+</tr>
+<tr>
+<td class="center"><a class="a-link" href="#">ギアパワー付け方</a></td>
+<td class="center" width="33%"><a class="a-link" href="#">ギアスロット</a></td>
+<td class="center" width="33%"><a class="a-link" href="#">ギアのレア度</a></td>
+</tr>
+<tr>
+<td class="center" width="33%"><a class="a-link" href="#">ギアパワーのかけら</a></td>
+<td class="center"><a class="a-link" href="#">ギア入手方法</a></td>
+<td class="center">-</td>
+</tr>
+</table>
+<p class="a-paragraph">ギアパワーについて解説している記事一覧なんだ。入手方法から付け方、厳選方法までも解説しているので、気になる記事を是非見て下さい。</p>
 
-| ギアパワー | 評価理由 | おすすめ武器種 |
-|-----------|---------|--------------|
-| **[相手インク影響軽減](../gear-powers/#相手インク影響軽減)** | 相手インクを踏んだ時のダメージ・移動低下を軽減 | 全武器（特に前衛） |
-| **[スーパージャンプ時間短縮](../gear-powers/#スーパージャンプ時間短縮)** | ジャンプの飛行時間短縮。前線復帰が高速に | 前衛武器 |
-| **[ヒト移動速度アップ](../gear-powers/#ヒト移動速度アップ)** | 射撃中の移動速度UP。撃ち合いの精度向上 | スピナー、チャージャー |
-| **[イカニンジャ](../gear-powers/#イカニンジャ)** | イカダッシュ時のインク飛沫が消える。潜伏奇襲が超強力 | ローラー、フデ、マニューバー |
-| **[復活時間短縮](../gear-powers/#復活時間短縮)** | デス時の復活時間短縮。前線への復帰が早い | 前衛武器 |
 
-### Aランク — あると便利なギアパワー
-
-| ギアパワー | 評価理由 | おすすめ武器種 |
-|-----------|---------|--------------|
-| **[サブ性能アップ](../gear-powers/#サブ性能アップ)** | サブウェポンの性能強化（飛距離UP等） | ボムを遠投したい武器 |
-| **[スペシャル性能アップ](../gear-powers/#スペシャル性能アップ)** | スペシャルの効果時間延長等 | スペシャル依存武器 |
-| **[ペナルティアップ](../gear-powers/#ペナルティアップ)** | 相手を倒した時に相手の復活ペナルティ増加 | キル特化武器 |
-| **[サーマルインク](../gear-powers/#サーマルインク)** | メインで攻撃した相手の位置が一定時間見える | 長射程武器 |
-
-### Bランク — 特定の状況で有効
-
-| ギアパワー | 評価理由 | おすすめ武器種 |
-|-----------|---------|--------------|
-| **[対物攻撃力アップ](../gear-powers/#対物攻撃力アップ)** | バリア・スプリンクラー等の物体へのダメージUP | サーモンラン向け |
-| **[受け身術](../gear-powers/#受け身術)** | スーパージャンプ着地時にイカロールで回避可能 | 前衛武器 |
-| **[スタートダッシュ](../gear-powers/#スタートダッシュ)** | 開始30秒間3種のギア効果 | ナワバリ向け |
-| **[ラストスパート](../gear-powers/#ラストスパート)** | 相手カウント50以下で3種のギア効果 | バンカラ向け |
-| **[逆境強化](../gear-powers/#逆境強化)** | 味方が倒されている間スペシャルゲージが自動増加 | 後衛武器 |
-
-### Cランク — 使い所が限定的
-
-| ギアパワー | 評価理由 | おすすめ武器種 |
-|-----------|---------|--------------|
-| **[爆風ダメージ軽減・改](../gear-powers/#爆風ダメージ軽減改)** | 爆風やサブのダメージ軽減。環境次第で評価変動 | 対ボム武器 |
-| **[リベンジ](../gear-powers/#リベンジ)** | 自分を倒した相手の位置が味方に見える | チーム連携向け |
-| **[追加ギアパワー倍化](../gear-powers/#追加ギアパワー倍化)** | サブスロットのギアパワーの効果を2倍にする | 特定ビルド向け |
-
----
-
-### ルール別おすすめギア構成
-
-#### ナワバリバトル向け
-
-- イカダッシュ速度アップ × 塗り効率重視
-- スペシャル増加量アップでスペシャル高回転
-- ラスト30秒に向けてスタートダッシュも有効
-
-#### バンカラマッチ（エリア）向け
-
-- スペシャル増加量アップ + スペシャル減少量ダウン
-- 打開に必要なスペシャルの回転率を最大化
-- カムバック + ステルスジャンプで前線復帰
-
-#### バンカラマッチ（ヤグラ・ホコ・アサリ）向け
-
-- イカダッシュ速度アップで移動力重視
-- 復活時間短縮で前線維持
-- ステルスジャンプは全ルールで強力
-
----
-
-### 関連記事
-
-- [ギアパワー一覧と効果](../gear-powers/)
-- [最強武器ランキング](../tier-list/)
-- [全武器一覧](../weapons/)
+<h2 class="a-header--2" id="hl_4">関連記事</h2>
+<table class="a-table" style="">
+<tr>
+<td class="center" colspan="2"><a class="a-link" href="/splatoon3"><img alt="攻略TOP" class="a-img img-placeholder" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="440"/>攻略TOPに戻る</a></td>
+</tr>
+<tr>
+<th colspan="2">攻略データベース</th>
+</tr>
+<tr>
+<td class="center"><a class="a-link" href="/gamers-for/games/splatoon3/tier-list/"><img alt="最強武器" class="a-img img-placeholder" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="440"/>最強武器ランキング</a></td>
+<td class="center" width="50%"><a class="a-link" href="#"><img alt="ブキ" class="a-img img-placeholder" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="440"/>ブキ</a></td>
+</tr>
+<tr>
+<td class="center" width="50%"><a class="a-link" href="#"><img alt="スペシャル" class="a-img img-placeholder" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="440"/>スペシャル</a></td>
+<td class="center"><a class="a-link" href="/gamers-for/games/splatoon3/gear/"><img alt="ギア" class="a-img img-placeholder" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="440"/>ギアブランド</a></td>
+</tr>
+<tr>
+<td class="center"><b class="a-bold"><img alt="ギアパワー" class="a-img img-placeholder" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="440"/>ギアパワー</b></td>
+<td class="center"><a class="a-link" href="#"><img alt="サブ" class="a-img img-placeholder" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="440"/>サブ</a></td>
+</tr>
+<tr>
+<td class="center"><a class="a-link" href="/gamers-for/games/splatoon3/stages/"><img alt="ステージ" class="a-img img-placeholder" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="440"/>ステージ</a></td>
+<td class="center"><a class="a-link" href="#"><img alt="フェス投票" class="a-img img-placeholder" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="440"/>フェス</a></td>
+</tr>
+<tr>
+<td class="center"><a class="a-link" href="#"><img alt="ヒーローモード" class="a-img img-placeholder" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="440"/>ヒーローモード</a></td>
+<td class="center"><a class="a-link" href="/gamers-for/games/splatoon3/salmon-run/"><img alt="サーモンラン" class="a-img img-placeholder" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="440"/>サーモンラン</a></td>
+</tr>
+<tr>
+<td class="center"><a class="a-link" href="#"><img alt="ナワバトラーのパーシャル" class="a-img img-placeholder" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="440"/>ナワバトラー</a></td>
+<td class="center"><a class="a-link" href="#"><img alt="アップデート最新情報" class="a-img img-placeholder" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="440"/>アップデート最新情報</a></td>
+</tr>
+<tr>
+<td class="center"><a class="a-link" href="#"><img alt="バンカラマッチ" class="a-img img-placeholder" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="440"/>バンカラマッチ</a></td>
+<td class="center"><a class="a-link" href="#"><img alt="イベントマッチ" class="a-img img-placeholder" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="440"/>イベントマッチ</a></td>
+</tr>
+</table>

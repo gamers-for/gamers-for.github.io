@@ -1,423 +1,578 @@
 ---
 title: "【スプラ3】ガチアサリ最強武器ランキング"
-linkTitle: "ガチアサリランキング"
-weight: 10
+weight: 6
 date: 2026-02-13
-categories: ["ルール別ランキング"]
-tags: ["スプラトゥーン3", "ガチアサリ"]
-description: "スプラトゥーン3のガチアサリで強い武器をランキング。ガチアサリに特化した最強武器を解説。"
+description: "スプラトゥーン3のガチアサリにおける最強武器ランキング。"
 ---
 
-<p>ガチアサリは<strong>アサリを集めてゴールに投げ入れる</strong>ルール！広い範囲をカバーする機動力と、ゴール前の攻防でのキル性能が求められるよ。</p>
-
-<h2>ガチアサリの武器選びのポイント</h2>
-<p>機動力とキル性能のバランスが大事。アサリを集める機動力と、ゴール前で敵を倒す対面力を兼ね備えた武器が強い！</p>
-
-<h2>ガチアサリ最強武器ランキング</h2>
-<table>
+<p class="a-paragraph"><img alt="ガチアサリの最強武器" class="a-img img-placeholder" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="440"/><br/>スプラトゥーン3(スプラ3)における、ガチアサリの最強武器ランキングだ。</p>
+<table class="a-table" style="">
 <tr>
-  <th style="text-align:center;vertical-align:middle;width:60px"><span style="font-size:32px;font-weight:900;color:#e74c3c;">X</span></th>
-  <td>
-<div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/シャープマーカー/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/splash-o-matic.png" alt="シャープマーカー" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">シャープマーカー</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ジムワイパー/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/splatana-wiper.png" alt="ジムワイパー" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ジムワイパー</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/スプラマニューバー/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/splat-dualies.png" alt="スプラマニューバー" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">スプラマニューバー</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/スプラマニューバー耀/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/splat-dualies-you.png" alt="スプラマニューバー耀" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">スプラマニューバー耀</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/バケットスロッシャー/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/slosher.png" alt="バケットスロッシャー" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">バケットスロッシャー</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ボトルガイザー/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/squeezer.png" alt="ボトルガイザー" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ボトルガイザー</span></a></div>
-  </td>
+<th colspan="3" width="100%">最強記事リンク</th>
 </tr>
 <tr>
-  <th style="text-align:center;vertical-align:middle;width:60px"><img src="/gamers-for/images/games/splatoon3/tiers/splus.webp" alt="S+" loading="lazy" width="32" height="32" style="vertical-align:middle"></th>
-  <td>
-<div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/52ガロン/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/52-gal.png" alt="52ガロン" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">52ガロン</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/n-zap85/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/n-zap-85.png" alt="N-ZAP85" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">N-ZAP85</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/r-pen-5h/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/douser-dualies-ff.png" alt="R-PEN/5H" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">R-PEN/5H</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/s-blast91/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/s-blast-91.png" alt="S-BLAST91" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">S-BLAST91</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/イグザミナー/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/heavy-edit-splatling.png" alt="イグザミナー" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">イグザミナー</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/イグザミナーヒュー/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/heavy-edit-splatling-nouveau.png" alt="イグザミナーヒュー" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">イグザミナーヒュー</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/キャンピングシェルターソレーラ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/tenta-sorella-brella.png" alt="キャンピングシェルターソレーラ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">キャンピングシェルターソレーラ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/クーゲルシュライバー/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/ballpoint-splatling.png" alt="クーゲルシュライバー" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">クーゲルシュライバー</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/シャープマーカーgeck/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/splash-o-matic-geck.png" alt="シャープマーカーGECK" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">シャープマーカーGECK</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ジムワイパーヒュー/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/splatana-wiper-deco.png" alt="ジムワイパーヒュー" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ジムワイパーヒュー</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ジムワイパー封/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/splatana-wiper-fu.png" alt="ジムワイパー封" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ジムワイパー封</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/スクリュースロッシャーネオ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/sloshing-machine-neo.png" alt="スクリュースロッシャーネオ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">スクリュースロッシャーネオ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/スプラシューター/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/splattershot.png" alt="スプラシューター" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">スプラシューター</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/デンタルワイパーミント/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/mint-decavitator.png" alt="デンタルワイパーミント" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">デンタルワイパーミント</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ノーチラス47/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/nautilus-47.png" alt="ノーチラス47" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ノーチラス47</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ヒッセンヒュー/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/tri-slosher-nouveau.png" alt="ヒッセンヒュー" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ヒッセンヒュー</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/プライムシューター/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/splattershot-pro.png" alt="プライムシューター" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">プライムシューター</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ボトルガイザーフォイル/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/foil-squeezer.png" alt="ボトルガイザーフォイル" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ボトルガイザーフォイル</span></a></div>
-  </td>
+<td class="center" width="33%"><a class="a-link" href="/gamers-for/games/splatoon3/tier-list/"><img alt="最強ブキ" class="a-img" height="60" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="60"/>最強ブキ</a></td>
+<td class="center" width="33%"><a class="a-link" href="#"><img alt="最強スペシャル" class="a-img" height="60" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="60"/>最強スペシャル</a></td>
+<td class="center" width="33%"><a class="a-link" href="/gamers-for/games/splatoon3/gear-powers/"><img alt="最強ギアパワー" class="a-img" height="60" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="60"/>最強ギアパワー</a></td>
+</tr>
+</table>
+<table class="a-table" style="">
+<tr>
+<th colspan="5">ルール別最強武器ランキング</th>
 </tr>
 <tr>
-  <th style="text-align:center;vertical-align:middle;width:60px"><img src="/gamers-for/images/games/splatoon3/tiers/s.webp" alt="S" loading="lazy" width="32" height="32" style="vertical-align:middle"></th>
-  <td>
-<div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/52ガロンデコ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/52-gal-deco.png" alt="52ガロンデコ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">52ガロンデコ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/rブラスターエリートデコ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/custom-range-blaster.png" alt="Rブラスターエリートデコ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">Rブラスターエリートデコ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/わかばシューター/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/splattershot-jr.png" alt="わかばシューター" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">わかばシューター</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/クーゲルシュライバーヒュー/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/ballpoint-splatling-nouveau.png" alt="クーゲルシュライバーヒュー" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">クーゲルシュライバーヒュー</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/シャープマーカーネオ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/neo-splash-o-matic.png" alt="シャープマーカーネオ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">シャープマーカーネオ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/スプラシューターコラボ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/tentatek-splattershot.png" alt="スプラシューターコラボ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">スプラシューターコラボ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/スプラシューター煌/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/splattershot-kira.png" alt="スプラシューター煌" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">スプラシューター煌</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/スプラスピナーコラボ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/zink-mini-splatling.png" alt="スプラスピナーコラボ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">スプラスピナーコラボ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/スプラマニューバーコラボ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/enperry-splat-dualies.png" alt="スプラマニューバーコラボ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">スプラマニューバーコラボ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/スプラローラー/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/splat-roller.png" alt="スプラローラー" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">スプラローラー</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/デンタルワイパースミ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/charcoal-decavitator.png" alt="デンタルワイパースミ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">デンタルワイパースミ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ドライブワイパー/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/splatana-stamper.png" alt="ドライブワイパー" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ドライブワイパー</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ノーチラス79/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/nautilus-79.png" alt="ノーチラス79" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ノーチラス79</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/パブロヒュー/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/inkbrush-nouveau.png" alt="パブロヒュー" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">パブロヒュー</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ヒッセン/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/tri-slosher.png" alt="ヒッセン" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ヒッセン</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/プライムシューターfrzn/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/splattershot-pro-frzn.png" alt="プライムシューターFRZN" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">プライムシューターFRZN</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/プライムシューターコラボ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/forge-splattershot-pro.png" alt="プライムシューターコラボ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">プライムシューターコラボ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/モップリン/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/dread-wringer.png" alt="モップリン" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">モップリン</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ラピッドブラスターデコ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/rapid-blaster-deco.png" alt="ラピッドブラスターデコ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ラピッドブラスターデコ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ロングブラスター/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/range-blaster.png" alt="ロングブラスター" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ロングブラスター</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ロングブラスターカスタム/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/custom-range-blaster.png" alt="ロングブラスターカスタム" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ロングブラスターカスタム</span></a></div>
-  </td>
-</tr>
-<tr>
-  <th style="text-align:center;vertical-align:middle;width:60px"><img src="/gamers-for/images/games/splatoon3/tiers/aplus.webp" alt="A+" loading="lazy" width="32" height="32" style="vertical-align:middle"></th>
-  <td>
-<div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/14式竹筒銃・乙/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/bamboozler-14-mk-ii.png" alt="14式竹筒銃・乙" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">14式竹筒銃・乙</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/4kスコープ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/e-liter-4k-scope.png" alt="4Kスコープ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">4Kスコープ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/4kスコープカスタム/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/custom-e-liter-4k-scope.png" alt="4Kスコープカスタム" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">4Kスコープカスタム</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/96ガロンデコ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/96-gal-deco.png" alt="96ガロンデコ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">96ガロンデコ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/lact-450/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/snipewriter-5h.png" alt="LACT-450" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">LACT-450</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/lact-450デコ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/snipewriter-5b.png" alt="LACT-450デコ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">LACT-450デコ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/エクスプロッシャーカスタム/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/custom-explosher.png" alt="エクスプロッシャーカスタム" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">エクスプロッシャーカスタム</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/カーボンローラーデコ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/carbon-roller-deco.png" alt="カーボンローラーデコ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">カーボンローラーデコ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/クアッドホッパーブラック/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/dark-tetra-dualies.png" alt="クアッドホッパーブラック" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">クアッドホッパーブラック</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ケルビン525/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/glooga-dualies.png" alt="ケルビン525" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ケルビン525</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ケルビン525デコ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/glooga-dualies-deco.png" alt="ケルビン525デコ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ケルビン525デコ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/スクイックリンα/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/classic-squiffer.png" alt="スクイックリンα" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">スクイックリンα</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/スクリュースロッシャー/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/sloshing-machine.png" alt="スクリュースロッシャー" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">スクリュースロッシャー</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/スパッタリー/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/dapple-dualies.png" alt="スパッタリー" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">スパッタリー</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/スパッタリーowl/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/dapple-dualies-owl.png" alt="スパッタリーOWL" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">スパッタリーOWL</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/スパッタリーヒュー/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/dapple-dualies-nouveau.png" alt="スパッタリーヒュー" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">スパッタリーヒュー</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/スプラスコープコラボ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/z-f-splatterscope.png" alt="スプラスコープコラボ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">スプラスコープコラボ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/スプラチャージャーコラボ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/z-f-splat-charger.png" alt="スプラチャージャーコラボ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">スプラチャージャーコラボ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ダイナモローラー/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/dynamo-roller.png" alt="ダイナモローラー" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ダイナモローラー</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/デュアルスイーパー/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/dualie-squelchers.png" alt="デュアルスイーパー" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">デュアルスイーパー</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/デュアルスイーパーカスタム/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/custom-dualie-squelchers.png" alt="デュアルスイーパーカスタム" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">デュアルスイーパーカスタム</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/デュアルスイーパー蹄/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/dualie-squelchers-hizume.png" alt="デュアルスイーパー蹄" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">デュアルスイーパー蹄</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/トライストリンガーコラボ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/inkline-tri-stringer.png" alt="トライストリンガーコラボ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">トライストリンガーコラボ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ドライブワイパーrust/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/splatana-stamper-rust.png" alt="ドライブワイパーRUST" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ドライブワイパーRUST</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ドライブワイパーデコ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/splatana-stamper-nouveau.png" alt="ドライブワイパーデコ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ドライブワイパーデコ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/バケットスロッシャーデコ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/slosher-deco.png" alt="バケットスロッシャーデコ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">バケットスロッシャーデコ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/バレルスピナーデコ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/heavy-splatling-deco.png" alt="バレルスピナーデコ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">バレルスピナーデコ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/パラシェルターソレーラ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/sorella-brella.png" alt="パラシェルターソレーラ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">パラシェルターソレーラ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ヒッセンash/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/tri-slosher-ash.png" alt="ヒッセンASH" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ヒッセンASH</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/フルイドv/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/reef-lux-450.png" alt="フルイドV" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">フルイドV</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ホットブラスター/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/blaster.png" alt="ホットブラスター" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ホットブラスター</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ホットブラスターカスタム/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/custom-blaster.png" alt="ホットブラスターカスタム" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ホットブラスターカスタム</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/モップリン角/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/sloshing-machine-kaku.png" alt="モップリン角" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">モップリン角</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/リッター4k/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/e-liter-4k.png" alt="リッター4K" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">リッター4K</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/リッター4kカスタム/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/custom-e-liter-4k.png" alt="リッター4Kカスタム" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">リッター4Kカスタム</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ヴァリアブルローラー/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/flingza-roller.png" alt="ヴァリアブルローラー" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ヴァリアブルローラー</span></a></div>
-  </td>
-</tr>
-<tr>
-  <th style="text-align:center;vertical-align:middle;width:60px"><img src="/gamers-for/images/games/splatoon3/tiers/a.webp" alt="A" loading="lazy" width="32" height="32" style="vertical-align:middle"></th>
-  <td>
-<div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/l3リールガン/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/l-3-nozzlenose.png" alt="L3リールガン" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">L3リールガン</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/l3リールガンd/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/l-3-nozzlenose-d.png" alt="L3リールガンD" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">L3リールガンD</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/lact-450milk/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/tri-stringer-milk.png" alt="LACT-450MILK" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">LACT-450MILK</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/r-pen-5b/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/custom-douser-dualies-ff.png" alt="R-PEN/5B" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">R-PEN/5B</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/オーバーフロッシャーデコ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/bloblobber-deco.png" alt="オーバーフロッシャーデコ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">オーバーフロッシャーデコ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ガエンffカスタム/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/custom-douser-dualies-ff.png" alt="ガエンFFカスタム" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ガエンFFカスタム</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/キャンピングシェルター/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/tenta-brella.png" alt="キャンピングシェルター" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">キャンピングシェルター</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/クアッドホッパーホワイト/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/light-tetra-dualies.png" alt="クアッドホッパーホワイト" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">クアッドホッパーホワイト</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ジェットスイーパーカスタム/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/custom-jet-squelcher.png" alt="ジェットスイーパーカスタム" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ジェットスイーパーカスタム</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/スパイガジェットソレーラ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/undercover-sorella-brella.png" alt="スパイガジェットソレーラ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">スパイガジェットソレーラ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/スプラスピナー/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/mini-splatling.png" alt="スプラスピナー" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">スプラスピナー</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/スプラローラーコラボ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/krak-on-splat-roller.png" alt="スプラローラーコラボ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">スプラローラーコラボ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/スペースシューターコラボ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/annaki-splattershot-nova.png" alt="スペースシューターコラボ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">スペースシューターコラボ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ダイナモローラーテスラ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/gold-dynamo-roller.png" alt="ダイナモローラーテスラ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ダイナモローラーテスラ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ダイナモローラー冥/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/dynamo-roller-mei.png" alt="ダイナモローラー冥" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ダイナモローラー冥</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/トライストリンガー/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/tri-stringer.png" alt="トライストリンガー" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">トライストリンガー</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ノヴァブラスターネオ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/luna-blaster-neo.png" alt="ノヴァブラスターネオ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ノヴァブラスターネオ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/バレルスピナー/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/heavy-splatling.png" alt="バレルスピナー" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">バレルスピナー</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/パブロ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/inkbrush.png" alt="パブロ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">パブロ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/パラシェルター/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/splat-brella.png" alt="パラシェルター" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">パラシェルター</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/フィンセント/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/painbrush.png" alt="フィンセント" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">フィンセント</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/フィンセントヒュー/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/painbrush-nouveau.png" alt="フィンセントヒュー" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">フィンセントヒュー</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/フルイドvカスタム/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/reef-lux-450-deco.png" alt="フルイドVカスタム" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">フルイドVカスタム</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ホクサイ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/octobrush.png" alt="ホクサイ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ホクサイ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ホクサイ彗/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/octobrush-sui.png" alt="ホクサイ彗" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ホクサイ彗</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ホットブラスター艶/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/blaster-tsuya.png" alt="ホットブラスター艶" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ホットブラスター艶</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ラピッドブラスター/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/rapid-blaster.png" alt="ラピッドブラスター" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ラピッドブラスター</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ヴァリアブルローラーフォイル/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/foil-flingza-roller.png" alt="ヴァリアブルローラーフォイル" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ヴァリアブルローラーフォイル</span></a></div>
-  </td>
-</tr>
-<tr>
-  <th style="text-align:center;vertical-align:middle;width:60px"><img src="/gamers-for/images/games/splatoon3/tiers/bplus.webp" alt="B+" loading="lazy" width="32" height="32" style="vertical-align:middle"></th>
-  <td>
-<div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/14式竹筒銃・甲/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/bamboozler-14-mk-i.png" alt="14式竹筒銃・甲" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">14式竹筒銃・甲</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/24式張替傘・乙/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/recycled-brella-24-mk-ii.png" alt="24式張替傘・乙" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">24式張替傘・乙</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/24式張替傘・甲/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/recycled-brella-24-mk-i.png" alt="24式張替傘・甲" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">24式張替傘・甲</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/h3リールガン/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/h-3-nozzlenose.png" alt="H3リールガン" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">H3リールガン</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/h3リールガンd/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/h-3-nozzlenose-d.png" alt="H3リールガンD" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">H3リールガンD</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/l3リールガン箔/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/l-3-nozzlenose-haku.png" alt="L3リールガン箔" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">L3リールガン箔</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/n-zap89/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/n-zap-89.png" alt="N-ZAP89" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">N-ZAP89</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/rブラスターエリート/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/range-blaster.png" alt="Rブラスターエリート" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">Rブラスターエリート</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/s-blast92/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/s-blast-92.png" alt="S-BLAST92" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">S-BLAST92</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/もみじシューター/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/custom-splattershot-jr.png" alt="もみじシューター" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">もみじシューター</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/オーバーフロッシャー/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/bloblobber.png" alt="オーバーフロッシャー" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">オーバーフロッシャー</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/スクイックリンβ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/new-squiffer.png" alt="スクイックリンβ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">スクイックリンβ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/スパイガジェット/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/undercover-brella.png" alt="スパイガジェット" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">スパイガジェット</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/スプラスコープ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/splatterscope.png" alt="スプラスコープ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">スプラスコープ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/スプラスコープfrst/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/splatterscope-frst.png" alt="スプラスコープFRST" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">スプラスコープFRST</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/スプラスピナーpytn/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/mini-splatling-pytn.png" alt="スプラスピナーPYTN" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">スプラスピナーPYTN</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/スプラチャージャー/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/splat-charger.png" alt="スプラチャージャー" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">スプラチャージャー</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/トライストリンガー燈/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/tri-stringer-tou.png" alt="トライストリンガー燈" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">トライストリンガー燈</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ハイドラントカスタム/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/custom-hydra-splatling.png" alt="ハイドラントカスタム" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ハイドラントカスタム</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/フィンセントbrnz/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/painbrush-brnz.png" alt="フィンセントBRNZ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">フィンセントBRNZ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/モップリンd/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/dread-wringer-d.png" alt="モップリンD" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">モップリンD</span></a></div>
-  </td>
-</tr>
-<tr>
-  <th style="text-align:center;vertical-align:middle;width:60px"><img src="/gamers-for/images/games/splatoon3/tiers/b.webp" alt="B" loading="lazy" width="32" height="32" style="vertical-align:middle"></th>
-  <td>
-<div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/96ガロン/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/96-gal.png" alt="96ガロン" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">96ガロン</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/h3リールガンsnak/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/h-3-nozzlenose-snak.png" alt="H3リールガンSNAK" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">H3リールガンSNAK</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/エクスプロッシャー/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/explosher.png" alt="エクスプロッシャー" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">エクスプロッシャー</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ガエンff/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/douser-dualies-ff.png" alt="ガエンFF" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ガエンFF</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/キャンピングシェルターcrem/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/tenta-brella-crem.png" alt="キャンピングシェルターCREM" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">キャンピングシェルターCREM</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/クラッシュブラスターネオ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/clash-blaster-neo.png" alt="クラッシュブラスターネオ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">クラッシュブラスターネオ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/スプラチャージャーfrst/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/splat-charger-frst.png" alt="スプラチャージャーFRST" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">スプラチャージャーFRST</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ソイチューバー/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/goo-tuber.png" alt="ソイチューバー" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ソイチューバー</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ノヴァブラスター/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/luna-blaster.png" alt="ノヴァブラスター" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ノヴァブラスター</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ハイドラント/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/hydra-splatling.png" alt="ハイドラント" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ハイドラント</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/バレルスピナーrose/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/heavy-splatling-rose.png" alt="バレルスピナーROSE" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">バレルスピナーROSE</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/パラシェルター幕/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/splat-brella-maku.png" alt="パラシェルター幕" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">パラシェルター幕</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ホクサイヒュー/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/octobrush-nouveau.png" alt="ホクサイヒュー" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ホクサイヒュー</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ボールドマーカー/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/sploosh-o-matic.png" alt="ボールドマーカー" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ボールドマーカー</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ワイドローラーコラボ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/big-swig-roller-express.png" alt="ワイドローラーコラボ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ワイドローラーコラボ</span></a></div>
-  </td>
-</tr>
-<tr>
-  <th style="text-align:center;vertical-align:middle;width:60px"><img src="/gamers-for/images/games/splatoon3/tiers/cplus.webp" alt="C+" loading="lazy" width="32" height="32" style="vertical-align:middle"></th>
-  <td>
-<div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/rブラスターエリートwntr/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/range-blaster-wntr.png" alt="RブラスターエリートWNTR" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">RブラスターエリートWNTR</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/クラッシュブラスター/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/clash-blaster.png" alt="クラッシュブラスター" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">クラッシュブラスター</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ジェットスイーパー/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/jet-squelcher.png" alt="ジェットスイーパー" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ジェットスイーパー</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/スパイガジェット繚/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/undercover-brella-ryou.png" alt="スパイガジェット繚" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">スパイガジェット繚</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/スペースシューター/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/splattershot-nova.png" alt="スペースシューター" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">スペースシューター</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ハイドラント圧/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/hydra-splatling-atsu.png" alt="ハイドラント圧" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ハイドラント圧</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/プロモデラーmg/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/aerospray-mg.png" alt="プロモデラーMG" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">プロモデラーMG</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/プロモデラーrg/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/aerospray-rg.png" alt="プロモデラーRG" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">プロモデラーRG</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ワイドローラー/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/big-swig-roller.png" alt="ワイドローラー" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ワイドローラー</span></a></div>
-  </td>
-</tr>
-<tr>
-  <th style="text-align:center;vertical-align:middle;width:60px"><img src="/gamers-for/images/games/splatoon3/tiers/c.webp" alt="C" loading="lazy" width="32" height="32" style="vertical-align:middle"></th>
-  <td>
-<div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/カーボンローラー/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/carbon-roller.png" alt="カーボンローラー" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">カーボンローラー</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/カーボンローラーangl/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/carbon-roller-angl.png" alt="カーボンローラーANGL" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">カーボンローラーANGL</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ジェットスイーパーcobr/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/jet-squelcher-cobr.png" alt="ジェットスイーパーCOBR" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ジェットスイーパーCOBR</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ソイチューバーカスタム/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/custom-goo-tuber.png" alt="ソイチューバーカスタム" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ソイチューバーカスタム</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/プロモデラー彩/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/aerospray-iro.png" alt="プロモデラー彩" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">プロモデラー彩</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ボールドマーカーネオ/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/neo-sploosh-o-matic.png" alt="ボールドマーカーネオ" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ボールドマーカーネオ</span></a></div>    <div style="display:inline-block;text-align:center;margin:4px;width:68px;vertical-align:top"><a href="weapons/ワイドローラー惑/" style="text-decoration:none;color:inherit"><img src="/gamers-for/images/games/splatoon3/weapons/big-swig-roller-waku.png" alt="ワイドローラー惑" loading="lazy" width="48" height="48"><br><span style="font-size:.7em;line-height:1.2;display:block">ワイドローラー惑</span></a></div>
-  </td>
+<td class="center" width="20%"><a class="a-link" href="/gamers-for/games/splatoon3/tier-area/"><img alt="スプラトゥーン3のガチエリア" class="a-img" height="100" loading="lazy" src="/gamers-for/images/games/splatoon3/rules/splat-zones.png" width="100"/><br/>ガチ<br/>エリア</a></td>
+<td class="center" width="20%"><a class="a-link" href="/gamers-for/games/splatoon3/tier-yagura/"><img alt="スプラトゥーン3のガチヤグラ" class="a-img" height="100" loading="lazy" src="/gamers-for/images/games/splatoon3/rules/tower-control.png" width="100"/><br/>ガチ<br/>ヤグラ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/gamers-for/games/splatoon3/tier-hoko/"><img alt="スプラトゥーン3のガチホコ" class="a-img" height="100" loading="lazy" src="/gamers-for/images/games/splatoon3/rules/rainmaker.png" width="100"/><br/>ガチ<br/>ホコ</a></td>
+<td class="center" width="20%"><b class="a-bold"><img alt="スプラトゥーン3のガチアサリ" class="a-img" height="100" loading="lazy" src="/gamers-for/images/games/splatoon3/rules/clam-blitz.png" width="100"/><br/>ガチ<br/>アサリ</b></td>
+<td class="center" width="20%"><a class="a-link" href="/gamers-for/games/splatoon3/tier-nawabari/"><img alt="スプラトゥーン3のナワバリ" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/rules/turf-war.png" width="100"/><br/>ナワ<br/>バリ</a></td>
 </tr>
 </table>
-
-<h2>Xランク（環境最強）</h2>
-<h3>シャープマーカー（シューター）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/burst-bomb.png" alt="クイックボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> クイックボム</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/crab-tank.png" alt="カニタンク" loading="lazy" width="20" height="20" style="vertical-align:middle"> カニタンク</td></tr>
-<tr><th>ダメージ</th><td>28</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: 総合力の高さでルールを問わず活躍。バランスの良さが光る</p>
-
-<h3>ジムワイパー（ワイパー）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/burst-bomb.png" alt="クイックボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> クイックボム</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/zipcaster.png" alt="ショクワンダー" loading="lazy" width="20" height="20" style="vertical-align:middle"> ショクワンダー</td></tr>
-<tr><th>ダメージ</th><td>タメ:100/通常:85</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: 総合力の高さでルールを問わず活躍。バランスの良さが光る</p>
-
-<h3>スプラマニューバー（マニューバー）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/suction-bomb.png" alt="キューバンボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> キューバンボム</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/crab-tank.png" alt="カニタンク" loading="lazy" width="20" height="20" style="vertical-align:middle"> カニタンク</td></tr>
-<tr><th>ダメージ</th><td>30</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: マニューバーの特性がこのルールとバッチリ噛み合ってて、安定して活躍できる</p>
-
-<h3>スプラマニューバー耀（マニューバー）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/fizzy-bomb.png" alt="タンサンボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> タンサンボム</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/big-bubbler.png" alt="グレートバリア" loading="lazy" width="20" height="20" style="vertical-align:middle"> グレートバリア</td></tr>
-<tr><th>ダメージ</th><td>30</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: マニューバーの特性がこのルールとバッチリ噛み合ってて、安定して活躍できる</p>
-
-<h3>バケットスロッシャー（スロッシャー）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/splat-bomb.png" alt="スプラッシュボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> スプラッシュボム</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/triple-inkstrike.png" alt="トリプルトルネード" loading="lazy" width="20" height="20" style="vertical-align:middle"> トリプルトルネード</td></tr>
-<tr><th>ダメージ</th><td>70</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: 総合力の高さでルールを問わず活躍。バランスの良さが光る</p>
-
-<h3>ボトルガイザー（シューター）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/splash-wall.png" alt="スプラッシュシールド" loading="lazy" width="20" height="20" style="vertical-align:middle"> スプラッシュシールド</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/trizooka.png" alt="ウルトラショット" loading="lazy" width="20" height="20" style="vertical-align:middle"> ウルトラショット</td></tr>
-<tr><th>ダメージ</th><td>38/32</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: 総合力の高さでルールを問わず活躍。バランスの良さが光る</p>
-
-<h2>S+ランク（環境トップ）</h2>
-<h3>52ガロン（シューター）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/splash-wall.png" alt="スプラッシュシールド" loading="lazy" width="20" height="20" style="vertical-align:middle"> スプラッシュシールド</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/killer-wail-5-1.png" alt="メガホンレーザー5.1ch" loading="lazy" width="20" height="20" style="vertical-align:middle"> メガホンレーザー5.1ch</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: 総合力の高さでルールを問わず活躍。バランスの良さが光る</p>
-
-<h3>N-ZAP85（シューター）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/suction-bomb.png" alt="キューバンボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> キューバンボム</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/tacticooler.png" alt="エナジースタンド" loading="lazy" width="20" height="20" style="vertical-align:middle"> エナジースタンド</td></tr>
-<tr><th>ダメージ</th><td>30</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: 総合力の高さでルールを問わず活躍。バランスの良さが光る</p>
-
-<h3>R-PEN/5H（シューター）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/sprinkler.png" alt="スプリンクラー" loading="lazy" width="20" height="20" style="vertical-align:middle"> スプリンクラー</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/crab-tank.png" alt="カニタンク" loading="lazy" width="20" height="20" style="vertical-align:middle"> カニタンク</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: 総合力の高さでルールを問わず活躍。バランスの良さが光る</p>
-
-<h3>S-BLAST91（ブラスター）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/burst-bomb.png" alt="クイックボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> クイックボム</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/booyah-bomb.png" alt="ナイスダマ" loading="lazy" width="20" height="20" style="vertical-align:middle"> ナイスダマ</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: 総合力の高さでルールを問わず活躍。バランスの良さが光る</p>
-
-<h3>イグザミナー（スピナー）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/point-sensor.png" alt="ポイントセンサー" loading="lazy" width="20" height="20" style="vertical-align:middle"> ポイントセンサー</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/wave-breaker.png" alt="ホップソナー" loading="lazy" width="20" height="20" style="vertical-align:middle"> ホップソナー</td></tr>
-<tr><th>ダメージ</th><td>32</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: このルールでは相性が微妙な場面もあるけど、プレイヤースキル次第で十分戦える</p>
-
-<h3>イグザミナーヒュー（スピナー）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/point-sensor.png" alt="ポイントセンサー" loading="lazy" width="20" height="20" style="vertical-align:middle"> ポイントセンサー</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/kraken-royale.png" alt="テイオウイカ" loading="lazy" width="20" height="20" style="vertical-align:middle"> テイオウイカ</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: このルールでは相性が微妙な場面もあるけど、プレイヤースキル次第で十分戦える</p>
-
-<h3>キャンピングシェルターソレーラ（シェルター）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/toxic-mist.png" alt="ポイズンミスト" loading="lazy" width="20" height="20" style="vertical-align:middle"> ポイズンミスト</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/ultra-stamp.png" alt="ウルトラチャクチ" loading="lazy" width="20" height="20" style="vertical-align:middle"> ウルトラチャクチ</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: このルールでは相性が微妙な場面もあるけど、プレイヤースキル次第で十分戦える</p>
-
-<h3>クーゲルシュライバー（スピナー）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/fizzy-bomb.png" alt="タンサンボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> タンサンボム</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/ink-storm.png" alt="アメフラシ" loading="lazy" width="20" height="20" style="vertical-align:middle"> アメフラシ</td></tr>
-<tr><th>ダメージ</th><td>32/28</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: このルールでは相性が微妙な場面もあるけど、プレイヤースキル次第で十分戦える</p>
-
-<h3>シャープマーカーGECK（シューター）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/toxic-mist.png" alt="ポイズンミスト" loading="lazy" width="20" height="20" style="vertical-align:middle"> ポイズンミスト</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/ink-storm.png" alt="アメフラシ" loading="lazy" width="20" height="20" style="vertical-align:middle"> アメフラシ</td></tr>
-<tr><th>ダメージ</th><td>28</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: 総合力の高さでルールを問わず活躍。バランスの良さが光る</p>
-
-<h3>ジムワイパーヒュー（ワイパー）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/curling-bomb.png" alt="カーリングボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> カーリングボム</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/booyah-bomb.png" alt="ナイスダマ" loading="lazy" width="20" height="20" style="vertical-align:middle"> ナイスダマ</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: 総合力の高さでルールを問わず活躍。バランスの良さが光る</p>
-
-<h3>ジムワイパー封（ワイパー）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/autobomb.png" alt="ロボットボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> ロボットボム</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/booyah-bomb.png" alt="ナイスダマ" loading="lazy" width="20" height="20" style="vertical-align:middle"> ナイスダマ</td></tr>
-<tr><th>ダメージ</th><td>タメ:100/通常:85</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: 総合力の高さでルールを問わず活躍。バランスの良さが光る</p>
-
-<h3>スクリュースロッシャーネオ（スロッシャー）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/point-sensor.png" alt="ポイントセンサー" loading="lazy" width="20" height="20" style="vertical-align:middle"> ポイントセンサー</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/kraken-royale.png" alt="テイオウイカ" loading="lazy" width="20" height="20" style="vertical-align:middle"> テイオウイカ</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: 総合力の高さでルールを問わず活躍。バランスの良さが光る</p>
-
-<h3>スプラシューター（シューター）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/suction-bomb.png" alt="キューバンボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> キューバンボム</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/trizooka.png" alt="ウルトラショット" loading="lazy" width="20" height="20" style="vertical-align:middle"> ウルトラショット</td></tr>
-<tr><th>ダメージ</th><td>36</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: 総合力の高さでルールを問わず活躍。バランスの良さが光る</p>
-
-<h3>デンタルワイパーミント（ワイパー）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/torpedo.png" alt="トーピード" loading="lazy" width="20" height="20" style="vertical-align:middle"> トーピード</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/inkjet.png" alt="ジェットパック" loading="lazy" width="20" height="20" style="vertical-align:middle"> ジェットパック</td></tr>
-<tr><th>ダメージ</th><td>-</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: 総合力の高さでルールを問わず活躍。バランスの良さが光る</p>
-
-<h3>ノーチラス47（スピナー）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/point-sensor.png" alt="ポイントセンサー" loading="lazy" width="20" height="20" style="vertical-align:middle"> ポイントセンサー</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/ink-storm.png" alt="アメフラシ" loading="lazy" width="20" height="20" style="vertical-align:middle"> アメフラシ</td></tr>
-<tr><th>ダメージ</th><td>32</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: このルールでは相性が微妙な場面もあるけど、プレイヤースキル次第で十分戦える</p>
-
-<h3>ヒッセンヒュー（スロッシャー）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/point-sensor.png" alt="ポイントセンサー" loading="lazy" width="20" height="20" style="vertical-align:middle"> ポイントセンサー</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/tacticooler.png" alt="エナジースタンド" loading="lazy" width="20" height="20" style="vertical-align:middle"> エナジースタンド</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: 総合力の高さでルールを問わず活躍。バランスの良さが光る</p>
-
-<h3>プライムシューター（シューター）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/point-sensor.png" alt="ポイントセンサー" loading="lazy" width="20" height="20" style="vertical-align:middle"> ポイントセンサー</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/trizooka.png" alt="ウルトラショット" loading="lazy" width="20" height="20" style="vertical-align:middle"> ウルトラショット</td></tr>
-<tr><th>ダメージ</th><td>45</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: 総合力の高さでルールを問わず活躍。バランスの良さが光る</p>
-
-<h3>ボトルガイザーフォイル（シューター）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/splash-wall.png" alt="スプラッシュシールド" loading="lazy" width="20" height="20" style="vertical-align:middle"> スプラッシュシールド</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/kraken-royale.png" alt="テイオウイカ" loading="lazy" width="20" height="20" style="vertical-align:middle"> テイオウイカ</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: 総合力の高さでルールを問わず活躍。バランスの良さが光る</p>
-
-<h2>Sランク（強武器）</h2>
-<h3>52ガロンデコ（シューター）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/fizzy-bomb.png" alt="タンサンボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> タンサンボム</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/ultra-stamp.png" alt="ウルトラチャクチ" loading="lazy" width="20" height="20" style="vertical-align:middle"> ウルトラチャクチ</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: 総合力の高さでルールを問わず活躍。バランスの良さが光る</p>
-
-<h3>Rブラスターエリートデコ（ブラスター）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/toxic-mist.png" alt="ポイズンミスト" loading="lazy" width="20" height="20" style="vertical-align:middle"> ポイズンミスト</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/ink-storm.png" alt="アメフラシ" loading="lazy" width="20" height="20" style="vertical-align:middle"> アメフラシ</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: 総合力の高さでルールを問わず活躍。バランスの良さが光る</p>
-
-<h3>わかばシューター（シューター）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/splat-bomb.png" alt="スプラッシュボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> スプラッシュボム</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/big-bubbler.png" alt="グレートバリア" loading="lazy" width="20" height="20" style="vertical-align:middle"> グレートバリア</td></tr>
-<tr><th>ダメージ</th><td>28</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: 総合力の高さでルールを問わず活躍。バランスの良さが光る</p>
-
-<h3>クーゲルシュライバーヒュー（スピナー）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/ink-mine.png" alt="トラップ" loading="lazy" width="20" height="20" style="vertical-align:middle"> トラップ</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/ultra-stamp.png" alt="ウルトラチャクチ" loading="lazy" width="20" height="20" style="vertical-align:middle"> ウルトラチャクチ</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: このルールでは相性が微妙な場面もあるけど、プレイヤースキル次第で十分戦える</p>
-
-<h3>シャープマーカーネオ（シューター）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/burst-bomb.png" alt="クイックボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> クイックボム</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/triple-inkstrike.png" alt="トリプルトルネード" loading="lazy" width="20" height="20" style="vertical-align:middle"> トリプルトルネード</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: 総合力の高さでルールを問わず活躍。バランスの良さが光る</p>
-
-<h3>スプラシューターコラボ（シューター）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/splat-bomb.png" alt="スプラッシュボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> スプラッシュボム</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/triple-inkstrike.png" alt="トリプルトルネード" loading="lazy" width="20" height="20" style="vertical-align:middle"> トリプルトルネード</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: 総合力の高さでルールを問わず活躍。バランスの良さが光る</p>
-
-<h3>スプラシューター煌（シューター）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/burst-bomb.png" alt="クイックボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> クイックボム</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/kraken-royale.png" alt="テイオウイカ" loading="lazy" width="20" height="20" style="vertical-align:middle"> テイオウイカ</td></tr>
-<tr><th>ダメージ</th><td>36</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: 総合力の高さでルールを問わず活躍。バランスの良さが光る</p>
-
-<h3>スプラスピナーコラボ（スピナー）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/toxic-mist.png" alt="ポイズンミスト" loading="lazy" width="20" height="20" style="vertical-align:middle"> ポイズンミスト</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/killer-wail-5-1.png" alt="メガホンレーザー5.1ch" loading="lazy" width="20" height="20" style="vertical-align:middle"> メガホンレーザー5.1ch</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: このルールでは相性が微妙な場面もあるけど、プレイヤースキル次第で十分戦える</p>
-
-<h3>スプラマニューバーコラボ（マニューバー）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/curling-bomb.png" alt="カーリングボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> カーリングボム</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/ultra-stamp.png" alt="ウルトラハンコ" loading="lazy" width="20" height="20" style="vertical-align:middle"> ウルトラハンコ</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: マニューバーの特性がこのルールとバッチリ噛み合ってて、安定して活躍できる</p>
-
-<h3>スプラローラー（ローラー）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/curling-bomb.png" alt="カーリングボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> カーリングボム</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/big-bubbler.png" alt="グレートバリア" loading="lazy" width="20" height="20" style="vertical-align:middle"> グレートバリア</td></tr>
-<tr><th>ダメージ</th><td>横:35-150</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: 総合力の高さでルールを問わず活躍。バランスの良さが光る</p>
-
-<h3>デンタルワイパースミ（ワイパー）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/line-marker.png" alt="ラインマーカー" loading="lazy" width="20" height="20" style="vertical-align:middle"> ラインマーカー</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/tacticooler.png" alt="エナジースタンド" loading="lazy" width="20" height="20" style="vertical-align:middle"> エナジースタンド</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: 総合力の高さでルールを問わず活躍。バランスの良さが光る</p>
-
-<h3>ドライブワイパー（ワイパー）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/toxic-mist.png" alt="ポイズンミスト" loading="lazy" width="20" height="20" style="vertical-align:middle"> ポイズンミスト</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/tacticooler.png" alt="エナジースタンド" loading="lazy" width="20" height="20" style="vertical-align:middle"> エナジースタンド</td></tr>
-<tr><th>ダメージ</th><td>タメ:100/通常:30</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: 総合力の高さでルールを問わず活躍。バランスの良さが光る</p>
-
-<h3>ノーチラス79（スピナー）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/point-sensor.png" alt="ポイントセンサー" loading="lazy" width="20" height="20" style="vertical-align:middle"> ポイントセンサー</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/ultra-stamp.png" alt="ウルトラチャクチ" loading="lazy" width="20" height="20" style="vertical-align:middle"> ウルトラチャクチ</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: このルールでは相性が微妙な場面もあるけど、プレイヤースキル次第で十分戦える</p>
-
-<h3>パブロヒュー（フデ）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/ink-mine.png" alt="トラップ" loading="lazy" width="20" height="20" style="vertical-align:middle"> トラップ</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/splattercolor-screen.png" alt="スミナガシート" loading="lazy" width="20" height="20" style="vertical-align:middle"> スミナガシート</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: フデの特性がこのルールとバッチリ噛み合ってて、安定して活躍できる</p>
-
-<h3>ヒッセン（スロッシャー）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/toxic-mist.png" alt="ポイズンミスト" loading="lazy" width="20" height="20" style="vertical-align:middle"> ポイズンミスト</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/inkjet.png" alt="ジェットパック" loading="lazy" width="20" height="20" style="vertical-align:middle"> ジェットパック</td></tr>
-<tr><th>ダメージ</th><td>62</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: 総合力の高さでルールを問わず活躍。バランスの良さが光る</p>
-
-<h3>プライムシューターFRZN（シューター）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/splat-bomb.png" alt="スプラッシュボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> スプラッシュボム</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/tenta-missiles.png" alt="マルチミサイル" loading="lazy" width="20" height="20" style="vertical-align:middle"> マルチミサイル</td></tr>
-<tr><th>ダメージ</th><td>45</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: 総合力の高さでルールを問わず活躍。バランスの良さが光る</p>
-
-<h3>プライムシューターコラボ（シューター）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/suction-bomb.png" alt="キューバンボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> キューバンボム</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/wave-breaker.png" alt="ホップソナー" loading="lazy" width="20" height="20" style="vertical-align:middle"> ホップソナー</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: 総合力の高さでルールを問わず活躍。バランスの良さが光る</p>
-
-<h3>モップリン（スロッシャー）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/suction-bomb.png" alt="キューバンボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> キューバンボム</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/zipcaster.png" alt="ショクワンダー" loading="lazy" width="20" height="20" style="vertical-align:middle"> ショクワンダー</td></tr>
-<tr><th>ダメージ</th><td>100(直撃)</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: 総合力の高さでルールを問わず活躍。バランスの良さが光る</p>
-
-<h3>ラピッドブラスターデコ（ブラスター）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/ink-mine.png" alt="トラップ" loading="lazy" width="20" height="20" style="vertical-align:middle"> トラップ</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/killer-wail-5-1.png" alt="メガホンレーザー5.1ch" loading="lazy" width="20" height="20" style="vertical-align:middle"> メガホンレーザー5.1ch</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: 総合力の高さでルールを問わず活躍。バランスの良さが光る</p>
-
-<h3>ロングブラスター（ブラスター）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/suction-bomb.png" alt="キューバンボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> キューバンボム</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/wave-breaker.png" alt="ホップソナー" loading="lazy" width="20" height="20" style="vertical-align:middle"> ホップソナー</td></tr>
-<tr><th>ダメージ</th><td>直撃:125/爆風:50-70</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: 総合力の高さでルールを問わず活躍。バランスの良さが光る</p>
-
-<h3>ロングブラスターカスタム（ブラスター）</h3>
-<table>
-<tr><th>サブ</th><td><img src="/gamers-for/images/games/splatoon3/subs/suction-bomb.png" alt="キューバンボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> キューバンボム</td></tr>
-<tr><th>スペシャル</th><td><img src="/gamers-for/images/games/splatoon3/specials/ultra-stamp.png" alt="ウルトラチャクチ" loading="lazy" width="20" height="20" style="vertical-align:middle"> ウルトラチャクチ</td></tr>
-</table>
-<p><strong>ガチアサリでの強み</strong>: 総合力の高さでルールを問わず活躍。バランスの良さが光る</p>
-
-<h2>関連記事</h2>
+<p></p>
+<div class="a-outline">
+<p><svg aria-hidden="true" class="svg-inline--fa fa-list-ul fa-w-16" data-icon="list-ul" data-prefix="fas" focusable="false" role="img" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M48 48a48 48 0 1 0 48 48 48 48 0 0 0-48-48zm0 160a48 48 0 1 0 48 48 48 48 0 0 0-48-48zm0 160a48 48 0 1 0 48 48 48 48 0 0 0-48-48zm448 16H176a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h320a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-320H176a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h320a16 16 0 0 0 16-16V80a16 16 0 0 0-16-16zm0 160H176a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h320a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16z"></path></svg>目次</p>
 <ul>
-<li><a href="../tier-list/">最強武器ランキング（総合）</a></li>
-<li><a href="../tier-nawabari/">ナワバリバトル最強ランキング</a></li>
-<li><a href="../tier-area/">ガチエリア最強ランキング</a></li>
-<li><a href="../tier-yagura/">ガチヤグラ最強ランキング</a></li>
-<li><a href="../tier-hoko/">ガチホコバトル最強ランキング</a></li>
-<li><a href="../weapons/">全武器一覧</a></li>
+<li><a class="track_nier" href="#hl_1">ガチアサリの最強武器ランキング</a></li>
+<li><a class="track_nier" href="#hl_2">評価と解説</a></li>
+<li><a class="a-outline__tree track_nier" href="#hm_2">評価Xの解説</a></li>
+<li><a class="a-outline__tree track_nier" href="#hm_3">評価S+の解説</a></li>
+<li><a class="track_nier" href="#hl_3">関連記事</a></li>
 </ul>
+</div>
+
+
+<h2 class="a-header--2" id="hl_1">ガチアサリの最強武器ランキング</h2>
+<table class="a-table a-table" style="">
+<tr>
+<td width="100%">
+<span class="a-red">ランキングは、随時更新予定だ。</span>もプレイしながら考察中なので、ぜひご意見コメントお待ちしております。</td>
+</tr>
+</table>
+<table class="a-table a-table" style="">
+<tr>
+<th width="15%">
+<img alt="X" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/tiers/x.webp" width="30"/>
+</th>
+<td width="85%">
+<div class="align">
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ジムワイパー/"><img alt="ジムワイパー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/splatana-wiper.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/スプラマニューバー/"><img alt="スプラマニューバー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/splat-dualies.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/バケットスロッシャー/"><img alt="バケットスロッシャー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/slosher.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/シャープマーカー/"><img alt="シャープマーカー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/splash-o-matic.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ボトルガイザー/"><img alt="ボトルガイザー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/squeezer.png" width="60"/></a>
+</div>
+</td>
+</tr>
+<tr>
+<th>
+<img alt="S＋" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/tiers/splus.webp" width="30"/>
+</th>
+<td>
+<div class="align">
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/n-zap85/"><img alt="N-ZAP85画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/n-zap-85.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/プライムシューター/"><img alt="プライムシューター画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/splattershot-pro.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/52ガロン/"><img alt="52ガロン画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/52-gal.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/スプラシューター/"><img alt="スプラシューター画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/splattershot.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/クーゲルシュライバー/"><img alt="クーゲルシュライバー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/ballpoint-splatling.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ノーチラス47/"><img alt="ノーチラス47画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/nautilus-47.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/r-pen-5h/"><img alt="R-PEN/5H画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/douser-dualies-ff.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ヒッセンヒュー/"><img alt="ヒッセンヒュー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/tri-slosher-nouveau.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/キャンピングシェルターソレーラ/"><img alt="キャンピングシェルターソレーラ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/tenta-sorella-brella.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/イグザミナー/"><img alt="イグザミナー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/heavy-edit-splatling.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/スクリュースロッシャーネオ/"><img alt="スクリュースロッシャーネオ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/sloshing-machine-neo.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ボトルガイザーフォイル/"><img alt="ボトルガイザーフォイル画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/foil-squeezer.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/s-blast91/"><img alt="S-BLAST91画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/s-blast-91.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ジムワイパーヒュー/"><img alt="ジムワイパーヒュー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/splatana-wiper-deco.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/デンタルワイパーミント/"><img alt="デンタルワイパーミント画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/mint-decavitator.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/イグザミナーヒュー/"><img alt="イグザミナーヒュー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/heavy-edit-splatling-nouveau.png" width="60"/></a>
+</div>
+</td>
+</tr>
+<tr>
+<th>
+<img alt="S" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/tiers/s.webp" width="30"/>
+</th>
+<td><div class="align">
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/トライストリンガー/"><img alt="ドライブワイパー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/splatana-stamper.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/スプラローラー/"><img alt="スプラローラー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/splat-roller.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ロングブラスター/"><img alt="ロングブラスター画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/range-blaster.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ヒッセン/"><img alt="ヒッセン画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/tri-slosher.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/わかばシューター/"><img alt="わかばシューター画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/splattershot-jr.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/スプラシューターコラボ/"><img alt="スプラシューターコラボ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/tentatek-splattershot.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/スプラスピナーコラボ/"><img alt="スプラスピナーコラボ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/zink-mini-splatling.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/プライムシューターコラボ/"><img alt="プライムシューターコラボ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/forge-splattershot-pro.png" width="60"/></a>
+<a class="a-link" href="#"><img alt="パブロヒュー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/inkbrush-nouveau.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ラピッドブラスターデコ/"><img alt="ラピッドブラスターデコ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/rapid-blaster-deco.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/シャープマーカーネオ/"><img alt="シャープマーカーネオ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/neo-splash-o-matic.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/rブラスターエリートデコ/"><img alt="Rブラスターエリートデコ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/custom-range-blaster.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/モップリン/"><img alt="モップリン画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/dread-wringer.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/クーゲルシュライバーヒュー/"><img alt="クーゲルシュライバーヒュー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/ballpoint-splatling-nouveau.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/スプラマニューバーコラボ/"><img alt="スプラマニューバーコラボ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/enperry-splat-dualies.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/52ガロンデコ/"><img alt="52ガロンデコ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/52-gal-deco.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ノーチラス79/"><img alt="ノーチラス79画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/nautilus-79.png" width="60"/></a>
+<a class="a-link" href="#"><img alt="デンタルワイパースミ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/charcoal-decavitator.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ロングブラスターカスタム/"><img alt="ロングブラスターカスタム画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/custom-range-blaster.png" width="60"/></a>
+</div></td>
+</tr>
+<tr>
+<th>
+<img alt="A＋" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/tiers/aplus.webp" width="30"/>
+</th>
+<td>
+<div class="align">
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ヴァリアブルローラー/"><img alt="ヴァリアブルローラー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/flingza-roller.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ダイナモローラー/"><img alt="ダイナモローラー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/dynamo-roller.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/デュアルスイーパー/"><img alt="デュアルスイーパー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/dualie-squelchers.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/クアッドホッパーブラック/"><img alt="クアッドホッパーブラック画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/dark-tetra-dualies.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ケルビン525/"><img alt="ケルビン525画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/glooga-dualies.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/スパッタリー/"><img alt="スパッタリー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/dapple-dualies.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ホットブラスター/"><img alt="ホットブラスター画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/blaster.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/4kスコープ/"><img alt="4Kスコープ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/e-liter-4k-scope.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/リッター4k/"><img alt="リッター4K画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/e-liter-4k.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/スクイックリンα/"><img alt="スクイックリンα画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/classic-squiffer.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/スクリュースロッシャー/"><img alt="スクリュースロッシャー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/sloshing-machine.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/lact-450/"><img alt="LACT-450画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/snipewriter-5h.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/スパッタリーヒュー/"><img alt="スパッタリーヒュー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/dapple-dualies-nouveau.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/バケットスロッシャーデコ/"><img alt="バケットスロッシャーデコ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/slosher-deco.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/カーボンローラーデコ/"><img alt="カーボンローラーデコ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/carbon-roller-deco.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/スプラスコープコラボ/"><img alt="スプラスコープコラボ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/z-f-splatterscope.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/スプラチャージャーコラボ/"><img alt="スプラチャージャーコラボ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/z-f-splat-charger.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/96ガロンデコ/"><img alt="96ガロンデコ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/96-gal-deco.png" width="60"/></a>
+<a class="a-link" href="#"><img alt="ドライブワイパーデコ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/splatana-stamper-nouveau.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/バレルスピナーデコ/"><img alt="バレルスピナーデコ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/heavy-splatling-deco.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/デュアルスイーパーカスタム/"><img alt="デュアルスイーパーカスタム画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/custom-dualie-squelchers.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/パラシェルターソレーラ/"><img alt="パラシェルターソレーラ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/sorella-brella.png" width="60"/></a>
+<a class="a-link" href="#"><img alt="トライストリンガーコラボ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/inkline-tri-stringer.png" width="60"/></a>
+<a class="a-link" href="#"><img alt="LACT-450デコ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/snipewriter-5b.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ホットブラスターカスタム/"><img alt="ホットブラスターカスタム画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/custom-blaster.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ケルビン525デコ/"><img alt="ケルビン525デコ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/glooga-dualies-deco.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/リッター4kカスタム/"><img alt="リッター4Kカスタム画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/custom-e-liter-4k.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/4kスコープカスタム/"><img alt="4Kスコープカスタム画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/custom-e-liter-4k-scope.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/エクスプロッシャーカスタム/"><img alt="エクスプロッシャーカスタム画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/custom-explosher.png" width="60"/></a>
+<a class="a-link" href="#"><img alt="フルイドⅤ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/reef-lux-450.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/14式竹筒銃-乙/"><img alt="14式竹筒銃・乙画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/bamboozler-14-mk-ii.png" width="60"/></a>
+</div>
+</td>
+</tr>
+<tr>
+<th>
+<img alt="A" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/tiers/a.webp" width="30"/>
+</th>
+<td><div class="align">
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ホクサイ/"><img alt="ホクサイ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/octobrush.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/パブロ/"><img alt="パブロ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/inkbrush.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/バレルスピナー/"><img alt="バレルスピナー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/heavy-splatling.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ドライブワイパー/"><img alt="トライストリンガー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/tri-stringer.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/キャンピングシェルター/"><img alt="キャンピングシェルター画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/tenta-brella.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/パラシェルター/"><img alt="パラシェルター画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/splat-brella.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/スプラスピナー/"><img alt="スプラスピナー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/mini-splatling.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ラピッドブラスター/"><img alt="ラピッドブラスター画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/rapid-blaster.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/l3リールガン/"><img alt="L3リールガン画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/l-3-nozzlenose.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ノヴァブラスターネオ/"><img alt="ノヴァブラスターネオ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/luna-blaster-neo.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ジェットスイーパーカスタム/"><img alt="ジェットスイーパーカスタム画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/custom-jet-squelcher.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/l3リールガンd/"><img alt="L3リールガンD画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/l-3-nozzlenose-d.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/スプラローラーコラボ/"><img alt="スプラローラーコラボ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/krak-on-splat-roller.png" width="60"/></a>
+<a class="a-link" href="#"><img alt="スペースシューターコラボ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/annaki-splattershot-nova.png" width="60"/></a>
+<a class="a-link" href="#"><img alt="フィンセント画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/painbrush.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/クアッドホッパーホワイト/"><img alt="クアッドホッパーホワイト画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/light-tetra-dualies.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/オーバーフロッシャーデコ/"><img alt="オーバーフロッシャーデコ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/bloblobber-deco.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ダイナモローラーテスラ/"><img alt="ダイナモローラーテスラ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/gold-dynamo-roller.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/r-pen-5b/"><img alt="R-PEN/5B画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/custom-douser-dualies-ff.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/スパイガジェットソレーラ/"><img alt="スパイガジェットソレーラ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/undercover-sorella-brella.png" width="60"/></a>
+<a class="a-link" href="#"><img alt="フィンセントヒュー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/painbrush-nouveau.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ヴァリアブルローラーフォイル/"><img alt="ヴァリアブルローラーフォイル画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/foil-flingza-roller.png" width="60"/></a>
+<a class="a-link" href="#"><img alt="フルイドⅤカスタム画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/reef-lux-450-deco.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ガエンffカスタム/"><img alt="ガエンFFカスタム画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/custom-douser-dualies-ff.png" width="60"/></a>
+</div></td>
+</tr>
+<tr>
+<th>
+<img alt="B＋" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/tiers/bplus.webp" width="30"/>
+</th>
+<td><div class="align">
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/スプラスコープ/"><img alt="スプラスコープ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/splatterscope.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/スプラチャージャー/"><img alt="スプラチャージャー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/splat-charger.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/スパイガジェット/"><img alt="スパイガジェット画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/undercover-brella.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/h3リールガン/"><img alt="H3リールガン画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/h-3-nozzlenose.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/14式竹筒銃-甲/"><img alt="14式竹筒銃・甲画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/bamboozler-14-mk-i.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/rブラスターエリート/"><img alt="Rブラスターエリート画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/range-blaster.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/オーバーフロッシャー/"><img alt="オーバーフロッシャー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/bloblobber.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/もみじシューター/"><img alt="もみじシューター画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/custom-splattershot-jr.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/n-zap89/"><img alt="N-ZAP89画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/n-zap-89.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/s-blast92/"><img alt="S-BLAST92画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/s-blast-92.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/h3リールガンd/"><img alt="H3リールガンD画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/h-3-nozzlenose-d.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/24式張替傘-甲/"><img alt="24式張替傘・甲画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/recycled-brella-24-mk-i.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/スクイックリンβ/"><img alt="スクイックリンβ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/new-squiffer.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/モップリンd/"><img alt="モップリンD画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/dread-wringer-d.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/24式張替傘-乙/"><img alt="24式張替傘・乙画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/recycled-brella-24-mk-ii.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ハイドラントカスタム/"><img alt="ハイドラントカスタム画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/custom-hydra-splatling.png" width="60"/></a>
+</div></td>
+</tr>
+<tr>
+<th>
+<img alt="B" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/tiers/b.webp" width="30"/>
+</th>
+<td><div class="align">
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ノヴァブラスター/"><img alt="ノヴァブラスター画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/luna-blaster.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/エクスプロッシャー/"><img alt="エクスプロッシャー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/explosher.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ハイドラント/"><img alt="ハイドラント画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/hydra-splatling.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ボールドマーカー/"><img alt="ボールドマーカー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/sploosh-o-matic.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/96ガロン/"><img alt="96ガロン画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/96-gal.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ソイチューバー/"><img alt="ソイチューバー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/goo-tuber.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/クラッシュブラスターネオ/"><img alt="クラッシュブラスターネオ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/clash-blaster-neo.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ワイドローラーコラボ/"><img alt="ワイドローラーコラボ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/big-swig-roller-express.png" width="60"/></a>
+<a class="a-link" href="#"><img alt="ホクサイヒュー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/octobrush-nouveau.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ガエンff/"><img alt="ガエンFF画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/douser-dualies-ff.png" width="60"/></a>
+</div></td>
+</tr>
+<tr>
+<th>
+<img alt="C＋" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/tiers/cplus.webp" width="30"/>
+</th>
+<td><div class="align">
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/プロモデラーrg/"><img alt="プロモデラーRG画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/aerospray-rg.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ジェットスイーパー/"><img alt="ジェットスイーパー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/jet-squelcher.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/プロモデラーmg/"><img alt="プロモデラーMG画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/aerospray-mg.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/クラッシュブラスター/"><img alt="クラッシュブラスター画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/clash-blaster.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/スペースシューター/"><img alt="スペースシューター画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/splattershot-nova.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ワイドローラー/"><img alt="ワイドローラー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/big-swig-roller.png" width="60"/></a>
+</div></td>
+</tr>
+<tr>
+<th>
+<img alt="C" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/tiers/c.webp" width="30"/>
+</th>
+<td><div class="align">
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/カーボンローラー/"><img alt="カーボンローラー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/carbon-roller.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ボールドマーカーネオ/"><img alt="ボールドマーカーネオ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/neo-sploosh-o-matic.png" width="60"/></a>
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ソイチューバーカスタム/"><img alt="ソイチューバーカスタム画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/custom-goo-tuber.png" width="60"/></a>
+</div></td>
+</tr>
+</table>
+<h3 class="a-header--3" id="hm_1">評価の基準</h3>
+<table class="a-table a-table" style="">
+<tr>
+<td width="100%">・アサリへのルール関与のしやすさとキル性能で主に評価<br/>・チャレンジ（ソロ）での活躍しやすさを重視</td>
+</tr>
+</table>
+<p class="a-paragraph"><a class="a-btn" href="/gamers-for/games/splatoon3/tier-list/"><span>▶︎総合の最強武器ランキングはこちら</span></a></p>
+
+
+<h2 class="a-header--2" id="hl_2">ガチアサリ最強武器の評価と解説</h2>
+<h3 class="a-header--3" id="hm_2">評価Xの解説</h3>
+<table class="a-table a-table" style="">
+<tr>
+<th width="20%">武器</th>
+<th width="14%">サブ<br/>スペ</th>
+<th width="66%">理由</th>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ジムワイパー/"><img alt="ジムワイパー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/splatana-wiper.png" width="60"/>ジムワイパー</a>
+</td>
+<td class="center">
+<a class="a-link" href="#"><img alt="クイックボム画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/subs/burst-bomb.png" width="32"/></a>
+<a class="a-link" href="#"><img alt="ショクワンダー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/specials/zipcaster.png" width="32"/></a>
+</td>
+<td>
+・塗りが良く、射程とキル性能も高い
+<br/>・強くメインとの相性もいい<a class="a-link" href="#">クイボ</a>と、メインとの相性のいい<a class="a-link" href="#">ショクワン</a>を持つ
+</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/スプラマニューバー/"><img alt="スプラマニューバー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/splat-dualies.png" width="60"/>マニュ</a>
+</td>
+<td class="center">
+<a class="a-link" href="#"><img alt="キューバンボム画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/subs/suction-bomb.png" width="32"/></a>
+<a class="a-link" href="#"><img alt="カニタンク画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/specials/crab-tank.png" width="32"/></a>
+</td>
+<td>
+・スライドにより対面性能が高く、塗り性能もある程度ある
+<br/>・<a class="a-link" href="#">カニタンク</a>で前線を上げたり維持ができる<br/>・<a class="a-link" href="#">キューバン</a>でけん制もできる
+</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/バケットスロッシャー/"><img alt="バケットスロッシャー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/slosher.png" width="60"/>バケスロ</a>
+</td>
+<td class="center">
+<a class="a-link" href="#"><img alt="スプラッシュボム画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/subs/splat-bomb.png" width="32"/></a>
+<a class="a-link" href="#"><img alt="トリプルトルネード画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/specials/triple-inkstrike.png" width="32"/></a>
+</td>
+<td>
+・射程があり、曲射や高低差のある場所からの攻撃が得意
+<br/>・メイン70ダメージ+ボム爆風30ダメージのコンボ攻撃が強力<br/>・<a class="a-link" href="#">トルネード</a>で相手を退かせられる
+</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/シャープマーカー/"><img alt="シャープマーカー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/splash-o-matic.png" width="60"/>シャプマ</a>
+</td>
+<td class="center">
+<a class="a-link" href="#"><img alt="クイックボム画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/subs/burst-bomb.png" width="32"/></a>
+<a class="a-link" href="#"><img alt="カニタンク画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/specials/crab-tank.png" width="32"/></a>
+</td>
+<td>
+・<a class="a-link" href="#">カニタンク</a>で前線を上げたりゴール前キープが強い
+<br/>・<a class="a-link" href="#">クイックボム</a>を持つので対面に強く、射程負けしている相手にもダメージを与えられてアシストもしやすい
+</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ボトルガイザー/"><img alt="ボトルガイザー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/squeezer.png" width="60"/>ボトル</a>
+</td>
+<td class="center">
+<a class="a-link" href="#"><img alt="スプラッシュシールド画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/subs/splash-wall.png" width="32"/></a>
+<a class="a-link" href="#"><img alt="ウルトラショット画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/specials/trizooka.png" width="32"/></a>
+</td>
+<td>
+・メインウェポンのキル性能が高く、射程も長め
+<br/>・<a class="a-link" href="#">シールド</a>で前線の維持ができる<br/>・強い<a class="a-link" href="#">ウルショ</a>を持っている
+</td>
+</tr>
+</table>
+<h3 class="a-header--3" id="hm_3">評価S+の解説</h3>
+<table class="a-table a-table" style="">
+<tr>
+<th width="20%">武器</th>
+<th width="14%">サブ<br/>スペ</th>
+<th width="66%">理由</th>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/n-zap85/"><img alt="N-ZAP85画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/n-zap-85.png" width="60"/>黒ザップ</a>
+</td>
+<td class="center">
+<a class="a-link" href="#"><img alt="キューバンボム画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/subs/suction-bomb.png" width="32"/></a>
+<a class="a-link" href="#"><img alt="エナジースタンド画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/specials/tacticooler.png" width="32"/></a>
+</td>
+<td>
+・塗りやキルのしやすいバランスのいいメイン<br/>・強く、けん制手段としても優秀な<a class="a-link" href="#">キューバン</a>を持つ<br/>・強い<a class="a-link" href="#">エナスタ</a>を持っていて人海戦術ができる
+</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/プライムシューター/"><img alt="プライムシューター画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/splattershot-pro.png" width="60"/>プライム</a>
+</td>
+<td class="center">
+<a class="a-link" href="#"><img alt="ラインマーカー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/subs/line-marker.png" width="32"/></a>
+<a class="a-link" href="#"><img alt="カニタンク画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/specials/crab-tank.png" width="32"/></a>
+</td>
+<td>
+・射程があり、キル性能が高いメイン<br/>・カバーにも使えて長射程武器にダメージも与えられる<a class="a-link" href="#">ラインマーカー</a>を持つ<br/>・<a class="a-link" href="#">カニタンク</a>で遠くの相手をキルしたり圧力をかけられる
+</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/52ガロン/"><img alt="52ガロン画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/52-gal.png" width="60"/>52ガロン</a>
+</td>
+<td class="center">
+<a class="a-link" href="#"><img alt="スプラッシュシールド画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/subs/splash-wall.png" width="32"/></a>
+<a class="a-link" href="#"><img alt="メガホンレーザー5.1ch画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/specials/killer-wail-5-1.png" width="32"/></a>
+</td>
+<td>
+・キル性能が高くてキル速も速いメイン<br/>・メインと<a class="a-link" href="#">シールド</a>のかみ合いが良くて、前線の維持がしやすい<br/>・メインは塗り性能もあり、<a class="a-link" href="#">メガホン</a>で索敵もできる
+</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/スプラシューター/"><img alt="スプラシューター画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/splattershot.png" width="60"/>スシ</a>
+</td>
+<td class="center">
+<a class="a-link" href="#"><img alt="キューバンボム画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/subs/suction-bomb.png" width="32"/></a>
+<a class="a-link" href="#"><img alt="ウルトラショット画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/specials/trizooka.png" width="32"/></a>
+</td>
+<td>
+・塗り性能やキル性能も高めなバランスのいいメイン
+<br/>・強い<a class="a-link" href="#">ウルショ</a>の溜まるのが早い<br/>・<a class="a-link" href="#">キューバン</a>でけん制もできる
+</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/クーゲルシュライバー/"><img alt="クーゲルシュライバー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/ballpoint-splatling.png" width="60"/>クーゲル</a>
+</td>
+<td class="center">
+<a class="a-link" href="#"><img alt="タンサンボム画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/subs/fizzy-bomb.png" width="32"/></a>
+<a class="a-link" href="#"><img alt="ジェットパック画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/specials/inkjet.png" width="32"/></a>
+</td>
+<td>
+・塗りとキルをできて、射程で圧力もかけられる
+<br/>・キル性能が高い<a class="a-link" href="#">ジェッパ</a>を持っている
+</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ノーチラス47/"><img alt="ノーチラス47画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/nautilus-47.png" width="60"/>銀ノーチラス</a>
+</td>
+<td class="center">
+<a class="a-link" href="#"><img alt="ポイントセンサー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/subs/point-sensor.png" width="32"/></a>
+<a class="a-link" href="#"><img alt="アメフラシ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/specials/ink-storm.png" width="32"/></a>
+</td>
+<td>
+・弾速が速くてキルしやすく、射程もある程度あるメイン
+<br/>・<a class="a-link" href="#">チャージキープ</a>を使えばフットワークもある<br/>・<a class="a-link" href="#">アメフラ</a>でインク回復しつつ相手を退かすことができる
+</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/r-pen-5h/"><img alt="R-PEN/5H画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/douser-dualies-ff.png" width="60"/>Rペン</a>
+</td>
+<td class="center">
+<a class="a-link" href="#"><img alt="スプリンクラー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/subs/sprinkler.png" width="32"/></a>
+<a class="a-link" href="#"><img alt="エナジースタンド画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/specials/tacticooler.png" width="32"/></a>
+</td>
+<td>
+・後衛武器で強いスペシャルである<a class="a-link" href="#">エナスタ</a>を持っている
+<br/>・塗り性能も高めで<a class="a-link" href="#">エナスタ</a>のチャージが速い
+</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ヒッセンヒュー/"><img alt="ヒッセンヒュー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/tri-slosher-nouveau.png" width="60"/>ヒッヒュー</a>
+</td>
+<td class="center">
+<a class="a-link" href="#"><img alt="タンサンボム画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/subs/fizzy-bomb.png" width="32"/></a>
+<a class="a-link" href="#"><img alt="エナジースタンド画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/specials/tacticooler.png" width="32"/></a>
+</td>
+<td>
+・キル性能が高いメイン
+<br/>・けん制や塗りができる<a class="a-link" href="#">タンサン</a>を持っている<br/>・強い<a class="a-link" href="#">エナスタ</a>を持っている
+</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/キャンピングシェルターソレーラ/"><img alt="キャンピングシェルターソレーラ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/tenta-sorella-brella.png" width="60"/>キャンソレ</a>
+</td>
+<td class="center">
+<a class="a-link" href="#"><img alt="トラップ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/subs/ink-mine.png" width="32"/></a>
+<a class="a-link" href="#"><img alt="ウルトラショット画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/specials/trizooka.png" width="32"/></a>
+</td>
+<td>
+・相手の注目を集めながらも維持できるメイン
+<br/>・カサをパージしてアサリをゴール下まで進められる<br/>・頼もしい<a class="a-link" href="#">ウルショ</a>を持っている
+</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/イグザミナー/"><img alt="イグザミナー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/heavy-edit-splatling.png" width="60"/>イグザミナー</a>
+</td>
+<td class="center">
+<a class="a-link" href="#"><img alt="カーリングボム画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/subs/curling-bomb.png" width="32"/></a>
+<a class="a-link" href="#"><img alt="エナジースタンド画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/specials/tacticooler.png" width="32"/></a>
+</td>
+<td>
+・そこそこ射程がありキルもできる、塗り力がいいメイン<br/>・強い<a class="a-link" href="#">エナスタ</a>を持っていて人海戦術ができる<br/>・強い<a class="a-link" href="#">エナスタ</a>の溜まるのが早い
+</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/スクリュースロッシャーネオ/"><img alt="スクリュースロッシャーネオ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/sloshing-machine-neo.png" width="60"/>スクネオ</a>
+</td>
+<td class="center">
+<a class="a-link" href="#"><img alt="ポイントセンサー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/subs/point-sensor.png" width="32"/></a>
+<a class="a-link" href="#"><img alt="ウルトラショット画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/specials/trizooka.png" width="32"/></a>
+</td>
+<td>
+・確定2発のメインで射程があり近距離シューターに対して強い
+<br/>・パワフルな<a class="a-link" href="#">ウルショ</a>を持っている<br/>・<a class="a-link" href="#">ポイセン</a>と<a class="a-link" href="#">ウルショ</a>のかみ合いが良い
+</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ボトルガイザーフォイル/"><img alt="ボトルガイザーフォイル画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/foil-squeezer.png" width="60"/>ボトルフォイル</a>
+</td>
+<td class="center">
+<a class="a-link" href="#"><img alt="ロボットボム画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/subs/autobomb.png" width="32"/></a>
+<a class="a-link" href="#"><img alt="スミナガシート画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/specials/splattercolor-screen.png" width="32"/></a>
+</td>
+<td>
+・メイン射撃のキル性能が高く、射程も長め<br/>・メインは塗りも行えるほか、<a class="a-link" href="#">ロボム</a>で索敵もできる<br/>・<a class="a-link" href="#">スミナガ</a>でアサリルートを塞いで相手ゴールを決めるのを遅延できる
+</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/s-blast91/"><img alt="S-BLAST91画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/s-blast-91.png" width="60"/>エスブラ91</a>
+</td>
+<td class="center">
+<a class="a-link" href="#"><img alt="クイックボム画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/subs/burst-bomb.png" width="32"/></a>
+<a class="a-link" href="#"><img alt="ナイスダマ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/specials/booyah-bomb.png" width="32"/></a>
+</td>
+<td>
+・メインウェポンのキル性能が高く、近距離も遠距離も対応できる<br/>・<a class="a-link" href="#">クイックボム</a>でメインとの爆風コンボで相手を倒したり、足場づくりがしやすい<br/>・<a class="a-link" href="#">ナイスダマ</a>で生存・維持ができる
+</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ジムワイパーヒュー/"><img alt="ジムワイパーヒュー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/splatana-wiper-deco.png" width="60"/>ジムヒュー</a>
+</td>
+<td class="center">
+<a class="a-link" href="#"><img alt="ポイズンミスト画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/subs/toxic-mist.png" width="32"/></a>
+<a class="a-link" href="#"><img alt="カニタンク画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/specials/crab-tank.png" width="32"/></a>
+</td>
+<td>
+・塗りが良く、射程とキル性能も高い
+<br/>・メインとの相性がいい<a class="a-link" href="#">ポイズン</a>を持つ
+<br/>・安定した強さを持ち、巻き返しに使いやすい<a class="a-link" href="#">カニタンク</a>を持っている
+</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/デンタルワイパーミント/"><img alt="デンタルワイパーミント画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/mint-decavitator.png" width="60"/>デンパミ</a>
+</td>
+<td class="center">
+<a class="a-link" href="#"><img alt="キューバンボム画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/subs/suction-bomb.png" width="32"/></a>
+<a class="a-link" href="#"><img alt="グレートバリア画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/specials/big-bubbler.png" width="32"/></a>
+</td>
+<td>
+・そこそこ射程があり、キル性能も対物性能も高い
+<br/>・塗り性能も高く、スペシャルのよく溜まる
+<br/>・<a class="a-link" href="#">バリア</a>で前線のライン維持ができる
+</td>
+</tr>
+<tr>
+<td class="center">
+<a class="a-link" href="/gamers-for/games/splatoon3/weapons/イグザミナーヒュー/"><img alt="イグザミナーヒュー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/heavy-edit-splatling-nouveau.png" width="60"/>ザミヒュー</a>
+</td>
+<td class="center">
+<a class="a-link" href="#"><img alt="スプラッシュボム画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/subs/splat-bomb.png" width="32"/></a>
+<a class="a-link" href="#"><img alt="カニタンク画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/specials/crab-tank.png" width="32"/></a>
+</td>
+<td>
+・そこそこ射程がありキルもできる、ペイント力がいいメイン<br/>・<a class="a-link" href="#">スプボム</a>で射程の長い相手へけん制や<a class="a-link" href="#">シールド</a>への対処ができる<br/>・<a class="a-link" href="#">カニタンク</a>で巻き返しがしやすい
+</td>
+</tr>
+</table>
+<h2 class="a-header--2" id="hl_3">関連記事</h2>
+<table class="a-table" style="">
+<tr>
+<td class="center" colspan="2"><a class="a-link" href="/gamers-for/games/splatoon3/tier-list/"><img alt="最強" class="a-img img-placeholder" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="440"/>最強ブキ</a></td>
+</tr>
+<tr>
+<th colspan="2">最強記事</th>
+</tr>
+<tr>
+<td class="center" width="50%">
+<a class="a-link" href="/gamers-for/games/splatoon3/tier-area/"><img alt="ガチエリア最強ランキング" class="a-img img-placeholder" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="440"/>エリア最強武器</a>
+</td>
+<td class="center" width="50%">
+<a class="a-link" href="/gamers-for/games/splatoon3/tier-yagura/"><img alt="ガチヤグラ最強ランキング" class="a-img img-placeholder" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="440"/>ヤグラ最強武器</a>
+</td>
+</tr>
+<tr>
+<td class="center" width="50%">
+<a class="a-link" href="/gamers-for/games/splatoon3/tier-hoko/"><img alt="ガチホコ最強ランキング" class="a-img img-placeholder" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="440"/>ホコ最強武器</a>
+</td>
+<td class="center" width="50%">
+<b class="a-bold"><img alt="ガチアサリ最強ランキング" class="a-img img-placeholder" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="440"/>アサリ最強武器</b>
+</td>
+</tr>
+<tr>
+<td class="center" width="50%"><a class="a-link" href="#"><img alt="最強スペシャル" class="a-img img-placeholder" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="440"/>最強スペシャル</a></td>
+<td class="center" width="50%"><a class="a-link" href="/gamers-for/games/splatoon3/gear-powers/"><img alt="最強ギアパワー" class="a-img img-placeholder" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="440"/>最強ギアパワー</a></td>
+</tr>
+<tr>
+<td class="center" width="50%"><a class="a-link" href="/gamers-for/games/splatoon3/tier-nawabari/"><img alt="ナワバリ最強武器" class="a-img img-placeholder" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="440"/>ナワバリ最強武器</a></td>
+<td class="center" width="50%">-</td>
+</tr>
+</table>
