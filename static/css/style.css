@@ -2079,3 +2079,200 @@ body.skin-lol .article-body h2 {
   .tier-grid-label { width: 40px; min-width: 40px; font-size: .7rem; }
   .share-btn { padding: 6px 10px; font-size: .7rem; }
 }
+
+/* ==========================================================
+   Game8互換CSSクラス
+   archive-style-wrapper内のHTML要素をそのまま活用
+   ========================================================== */
+
+/* ---------- Game8 Headers (a-header) ---------- */
+.article-body .a-header--2 {
+  font-size: 1.25rem;
+  font-weight: 800;
+  margin: 36px 0 16px;
+  padding: 10px 16px;
+  background: var(--bg-heading);
+  color: var(--font-inverse);
+  border-bottom: 4px solid var(--accent);
+  border-radius: 0 10px 0 0;
+  line-height: 1.4;
+}
+
+.article-body .a-header--3 {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin: 28px 0 12px;
+  padding: 8px 14px;
+  border-left: 4px solid var(--bg-heading);
+  background: transparent;
+  color: var(--font-primary);
+  position: relative;
+}
+
+.article-body .a-header--3::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: linear-gradient(to right, var(--bg-heading) 0%, var(--bg-heading) 50%, transparent 100%);
+}
+
+.article-body .a-header--4 {
+  font-size: 1rem;
+  font-weight: 700;
+  margin: 22px 0 8px;
+  color: var(--font-primary);
+  padding-left: 12px;
+  border-left: 3px solid var(--border-secondary);
+}
+
+/* ---------- Game8 Table (a-table) ---------- */
+.article-body .a-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 24px;
+  font-size: .88rem;
+  border-bottom: 1px solid var(--border-table);
+  box-shadow: var(--shadow-sm);
+}
+
+.article-body .a-table th {
+  background: var(--table-header-bg);
+  color: var(--table-header-color);
+  padding: 8px 10px;
+  text-align: center;
+  font-weight: 700;
+  font-size: .85rem;
+  border: 1px solid var(--border-table);
+}
+
+.article-body .a-table td {
+  padding: 8px 10px;
+  border: 1px solid var(--border-table);
+  background: var(--bg-primary);
+}
+
+.article-body .a-table tr:hover td {
+  background: var(--bg-hover);
+}
+
+.article-body .a-table td img {
+  display: inline-block;
+  vertical-align: middle;
+  object-fit: contain;
+  image-rendering: -webkit-optimize-contrast;
+}
+
+.article-body .a-table td img:only-child {
+  display: block;
+  margin: 0 auto;
+}
+
+/* table--fixed: 等幅テーブル */
+.article-body .table--fixed {
+  table-layout: fixed;
+}
+
+/* ---------- Game8 Paragraph (a-paragraph) ---------- */
+.article-body .a-paragraph {
+  margin-bottom: 16px;
+  line-height: 1.85;
+  color: var(--font-primary);
+}
+
+/* ---------- Game8 Image (a-img) ---------- */
+.article-body .a-img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* ---------- Game8 Footnote ---------- */
+.article-body .a-footnote {
+  font-size: .82rem;
+  color: var(--font-muted);
+  margin-bottom: 16px;
+}
+
+/* ---------- Image Placeholder ---------- */
+.img-placeholder {
+  background: var(--bg-secondary);
+  text-align: center;
+  padding: 2em 1em;
+  border: 1px dashed var(--border-secondary);
+  border-radius: var(--radius-md);
+  color: var(--font-muted);
+  font-size: .85rem;
+  margin-bottom: 16px;
+}
+
+/* ---------- Game8 Accordion (a-accordion) ---------- */
+.article-body .a-accordion {
+  border: 1px solid var(--border-secondary);
+  border-radius: var(--radius-md);
+  margin-bottom: 20px;
+  overflow: hidden;
+}
+
+.article-body .a-accordion > p:first-child,
+.article-body .a-accordion-header {
+  background: var(--bg-secondary);
+  padding: 10px 16px;
+  font-weight: 700;
+  font-size: .9rem;
+  cursor: pointer;
+  border-bottom: 1px solid var(--border-secondary);
+}
+
+.article-body .a-accordion-body {
+  padding: 12px 16px;
+}
+
+/* ---------- Game8 Tab Container (a-tabContainer) ---------- */
+.article-body .a-tabContainer {
+  margin-bottom: 20px;
+}
+
+.article-body .a-tabContainer .a-tab {
+  display: flex;
+  border-bottom: 2px solid var(--border-primary);
+  margin-bottom: 12px;
+}
+
+.article-body .a-tabContainer .a-tab li,
+.article-body .a-tabContainer .a-tab span {
+  flex: 1;
+  text-align: center;
+  padding: 8px 12px;
+  font-size: .85rem;
+  font-weight: 600;
+  cursor: pointer;
+  border-bottom: 3px solid transparent;
+  margin-bottom: -2px;
+  color: var(--font-muted);
+}
+
+.article-body .a-tabContainer .a-tab li.active,
+.article-body .a-tabContainer .a-tab span.active {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+/* ---------- Responsive for Game8 classes ---------- */
+@media (max-width: 640px) {
+  .article-body .a-header--2 { font-size: 1.05rem; padding: 8px 12px; }
+  .article-body .a-header--3 { font-size: .98rem; padding: 6px 10px; }
+  .article-body .a-table { font-size: .82rem; }
+  .article-body .a-table th,
+  .article-body .a-table td { padding: 6px 8px; }
+}
+
+@media (max-width: 375px) {
+  .article-body .a-header--2 { font-size: .95rem; padding: 6px 8px; }
+  .article-body .a-header--3 { font-size: .88rem; }
+  .article-body .a-table { font-size: .78rem; }
+  .article-body .a-table th,
+  .article-body .a-table td { padding: 4px 5px; }
+}
