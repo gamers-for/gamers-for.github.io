@@ -29,7 +29,7 @@ CONTENT_DIR = PROJECT_ROOT / "content" / "games" / "splatoon3"
 STATIC_IMG = PROJECT_ROOT / "static" / "images" / "games" / "splatoon3"
 
 # Hugo baseURL prefix (for GitHub Pages)
-BASE_URL_PREFIX = "/gamers-for"
+BASE_URL_PREFIX = ""
 
 # ─── マスターデータ読み込み ──────────────────────────
 def load_master_data():

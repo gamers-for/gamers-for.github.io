@@ -8,7 +8,7 @@ tags: ["スプラトゥーン3", "ブラスター", "Rブラスターエリー�
 description: "スプラトゥーン3のRブラスターエリートWNTRの性能評価・立ち回り解説。サブキューバンボム、スペシャルエナジースタンドの使い方やおすすめギアパワーを紹介。"
 ---
 
-<p class="a-paragraph"><img alt="RブラスターエリートWNTR" class="a-img img-placeholder" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="440"/></p>
+<p class="a-paragraph"><img alt="RブラスターエリートWNTR" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/></p>
 <p class="a-paragraph">スプラトゥーン3(スプラ3)における、RブラスターエリートWNTR（ラピエリ）について徹底解説していくよ！</p>
 <p></p>
 <div class="a-outline">
@@ -30,13 +30,13 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
 <table class="a-table a-table table--fixed a-table" style="">
 <tr>
 <td class="center" colspan="2" rowspan="4" width="50%">
-<img alt="RブラスターエリートWNTR画像" class="a-img" height="80" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/range-blaster-wntr.png" width="80"/><br/>RブラスターエリートWNTR
+<img alt="RブラスターエリートWNTR画像" class="a-img" height="80" loading="lazy" src="/images/games/splatoon3/weapons/range-blaster-wntr.png" width="80"/><br/>RブラスターエリートWNTR
 </td>
 <th colspan="2" width="50%">総合評価</th>
 </tr>
 <tr>
 <td class="center" colspan="2">
-<img alt="B" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/tiers/b.webp" width="40"/>
+<img alt="B" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/b.webp" width="40"/>
 </td>
 </tr>
 <tr>
@@ -45,72 +45,72 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
 <tr>
 <td colspan="2">
 <div class="align">
-<a class="a-link" href="#"><img alt="ポイズンミスト画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/subs/toxic-mist.png" width="30"/>ポイズンミスト</a>
+<a class="a-link" href="#"><img alt="ポイズンミスト画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/toxic-mist.png" width="30"/>ポイズンミスト</a>
 </div>
 <div class="align">
-<a class="a-link" href="#"><img alt="キューインキ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/specials/ink-vac.png" width="30"/>キューインキ</a>
+<a class="a-link" href="#"><img alt="キューインキ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/ink-vac.png" width="30"/>キューインキ</a>
 </div>
 </td>
 </tr>
 <tr>
 <th width="23%">塗り</th>
 <td class="center" width="27%">
-<div class="align"><img alt="星1の画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/stars/star1.png" width="90"/></div>
+<div class="align"><img alt="星1の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star1.png" width="90"/></div>
 </td>
 <th width="23%">扱いやすさ</th>
 <td class="center" width="27%">
-<div class="align"><img alt="星1の画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/stars/star1.png" width="90"/></div>
+<div class="align"><img alt="星1の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star1.png" width="90"/></div>
 </td>
 </tr>
 <tr>
 <th>キル</th>
 <td class="center">
-<div class="align"><img alt="星3の画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/stars/star3.png" width="90"/></div>
+<div class="align"><img alt="星3の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star3.png" width="90"/></div>
 </td>
 <th>防御・生存</th>
 <td class="center">
-<div class="align"><img alt="星3の画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/stars/star3.png" width="90"/></div>
+<div class="align"><img alt="星3の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star3.png" width="90"/></div>
 </td>
 </tr>
 <tr>
 <th>アシスト</th>
 <td class="center">
-<div class="align"><img alt="星3の画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/stars/star3.png" width="90"/></div>
+<div class="align"><img alt="星3の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star3.png" width="90"/></div>
 </td>
 <th>打開力</th>
 <td class="center">
-<div class="align"><img alt="星1の画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/stars/star1.png" width="90"/></div>
+<div class="align"><img alt="星1の画像" class="a-img" loading="lazy" src="/images/games/splatoon3/stars/star1.png" width="90"/></div>
 </td>
 </tr>
 </table>
 <h3 class="a-header--3" id="hm_1">ルール別評価</h3>
 <table class="a-table a-table table--fixed a-table" style="">
 <tr>
-<th width="20%"><a class="a-link" href="/gamers-for/games/splatoon3/tier-nawabari/"><img alt="スプラトゥーン3のナワバリバトル" class="a-img" height="25" loading="lazy" src="/gamers-for/images/games/splatoon3/rules/turf-war.png" width="25"/>ナワバリ</a></th>
-<th width="20%"><a class="a-link" href="/gamers-for/games/splatoon3/tier-area/"><img alt="スプラトゥーン3のガチエリア" class="a-img" height="25" loading="lazy" src="/gamers-for/images/games/splatoon3/rules/splat-zones.png" width="25"/>エリア</a></th>
-<th width="20%"><a class="a-link" href="/gamers-for/games/splatoon3/tier-yagura/"><img alt="スプラトゥーン3のガチヤグラ" class="a-img" height="25" loading="lazy" src="/gamers-for/images/games/splatoon3/rules/tower-control.png" width="25"/>ヤグラ</a></th>
-<th width="20%"><a class="a-link" href="/gamers-for/games/splatoon3/tier-hoko/"><img alt="スプラトゥーン3のガチホコバトル" class="a-img" height="25" loading="lazy" src="/gamers-for/images/games/splatoon3/rules/rainmaker.png" width="25"/>ホコ</a></th>
-<th width="20%"><a class="a-link" href="/gamers-for/games/splatoon3/tier-asari/"><img alt="スプラトゥーン3のガチアサリ" class="a-img" height="25" loading="lazy" src="/gamers-for/images/games/splatoon3/rules/clam-blitz.png" width="25"/>アサリ</a></th>
+<th width="20%"><a class="a-link" href="/games/splatoon3/tier-nawabari/"><img alt="スプラトゥーン3のナワバリバトル" class="a-img" height="25" loading="lazy" src="/images/games/splatoon3/rules/turf-war.png" width="25"/>ナワバリ</a></th>
+<th width="20%"><a class="a-link" href="/games/splatoon3/tier-area/"><img alt="スプラトゥーン3のガチエリア" class="a-img" height="25" loading="lazy" src="/images/games/splatoon3/rules/splat-zones.png" width="25"/>エリア</a></th>
+<th width="20%"><a class="a-link" href="/games/splatoon3/tier-yagura/"><img alt="スプラトゥーン3のガチヤグラ" class="a-img" height="25" loading="lazy" src="/images/games/splatoon3/rules/tower-control.png" width="25"/>ヤグラ</a></th>
+<th width="20%"><a class="a-link" href="/games/splatoon3/tier-hoko/"><img alt="スプラトゥーン3のガチホコバトル" class="a-img" height="25" loading="lazy" src="/images/games/splatoon3/rules/rainmaker.png" width="25"/>ホコ</a></th>
+<th width="20%"><a class="a-link" href="/games/splatoon3/tier-asari/"><img alt="スプラトゥーン3のガチアサリ" class="a-img" height="25" loading="lazy" src="/images/games/splatoon3/rules/clam-blitz.png" width="25"/>アサリ</a></th>
 </tr>
 <tr>
 <td class="center">
-<img alt="C＋" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/tiers/cplus.webp" width="25"/>
+<img alt="C＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/cplus.webp" width="25"/>
 </td>
 <td class="center">
-<img alt="C＋" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/tiers/cplus.webp" width="25"/>
+<img alt="C＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/cplus.webp" width="25"/>
 </td>
 <td class="center">
-<img alt="A" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/tiers/a.webp" width="25"/>
+<img alt="A" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/a.webp" width="25"/>
 </td>
 <td class="center">
-<img alt="B＋" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/tiers/bplus.webp" width="25"/>
+<img alt="B＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/bplus.webp" width="25"/>
 </td>
 <td class="center">
-<img alt="B＋" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/tiers/bplus.webp" width="25"/>
+<img alt="B＋" class="a-img" loading="lazy" src="/images/games/splatoon3/tiers/bplus.webp" width="25"/>
 </td>
 </tr>
 </table>
-<p class="a-paragraph"><a class="a-btn" href="/gamers-for/games/splatoon3/tier-list/"><span>▶︎最強武器ランキングはこちら！</span></a></p>
+<p class="a-paragraph"><a class="a-btn" href="/games/splatoon3/tier-list/"><span>▶︎最強武器ランキングはこちら！</span></a></p>
 
 
 <h3 class="a-header--3" id="hm_2">サポート性能の高い中衛武器</h3>
@@ -121,11 +121,11 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
 <tr>
 <td width="100%">
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/markers/check.png" width="20"/><b class="a-bold">ブラスターの中で最長の射程</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20"/><b class="a-bold">ブラスターの中で最長の射程</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/markers/check.png" width="20"/><b class="a-bold">サポート性能に優れている</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20"/><b class="a-bold">サポート性能に優れている</b>
 </div>
 </td>
 </tr>
@@ -135,11 +135,11 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
 <tr>
 <td width="100%">
 <div class="align">
-<img alt="弱い点" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/markers/cross.png" width="16"/><b class="a-bold">塗りはあまり苦手な部類</b>
+<img alt="弱い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/cross.png" width="16"/><b class="a-bold">塗りはあまり苦手な部類</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="弱い点" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/markers/cross.png" width="16"/><b class="a-bold">キューインキがかなり微妙なスペシャル</b>
+<img alt="弱い点" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/cross.png" width="16"/><b class="a-bold">キューインキがかなり微妙なスペシャル</b>
 </div>
 </td>
 </tr>
@@ -156,44 +156,44 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
 </tr>
 <tr>
 <td class="center" width="34%">
-<a class="a-link" href="#"><img alt="イカダッシュ速度アップ画像" class="a-img" height="40" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/swim-speed-up.png" width="40"/>イカ速</a>
+<a class="a-link" href="#"><img alt="イカダッシュ速度アップ画像" class="a-img" height="40" loading="lazy" src="/images/games/splatoon3/gear-powers/swim-speed-up.png" width="40"/>イカ速</a>
 </td>
 <td class="center" width="22%">
-<a class="a-link" href="#"><img alt="イカダッシュ速度アップ画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/swim-speed-up.png" width="30"/>イカ速</a>
+<a class="a-link" href="#"><img alt="イカダッシュ速度アップ画像" class="a-img" height="30" loading="lazy" src="/images/games/splatoon3/gear-powers/swim-speed-up.png" width="30"/>イカ速</a>
 </td>
 <td class="center" width="22%">
-<a class="a-link" href="#"><img alt="イカダッシュ速度アップ画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/swim-speed-up.png" width="30"/>イカ速</a>
+<a class="a-link" href="#"><img alt="イカダッシュ速度アップ画像" class="a-img" height="30" loading="lazy" src="/images/games/splatoon3/gear-powers/swim-speed-up.png" width="30"/>イカ速</a>
 </td>
 <td class="center" width="22%">
-<a class="a-link" href="#"><img alt="イカダッシュ速度アップ画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/swim-speed-up.png" width="30"/>イカ速</a>
+<a class="a-link" href="#"><img alt="イカダッシュ速度アップ画像" class="a-img" height="30" loading="lazy" src="/images/games/splatoon3/gear-powers/swim-speed-up.png" width="30"/>イカ速</a>
 </td>
 </tr>
 <tr>
 <td class="center">
-<a class="a-link" href="#"><img alt="インク効率アップ（メイン）画像" class="a-img" height="40" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/ink-saver-main.png" width="40"/>メイン効率</a>
+<a class="a-link" href="#"><img alt="インク効率アップ（メイン）画像" class="a-img" height="40" loading="lazy" src="/images/games/splatoon3/gear-powers/ink-saver-main.png" width="40"/>メイン効率</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="アクション強化画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/intensify-action.png" width="30"/>アクション</a>
+<a class="a-link" href="#"><img alt="アクション強化画像" class="a-img" height="30" loading="lazy" src="/images/games/splatoon3/gear-powers/intensify-action.png" width="30"/>アクション</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="アクション強化画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/intensify-action.png" width="30"/>アクション</a>
+<a class="a-link" href="#"><img alt="アクション強化画像" class="a-img" height="30" loading="lazy" src="/images/games/splatoon3/gear-powers/intensify-action.png" width="30"/>アクション</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="アクション強化画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/intensify-action.png" width="30"/>アクション</a>
+<a class="a-link" href="#"><img alt="アクション強化画像" class="a-img" height="30" loading="lazy" src="/images/games/splatoon3/gear-powers/intensify-action.png" width="30"/>アクション</a>
 </td>
 </tr>
 <tr>
 <td class="center">
-<a class="a-link" href="#"><img alt="アクション強化画像" class="a-img" height="40" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/intensify-action.png" width="40"/>アクション</a>
+<a class="a-link" href="#"><img alt="アクション強化画像" class="a-img" height="40" loading="lazy" src="/images/games/splatoon3/gear-powers/intensify-action.png" width="40"/>アクション</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="相手インク影響軽減画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/ink-resistance-up.png" width="30"/>安全靴</a>
+<a class="a-link" href="#"><img alt="相手インク影響軽減画像" class="a-img" height="30" loading="lazy" src="/images/games/splatoon3/gear-powers/ink-resistance-up.png" width="30"/>安全靴</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="相手インク影響軽減画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/ink-resistance-up.png" width="30"/>安全靴</a>
+<a class="a-link" href="#"><img alt="相手インク影響軽減画像" class="a-img" height="30" loading="lazy" src="/images/games/splatoon3/gear-powers/ink-resistance-up.png" width="30"/>安全靴</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="スーパージャンプ時間短縮画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/quick-super-jump.png" width="30"/>ジャン短</a>
+<a class="a-link" href="#"><img alt="スーパージャンプ時間短縮画像" class="a-img" height="30" loading="lazy" src="/images/games/splatoon3/gear-powers/quick-super-jump.png" width="30"/>ジャン短</a>
 </td>
 </tr>
 </table>
@@ -207,35 +207,35 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
 <th width="70%">おすすめ理由／付きやすいブランド</th>
 </tr>
 <tr>
-<td class="center"><a class="a-link" href="#"><img alt="インク効率アップ（メイン）画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/ink-saver-main.png" width="30"/>メイン効率</a></td>
+<td class="center"><a class="a-link" href="#"><img alt="インク効率アップ（メイン）画像" class="a-img" height="30" loading="lazy" src="/images/games/splatoon3/gear-powers/ink-saver-main.png" width="30"/>メイン効率</a></td>
 <td>メインウェポンのインクの消費量が激しいので、付けておいて損はない。射程と爆風でけん制力の高いメインなので、射撃回数を増やせるのはかなり頼りになる。<hr class="a-table__line"/>
-<div class="align"><a class="a-link" href="#"><img alt="ジモン画像" class="a-img" height="20" loading="lazy" src="/gamers-for/images/games/splatoon3/brands/jimon.png" width="20"/>ジモン</a></div>
-<div class="align"><a class="a-link" href="#"><img alt="タタキケンサキ画像" class="a-img" height="20" loading="lazy" src="/gamers-for/images/games/splatoon3/brands/takoroka.png" width="20"/>タタキケンサキ</a></div>
+<div class="align"><a class="a-link" href="#"><img alt="ジモン画像" class="a-img" height="20" loading="lazy" src="/images/games/splatoon3/brands/jimon.png" width="20"/>ジモン</a></div>
+<div class="align"><a class="a-link" href="#"><img alt="タタキケンサキ画像" class="a-img" height="20" loading="lazy" src="/images/games/splatoon3/brands/takoroka.png" width="20"/>タタキケンサキ</a></div>
 </td>
 </tr>
 <tr>
-<td class="center"><a class="a-link" href="#"><img alt="イカダッシュ速度アップ画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/swim-speed-up.png" width="30"/>イカ速</a></td>
+<td class="center"><a class="a-link" href="#"><img alt="イカダッシュ速度アップ画像" class="a-img" height="30" loading="lazy" src="/images/games/splatoon3/gear-powers/swim-speed-up.png" width="30"/>イカ速</a></td>
 <td>離の維持を迅速に行うならかなりイチオシ。接近戦が苦手な武器なので逃げる際に力を発揮する。<hr class="a-table__line"/>
-<div class="align"><a class="a-link" href="#"><img alt="クラーゲス画像" class="a-img" height="20" loading="lazy" src="/gamers-for/images/games/splatoon3/brands/krak-on.png" width="20"/>クラーゲス</a></div>
+<div class="align"><a class="a-link" href="#"><img alt="クラーゲス画像" class="a-img" height="20" loading="lazy" src="/images/games/splatoon3/brands/krak-on.png" width="20"/>クラーゲス</a></div>
 </td>
 </tr>
 <tr>
-<td class="center"><a class="a-link" href="#"><img alt="スーパージャンプ時間短縮画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/quick-super-jump.png" width="30"/>ジャン短</a></td>
+<td class="center"><a class="a-link" href="#"><img alt="スーパージャンプ時間短縮画像" class="a-img" height="30" loading="lazy" src="/images/games/splatoon3/gear-powers/quick-super-jump.png" width="30"/>ジャン短</a></td>
 <td>相手に囲まれた際などに、離脱しやすくなるよ。少し付けておくだけでも生き残り力を上げられるののが魅力的。<hr class="a-table__line"/>
-<div class="align"><a class="a-link" href="#"><img alt="アイロニック画像" class="a-img" height="20" loading="lazy" src="/gamers-for/images/games/splatoon3/brands/annaki.png" width="20"/>アイロニック</a></div>
+<div class="align"><a class="a-link" href="#"><img alt="アイロニック画像" class="a-img" height="20" loading="lazy" src="/images/games/splatoon3/brands/annaki.png" width="20"/>アイロニック</a></div>
 </td>
 </tr>
 <tr>
-<td class="center"><a class="a-link" href="#"><img alt="相手インク影響軽減画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/ink-resistance-up.png" width="30"/>安全靴</a></td>
+<td class="center"><a class="a-link" href="#"><img alt="相手インク影響軽減画像" class="a-img" height="30" loading="lazy" src="/images/games/splatoon3/gear-powers/ink-resistance-up.png" width="30"/>安全靴</a></td>
 <td>対面のフットワークが軽くなり、デスしにくさが大幅アップ。<hr class="a-table__line"/>
-<div class="align"><a class="a-link" href="#"><img alt="バトロイカ画像" class="a-img" height="20" loading="lazy" src="/gamers-for/images/games/splatoon3/brands/splash-mob.png" width="20"/>バトロイカ</a></div>
+<div class="align"><a class="a-link" href="#"><img alt="バトロイカ画像" class="a-img" height="20" loading="lazy" src="/images/games/splatoon3/brands/splash-mob.png" width="20"/>バトロイカ</a></div>
 </td>
 </tr>
 <tr>
-<td class="center"><a class="a-link" href="#"><img alt="アクション強化画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/gear-powers/intensify-action.png" width="30"/>アクション</a></td>
+<td class="center"><a class="a-link" href="#"><img alt="アクション強化画像" class="a-img" height="30" loading="lazy" src="/images/games/splatoon3/gear-powers/intensify-action.png" width="30"/>アクション</a></td>
 <td>ジャンプ時の射撃のブレを軽減させる<hr class="a-table__line"/>
-<div class="align"><a class="a-link" href="#"><img alt="バラズシ画像" class="a-img" height="20" loading="lazy" src="/gamers-for/images/games/splatoon3/brands/barazushi.png" width="20"/>バラズシ</a></div>
-<div class="align"><a class="a-link" href="#"><img alt="シチリン画像" class="a-img" height="20" loading="lazy" src="/gamers-for/images/games/splatoon3/brands/shichirin.png" width="20"/>シチリン</a></div>
+<div class="align"><a class="a-link" href="#"><img alt="バラズシ画像" class="a-img" height="20" loading="lazy" src="/images/games/splatoon3/brands/barazushi.png" width="20"/>バラズシ</a></div>
+<div class="align"><a class="a-link" href="#"><img alt="シチリン画像" class="a-img" height="20" loading="lazy" src="/images/games/splatoon3/brands/shichirin.png" width="20"/>シチリン</a></div>
 </td>
 </tr>
 </table>
@@ -244,15 +244,15 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
 <tr>
 <td width="100%">
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/markers/check.png" width="20"/><b class="a-bold">後方から味方をサポートするのが基本</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20"/><b class="a-bold">後方から味方をサポートするのが基本</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/markers/check.png" width="20"/><b class="a-bold">距離の維持にはポイズンミストが便利</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20"/><b class="a-bold">距離の維持にはポイズンミストが便利</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/markers/check.png" width="20"/><b class="a-bold">キューインキは味方と連携して使う</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="20"/><b class="a-bold">キューインキは味方と連携して使う</b>
 </div>
 </td>
 </tr>
@@ -271,11 +271,11 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
 <tr>
 <td width="100%">
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">相手の懐に潜り込もう</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">相手の懐に潜り込もう</b>
 </div>
 <hr class="a-table__line"/>
 <div class="align">
-<img alt="ポイント" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">キューインキを使っているところを狙う</b>
+<img alt="ポイント" class="a-img" loading="lazy" src="/images/games/splatoon3/markers/check.png" width="16"/><b class="a-bold">キューインキを使っているところを狙う</b>
 </div>
 </td>
 </tr>
@@ -332,7 +332,7 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
 <table class="a-table a-table a-table" style="">
 <tr>
 <th width="37%"><div class="align-left">
-<div class="align"><a class="a-link" href="/gamers-for/games/splatoon3/weapons/スクリュースロッシャー/"><img alt="スクリュースロッシャー画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/sloshing-machine.png" width="30"/>スクスロ</a></div>
+<div class="align"><a class="a-link" href="/games/splatoon3/weapons/スクリュースロッシャー/"><img alt="スクリュースロッシャー画像" class="a-img" height="30" loading="lazy" src="/images/games/splatoon3/weapons/sloshing-machine.png" width="30"/>スクスロ</a></div>
 </div></th>
 <td width="63%"><div class="a-graph_wrap">
 <div class="a-graph"><div class="a-bar" style="width: 44%"></div></div>
@@ -341,7 +341,7 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
 </tr>
 <tr>
 <th width="37%"><div class="align-left">
-<div class="align"><a class="a-link" href="/gamers-for/games/splatoon3/weapons/デュアルスイーパー/"><img alt="デュアルスイーパー画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/dualie-squelchers.png" width="30"/>デュアル</a></div>
+<div class="align"><a class="a-link" href="/games/splatoon3/weapons/デュアルスイーパー/"><img alt="デュアルスイーパー画像" class="a-img" height="30" loading="lazy" src="/images/games/splatoon3/weapons/dualie-squelchers.png" width="30"/>デュアル</a></div>
 </div></th>
 <td width="63%"><div class="a-graph_wrap">
 <div class="a-graph"><div class="a-bar" style="width: 46%"></div></div>
@@ -350,7 +350,7 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
 </tr>
 <tr>
 <th width="37%"><div class="align-left">
-<div class="align"><a class="a-link" href="/gamers-for/games/splatoon3/weapons/ラピッドブラスター/"><img alt="ラピッドブラスター画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/rapid-blaster.png" width="30"/>ラピブラ</a></div>
+<div class="align"><a class="a-link" href="/games/splatoon3/weapons/ラピッドブラスター/"><img alt="ラピッドブラスター画像" class="a-img" height="30" loading="lazy" src="/images/games/splatoon3/weapons/rapid-blaster.png" width="30"/>ラピブラ</a></div>
 </div></th>
 <td width="63%"><div class="a-graph_wrap">
 <div class="a-graph"><div class="a-bar" style="width: 47%"></div></div>
@@ -359,7 +359,7 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
 </tr>
 <tr>
 <th width="37%"><div class="align-left">
-<div class="align"><a class="a-link" href="/gamers-for/games/splatoon3/weapons/ボトルガイザー/"><img alt="ボトルガイザー画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/squeezer.png" width="30"/>ボトル</a></div>
+<div class="align"><a class="a-link" href="/games/splatoon3/weapons/ボトルガイザー/"><img alt="ボトルガイザー画像" class="a-img" height="30" loading="lazy" src="/images/games/splatoon3/weapons/squeezer.png" width="30"/>ボトル</a></div>
 </div></th>
 <td width="63%"><div class="a-graph_wrap">
 <div class="a-graph"><div class="a-bar" style="width: 52%"></div></div>
@@ -368,7 +368,7 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
 </tr>
 <tr>
 <th width="37%"><div class="align-left">
-<div class="align"><b class="a-bold"><img alt="RブラスターエリートWNTR画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/range-blaster-wntr.png" width="30"/>ラピエリ</b></div>
+<div class="align"><b class="a-bold"><img alt="RブラスターエリートWNTR画像" class="a-img" height="30" loading="lazy" src="/images/games/splatoon3/weapons/range-blaster-wntr.png" width="30"/>ラピエリ</b></div>
 </div></th>
 <td width="63%"><div class="a-graph_wrap">
 <div class="a-graph"><div class="a-bar" style="width: 53%"></div></div>
@@ -377,7 +377,7 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
 </tr>
 <tr>
 <th width="37%"><div class="align-left">
-<div class="align"><a class="a-link" href="/gamers-for/games/splatoon3/weapons/スクイックリンα/"><img alt="スクイックリンα画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/classic-squiffer.png" width="30"/>スクイクα</a></div>
+<div class="align"><a class="a-link" href="/games/splatoon3/weapons/スクイックリンα/"><img alt="スクイックリンα画像" class="a-img" height="30" loading="lazy" src="/images/games/splatoon3/weapons/classic-squiffer.png" width="30"/>スクイクα</a></div>
 </div></th>
 <td width="63%"><div class="a-graph_wrap">
 <div class="a-graph"><div class="a-bar" style="width: 56%"></div></div>
@@ -386,7 +386,7 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
 </tr>
 <tr>
 <th width="37%"><div class="align-left">
-<div class="align"><a class="a-link" href="/gamers-for/games/splatoon3/weapons/バレルスピナー/"><img alt="バレルスピナー画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/heavy-splatling.png" width="30"/>バレル</a></div>
+<div class="align"><a class="a-link" href="/games/splatoon3/weapons/バレルスピナー/"><img alt="バレルスピナー画像" class="a-img" height="30" loading="lazy" src="/images/games/splatoon3/weapons/heavy-splatling.png" width="30"/>バレル</a></div>
 </div></th>
 <td width="63%"><div class="a-graph_wrap">
 <div class="a-graph"><div class="a-bar" style="width: 58%"></div></div>
@@ -395,7 +395,7 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
 </tr>
 <tr>
 <th width="37%"><div class="align-left">
-<div class="align"><a class="a-link" href="/gamers-for/games/splatoon3/weapons/ハイドラント/"><img alt="ハイドラント画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/hydra-splatling.png" width="30"/>ハイドラ</a></div>
+<div class="align"><a class="a-link" href="/games/splatoon3/weapons/ハイドラント/"><img alt="ハイドラント画像" class="a-img" height="30" loading="lazy" src="/images/games/splatoon3/weapons/hydra-splatling.png" width="30"/>ハイドラ</a></div>
 </div></th>
 <td width="63%"><div class="a-graph_wrap">
 <div class="a-graph"><div class="a-bar" style="width: 61%"></div></div>
@@ -404,7 +404,7 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
 </tr>
 <tr>
 <th width="37%"><div class="align-left">
-<div class="align"><a class="a-link" href="/gamers-for/games/splatoon3/weapons/エクスプロッシャー/"><img alt="エクスプロッシャー画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/explosher.png" width="30"/>エクス</a></div>
+<div class="align"><a class="a-link" href="/games/splatoon3/weapons/エクスプロッシャー/"><img alt="エクスプロッシャー画像" class="a-img" height="30" loading="lazy" src="/images/games/splatoon3/weapons/explosher.png" width="30"/>エクス</a></div>
 </div></th>
 <td width="63%"><div class="a-graph_wrap">
 <div class="a-graph"><div class="a-bar" style="width: 63%"></div></div>
@@ -413,7 +413,7 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
 </tr>
 <tr>
 <th width="37%"><div class="align-left">
-<div class="align"><a class="a-link" href="/gamers-for/games/splatoon3/weapons/ドライブワイパー/"><img alt="トライストリンガー画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/tri-stringer.png" width="30"/>トラスト</a></div>
+<div class="align"><a class="a-link" href="/games/splatoon3/weapons/ドライブワイパー/"><img alt="トライストリンガー画像" class="a-img" height="30" loading="lazy" src="/images/games/splatoon3/weapons/tri-stringer.png" width="30"/>トラスト</a></div>
 </div></th>
 <td width="63%"><div class="a-graph_wrap">
 <div class="a-graph"><div class="a-bar" style="width: 78%"></div></div>
@@ -422,7 +422,7 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
 </tr>
 <tr>
 <th width="37%"><div class="align-left">
-<div class="align"><a class="a-link" href="/gamers-for/games/splatoon3/weapons/スプラチャージャー/"><img alt="スプラチャージャー画像" class="a-img" height="30" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/splat-charger.png" width="30"/>スプチャ</a></div>
+<div class="align"><a class="a-link" href="/games/splatoon3/weapons/スプラチャージャー/"><img alt="スプラチャージャー画像" class="a-img" height="30" loading="lazy" src="/images/games/splatoon3/weapons/splat-charger.png" width="30"/>スプチャ</a></div>
 </div></th>
 <td width="63%"><div class="a-graph_wrap">
 <div class="a-graph"><div class="a-bar" style="width: 80%"></div></div>
@@ -442,37 +442,37 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
 </tr>
 <tr>
 <td class="center">
-<b class="a-bold"><img alt="RブラスターエリートWNTR画像" class="a-img" height="50" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/range-blaster-wntr.png" width="50"/>RブラスターエリートWNTR</b>
+<b class="a-bold"><img alt="RブラスターエリートWNTR画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapons/range-blaster-wntr.png" width="50"/>RブラスターエリートWNTR</b>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="ポイズンミスト画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/subs/toxic-mist.png" width="50"/>ポイズンミスト</a>
+<a class="a-link" href="#"><img alt="ポイズンミスト画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/toxic-mist.png" width="50"/>ポイズンミスト</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="キューインキ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/specials/ink-vac.png" width="50"/>キューインキ</a>
-</td>
-</tr>
-<tr>
-<td class="center">
-<a class="a-link" href="/gamers-for/games/splatoon3/weapons/rブラスターエリートデコ/"><img alt="RブラスターエリートWNTRデコ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/custom-range-blaster.png" width="50"/>RブラスターエリートWNTRデコ</a>
-</td>
-<td class="center">
-<a class="a-link" href="#"><img alt="ラインマーカー画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/subs/line-marker.png" width="50"/>ラインマーカー</a>
-</td>
-<td class="center">
-<a class="a-link" href="#"><img alt="エナジースタンド画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/specials/tacticooler.png" width="50"/>エナジースタンド</a>
+<a class="a-link" href="#"><img alt="キューインキ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/ink-vac.png" width="50"/>キューインキ</a>
 </td>
 </tr>
 <tr>
 <td class="center">
-<img alt="RブラスターエリートWNTRWNTR画像" class="a-img" height="50" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/range-blaster-wntr.png" width="50"/>RブラスターエリートWNTRWNTR
+<a class="a-link" href="/games/splatoon3/weapons/rブラスターエリートデコ/"><img alt="RブラスターエリートWNTRデコ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/weapons/custom-range-blaster.png" width="50"/>RブラスターエリートWNTRデコ</a>
+</td>
+<td class="center">
+<a class="a-link" href="#"><img alt="ラインマーカー画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/line-marker.png" width="50"/>ラインマーカー</a>
+</td>
+<td class="center">
+<a class="a-link" href="#"><img alt="エナジースタンド画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/tacticooler.png" width="50"/>エナジースタンド</a>
+</td>
+</tr>
+<tr>
+<td class="center">
+<img alt="RブラスターエリートWNTRWNTR画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapons/range-blaster-wntr.png" width="50"/>RブラスターエリートWNTRWNTR
 
 
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="キューバンボム画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/subs/suction-bomb.png" width="50"/>キューバンボム</a>
+<a class="a-link" href="#"><img alt="キューバンボム画像" class="a-img" loading="lazy" src="/images/games/splatoon3/subs/suction-bomb.png" width="50"/>キューバンボム</a>
 </td>
 <td class="center">
-<a class="a-link" href="#"><img alt="エナジースタンド画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/specials/tacticooler.png" width="50"/>エナジースタンド</a>
+<a class="a-link" href="#"><img alt="エナジースタンド画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/tacticooler.png" width="50"/>エナジースタンド</a>
 </td>
 </tr>
 </table>
@@ -486,7 +486,7 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
 </tr>
 <tr>
 <td class="center">
-<a class="a-link" href="#"><img alt="キューインキ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/specials/ink-vac.png" width="50"/>キューインキ</a>
+<a class="a-link" href="#"><img alt="キューインキ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/ink-vac.png" width="50"/>キューインキ</a>
 </td>
 </tr>
 <tr>
@@ -499,13 +499,13 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
 <br/><b class="a-bold">・インク弾が地面に着弾して爆発したとき、近いカベも同時に塗るようにしました。</b>
 </td>
 </tr>
-<tr><td class="center">アプデ前壁着弾<img alt="動画" class="a-img" height="50" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<tr><td class="center">アプデ前壁着弾<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
 </td></tr>
-<tr><td class="center">アプデ後壁着弾<img alt="動画" class="a-img" height="50" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<tr><td class="center">アプデ後壁着弾<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
 </td></tr>
-<tr><td class="center">アプデ前床着弾<img alt="動画" class="a-img" height="50" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<tr><td class="center">アプデ前床着弾<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
 </td></tr>
-<tr><td class="center">アプデ後床着弾<img alt="動画" class="a-img" height="50" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<tr><td class="center">アプデ後床着弾<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
 </td></tr>
 </table>
 <p class="a-paragraph"> </p>
@@ -520,7 +520,7 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
 </tr>
 <tr>
 <td class="center">
-<a class="a-link" href="#"><img alt="キューインキ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/specials/ink-vac.png" width="50"/>キューインキ</a>
+<a class="a-link" href="#"><img alt="キューインキ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/ink-vac.png" width="50"/>キューインキ</a>
 </td>
 </tr>
 <tr>
@@ -532,9 +532,9 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
 <br/><b class="a-bold">・吸引中、使用者の足元のやや後方に、定期的にインクが塗られるようにしました。</b>
 </td>
 </tr>
-<tr><td class="center">アプデ前<img alt="動画" class="a-img" height="50" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<tr><td class="center">アプデ前<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
 </td></tr>
-<tr><td class="center">アプデ後<img alt="動画" class="a-img" height="50" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<tr><td class="center">アプデ後<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
 </td></tr>
 </table>
 <h3 class="a-header--3" id="hm_15">2023年7月27日のアップデート調整内容</h3>
@@ -545,7 +545,7 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
 </tr>
 <tr>
 <td class="center" width="20%">
-<a class="a-link" href="#"><img alt="キューインキ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/specials/ink-vac.png" width="50"/>キューインキ</a>
+<a class="a-link" href="#"><img alt="キューインキ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/ink-vac.png" width="50"/>キューインキ</a>
 </td>
 </tr>
 <tr>
@@ -558,19 +558,19 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
 </td>
 </tr>
 <tr>
-<td class="center">アプデ前(最小)<img alt="動画" class="a-img" height="50" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<td class="center">アプデ前(最小)<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
 </td>
 </tr>
 <tr>
-<td class="center">アプデ後(最小)<img alt="動画" class="a-img" height="50" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<td class="center">アプデ後(最小)<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
 </td>
 </tr>
 <tr>
-<td class="center">アプデ前(最大)<img alt="動画" class="a-img" height="50" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<td class="center">アプデ前(最大)<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
 </td>
 </tr>
 <tr>
-<td class="center">アプデ後(最大)<img alt="動画" class="a-img" height="50" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="50"/>
+<td class="center">アプデ後(最大)<img alt="動画" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="50"/>
 </td>
 </tr>
 </table>
@@ -582,7 +582,7 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
 </tr>
 <tr>
 <td class="center" width="20%">
-<a class="a-link" href="#"><img alt="キューインキ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/specials/ink-vac.png" width="50"/>キューインキ</a>
+<a class="a-link" href="#"><img alt="キューインキ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/ink-vac.png" width="50"/>キューインキ</a>
 </td>
 </tr>
 <tr>
@@ -603,7 +603,7 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
 </tr>
 <tr>
 <td class="center" width="20%">
-<a class="a-link" href="#"><img alt="キューインキ画像" class="a-img" loading="lazy" src="/gamers-for/images/games/splatoon3/specials/ink-vac.png" width="50"/>キューインキ</a>
+<a class="a-link" href="#"><img alt="キューインキ画像" class="a-img" loading="lazy" src="/images/games/splatoon3/specials/ink-vac.png" width="50"/>キューインキ</a>
 </td>
 </tr>
 <tr>
@@ -625,47 +625,47 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
 <h3 class="a-header--3" id="hm_18">新武器の評価一覧</h3>
 <table class="a-table a-table table--fixed a-table" style="">
 <tr>
-<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="新ブキ一覧" class="a-img img-placeholder" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="440"/>▶︎新武器のサブスペ・評価一覧</a></td>
+<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="新ブキ一覧" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>▶︎新武器のサブスペ・評価一覧</a></td>
 </tr>
 <tr>
 <th class="center" colspan="3" width="100%">新ブキ</th>
 </tr>
 <tr>
 <td class="center" width="33%">
-<a class="a-link" href="#"><img alt="フルイドⅤ画像" class="a-img" height="50" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/reef-lux-450.png" width="50"/>フルイド</a>
+<a class="a-link" href="#"><img alt="フルイドⅤ画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapons/reef-lux-450.png" width="50"/>フルイド</a>
 </td>
 <td class="center" width="33%">
-<a class="a-link" href="#"><img alt="フルイドⅤカスタム画像" class="a-img" height="50" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/reef-lux-450-deco.png" width="50"/>フルカス</a>
+<a class="a-link" href="#"><img alt="フルイドⅤカスタム画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapons/reef-lux-450-deco.png" width="50"/>フルカス</a>
 </td>
 <td class="center" width="33%">
-<a class="a-link" href="/gamers-for/games/splatoon3/weapons/デンタルワイパーミント/"><img alt="デンタルワイパーミント画像" class="a-img" height="50" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/mint-decavitator.png" width="50"/>デンパミ</a>
-</td>
-</tr>
-<tr>
-<td class="center" width="33%">
-<a class="a-link" href="#"><img alt="デンタルワイパースミ画像" class="a-img" height="50" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/charcoal-decavitator.png" width="50"/>デンスミ</a>
-</td>
-<td class="center" width="33%">
-<a class="a-link" href="/gamers-for/games/splatoon3/weapons/14式竹筒銃-乙/"><img alt="14式竹筒銃・乙画像" class="a-img" height="50" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/bamboozler-14-mk-ii.png" width="50"/>竹乙</a>
-</td>
-<td class="center" width="33%">
-<a class="a-link" href="/gamers-for/games/splatoon3/weapons/24式張替傘-乙/"><img alt="24式張替傘・乙画像" class="a-img" height="50" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/recycled-brella-24-mk-ii.png" width="50"/>和傘乙</a>
+<a class="a-link" href="/games/splatoon3/weapons/デンタルワイパーミント/"><img alt="デンタルワイパーミント画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapons/mint-decavitator.png" width="50"/>デンパミ</a>
 </td>
 </tr>
 <tr>
 <td class="center" width="33%">
-<a class="a-link" href="/gamers-for/games/splatoon3/weapons/イグザミナーヒュー/"><img alt="イグザミナーヒュー画像" class="a-img" height="50" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/heavy-edit-splatling-nouveau.png" width="50"/>ザミヒュー</a>
+<a class="a-link" href="#"><img alt="デンタルワイパースミ画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapons/charcoal-decavitator.png" width="50"/>デンスミ</a>
 </td>
 <td class="center" width="33%">
-<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ロングブラスターカスタム/"><img alt="ロングブラスターカスタム画像" class="a-img" height="50" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/custom-range-blaster.png" width="50"/>ロンカス</a>
+<a class="a-link" href="/games/splatoon3/weapons/14式竹筒銃-乙/"><img alt="14式竹筒銃・乙画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapons/bamboozler-14-mk-ii.png" width="50"/>竹乙</a>
 </td>
 <td class="center" width="33%">
-<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ガエンffカスタム/"><img alt="ガエンFFカスタム画像" class="a-img" height="50" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/custom-douser-dualies-ff.png" width="50"/>ガエカス</a>
+<a class="a-link" href="/games/splatoon3/weapons/24式張替傘-乙/"><img alt="24式張替傘・乙画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapons/recycled-brella-24-mk-ii.png" width="50"/>和傘乙</a>
 </td>
 </tr>
 <tr>
 <td class="center" width="33%">
-<a class="a-link" href="/gamers-for/games/splatoon3/weapons/ハイドラントカスタム/"><img alt="ハイドラントカスタム画像" class="a-img" height="50" loading="lazy" src="/gamers-for/images/games/splatoon3/weapons/custom-hydra-splatling.png" width="50"/>ハイカス</a>
+<a class="a-link" href="/games/splatoon3/weapons/イグザミナーヒュー/"><img alt="イグザミナーヒュー画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapons/heavy-edit-splatling-nouveau.png" width="50"/>ザミヒュー</a>
+</td>
+<td class="center" width="33%">
+<a class="a-link" href="/games/splatoon3/weapons/ロングブラスターカスタム/"><img alt="ロングブラスターカスタム画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapons/custom-range-blaster.png" width="50"/>ロンカス</a>
+</td>
+<td class="center" width="33%">
+<a class="a-link" href="/games/splatoon3/weapons/ガエンffカスタム/"><img alt="ガエンFFカスタム画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapons/custom-douser-dualies-ff.png" width="50"/>ガエカス</a>
+</td>
+</tr>
+<tr>
+<td class="center" width="33%">
+<a class="a-link" href="/games/splatoon3/weapons/ハイドラントカスタム/"><img alt="ハイドラントカスタム画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapons/custom-hydra-splatling.png" width="50"/>ハイカス</a>
 </td>
 <td class="center" width="33%">-</td>
 <td class="center" width="33%">-</td>
@@ -674,72 +674,72 @@ description: "スプラトゥーン3のRブラスターエリートWNTRの性能
 <h3 class="a-header--3" id="hm_19">最強武器ランキング一覧</h3>
 <table class="a-table a-table a-table" style="">
 <tr>
-<td class="center" colspan="5" width="100%"><a class="a-link" href="/gamers-for/games/splatoon3/tier-list/"><img alt="最強" class="a-img img-placeholder" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="440"/>▶︎最強ブキ</a></td>
+<td class="center" colspan="5" width="100%"><a class="a-link" href="/games/splatoon3/tier-list/"><img alt="最強" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>▶︎最強ブキ</a></td>
 </tr>
 <tr>
 <th colspan="5">ルール別最強武器ランキング</th>
 </tr>
 <tr>
-<td class="center" width="20%"><a class="a-link" href="/gamers-for/games/splatoon3/tier-area/"><img alt="スプラトゥーン2のガチエリア" class="a-img" height="100" loading="lazy" src="/gamers-for/images/games/splatoon3/rules/splat-zones.png" width="100"/><br/>ガチ<br/>エリア</a></td>
-<td class="center" width="20%"><a class="a-link" href="/gamers-for/games/splatoon3/tier-yagura/"><img alt="スプラトゥーン2のガチヤグラ" class="a-img" height="100" loading="lazy" src="/gamers-for/images/games/splatoon3/rules/tower-control.png" width="100"/><br/>ガチ<br/>ヤグラ</a></td>
-<td class="center" width="20%"><a class="a-link" href="/gamers-for/games/splatoon3/tier-hoko/"><img alt="スプラトゥーン2のガチホコ" class="a-img" height="100" loading="lazy" src="/gamers-for/images/games/splatoon3/rules/rainmaker.png" width="100"/><br/>ガチ<br/>ホコ</a></td>
-<td class="center" width="20%"><a class="a-link" href="/gamers-for/games/splatoon3/tier-asari/"><img alt="スプラトゥーン2のガチアサリ" class="a-img" height="100" loading="lazy" src="/gamers-for/images/games/splatoon3/rules/clam-blitz.png" width="100"/><br/>ガチ<br/>アサリ</a></td>
-<td class="center" width="20%"><a class="a-link" href="/gamers-for/games/splatoon3/tier-nawabari/"><img alt="スプラトゥーン2のナワバリ" class="a-img" height="100" loading="lazy" src="/gamers-for/images/games/splatoon3/rules/turf-war.png" width="100"/><br/>ナワ<br/>バリ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-area/"><img alt="スプラトゥーン2のガチエリア" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/splat-zones.png" width="100"/><br/>ガチ<br/>エリア</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-yagura/"><img alt="スプラトゥーン2のガチヤグラ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/tower-control.png" width="100"/><br/>ガチ<br/>ヤグラ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-hoko/"><img alt="スプラトゥーン2のガチホコ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/rainmaker.png" width="100"/><br/>ガチ<br/>ホコ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-asari/"><img alt="スプラトゥーン2のガチアサリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/clam-blitz.png" width="100"/><br/>ガチ<br/>アサリ</a></td>
+<td class="center" width="20%"><a class="a-link" href="/games/splatoon3/tier-nawabari/"><img alt="スプラトゥーン2のナワバリ" class="a-img" height="100" loading="lazy" src="/images/games/splatoon3/rules/turf-war.png" width="100"/><br/>ナワ<br/>バリ</a></td>
 </tr>
 </table>
 <h3 class="a-header--3" id="hm_20">武器の評価一覧</h3>
 <table class="a-table a-table table--fixed a-table" style="">
 <tr>
-<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="ブキ評価" class="a-img img-placeholder" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="440"/>▶︎武器の評価一覧に戻る</a></td>
+<td class="center" colspan="3" width="100%"><a class="a-link" href="#"><img alt="ブキ評価" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>▶︎武器の評価一覧に戻る</a></td>
 </tr>
 <tr>
 <th class="center" colspan="3" width="100%">ブキ種別評価一覧</th>
 </tr>
 <td class="center" width="33%">
-<a class="a-link" href="#"><img alt="シューター画像" class="a-img" height="50" loading="lazy" src="/gamers-for/images/games/splatoon3/weapon_class/shooter.png" width="50"/>シューター</a>
+<a class="a-link" href="#"><img alt="シューター画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapon_class/shooter.png" width="50"/>シューター</a>
 </td>
 <td class="center" width="33%">
-<a class="a-link" href="#"><img alt="ローラー画像" class="a-img" height="50" loading="lazy" src="/gamers-for/images/games/splatoon3/weapon_class/roller.png" width="50"/>ローラー</a>
+<a class="a-link" href="#"><img alt="ローラー画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapon_class/roller.png" width="50"/>ローラー</a>
 </td>
 <td class="center" width="33%">
-<a class="a-link" href="#"><img alt="チャージャー画像" class="a-img" height="50" loading="lazy" src="/gamers-for/images/games/splatoon3/weapon_class/charger.png" width="50"/>チャージャー</a>
+<a class="a-link" href="#"><img alt="チャージャー画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapon_class/charger.png" width="50"/>チャージャー</a>
 </td>
 <tr>
 <td class="center" width="33%">
-<a class="a-link" href="#"><img alt="スロッシャー画像" class="a-img" height="50" loading="lazy" src="/gamers-for/images/games/splatoon3/weapon_class/slosher.png" width="50"/>スロッシャー</a>
+<a class="a-link" href="#"><img alt="スロッシャー画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapon_class/slosher.png" width="50"/>スロッシャー</a>
 </td>
 <td class="center" width="33%">
-<a class="a-link" href="#"><img alt="スピナー画像" class="a-img" height="50" loading="lazy" src="/gamers-for/images/games/splatoon3/weapon_class/splatling.png" width="50"/>スピナー</a>
+<a class="a-link" href="#"><img alt="スピナー画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapon_class/splatling.png" width="50"/>スピナー</a>
 </td>
 <td class="center" width="33%">
-<a class="a-link" href="#"><img alt="マニューバー画像" class="a-img" height="50" loading="lazy" src="/gamers-for/images/games/splatoon3/weapon_class/dualie.png" width="50"/>マニューバー</a>
+<a class="a-link" href="#"><img alt="マニューバー画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapon_class/dualie.png" width="50"/>マニューバー</a>
 </td>
 </tr>
 <tr>
 <td class="center" width="33%">
-<a class="a-link" href="#"><img alt="シェルター画像" class="a-img" height="50" loading="lazy" src="/gamers-for/images/games/splatoon3/weapon_class/brella.png" width="50"/>シェルター</a>
+<a class="a-link" href="#"><img alt="シェルター画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapon_class/brella.png" width="50"/>シェルター</a>
 </td>
 <td class="center" width="33%">
-<a class="a-link" href="#"><img alt="ブラスター画像" class="a-img" height="50" loading="lazy" src="/gamers-for/images/games/splatoon3/weapon_class/blaster.png" width="50"/>ブラスター</a>
+<a class="a-link" href="#"><img alt="ブラスター画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapon_class/blaster.png" width="50"/>ブラスター</a>
 </td>
 <td class="center" width="33%">
-<a class="a-link" href="#"><img alt="フデ画像" class="a-img" height="50" loading="lazy" src="/gamers-for/images/games/splatoon3/weapon_class/brush.png" width="50"/>フデ</a>
+<a class="a-link" href="#"><img alt="フデ画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapon_class/brush.png" width="50"/>フデ</a>
 </td>
 </tr>
 <tr>
 <td class="center" width="33%">
-<a class="a-link" href="#"><img alt="ストリンガー画像" class="a-img" height="50" loading="lazy" src="/gamers-for/images/games/splatoon3/weapon_class/stringer.png" width="50"/>ストリンガー</a>
+<a class="a-link" href="#"><img alt="ストリンガー画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapon_class/stringer.png" width="50"/>ストリンガー</a>
 </td>
 <td class="center" width="33%">
-<a class="a-link" href="#"><img alt="ワイパー画像" class="a-img" height="50" loading="lazy" src="/gamers-for/images/games/splatoon3/weapon_class/splatana.png" width="50"/>ワイパー</a>
+<a class="a-link" href="#"><img alt="ワイパー画像" class="a-img" height="50" loading="lazy" src="/images/games/splatoon3/weapon_class/splatana.png" width="50"/>ワイパー</a>
 </td>
 </tr>
 </table>
 <h3 class="a-header--3" id="hm_21">ブキ関連人気記事</h3>
 <table class="a-table a-table a-table" style="">
 <tr>
-<td class="center" width="33%"><a class="a-link" href="#"><img alt="射程ランキング・射程表" class="a-img img-placeholder" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="440"/>射程表</a></td>
-<td class="center" width="33%"><a class="a-link" href="#"><img alt="武器の入手方法" class="a-img img-placeholder" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="440"/>入手方法</a></td>
-<td class="center" width="33%"><a class="a-link" href="#"><img alt="サブスペ" class="a-img img-placeholder" loading="lazy" src="/gamers-for/images/games/splatoon3/placeholder-icon.png" width="440"/>サブスペ一覧</a></td>
+<td class="center" width="33%"><a class="a-link" href="#"><img alt="射程ランキング・射程表" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>射程表</a></td>
+<td class="center" width="33%"><a class="a-link" href="#"><img alt="武器の入手方法" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>入手方法</a></td>
+<td class="center" width="33%"><a class="a-link" href="#"><img alt="サブスペ" class="a-img img-placeholder" loading="lazy" src="/images/games/splatoon3/placeholder-icon.png" width="440"/>サブスペ一覧</a></td>
 </tr>
 </table>

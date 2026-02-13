@@ -12,19 +12,19 @@ description: "スプラトゥーン3のR-PEN/5Hの性能評価・立ち回り解
 <table>
 <tr>
   <td rowspan="4" colspan="2" style="text-align:center;vertical-align:middle;width:40%">
-    <img src="/gamers-for/images/games/splatoon3/weapons/douser-dualies-ff.png" alt="R-PEN/5H" loading="lazy" width="90" height="90" style="display:inline-block"><br>
+    <img src="/images/games/splatoon3/weapons/douser-dualies-ff.png" alt="R-PEN/5H" loading="lazy" width="90" height="90" style="display:inline-block"><br>
     <strong style="font-size:1.1em">R-PEN/5H</strong>
   </td>
   <th colspan="2" style="text-align:center">総合評価</th>
 </tr>
 <tr>
-  <td colspan="2" style="text-align:center;font-size:1.3em"><img src="/gamers-for/images/games/splatoon3/tiers/splus.webp" alt="S+" loading="lazy" width="36" height="36" style="vertical-align:middle"> <strong>S+</strong></td>
+  <td colspan="2" style="text-align:center;font-size:1.3em"><img src="/images/games/splatoon3/tiers/splus.webp" alt="S+" loading="lazy" width="36" height="36" style="vertical-align:middle"> <strong>S+</strong></td>
 </tr>
 <tr>
   <th colspan="2" style="text-align:center">サブ・スペシャル</th>
 </tr>
 <tr>
-  <td colspan="2" style="text-align:center"><img src="/gamers-for/images/games/splatoon3/subs/sprinkler.png" alt="スプリンクラー" loading="lazy" width="24" height="24" style="vertical-align:middle"> スプリンクラー ／ <img src="/gamers-for/images/games/splatoon3/specials/crab-tank.png" alt="カニタンク" loading="lazy" width="24" height="24" style="vertical-align:middle"> カニタンク</td>
+  <td colspan="2" style="text-align:center"><img src="/images/games/splatoon3/subs/sprinkler.png" alt="スプリンクラー" loading="lazy" width="24" height="24" style="vertical-align:middle"> スプリンクラー ／ <img src="/images/games/splatoon3/specials/crab-tank.png" alt="カニタンク" loading="lazy" width="24" height="24" style="vertical-align:middle"> カニタンク</td>
 </tr>
 <tr>
   <th>塗り</th><td>★★★★☆</td>
@@ -50,11 +50,11 @@ description: "スプラトゥーン3のR-PEN/5Hの性能評価・立ち回り解
   <th style="text-align:center">ガチアサリ</th>
 </tr>
 <tr>
-  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/s.webp" alt="S" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>S</strong></td>
-  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/splus.webp" alt="S+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>S+</strong></td>
-  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/splus.webp" alt="S+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>S+</strong></td>
-  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/splus.webp" alt="S+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>S+</strong></td>
-  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/splus.webp" alt="S+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>S+</strong></td>
+  <td style="text-align:center"><img src="/images/games/splatoon3/tiers/s.webp" alt="S" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>S</strong></td>
+  <td style="text-align:center"><img src="/images/games/splatoon3/tiers/splus.webp" alt="S+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>S+</strong></td>
+  <td style="text-align:center"><img src="/images/games/splatoon3/tiers/splus.webp" alt="S+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>S+</strong></td>
+  <td style="text-align:center"><img src="/images/games/splatoon3/tiers/splus.webp" alt="S+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>S+</strong></td>
+  <td style="text-align:center"><img src="/images/games/splatoon3/tiers/splus.webp" alt="S+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>S+</strong></td>
 </tr>
 </table>
 

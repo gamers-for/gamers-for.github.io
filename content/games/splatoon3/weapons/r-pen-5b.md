@@ -12,19 +12,19 @@ description: "スプラトゥーン3のR-PEN/5Bの性能評価・立ち回り解
 <table>
 <tr>
   <td rowspan="4" colspan="2" style="text-align:center;vertical-align:middle;width:40%">
-    <img src="/gamers-for/images/games/splatoon3/weapons/custom-douser-dualies-ff.png" alt="R-PEN/5B" loading="lazy" width="90" height="90" style="display:inline-block"><br>
+    <img src="/images/games/splatoon3/weapons/custom-douser-dualies-ff.png" alt="R-PEN/5B" loading="lazy" width="90" height="90" style="display:inline-block"><br>
     <strong style="font-size:1.1em">R-PEN/5B</strong>
   </td>
   <th colspan="2" style="text-align:center">総合評価</th>
 </tr>
 <tr>
-  <td colspan="2" style="text-align:center;font-size:1.3em"><img src="/gamers-for/images/games/splatoon3/tiers/a.webp" alt="A" loading="lazy" width="36" height="36" style="vertical-align:middle"> <strong>A</strong></td>
+  <td colspan="2" style="text-align:center;font-size:1.3em"><img src="/images/games/splatoon3/tiers/a.webp" alt="A" loading="lazy" width="36" height="36" style="vertical-align:middle"> <strong>A</strong></td>
 </tr>
 <tr>
   <th colspan="2" style="text-align:center">サブ・スペシャル</th>
 </tr>
 <tr>
-  <td colspan="2" style="text-align:center"><img src="/gamers-for/images/games/splatoon3/subs/ink-mine.png" alt="トラップ" loading="lazy" width="24" height="24" style="vertical-align:middle"> トラップ ／ <img src="/gamers-for/images/games/splatoon3/specials/ultra-stamp.png" alt="ウルトラチャクチ" loading="lazy" width="24" height="24" style="vertical-align:middle"> ウルトラチャクチ</td>
+  <td colspan="2" style="text-align:center"><img src="/images/games/splatoon3/subs/ink-mine.png" alt="トラップ" loading="lazy" width="24" height="24" style="vertical-align:middle"> トラップ ／ <img src="/images/games/splatoon3/specials/ultra-stamp.png" alt="ウルトラチャクチ" loading="lazy" width="24" height="24" style="vertical-align:middle"> ウルトラチャクチ</td>
 </tr>
 <tr>
   <th>塗り</th><td>★★★★☆</td>
@@ -50,11 +50,11 @@ description: "スプラトゥーン3のR-PEN/5Bの性能評価・立ち回り解
   <th style="text-align:center">ガチアサリ</th>
 </tr>
 <tr>
-  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/a.webp" alt="A" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>A</strong></td>
-  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/a.webp" alt="A" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>A</strong></td>
-  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/a.webp" alt="A" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>A</strong></td>
-  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/a.webp" alt="A" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>A</strong></td>
-  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/a.webp" alt="A" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>A</strong></td>
+  <td style="text-align:center"><img src="/images/games/splatoon3/tiers/a.webp" alt="A" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>A</strong></td>
+  <td style="text-align:center"><img src="/images/games/splatoon3/tiers/a.webp" alt="A" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>A</strong></td>
+  <td style="text-align:center"><img src="/images/games/splatoon3/tiers/a.webp" alt="A" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>A</strong></td>
+  <td style="text-align:center"><img src="/images/games/splatoon3/tiers/a.webp" alt="A" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>A</strong></td>
+  <td style="text-align:center"><img src="/images/games/splatoon3/tiers/a.webp" alt="A" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>A</strong></td>
 </tr>
 </table>
 
