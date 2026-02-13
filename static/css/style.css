@@ -1,87 +1,97 @@
 /* ==========================================================
-   Gamers-For - Game8風ゲーム攻略サイトCSS v3
-   CSS変数・ダークモード・Game8準拠レイアウト
+   Gamers-For - 色鉛筆風ゲーム攻略サイトCSS v4
+   手描きスケッチ風デザイン + Game8準拠レイアウト
    ========================================================== */
 
-/* ---------- CSS Variables (テーマ) ---------- */
+/* ---------- Google Fonts (手描き風フォント) ---------- */
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Klee+One:wght@400;600&display=swap');
+
+/* ---------- CSS Variables (色鉛筆テーマ) ---------- */
 :root {
-  --font-primary: #333;
-  --font-secondary: #666;
-  --font-muted: #888;
-  --font-inverse: #fff;
-  --font-heading: #333;
+  --font-primary: #3a3226;
+  --font-secondary: #6b5e50;
+  --font-muted: #8a7e70;
+  --font-inverse: #3a3226;
+  --font-heading: #3a3226;
 
-  --bg-base: #eef1f6;
-  --bg-primary: #fff;
-  --bg-secondary: #f8f9fb;
-  --bg-hover: #fef5f5;
-  --bg-heading: #333;
+  --bg-base: #f5f0e8;
+  --bg-primary: #faf6ef;
+  --bg-secondary: #f0ebe2;
+  --bg-hover: #ece5d8;
+  --bg-heading: #f0ebe2;
 
-  --accent: #e74c3c;
-  --accent-dark: #c0392b;
-  --accent-light: #fef5f5;
-  --accent-gold: #ffd22b;
+  --accent: #c75146;
+  --accent-dark: #a63d34;
+  --accent-light: #f5ebe8;
+  --accent-gold: #d4a745;
 
-  --brand-dark: #1a1a2e;
-  --brand-darker: #16213e;
+  --brand-dark: #4a4035;
+  --brand-darker: #3a3226;
 
-  --link-color: #3983c3;
-  --link-hover: #2a6baa;
+  --link-color: #4a7da8;
+  --link-hover: #3a6888;
 
-  --border-primary: #e2e6ed;
-  --border-secondary: #dce1e8;
-  --border-light: #eef1f6;
-  --border-table: #d0d9e1;
+  --border-primary: #d4cbbe;
+  --border-secondary: #c9bfb0;
+  --border-light: #e5ddd0;
+  --border-table: #c9bfb0;
 
-  --table-header-bg: #f1f4f6;
-  --table-header-color: #333;
-  --table-stripe: #f8f9fb;
+  --table-header-bg: #ece5d8;
+  --table-header-color: #3a3226;
+  --table-stripe: #f0ebe2;
 
-  --shadow-sm: 0 1px 3px rgba(0,0,0,.04);
-  --shadow-md: 0 1px 6px rgba(0,0,0,.06);
-  --shadow-lg: 0 6px 20px rgba(0,0,0,.08);
+  --shadow-sm: 1px 2px 0 rgba(58,50,38,.08);
+  --shadow-md: 2px 3px 0 rgba(58,50,38,.1);
+  --shadow-lg: 3px 5px 0 rgba(58,50,38,.12);
 
-  --radius-sm: 4px;
-  --radius-md: 8px;
-  --radius-lg: 10px;
+  --radius-sm: 2px;
+  --radius-md: 4px;
+  --radius-lg: 6px;
+
+  --pencil-red: #c75146;
+  --pencil-blue: #4a7da8;
+  --pencil-green: #5a8a5c;
+  --pencil-yellow: #d4a745;
+  --pencil-brown: #8a6d4a;
+  --pencil-gray: #8a7e70;
 }
 
 [data-theme="dark"] {
-  --font-primary: #e0e0e0;
-  --font-secondary: #aaa;
-  --font-muted: #777;
-  --font-inverse: #fff;
-  --font-heading: #e0e0e0;
+  --font-primary: #d8d0c4;
+  --font-secondary: #a89e90;
+  --font-muted: #7a7060;
+  --font-inverse: #d8d0c4;
+  --font-heading: #d8d0c4;
 
-  --bg-base: #121218;
-  --bg-primary: #1a1a24;
-  --bg-secondary: #22222e;
-  --bg-hover: #2d1a1a;
-  --bg-heading: #2a2a36;
+  --bg-base: #2a2520;
+  --bg-primary: #342e28;
+  --bg-secondary: #3e3830;
+  --bg-hover: #4a4038;
+  --bg-heading: #3e3830;
 
-  --accent: #e74c3c;
-  --accent-dark: #c0392b;
-  --accent-light: #2d1a1a;
-  --accent-gold: #ffd22b;
+  --accent: #d4685e;
+  --accent-dark: #c75146;
+  --accent-light: #4a3530;
+  --accent-gold: #d4a745;
 
-  --brand-dark: #0d0d1a;
-  --brand-darker: #060610;
+  --brand-dark: #2a2520;
+  --brand-darker: #1e1a16;
 
-  --link-color: #6da8e0;
-  --link-hover: #8fc0f0;
+  --link-color: #7aa8c8;
+  --link-hover: #9ac0d8;
 
-  --border-primary: #333340;
-  --border-secondary: #3a3a48;
-  --border-light: #22222e;
-  --border-table: #3a3a48;
+  --border-primary: #4a4038;
+  --border-secondary: #5a5048;
+  --border-light: #3e3830;
+  --border-table: #5a5048;
 
-  --table-header-bg: #2a2a36;
-  --table-header-color: #e0e0e0;
-  --table-stripe: #1e1e28;
+  --table-header-bg: #3e3830;
+  --table-header-color: #d8d0c4;
+  --table-stripe: #342e28;
 
-  --shadow-sm: 0 1px 3px rgba(0,0,0,.3);
-  --shadow-md: 0 1px 6px rgba(0,0,0,.4);
-  --shadow-lg: 0 6px 20px rgba(0,0,0,.5);
+  --shadow-sm: 1px 2px 0 rgba(0,0,0,.2);
+  --shadow-md: 2px 3px 0 rgba(0,0,0,.25);
+  --shadow-lg: 3px 5px 0 rgba(0,0,0,.3);
 }
 
 /* ---------- Reset & Base ---------- */
@@ -93,11 +103,14 @@ html {
 }
 
 body {
-  font-family: "Segoe UI", Roboto, "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Yu Gothic Medium", "Yu Gothic", "Meiryo", sans-serif;
+  font-family: "Klee One", "Segoe UI", "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
   color: var(--font-primary);
   background: var(--bg-base);
+  background-image:
+    repeating-linear-gradient(0deg, transparent, transparent 28px, rgba(180,170,155,.12) 28px, rgba(180,170,155,.12) 29px),
+    repeating-linear-gradient(90deg, transparent, transparent 28px, rgba(180,170,155,.06) 28px, rgba(180,170,155,.06) 29px);
   line-height: 1.8;
-  -webkit-font-smoothing: antialiased;
+  -webkit-font-smoothing: auto;
   overflow-x: hidden;
 }
 
@@ -120,17 +133,19 @@ img { max-width: 100%; height: auto; display: block; }
   color: #e74c3c;
 }
 
-/* ---------- Header (Game8風) ---------- */
+/* ---------- Header (色鉛筆風) ---------- */
 .site-header {
   position: sticky;
   top: 0;
   z-index: 1000;
-  background: #fff;
-  box-shadow: 0 2px 12px rgba(0,0,0,.1);
+  background: var(--bg-primary);
+  border-bottom: 3px solid var(--pencil-brown);
+  box-shadow: none;
 }
 
 .header-top {
-  background: linear-gradient(90deg, #1a1a2e 0%, #16213e 100%);
+  background: var(--brand-dark);
+  border-bottom: 2px solid var(--pencil-brown);
 }
 
 .header-inner {
@@ -187,10 +202,10 @@ img { max-width: 100%; height: auto; display: block; }
 
 .mobile-menu-btn svg { width: 24px; height: 24px; }
 
-/* Game Navigation Bar (Game8のゲーム内ナビ風) */
+/* Game Navigation Bar (色鉛筆風) */
 .game-nav {
-  background: #fff;
-  border-bottom: 3px solid #e74c3c;
+  background: var(--bg-primary);
+  border-bottom: 3px solid var(--pencil-red);
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
   scrollbar-width: none;           /* Firefox */
@@ -223,15 +238,15 @@ img { max-width: 100%; height: auto; display: block; }
 }
 
 .game-nav-link:hover {
-  background: #fef5f5;
+  background: var(--bg-hover);
   text-decoration: none;
-  color: #e74c3c;
+  color: var(--pencil-red);
 }
 
 .game-nav-link.active {
-  color: #e74c3c;
-  border-bottom-color: #e74c3c;
-  background: #fff5f5;
+  color: var(--pencil-red);
+  border-bottom-color: var(--pencil-red);
+  background: var(--accent-light);
 }
 
 /* ---------- Breadcrumb (パンくず) ---------- */
@@ -302,30 +317,34 @@ img { max-width: 100%; height: auto; display: block; }
 .home-hero {
   text-align: center;
   padding: 44px 20px;
-  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
-  color: #fff;
-  border-radius: 12px;
+  background: var(--bg-primary);
+  color: var(--font-primary);
+  border-radius: var(--radius-lg);
   margin-bottom: 28px;
   position: relative;
   overflow: hidden;
+  border: 3px solid var(--pencil-brown);
+  box-shadow: 3px 4px 0 rgba(138,109,74,.12);
 }
 
 .home-hero::before {
   content: "";
   position: absolute;
   inset: 0;
-  background: radial-gradient(circle at 30% 50%, rgba(231,76,60,.15) 0%, transparent 60%);
+  background: none;
 }
 
 .home-hero h1 {
   font-size: 2.2rem;
-  font-weight: 900;
+  font-weight: 600;
   letter-spacing: .03em;
   position: relative;
+  font-family: "Klee One", serif;
+  color: var(--pencil-brown);
 }
 
 .hero-sub {
-  color: rgba(255,255,255,.6);
+  color: var(--font-muted);
   font-size: .95rem;
   margin-top: 4px;
   position: relative;
@@ -335,16 +354,18 @@ img { max-width: 100%; height: auto; display: block; }
 
 .section-title {
   font-size: 1.1rem;
-  font-weight: 700;
+  font-weight: 600;
   padding: 10px 16px;
   background: var(--bg-heading);
-  color: var(--font-inverse);
+  color: var(--pencil-brown);
   border-radius: var(--radius-md) var(--radius-md) 0 0;
   margin-bottom: 0;
   display: flex;
   align-items: center;
   gap: 8px;
-  border-bottom: 3px solid var(--accent);
+  border-bottom: 3px solid var(--pencil-red);
+  border-left: 4px solid var(--pencil-red);
+  font-family: "Klee One", serif;
 }
 
 .game-card-grid {
@@ -363,7 +384,7 @@ img { max-width: 100%; height: auto; display: block; }
   gap: 14px;
   padding: 14px;
   background: var(--bg-primary);
-  border: 1px solid var(--border-primary);
+  border: 2px solid var(--border-primary);
   border-radius: var(--radius-lg);
   text-decoration: none;
   color: inherit;
@@ -371,22 +392,24 @@ img { max-width: 100%; height: auto; display: block; }
 }
 
 .game-card:hover {
-  box-shadow: 0 6px 20px rgba(0,0,0,.08);
-  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+  transform: translateY(-1px);
   text-decoration: none;
+  border-color: var(--pencil-brown);
 }
 
 .game-card-thumb {
   width: 72px;
   height: 72px;
-  border-radius: 12px;
+  border-radius: 8px;
   overflow: hidden;
   flex-shrink: 0;
-  background: linear-gradient(135deg, #e74c3c 0%, #c0392b 100%);
+  background: var(--bg-secondary);
+  border: 2px solid var(--pencil-brown);
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #fff;
+  color: var(--pencil-brown);
   font-size: 1.8rem;
 }
 
@@ -412,22 +435,26 @@ img { max-width: 100%; height: auto; display: block; }
   line-height: 1.5;
 }
 
-/* ---------- Article ---------- */
+/* ---------- Article (色鉛筆風) ---------- */
 .article {
   background: var(--bg-primary);
   border-radius: var(--radius-lg);
   padding: 32px;
   box-shadow: var(--shadow-md);
+  border: 2px solid var(--border-primary);
+  position: relative;
 }
 
 .article-title {
   font-size: 1.5rem;
-  font-weight: 800;
+  font-weight: 600;
   line-height: 1.4;
   padding-bottom: 14px;
   margin-bottom: 14px;
-  border-bottom: 3px solid var(--accent);
-  color: var(--font-primary);
+  border-bottom: 3px solid var(--pencil-brown);
+  border-bottom-style: solid;
+  color: var(--pencil-brown);
+  font-family: "Klee One", serif;
 }
 
 .article-meta {
@@ -511,28 +538,31 @@ img { max-width: 100%; height: auto; display: block; }
   color: #ccc;
 }
 
-/* ---------- Article Body ---------- */
+/* ---------- Article Body (色鉛筆風) ---------- */
 .article-body h2 {
   font-size: 1.25rem;
-  font-weight: 800;
+  font-weight: 600;
   margin: 36px 0 16px;
   padding: 10px 16px;
   background: var(--bg-heading);
-  color: var(--font-inverse);
-  border-bottom: 4px solid var(--accent);
-  border-radius: 0 10px 0 0;
+  color: var(--pencil-red);
+  border-bottom: 3px solid var(--pencil-red);
+  border-left: 4px solid var(--pencil-red);
+  border-radius: 0;
   line-height: 1.4;
+  font-family: "Klee One", serif;
 }
 
 .article-body h3 {
   font-size: 1.1rem;
-  font-weight: 700;
+  font-weight: 600;
   margin: 28px 0 12px;
   padding: 8px 14px;
-  border-left: 4px solid var(--bg-heading);
+  border-left: 4px solid var(--pencil-blue);
   background: transparent;
-  color: var(--font-primary);
+  color: var(--pencil-blue);
   position: relative;
+  font-family: "Klee One", serif;
 }
 
 .article-body h3::after {
@@ -542,16 +572,18 @@ img { max-width: 100%; height: auto; display: block; }
   left: 0;
   right: 0;
   height: 2px;
-  background: linear-gradient(to right, var(--bg-heading) 0%, var(--bg-heading) 50%, transparent 100%);
+  background: linear-gradient(to right, var(--pencil-blue) 0%, var(--pencil-blue) 40%, transparent 100%);
+  opacity: .5;
 }
 
 .article-body h4 {
   font-size: 1rem;
-  font-weight: 700;
+  font-weight: 600;
   margin: 22px 0 8px;
-  color: var(--font-primary);
+  color: var(--pencil-green);
   padding-left: 12px;
-  border-left: 3px solid var(--border-secondary);
+  border-left: 3px solid var(--pencil-green);
+  font-family: "Klee One", serif;
 }
 
 .article-body p {
@@ -567,7 +599,7 @@ img { max-width: 100%; height: auto; display: block; }
 
 .article-body li { margin-bottom: 6px; }
 
-.article-body strong { color: var(--accent-dark); font-weight: 700; }
+.article-body strong { color: var(--pencil-red); font-weight: 600; }
 
 .article-body hr {
   border: none;
@@ -575,24 +607,25 @@ img { max-width: 100%; height: auto; display: block; }
   margin: 32px 0;
 }
 
-/* Tables (Game8風テーブル - ライトヘッダー+ボーダー) */
+/* Tables (色鉛筆風テーブル) */
 .article-body table {
   width: 100%;
   border-collapse: collapse;
   margin-bottom: 24px;
   font-size: .88rem;
-  border-bottom: 1px solid var(--border-table);
-  box-shadow: var(--shadow-sm);
+  border: 2px solid var(--pencil-brown);
+  box-shadow: 2px 2px 0 rgba(138,109,74,.1);
 }
 
 .article-body th {
   background: var(--table-header-bg);
-  color: var(--table-header-color);
+  color: var(--pencil-brown);
   padding: 8px 10px;
   text-align: center;
-  font-weight: 700;
+  font-weight: 600;
   font-size: .85rem;
-  border: 1px solid var(--border-table);
+  border: 1.5px solid var(--pencil-brown);
+  font-family: "Klee One", serif;
 }
 
 .article-body td {
@@ -753,7 +786,8 @@ img { max-width: 100%; height: auto; display: block; }
   margin-bottom: 16px;
   box-shadow: var(--shadow-md);
   overflow: hidden;
-  border-top: 2px solid var(--accent-gold);
+  border: 2px solid var(--border-primary);
+  border-top: 3px solid var(--pencil-yellow);
 }
 
 .sidebar-title {
@@ -1029,11 +1063,12 @@ img { max-width: 100%; height: auto; display: block; }
   height: 100%;
 }
 
-/* ---------- Footer ---------- */
+/* ---------- Footer (色鉛筆風) ---------- */
 .site-footer {
-  background: #1a1a2e;
-  color: #ccc;
+  background: var(--brand-dark);
+  color: #c9bfb0;
   margin-top: 0;
+  border-top: 3px solid var(--pencil-brown);
 }
 
 .footer-inner {
@@ -1954,11 +1989,13 @@ body.skin-genshin .game-nav { border-bottom-color: #c9a96e; }
 body.skin-genshin .game-nav-link.active { color: #c9a96e; border-bottom-color: #c9a96e; }
 
 body.skin-splatoon .article-body h2 {
-  background: linear-gradient(90deg, #5a2d82, #d12d7a);
-  border-bottom-color: #ff0;
+  background: var(--bg-heading);
+  color: var(--pencil-red);
+  border-bottom-color: var(--pencil-red);
+  border-left-color: var(--pencil-red);
 }
-body.skin-splatoon .game-nav { border-bottom-color: #d12d7a; }
-body.skin-splatoon .game-nav-link.active { color: #d12d7a; border-bottom-color: #d12d7a; }
+body.skin-splatoon .game-nav { border-bottom-color: var(--pencil-red); }
+body.skin-splatoon .game-nav-link.active { color: var(--pencil-red); border-bottom-color: var(--pencil-red); }
 
 body.skin-pokemon .article-body h2 {
   background: linear-gradient(90deg, #e3350d, #d32f2f);
@@ -2085,28 +2122,31 @@ body.skin-lol .article-body h2 {
    archive-style-wrapper内のHTML要素をそのまま活用
    ========================================================== */
 
-/* ---------- Game8 Headers (a-header) ---------- */
+/* ---------- Game8 Headers - 色鉛筆風 (a-header) ---------- */
 .article-body .a-header--2 {
   font-size: 1.25rem;
-  font-weight: 800;
+  font-weight: 600;
   margin: 36px 0 16px;
   padding: 10px 16px;
   background: var(--bg-heading);
-  color: var(--font-inverse);
-  border-bottom: 4px solid var(--accent);
-  border-radius: 0 10px 0 0;
+  color: var(--pencil-red);
+  border-bottom: 3px solid var(--pencil-red);
+  border-left: 4px solid var(--pencil-red);
+  border-radius: 0;
   line-height: 1.4;
+  font-family: "Klee One", serif;
 }
 
 .article-body .a-header--3 {
   font-size: 1.1rem;
-  font-weight: 700;
+  font-weight: 600;
   margin: 28px 0 12px;
   padding: 8px 14px;
-  border-left: 4px solid var(--bg-heading);
+  border-left: 4px solid var(--pencil-blue);
   background: transparent;
-  color: var(--font-primary);
+  color: var(--pencil-blue);
   position: relative;
+  font-family: "Klee One", serif;
 }
 
 .article-body .a-header--3::after {
@@ -2116,16 +2156,18 @@ body.skin-lol .article-body h2 {
   left: 0;
   right: 0;
   height: 2px;
-  background: linear-gradient(to right, var(--bg-heading) 0%, var(--bg-heading) 50%, transparent 100%);
+  background: linear-gradient(to right, var(--pencil-blue) 0%, var(--pencil-blue) 40%, transparent 100%);
+  opacity: .5;
 }
 
 .article-body .a-header--4 {
   font-size: 1rem;
-  font-weight: 700;
+  font-weight: 600;
   margin: 22px 0 8px;
-  color: var(--font-primary);
+  color: var(--pencil-green);
   padding-left: 12px;
-  border-left: 3px solid var(--border-secondary);
+  border-left: 3px solid var(--pencil-green);
+  font-family: "Klee One", serif;
 }
 
 /* ---------- Game8 Table (a-table) ---------- */
@@ -2196,16 +2238,17 @@ body.skin-lol .article-body h2 {
   margin-bottom: 16px;
 }
 
-/* ---------- Image Placeholder ---------- */
+/* ---------- Image Placeholder (色鉛筆風) ---------- */
 .img-placeholder {
   background: var(--bg-secondary);
   text-align: center;
   padding: 2em 1em;
-  border: 1px dashed var(--border-secondary);
+  border: 2px solid var(--pencil-gray);
   border-radius: var(--radius-md);
   color: var(--font-muted);
   font-size: .85rem;
   margin-bottom: 16px;
+  box-shadow: 2px 2px 0 rgba(138,109,74,.08);
 }
 
 /* ---------- Game8 Accordion (a-accordion) ---------- */
