@@ -8,77 +8,126 @@ tags: ["スプラトゥーン3", "チャージャー", "スプラチャージャ
 description: "スプラトゥーン3のスプラチャージャーFRSTの性能評価・立ち回り解説。サブスプリンクラー、スペシャルカニタンクの使い方やおすすめギアパワーを紹介。"
 ---
 
-{{< update-info date="2026-02-13" >}}
+<h2>スプラチャージャーFRSTの評価と役割</h2>
+<table>
+<tr>
+  <td rowspan="4" colspan="2" style="text-align:center;vertical-align:middle;width:40%">
+    <img src="/gamers-for/images/games/splatoon3/weapons/splat-charger-frst.png" alt="スプラチャージャーFRST" loading="lazy" width="90" height="90" style="display:inline-block"><br>
+    <strong style="font-size:1.1em">スプラチャージャーFRST</strong>
+  </td>
+  <th colspan="2" style="text-align:center">総合評価</th>
+</tr>
+<tr>
+  <td colspan="2" style="text-align:center;font-size:1.3em"><strong></strong> <strong></strong></td>
+</tr>
+<tr>
+  <th colspan="2" style="text-align:center">サブ・スペシャル</th>
+</tr>
+<tr>
+  <td colspan="2" style="text-align:center"><img src="/gamers-for/images/games/splatoon3/subs/sprinkler.png" alt="スプリンクラー" loading="lazy" width="24" height="24" style="vertical-align:middle"> スプリンクラー ／ <img src="/gamers-for/images/games/splatoon3/specials/crab-tank.png" alt="カニタンク" loading="lazy" width="24" height="24" style="vertical-align:middle"> カニタンク</td>
+</tr>
+<tr>
+  <th>塗り</th><td>★★☆☆☆</td>
+  <th>扱いやすさ</th><td>★★☆☆☆</td>
+</tr>
+<tr>
+  <th>キル</th><td>★★★☆☆</td>
+  <th>防御・生存</th><td>★★☆☆☆</td>
+</tr>
+<tr>
+  <th>アシスト</th><td>★★★☆☆</td>
+  <th>打開力</th><td>★★★☆☆</td>
+</tr>
+</table>
 
-{{< character-card name="スプラチャージャーFRST" role="チャージャー" rating="7" img="/gamers-for/images/games/splatoon3/weapons/splat-charger-frst.png" >}}
+<h3>ルール別評価</h3>
+<table>
+<tr>
+  <th style="text-align:center">ナワバリバトル</th>
+  <th style="text-align:center">ガチエリア</th>
+  <th style="text-align:center">ガチヤグラ</th>
+  <th style="text-align:center">ガチホコバトル</th>
+  <th style="text-align:center">ガチアサリ</th>
+</tr>
+<tr>
+  <td style="text-align:center"><strong></strong> <strong></strong></td>
+  <td style="text-align:center"><strong></strong> <strong></strong></td>
+  <td style="text-align:center"><strong></strong> <strong></strong></td>
+  <td style="text-align:center"><strong></strong> <strong></strong></td>
+  <td style="text-align:center"><strong></strong> <strong></strong></td>
+</tr>
+</table>
 
-- **評価**: ランク
-- **サブ**: <img src="/gamers-for/images/games/splatoon3/subs/sprinkler.png" alt="スプリンクラー" loading="lazy" width="20" height="20" style="vertical-align:middle"> スプリンクラー
-- **スペシャル**: <img src="/gamers-for/images/games/splatoon3/specials/crab-tank.png" alt="カニタンク" loading="lazy" width="20" height="20" style="vertical-align:middle"> カニタンク
+<h3>チャージャーのスプラチャージャーFRST</h3>
+<table>
+<tr><th style="background:#e8f5e9;color:#2e7d32">強い点</th></tr>
+<tr><td>
+<b>○ スプリンクラーとカニタンクのシナジーがバッチリ。組み合わせの噛み合いが◎</b>
+</td></tr>
+<tr><th style="background:#ffebee;color:#c62828">弱い点</th></tr>
+<tr><td>
+<b>✕ 立ち回りの工夫次第でカバーできるけど、慣れは必要</b>
+</td></tr>
+</table>
 
-{{< /character-card >}}
+<h2>スプラチャージャーFRSTのおすすめギア構成</h2>
+<h3>迷ったらコレがおすすめ！</h3>
+<table>
+<tr>
+  <th style="width:34%;text-align:center">メイン</th>
+  <th style="width:22%;text-align:center">サブ①</th>
+  <th style="width:22%;text-align:center">サブ②</th>
+  <th style="width:22%;text-align:center">サブ③</th>
+</tr>
+<tr>
+  <td style="text-align:center"><strong>イカダッシュ速度アップ</strong></td>
+  <td style="text-align:center">イカダッシュ速度アップ</td>
+  <td style="text-align:center">イカダッシュ速度アップ</td>
+  <td style="text-align:center">イカダッシュ速度アップ</td>
+</tr>
+<tr>
+  <td style="text-align:center"><strong>スペシャル減少量ダウン</strong></td>
+  <td style="text-align:center">スペシャル減少量ダウン</td>
+  <td style="text-align:center">スペシャル減少量ダウン</td>
+  <td style="text-align:center">スペシャル減少量ダウン</td>
+</tr>
+<tr>
+  <td style="text-align:center"><strong>インク効率アップ（メイン）</strong></td>
+  <td style="text-align:center">インク効率アップ（メイン）</td>
+  <td style="text-align:center">インク効率アップ（メイン）</td>
+  <td style="text-align:center">インク効率アップ（メイン）</td>
+</tr>
+</table>
 
-## スプラチャージャーFRSTの性能
+<h3>おすすめギアパワー一覧と付きやすいブランド</h3>
+<table>
+<tr><th>ギアパワー</th><th>おすすめ理由</th></tr>
+<tr><td><strong>イカダッシュ速度アップ</strong></td><td>ポジションの切り替えを素早く</td></tr>
+<tr><td><strong>スペシャル減少量ダウン</strong></td><td>デスしてもスペシャルを維持できる</td></tr>
+<tr><td><strong>インク効率アップ（メイン）</strong></td><td>チャージの回転率アップ</td></tr>
+<tr><td><strong>復活時間短縮</strong></td><td>デス後の復帰を早めて前線を支え続ける</td></tr>
+</table>
 
-| 項目 | 値 |
-|------|-----|
-| **武器種** | チャージャー |
-| **サブウェポン** | <img src="/gamers-for/images/games/splatoon3/subs/sprinkler.png" alt="スプリンクラー" loading="lazy" width="20" height="20" style="vertical-align:middle"> スプリンクラー |
-| **スペシャル** | <img src="/gamers-for/images/games/splatoon3/specials/crab-tank.png" alt="カニタンク" loading="lazy" width="20" height="20" style="vertical-align:middle"> カニタンク |
-| **総合評価** | **** |
-| **解放ランク** | - |
+<h2>スプラチャージャーFRSTの立ち回りと使い方</h2>
+<table>
+<tr><td>チャージャーは後方から味方をサポートする狙撃手。高台を確保して、相手の前線を下げさせるのが仕事。存在自体がめっちゃ強い。</td></tr>
+</table>
+<h3>サブウェポン「スプリンクラー」の使い方</h3>
+<p>スプリンクラーをメインの弱点を補うように使おう。牽制や索敵、塗り拡大に活用するのがコツだよ。</p>
+<h3>スペシャル「カニタンク」の使い方</h3>
+<p>カニタンクは試合の流れを変える切り札。ここぞの場面で発動して戦況をひっくり返そう。</p>
 
-## スプラチャージャーFRSTの評価
+<h2>スプラチャージャーFRSTの性能</h2>
+<h3>性能</h3>
+<table>
+<tr><th>ブキ種</th><td>チャージャー</td></tr>
+<tr><th>解放ランク</th><td>-</td></tr>
+</table>
 
-### ルール別評価
-
-| ルール | 評価 |
-|--------|------|
-| ナワバリバトル | **** |
-| ガチエリア | **** |
-| ガチヤグラ | **** |
-| ガチホコバトル | **** |
-| ガチアサリ | **** |
-
-### 強い点
-
-- スプリンクラーとカニタンクのシナジーがバッチリ。組み合わせの噛み合いが◎
-
-### 弱い点
-
-- 立ち回りの工夫次第でカバーできるけど、慣れは必要
-
-## スプラチャージャーFRSTのおすすめギア構成
-
-### おすすめギアパワー
-
-| ギアパワー | 理由 |
-|-----------|------|
-| **イカダッシュ速度アップ** | ポジションの切り替えを素早く |
-| **スペシャル減少量ダウン** | デスしてもスペシャルを維持できる |
-| **インク効率アップ（メイン）** | チャージの回転率アップ |
-| **復活時間短縮** | デス後の復帰を早めて前線を支え続ける |
-
-## スプラチャージャーFRSTの立ち回りと使い方
-
-### 基本の立ち回り
-
-チャージャーは**後方から味方をサポートする狙撃手**。高台を確保して、相手の前線を下げさせるのが仕事。
-
-チャージャーが1人いるだけで相手は前に出づらくなるから、存在自体がめっちゃ強い。ただしデスしすぎると戦犯になるから、安全なポジションから確実に仕事をしよう。
-
-### サブウェポン「スプリンクラー」の使い方
-
-設置型の自動塗り装置。エリア確保やスペシャルゲージ溜めに使える
-
-### スペシャル「カニタンク」の使い方
-
-強力な戦車に変身！メインとスペシャルの2種類の攻撃が可能。制圧力バツグン
-
-## 関連記事
-
-- [最強武器ランキング](../../tier-list/)
-- [全武器一覧](../)
-- [チャージャー一覧](../#チャージャー)
-- [ギアパワー解説](../../gear-powers/)
-- [初心者攻略ガイド](../../beginner/)
+<h2>関連記事</h2>
+<ul>
+<li><a href="../../tier-list/">最強武器ランキング</a></li>
+<li><a href="../">全武器一覧</a></li>
+<li><a href="../../gear-powers/">ギアパワー解説</a></li>
+<li><a href="../../beginner/">初心者攻略ガイド</a></li>
+</ul>

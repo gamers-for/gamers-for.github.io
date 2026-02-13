@@ -8,77 +8,126 @@ tags: ["スプラトゥーン3", "スピナー", "スプラスピナーPYTN"]
 description: "スプラトゥーン3のスプラスピナーPYTNの性能評価・立ち回り解説。サブジャンプビーコン、スペシャルウルトラショットの使い方やおすすめギアパワーを紹介。"
 ---
 
-{{< update-info date="2026-02-13" >}}
+<h2>スプラスピナーPYTNの評価と役割</h2>
+<table>
+<tr>
+  <td rowspan="4" colspan="2" style="text-align:center;vertical-align:middle;width:40%">
+    <img src="/gamers-for/images/games/splatoon3/weapons/mini-splatling-pytn.png" alt="スプラスピナーPYTN" loading="lazy" width="90" height="90" style="display:inline-block"><br>
+    <strong style="font-size:1.1em">スプラスピナーPYTN</strong>
+  </td>
+  <th colspan="2" style="text-align:center">総合評価</th>
+</tr>
+<tr>
+  <td colspan="2" style="text-align:center;font-size:1.3em"><strong></strong> <strong></strong></td>
+</tr>
+<tr>
+  <th colspan="2" style="text-align:center">サブ・スペシャル</th>
+</tr>
+<tr>
+  <td colspan="2" style="text-align:center"><img src="/gamers-for/images/games/splatoon3/subs/squid-beakon.png" alt="ジャンプビーコン" loading="lazy" width="24" height="24" style="vertical-align:middle"> ジャンプビーコン ／ <img src="/gamers-for/images/games/splatoon3/specials/trizooka.png" alt="ウルトラショット" loading="lazy" width="24" height="24" style="vertical-align:middle"> ウルトラショット</td>
+</tr>
+<tr>
+  <th>塗り</th><td>★★★☆☆</td>
+  <th>扱いやすさ</th><td>★★★☆☆</td>
+</tr>
+<tr>
+  <th>キル</th><td>★★★☆☆</td>
+  <th>防御・生存</th><td>★★☆☆☆</td>
+</tr>
+<tr>
+  <th>アシスト</th><td>★★★☆☆</td>
+  <th>打開力</th><td>★★★☆☆</td>
+</tr>
+</table>
 
-{{< character-card name="スプラスピナーPYTN" role="スピナー" rating="7" img="/gamers-for/images/games/splatoon3/weapons/mini-splatling-pytn.png" >}}
+<h3>ルール別評価</h3>
+<table>
+<tr>
+  <th style="text-align:center">ナワバリバトル</th>
+  <th style="text-align:center">ガチエリア</th>
+  <th style="text-align:center">ガチヤグラ</th>
+  <th style="text-align:center">ガチホコバトル</th>
+  <th style="text-align:center">ガチアサリ</th>
+</tr>
+<tr>
+  <td style="text-align:center"><strong></strong> <strong></strong></td>
+  <td style="text-align:center"><strong></strong> <strong></strong></td>
+  <td style="text-align:center"><strong></strong> <strong></strong></td>
+  <td style="text-align:center"><strong></strong> <strong></strong></td>
+  <td style="text-align:center"><strong></strong> <strong></strong></td>
+</tr>
+</table>
 
-- **評価**: ランク
-- **サブ**: <img src="/gamers-for/images/games/splatoon3/subs/squid-beakon.png" alt="ジャンプビーコン" loading="lazy" width="20" height="20" style="vertical-align:middle"> ジャンプビーコン
-- **スペシャル**: <img src="/gamers-for/images/games/splatoon3/specials/trizooka.png" alt="ウルトラショット" loading="lazy" width="20" height="20" style="vertical-align:middle"> ウルトラショット
+<h3>スピナーのスプラスピナーPYTN</h3>
+<table>
+<tr><th style="background:#e8f5e9;color:#2e7d32">強い点</th></tr>
+<tr><td>
+<b>○ ジャンプビーコンとウルトラショットのシナジーがバッチリ。組み合わせの噛み合いが◎</b>
+</td></tr>
+<tr><th style="background:#ffebee;color:#c62828">弱い点</th></tr>
+<tr><td>
+<b>✕ 立ち回りの工夫次第でカバーできるけど、慣れは必要</b>
+</td></tr>
+</table>
 
-{{< /character-card >}}
+<h2>スプラスピナーPYTNのおすすめギア構成</h2>
+<h3>迷ったらコレがおすすめ！</h3>
+<table>
+<tr>
+  <th style="width:34%;text-align:center">メイン</th>
+  <th style="width:22%;text-align:center">サブ①</th>
+  <th style="width:22%;text-align:center">サブ②</th>
+  <th style="width:22%;text-align:center">サブ③</th>
+</tr>
+<tr>
+  <td style="text-align:center"><strong>イカダッシュ速度アップ</strong></td>
+  <td style="text-align:center">イカダッシュ速度アップ</td>
+  <td style="text-align:center">イカダッシュ速度アップ</td>
+  <td style="text-align:center">イカダッシュ速度アップ</td>
+</tr>
+<tr>
+  <td style="text-align:center"><strong>ヒト移動速度アップ</strong></td>
+  <td style="text-align:center">ヒト移動速度アップ</td>
+  <td style="text-align:center">ヒト移動速度アップ</td>
+  <td style="text-align:center">ヒト移動速度アップ</td>
+</tr>
+<tr>
+  <td style="text-align:center"><strong>スペシャル減少量ダウン</strong></td>
+  <td style="text-align:center">スペシャル減少量ダウン</td>
+  <td style="text-align:center">スペシャル減少量ダウン</td>
+  <td style="text-align:center">スペシャル減少量ダウン</td>
+</tr>
+</table>
 
-## スプラスピナーPYTNの性能
+<h3>おすすめギアパワー一覧と付きやすいブランド</h3>
+<table>
+<tr><th>ギアパワー</th><th>おすすめ理由</th></tr>
+<tr><td><strong>イカダッシュ速度アップ</strong></td><td>ポジションチェンジを高速化</td></tr>
+<tr><td><strong>ヒト移動速度アップ</strong></td><td>チャージ中の移動速度を上げて被弾を減らす</td></tr>
+<tr><td><strong>スペシャル減少量ダウン</strong></td><td>後衛武器のスペシャル維持は大事</td></tr>
+<tr><td><strong>インク効率アップ（メイン）</strong></td><td>長時間の射撃を支えるインク管理</td></tr>
+</table>
 
-| 項目 | 値 |
-|------|-----|
-| **武器種** | スピナー |
-| **サブウェポン** | <img src="/gamers-for/images/games/splatoon3/subs/squid-beakon.png" alt="ジャンプビーコン" loading="lazy" width="20" height="20" style="vertical-align:middle"> ジャンプビーコン |
-| **スペシャル** | <img src="/gamers-for/images/games/splatoon3/specials/trizooka.png" alt="ウルトラショット" loading="lazy" width="20" height="20" style="vertical-align:middle"> ウルトラショット |
-| **総合評価** | **** |
-| **解放ランク** | - |
+<h2>スプラスピナーPYTNの立ち回りと使い方</h2>
+<table>
+<tr><td>スピナーはチャージ後の連射火力が圧倒的。弾幕を張って相手を制圧するのが基本で、ポジションを取ってからの撃ち合いがめちゃくちゃ強い！</td></tr>
+</table>
+<h3>サブウェポン「ジャンプビーコン」の使い方</h3>
+<p>ジャンプビーコンをメインの弱点を補うように使おう。牽制や索敵、塗り拡大に活用するのがコツだよ。</p>
+<h3>スペシャル「ウルトラショット」の使い方</h3>
+<p>ウルトラショットは試合の流れを変える切り札。ここぞの場面で発動して戦況をひっくり返そう。</p>
 
-## スプラスピナーPYTNの評価
+<h2>スプラスピナーPYTNの性能</h2>
+<h3>性能</h3>
+<table>
+<tr><th>ブキ種</th><td>スピナー</td></tr>
+<tr><th>解放ランク</th><td>-</td></tr>
+</table>
 
-### ルール別評価
-
-| ルール | 評価 |
-|--------|------|
-| ナワバリバトル | **** |
-| ガチエリア | **** |
-| ガチヤグラ | **** |
-| ガチホコバトル | **** |
-| ガチアサリ | **** |
-
-### 強い点
-
-- ジャンプビーコンとウルトラショットのシナジーがバッチリ。組み合わせの噛み合いが◎
-
-### 弱い点
-
-- 立ち回りの工夫次第でカバーできるけど、慣れは必要
-
-## スプラスピナーPYTNのおすすめギア構成
-
-### おすすめギアパワー
-
-| ギアパワー | 理由 |
-|-----------|------|
-| **イカダッシュ速度アップ** | ポジションチェンジを高速化 |
-| **ヒト移動速度アップ** | チャージ中の移動速度を上げて被弾を減らす |
-| **スペシャル減少量ダウン** | 後衛武器のスペシャル維持は大事 |
-| **インク効率アップ（メイン）** | 長時間の射撃を支えるインク管理 |
-
-## スプラスピナーPYTNの立ち回りと使い方
-
-### 基本の立ち回り
-
-スピナーは**チャージ後の連射火力が圧倒的**。弾幕を張って相手を制圧するのが基本で、ポジションを取ってからの撃ち合いがめちゃくちゃ強い！
-
-事前チャージを活用して、相手が出てきた瞬間にフルパワーで撃ち込むのがコツ。逆に不意を突かれるとチャージが間に合わないから、立ち位置に注意しよう。
-
-### サブウェポン「ジャンプビーコン」の使い方
-
-味方がスーパージャンプできるポイントを設置。前線維持にめちゃ便利
-
-### スペシャル「ウルトラショット」の使い方
-
-遠距離に3発の強力なショットを撃つ。後衛の処理や打開に最適。相手スペシャルへのカウンターにも◎
-
-## 関連記事
-
-- [最強武器ランキング](../../tier-list/)
-- [全武器一覧](../)
-- [スピナー一覧](../#スピナー)
-- [ギアパワー解説](../../gear-powers/)
-- [初心者攻略ガイド](../../beginner/)
+<h2>関連記事</h2>
+<ul>
+<li><a href="../../tier-list/">最強武器ランキング</a></li>
+<li><a href="../">全武器一覧</a></li>
+<li><a href="../../gear-powers/">ギアパワー解説</a></li>
+<li><a href="../../beginner/">初心者攻略ガイド</a></li>
+</ul>

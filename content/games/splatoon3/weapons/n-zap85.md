@@ -8,95 +8,158 @@ tags: ["スプラトゥーン3", "シューター", "N-ZAP85"]
 description: "スプラトゥーン3のN-ZAP85の性能評価・立ち回り解説。サブキューバンボム、スペシャルエナジースタンドの使い方やおすすめギアパワーを紹介。"
 ---
 
-{{< update-info date="2026-02-13" >}}
+<h2>N-ZAP85の評価と役割</h2>
+<table>
+<tr>
+  <td rowspan="4" colspan="2" style="text-align:center;vertical-align:middle;width:40%">
+    <img src="/gamers-for/images/games/splatoon3/weapons/n-zap-85.png" alt="N-ZAP85" loading="lazy" width="90" height="90" style="display:inline-block"><br>
+    <strong style="font-size:1.1em">N-ZAP85</strong>
+  </td>
+  <th colspan="2" style="text-align:center">総合評価</th>
+</tr>
+<tr>
+  <td colspan="2" style="text-align:center;font-size:1.3em"><img src="/gamers-for/images/games/splatoon3/tiers/splus.webp" alt="S+" loading="lazy" width="36" height="36" style="vertical-align:middle"> <strong>S+</strong></td>
+</tr>
+<tr>
+  <th colspan="2" style="text-align:center">サブ・スペシャル</th>
+</tr>
+<tr>
+  <td colspan="2" style="text-align:center"><img src="/gamers-for/images/games/splatoon3/subs/suction-bomb.png" alt="キューバンボム" loading="lazy" width="24" height="24" style="vertical-align:middle"> キューバンボム ／ <img src="/gamers-for/images/games/splatoon3/specials/tacticooler.png" alt="エナジースタンド" loading="lazy" width="24" height="24" style="vertical-align:middle"> エナジースタンド</td>
+</tr>
+<tr>
+  <th>塗り</th><td>★★★★☆</td>
+  <th>扱いやすさ</th><td>★★★★☆</td>
+</tr>
+<tr>
+  <th>キル</th><td>★★☆☆☆</td>
+  <th>防御・生存</th><td>★★★☆☆</td>
+</tr>
+<tr>
+  <th>アシスト</th><td>★★★★☆</td>
+  <th>打開力</th><td>★★★☆☆</td>
+</tr>
+</table>
 
-{{< character-card name="N-ZAP85" role="シューター" rating="9.5" img="/gamers-for/images/games/splatoon3/weapons/n-zap-85.png" >}}
+<h3>ルール別評価</h3>
+<table>
+<tr>
+  <th style="text-align:center">ナワバリバトル</th>
+  <th style="text-align:center">ガチエリア</th>
+  <th style="text-align:center">ガチヤグラ</th>
+  <th style="text-align:center">ガチホコバトル</th>
+  <th style="text-align:center">ガチアサリ</th>
+</tr>
+<tr>
+  <td style="text-align:center"><span style="font-size:24px;font-weight:900;color:#e74c3c;">X</span> <strong>X</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/splus.webp" alt="S+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>S+</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/splus.webp" alt="S+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>S+</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/splus.webp" alt="S+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>S+</strong></td>
+  <td style="text-align:center"><img src="/gamers-for/images/games/splatoon3/tiers/splus.webp" alt="S+" loading="lazy" width="24" height="24" style="vertical-align:middle"> <strong>S+</strong></td>
+</tr>
+</table>
 
-- **評価**: S+ランク
-- **サブ**: <img src="/gamers-for/images/games/splatoon3/subs/suction-bomb.png" alt="キューバンボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> キューバンボム
-- **スペシャル**: <img src="/gamers-for/images/games/splatoon3/specials/tacticooler.png" alt="エナジースタンド" loading="lazy" width="20" height="20" style="vertical-align:middle"> エナジースタンド
+<h3>前線で戦う中衛武器</h3>
+<table>
+<tr><th style="background:#e8f5e9;color:#2e7d32">強い点</th></tr>
+<tr><td>
+<b>○ キューバンボムとエナジースタンドのシナジーがバッチリ。組み合わせの噛み合いが◎</b>
+</td></tr>
+<tr><th style="background:#ffebee;color:#c62828">弱い点</th></tr>
+<tr><td>
+<b>✕ 立ち回りの工夫次第でカバーできるけど、慣れは必要</b>
+</td></tr>
+</table>
+<p>N-ZAP85はメイン、サブ、スペシャル全てが使いやすくキルも塗りも優れている点が強力です。機動力に優れており、弾のブレも少ないため、誰でも扱いやすい武器となっています。</p>
 
-{{< /character-card >}}
+<h2>N-ZAP85のおすすめギア構成</h2>
+<h3>迷ったらコレがおすすめ！</h3>
+<table>
+<tr>
+  <th style="width:34%;text-align:center">メイン</th>
+  <th style="width:22%;text-align:center">サブ①</th>
+  <th style="width:22%;text-align:center">サブ②</th>
+  <th style="width:22%;text-align:center">サブ③</th>
+</tr>
+<tr>
+  <td style="text-align:center"><strong>イカダッシュ速度アップ</strong></td>
+  <td style="text-align:center">イカダッシュ速度アップ</td>
+  <td style="text-align:center">イカダッシュ速度アップ</td>
+  <td style="text-align:center">イカダッシュ速度アップ</td>
+</tr>
+<tr>
+  <td style="text-align:center"><strong>スペシャル増加量アップ</strong></td>
+  <td style="text-align:center">スペシャル増加量アップ</td>
+  <td style="text-align:center">スペシャル増加量アップ</td>
+  <td style="text-align:center">スペシャル増加量アップ</td>
+</tr>
+<tr>
+  <td style="text-align:center"><strong>インク効率アップ（メイン）</strong></td>
+  <td style="text-align:center">インク効率アップ（メイン）</td>
+  <td style="text-align:center">インク効率アップ（メイン）</td>
+  <td style="text-align:center">インク効率アップ（メイン）</td>
+</tr>
+</table>
+<p>エナジースタンドの使用回数を増やすために、スペシャル増加量アップを軸にした構成です。またエナジースタンドの復活時間短縮や、スパジャン時間短縮を最大限に活かすためにステジャンを採用しました。 なお、頭はカムバックかラストスパートがおすすめです。どちらも非常に強力なのでステージや、ルールで使い分けましょう。</p>
 
-## N-ZAP85の性能
+<h3>おすすめギアパワー一覧と付きやすいブランド</h3>
+<table>
+<tr><th>ギアパワー</th><th>おすすめ理由</th></tr>
+<tr><td><strong>イカダッシュ速度アップ</strong></td><td>機動力の底上げ。対面での位置取りが格段に良くなる</td></tr>
+<tr><td><strong>スペシャル増加量アップ</strong></td><td>スペシャルの回転率を上げて試合を有利に運べる</td></tr>
+<tr><td><strong>インク効率アップ（メイン）</strong></td><td>継戦力を確保。インク切れで撃ち合い負けを防ぐ</td></tr>
+<tr><td><strong>アクション強化</strong></td><td>ジャンプ撃ちのブレ軽減で命中率アップ</td></tr>
+</table>
 
-| 項目 | 値 |
-|------|-----|
-| **武器種** | シューター |
-| **サブウェポン** | <img src="/gamers-for/images/games/splatoon3/subs/suction-bomb.png" alt="キューバンボム" loading="lazy" width="20" height="20" style="vertical-align:middle"> キューバンボム |
-| **スペシャル** | <img src="/gamers-for/images/games/splatoon3/specials/tacticooler.png" alt="エナジースタンド" loading="lazy" width="20" height="20" style="vertical-align:middle"> エナジースタンド |
-| **総合評価** | **S+** |
-| **ダメージ** | 30 |
-| **射程** | 2.3 |
-| **キルタイム** | 0.267秒 |
-| **解放ランク** | 6 |
+<h2>N-ZAP85の立ち回りと使い方</h2>
+<table>
+<tr><td>開幕は前線の気持ち後ろで自陣を広げ、エナジースタンドが溜まったタイミングで一気に攻めましょう。序盤で人数有利が取れるとその後の展開が楽になるので、開幕はキルを狙いつつもエナジースタンドを貯めることを意識すべきです。</td></tr>
+</table>
+<h3>中盤以降はとにかく前線でキルを意識</h3>
+<p>中盤以降はとにかく前線でキルすることを意識して立回りましょう。塗りも強い武器ですが、前線でキルを取れるポテンシャルがあるのに、後方で動くのは非常に勿体ないです。 リードしてる時は視界が取れる高所で立回りましょう。リスキルはリスクが高いので、複数の相手の動向を見ながら、ボムで圧をかけたりするだけで問題ありません。</p>
+<h3>エナジースタンドを使う際は強気に攻める</h3>
+<p>エナジースタンドを使う際は強気に攻めましょう。イカ速とヒト速が大幅にアップするため、素早い動きで相手のエイムをずらしながら戦うことができます。 また、復活時間が1秒になるぶっ壊れ効果が付与されるので、デスに恐れずキルを狙いに行きましょう。 ※スペシャルゲージが減っている最中にデスをした場合は、ゲージ0で復活するので注意。</p>
+<h3>味方のエナジースタンドの効果がある時は温存</h3>
+<p>味方のエナジースタンド効果中は、自分のエナジースタンドは温存しましょう。デス後or効果が切れた後に自分のエナジースタンドを使って、復活時間短縮とスペシャル減少量ダウンを味方とループさせるのが強力です。</p>
 
-## N-ZAP85の評価
+<h2>N-ZAP85の対策</h2>
+<table>
+<tr><td>N-ZAP85は射程があまり長い武器ではありません。そのため、射程の長い武器でZAPの射程の届かない場所から攻撃するのが非常に有効な対策となります。</td></tr>
+</table>
+<h3>無理に突っ込まない</h3>
+<p>N-ZAP85は一発のダメージが低めとはいえ、キル速度はそこそこ早い武器です。そのため何も考えずに突っ込むと返り討ちにされてしまう可能性が高くなってしまうため、必ず相手の視界外から近づくようにしましょう。</p>
 
-### ルール別評価
+<h2>N-ZAP85の性能</h2>
+<h3>性能</h3>
+<table>
+<tr><th>ブキ種</th><td>シューター</td></tr>
+<tr><th>解放ランク</th><td>6</td></tr>
+<tr><th>攻撃力</th><td>30</td></tr>
+<tr><th>キルタイム</th><td>0.267秒</td></tr>
+<tr><th>射程（試し撃ち）</th><td>2.3</td></tr>
+</table>
 
-| ルール | 評価 |
-|--------|------|
-| ナワバリバトル | **X** |
-| ガチエリア | **S+** |
-| ガチヤグラ | **S+** |
-| ガチホコバトル | **S+** |
-| ガチアサリ | **S+** |
+<h2>N-ZAP85のアップデート調整内容</h2>
+<h3>2025年3月13日のアップデート調整内容</h3>
+<p>調整内容はゲーム内のお知らせをご確認ください。</p>
+<h3>2024年5月31日のアップデート調整内容</h3>
+<p>調整内容はゲーム内のお知らせをご確認ください。</p>
+<h3>2024年1月24日(火)のアップデート調整内容</h3>
+<p>調整内容はゲーム内のお知らせをご確認ください。</p>
+<h3>2023年7月27日(火)のアップデート調整内容</h3>
+<p>調整内容はゲーム内のお知らせをご確認ください。</p>
+<h3>2023年5月31日のアップデート調整内容</h3>
+<p>調整内容はゲーム内のお知らせをご確認ください。</p>
+<h3>2023年3月31日のアップデート調整内容</h3>
+<p>調整内容はゲーム内のお知らせをご確認ください。</p>
+<h3>2023年2月28日(火)のアップデート調整内容</h3>
+<p>調整内容はゲーム内のお知らせをご確認ください。</p>
+<h3>2023年1月18日のアップデート調整内容</h3>
+<p>調整内容はゲーム内のお知らせをご確認ください。</p>
 
-### 強い点
-
-- キューバンボムとエナジースタンドのシナジーがバッチリ。組み合わせの噛み合いが◎
-
-### 弱い点
-
-- 立ち回りの工夫次第でカバーできるけど、慣れは必要
-
-## N-ZAP85のおすすめギア構成
-
-### おすすめギアパワー
-
-| ギアパワー | 理由 |
-|-----------|------|
-| **イカダッシュ速度アップ** | 機動力の底上げ。対面での位置取りが格段に良くなる |
-| **スペシャル増加量アップ** | スペシャルの回転率を上げて試合を有利に運べる |
-| **インク効率アップ（メイン）** | 継戦力を確保。インク切れで撃ち合い負けを防ぐ |
-| **アクション強化** | ジャンプ撃ちのブレ軽減で命中率アップ |
-
-【迷ったらコレがおすすめ！】 エナジースタンドの使用回数を増やすために、スペシャル増加量アップを軸にした構成です。またエナジースタンドの復活時間短縮や、スパジャン時間短縮を最大限に活かすためにステジャンを採用しました。 なお、頭はカムバックかラストスパートがおすすめです。どちらも非常に強力なのでステージや、ルールで使い分けましょう。 【おすすめギアパワー一覧と付きやすいブランド】
-
-## N-ZAP85の立ち回りと使い方
-
-### 基本の立ち回り
-
-【開幕は塗りを広げながらスペシャルを溜める】 開幕は前線の気持ち後ろで自陣を広げ、エナジースタンドが溜まったタイミングで一気に攻めましょう。序盤で人数有利が取れるとその後の展開が楽になるので、開幕はキルを狙いつつもエナジースタンドを貯めることを意識すべきです。 【中盤以降はとにかく前線でキルを意識】 中盤以降はとにかく前線でキルすることを意識して立回りましょう。塗りも強い武器ですが、前線でキルを取れるポテンシャルがあるのに、後方で動くのは非常に勿体ないです。 リードしてる時は視界が取れる高所で立回りましょう。リスキルはリスクが高いので、複数の相手の動向を見ながら、ボムで圧をかけたりするだけで問題ありません。 【エナジースタンドを使う際は強気に攻める】 エナジースタンドを使う際は強気に攻めましょう。イカ速とヒト速が大幅にアップするため、素早い動きで相手のエイムをずらしながら戦うことができます。 また、復活時間が1秒になるぶっ壊れ効果が付与されるので、デスに恐れずキルを狙いに行きましょう。 ※スペシャルゲージが減っている最中にデスをした場合は、ゲージ0で復活するので注意。 【味方のエナジースタンドの効果がある時は温存】 味方のエナジースタンド効果中は、自分のエナジースタンドは温存しましょう。デス後or効果が切れた後に自分のエナジースタンドを使って、復活時間短縮とスペシャル減少量ダウンを味方とループさせるのが強力です。
-
-### サブウェポン「キューバンボム」の使い方
-
-壁や床にくっつくボム。設置型だから相手の退路を塞いだり、エリアを取り返すのに超便利
-
-### スペシャル「エナジースタンド」の使い方
-
-味方全員の移動速度をアップさせるドリンクを設置。チーム全体の底上げに
-
-## N-ZAP85の対策
-
-【射程の長い武器で対応する】 N-ZAP85は射程があまり長い武器ではありません。そのため、射程の長い武器でZAPの射程の届かない場所から攻撃するのが非常に有効な対策となります。 【無理に突っ込まない】 N-ZAP85は一発のダメージが低めとはいえ、キル速度はそこそこ早い武器です。そのため何も考えずに突っ込むと返り討ちにされてしまう可能性が高くなってしまうため、必ず相手の視界外から近づくようにしましょう。
-
-## N-ZAP85のアップデート調整内容
-
-- [2025年3月13日のアップデート調整内容]
-- [2024年5月31日のアップデート調整内容]
-- [2024年1月24日(火)のアップデート調整内容]
-- [2023年7月27日(火)のアップデート調整内容]
-- [2023年5月31日のアップデート調整内容]
-- [2023年3月31日のアップデート調整内容]
-- [2023年2月28日(火)のアップデート調整内容]
-- [2023年1月18日のアップデート調整内容]
-
-## 関連記事
-
-- [最強武器ランキング](../../tier-list/)
-- [全武器一覧](../)
-- [シューター一覧](../#シューター)
-- [ギアパワー解説](../../gear-powers/)
-- [初心者攻略ガイド](../../beginner/)
+<h2>関連記事</h2>
+<ul>
+<li><a href="../../tier-list/">最強武器ランキング</a></li>
+<li><a href="../">全武器一覧</a></li>
+<li><a href="../../gear-powers/">ギアパワー解説</a></li>
+<li><a href="../../beginner/">初心者攻略ガイド</a></li>
+</ul>
