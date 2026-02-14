@@ -30,3 +30,11 @@ enableEmoji = false
   changefreq = "daily"
   priority = 0.5
   filename = "sitemap.xml"
+
+[module]
+  [[module.mounts]]
+    source = "static"
+    target = "static"
+  [[module.mounts]]
+    source = "００００１スプラトゥーン３/raw_html"
+    target = "static/splatoon3"
