@@ -1,0 +1,132 @@
+/* ==========================================================
+   色鉛筆風カラーオーバーレイ
+   元サイトのレイアウトには一切手を付けず、色味だけ変更する
+   ========================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Klee+One:wght@400;600&display=swap');
+
+/* ---------- 全体の紙色・フォント ---------- */
+body {
+  background-color: #f5f0e8 !important;
+  background-image:
+    repeating-linear-gradient(
+      0deg, transparent, transparent 28px,
+      rgba(180,170,155,.10) 28px, rgba(180,170,155,.10) 29px
+    ) !important;
+  color: #3a3226 !important;
+  font-family: "Klee One", -apple-system, "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif !important;
+}
+
+/* ---------- ヘッダー ---------- */
+.l-header,
+.l-header__inner,
+.p-gameHeader {
+  background-color: #4a4035 !important;
+}
+
+/* ---------- メインコンテンツ背景 ---------- */
+.l-main,
+.l-content,
+.l-sidebar,
+.archive-style-wrapper,
+.l-container {
+  background-color: #faf6ef !important;
+}
+
+/* ---------- 見出し色（色鉛筆風）---------- */
+.a-header--2, h2 {
+  color: #c75146 !important;
+  border-left: 4px solid #c75146 !important;
+  background: linear-gradient(90deg, rgba(199,81,70,.06), transparent) !important;
+}
+
+.a-header--3, h3 {
+  color: #4a7da8 !important;
+  border-bottom-color: #4a7da8 !important;
+}
+
+.a-header--4, h4 {
+  color: #5a8a5c !important;
+}
+
+/* ---------- リンク ---------- */
+a {
+  color: #4a7da8 !important;
+}
+a:hover {
+  color: #3a6888 !important;
+}
+
+/* ---------- テーブル ---------- */
+.a-table, table {
+  border-color: #8a6d4a !important;
+}
+.a-table th, table th {
+  background-color: #ece5d8 !important;
+  color: #3a3226 !important;
+  border-color: #8a6d4a !important;
+}
+.a-table td, table td {
+  border-color: #c9bfb0 !important;
+}
+.a-table tr:nth-child(even) td,
+table tr:nth-child(even) td {
+  background-color: #f5f0e8 !important;
+}
+
+/* ---------- カード・ボックス ---------- */
+.c-card,
+.a-accordion,
+.a-box {
+  border-color: #c9bfb0 !important;
+  background-color: #faf6ef !important;
+}
+
+/* ---------- ボタン ---------- */
+.c-button,
+.a-button {
+  border-color: #8a6d4a !important;
+}
+
+/* ---------- パンくず ---------- */
+.l-breadcrumb {
+  background-color: #f0ebe2 !important;
+}
+.l-breadcrumb a {
+  color: #4a7da8 !important;
+}
+
+/* ---------- サイドバー ---------- */
+.l-sidebar__section {
+  background-color: #faf6ef !important;
+  border-color: #c9bfb0 !important;
+}
+
+/* ---------- フッター ---------- */
+.l-footer {
+  background-color: #4a4035 !important;
+  color: #d4cbbe !important;
+}
+
+/* ---------- タブ ---------- */
+.a-tabContainer__tab--active,
+.a-tabContainer__tab.is-active {
+  border-bottom-color: #c75146 !important;
+  color: #c75146 !important;
+}
+
+/* ---------- 目次 ---------- */
+.a-outline {
+  background-color: #f5f0e8 !important;
+  border-color: #c9bfb0 !important;
+}
+
+/* ---------- 段落テキスト ---------- */
+.a-paragraph, p {
+  color: #3a3226 !important;
+}
+
+/* ---------- 注釈 ---------- */
+.a-footnote {
+  color: #8a7e70 !important;
+}
