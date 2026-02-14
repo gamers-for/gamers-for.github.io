@@ -1,0 +1,13 @@
+{{- /* Game8風カードリンク
+     使い方: {{< card-link title="タイトル" url="URL" emoji="🔥" desc="説明" date="2026-02-12" >}}
+*/ -}}
+<a href="{{ .Get "url" | default "#" }}" class="card-link-item">
+  <div class="card-link-thumb">
+    {{- with .Get "emoji" }}{{ . }}{{ else }}📄{{ end }}
+  </div>
+  <div class="card-link-content">
+    <p class="card-link-title">{{ .Get "title" }}</p>
+    {{- with .Get "date" }}<p class="card-link-date">{{ . }} 更新</p>{{ end }}
+    {{- with .Get "desc" }}<p class="card-link-desc">{{ . }}</p>{{ end }}
+  </div>
+</a>

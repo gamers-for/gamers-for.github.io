@@ -1,0 +1,22 @@
+{{- $tier := .Get "tier" | default "S" -}}
+{{- $color := "" -}}
+{{- $bg := "" -}}
+{{- if eq $tier "X" }}{{ $color = "#d4af37" }}{{ $bg = "linear-gradient(135deg, #d4af37, #f5e6a3, #d4af37)" }}
+{{- else if eq $tier "S+" }}{{ $color = "#9b59b6" }}{{ $bg = "linear-gradient(135deg, #9b59b6, #c39bd3)" }}
+{{- else if eq $tier "S" }}{{ $color = "#e74c3c" }}{{ $bg = "linear-gradient(135deg, #e74c3c, #f1948a)" }}
+{{- else if eq $tier "A+" }}{{ $color = "#e67e22" }}{{ $bg = "linear-gradient(135deg, #e67e22, #f0b27a)" }}
+{{- else if eq $tier "A" }}{{ $color = "#f39c12" }}{{ $bg = "linear-gradient(135deg, #f39c12, #f7dc6f)" }}
+{{- else if eq $tier "B+" }}{{ $color = "#27ae60" }}{{ $bg = "linear-gradient(135deg, #27ae60, #7dcea0)" }}
+{{- else if eq $tier "B" }}{{ $color = "#2ecc71" }}{{ $bg = "linear-gradient(135deg, #2ecc71, #abebc6)" }}
+{{- else if eq $tier "C+" }}{{ $color = "#3498db" }}{{ $bg = "linear-gradient(135deg, #3498db, #85c1e9)" }}
+{{- else if eq $tier "C" }}{{ $color = "#5dade2" }}{{ $bg = "linear-gradient(135deg, #5dade2, #aed6f1)" }}
+{{- else }}{{ $color = "#888" }}{{ $bg = "#888" }}
+{{- end -}}
+<div class="tier-grid-row">
+  <div class="tier-grid-label" style="background: {{ $bg }};">
+    <span>{{ $tier }}</span>
+  </div>
+  <div class="tier-grid-items">
+    {{ .Inner | markdownify }}
+  </div>
+</div>

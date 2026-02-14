@@ -1,0 +1,34 @@
+{{ define "main" }}
+<div class="home-hero">
+  <h1>Gamers-For</h1>
+  <p class="hero-sub">広告最小限 ─ ゲーマーのための攻略サイト</p>
+</div>
+
+<section class="home-section">
+  <h2 class="section-title">ゲーム攻略一覧</h2>
+  <div class="game-card-grid">
+    {{- $games := .Site.GetPage "games" }}
+    {{- with $games }}
+    {{- range .Sections }}
+    <a href="{{ .Permalink }}" class="game-card">
+      <div class="game-card-thumb">
+        {{- $slug := .File.ContentBaseName }}
+        {{- $img := printf "static/images/games/%s/thumb.jpg" $slug }}
+        {{- if (fileExists $img) }}
+        <img src="{{ printf "images/games/%s/thumb.jpg" $slug | relURL }}" alt="{{ .Title }}">
+        {{- else }}
+        <div class="game-card-placeholder">🎮</div>
+        {{- end }}
+      </div>
+      <div class="game-card-info">
+        <h3>{{ .Title }}</h3>
+        <p>{{ .Description }}</p>
+      </div>
+    </a>
+    {{- end }}
+    {{- end }}
+  </div>
+</section>
+
+{{ .Content }}
+{{ end }}

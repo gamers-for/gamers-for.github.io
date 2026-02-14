@@ -1,0 +1,15 @@
+{{- $tier := .Get "tier" | default "S" -}}
+{{- $color := "" -}}
+{{- if eq $tier "SS" }}{{ $color = "#ff4444" }}
+{{- else if eq $tier "S" }}{{ $color = "#ff8800" }}
+{{- else if eq $tier "A" }}{{ $color = "#ffcc00" }}
+{{- else if eq $tier "B" }}{{ $color = "#44bb44" }}
+{{- else if eq $tier "C" }}{{ $color = "#4488ff" }}
+{{- else }}{{ $color = "#888888" }}
+{{- end -}}
+<div class="tier-row" style="border-left: 5px solid {{ $color }};">
+  <div class="tier-label" style="background: {{ $color }};">{{ $tier }}</div>
+  <div class="tier-content">
+    {{ .Inner | markdownify }}
+  </div>
+</div>

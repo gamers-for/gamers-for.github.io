@@ -1,0 +1,4942 @@
+ï»¿@charset "UTF-8";
+
+
+/*------------------------------------------------------------
+/*------------------------------------------------------------
+ã¢ãã¤ã«è¡¨ç¤º
+-------------------------------------------------------------*/
+@media only screen and (orientation:landscape) and (max-width : 813px),(orientation:portrait) and (max-width : 753px){
+
+/*-- è¿½è¨ --*/
+#menubar_button_Rnew::-webkit-scrollbar {
+-webkit-appearance: none;
+display: none;
+}
+
+#main-contents h2{
+background-color:#014c6b;
+background-repeat:no-repeat;
+background-size:100% 100%;
+color: #fff;
+font-size: 16px;
+padding: 10px 0 10px 12px;
+margin-bottom:20px;
+}
+body #main-contents .post h1{
+background: rgba(1,51,132,1);
+background: -moz-linear-gradient(left, rgba(1,51,132,1) 0%, rgba(45,1,55,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(1,51,132,1)), color-stop(100%, rgba(45,1,55,1)));
+background: -webkit-linear-gradient(left, rgba(1,51,132,1) 0%, rgba(45,1,55,1) 100%);
+background: -o-linear-gradient(left, rgba(1,51,132,1) 0%, rgba(45,1,55,1) 100%);
+background: -ms-linear-gradient(left, rgba(1,51,132,1) 0%, rgba(45,1,55,1) 100%);
+background: linear-gradient(to right, rgba(1,51,132,1) 0%, rgba(45,1,55,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#013384', endColorstr='#2d0137', GradientType=1 );
+width:100%;
+margin:0 0 5px 0;
+padding:5px 5px 5px 12px;
+box-sizing:border-box;
+color:#FFF;
+}
+body#headermenuMb #main-contents .post h1{
+background: rgba(1,51,132,1);
+background: -moz-linear-gradient(left, rgba(1,51,132,1) 0%, rgba(45,1,55,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(1,51,132,1)), color-stop(100%, rgba(45,1,55,1)));
+background: -webkit-linear-gradient(left, rgba(1,51,132,1) 0%, rgba(45,1,55,1) 100%);
+background: -o-linear-gradient(left, rgba(1,51,132,1) 0%, rgba(45,1,55,1) 100%);
+background: -ms-linear-gradient(left, rgba(1,51,132,1) 0%, rgba(45,1,55,1) 100%);
+background: linear-gradient(to right, rgba(1,51,132,1) 0%, rgba(45,1,55,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#013384', endColorstr='#2d0137', GradientType=1 );
+width:100%;
+margin:0 0 10px 0;
+padding:5px 5px 5px 12px;
+box-sizing:border-box;
+color:#FFF;
+}
+body.home #main-contents .h-koushin-box{
+position:relative;
+width: 100%;
+margin: 5px 0 10px;
+padding: 0;
+border-bottom:1px slide #ccc;
+}
+#main-contents .sns-copytxt {
+width: 100%;
+border-bottom: 0px solid #ccc;
+border-top: 0px solid #ccc;
+margin: 0px 0 0px;
+padding-bottom: 6px;
+}
+p.lead:empty{
+display: none;
+}
+#main-contents .h-koushin-box + div + .sns-copytxt {
+margin: 0px!important;
+}
+#sub-contents #submenu-32{
+display:none;
+}
+#submenu-30 .ranking_matome li a img{
+width: 15%;
+vertical-align: middle;
+margin-right: 5px;
+}
+#submenu-30 .ranking_matome li,
+#submenu-2 li,
+#submenu-3 li,#submenu-52 li{
+background:none;
+}
+.fixedGachaBtn{
+display:none;
+}
+.recommendBtn {
+display: block;
+width: 43%;
+background: #000;
+border-radius: 10px 0 0 10px;
+opacity: 0.8;
+font-size: 12px;
+color: #fff;
+min-height: 75px;
+overflow: hidden;
+right: 0;
+position: fixed;
+bottom: 145px;
+}
+.recommendBtn img{
+width:50px;
+padding:4px;
+}
+.recommendBtn a{
+color:#00d8ff;	
+}
+.recommendBtn span:nth-child(1){
+font-weight:bold;
+display: inline-block;
+border-bottom:1px dotted #fff;
+width:100%;
+padding:5px;
+}
+.recommendBtn span:nth-child(2){
+position:absolute;
+top: -3px;
+right: 8px;
+font-size: 20px;
+}
+.footerBtn .recommendBtn dl{
+width:100%;
+margin:2px 2px 0 0;
+padding: 2px;
+}
+.recommendBtn dt{
+float:left;
+width:35%;
+}
+.recommendBtn dd{
+float:right;
+width:63%;
+margin-left:0;
+}
+#main-contents div.article p.mainImage + p{
+margin: 0!important;
+}
+.ninki-ranking div.h3mode + dl + dl + dl + dl + dl + script + div dl.rosso_wrapper {
+height: 38px;margin:0 10px!important;
+}
+div[id^="mf-"]{
+z-index:2147483646!important;	
+}
+#main-contents table.monster-kanren-list td{
+font-size:10px;
+}
+
+/*------------------------------------------------------------
+main
+-------------------------------------------------------------*/
+#mainInner{
+width: 100%
+}
+#mainWrapLeft #mainContents{
+width: 100%;
+float: none;
+}
+#mainWrapLeft #mainLeft{
+width: 100%;
+float: none;
+}
+#mainWrapLeft{
+width: 100%;
+float: none;
+}
+#mainRight{
+width: 100%;
+float: none;
+}
+footer .footerLeft{
+width: 100%;
+float: none;
+}
+footer #footerInner{
+width: 100%;
+float: none;	
+}
+nav ul{
+width: 100%;
+}
+nav ul li{
+width: 33.1%;
+border: 1px solid #a9e1f5;
+margin-top: -1px;
+margin-right: -1px;
+}
+nav{
+width: 100%;
+}
+header .headerInner{
+width: 100%;
+padding: 10px 0;
+}
+header p{
+display: none;
+}
+footer .footerRight{
+width: 100%;
+float: none;
+}
+address{
+width: 100%;
+}
+body.home #container #header #header-in {
+background-size: 100%;
+margin: 0;
+width: 100%;
+padding: 20px 0 52px 0;
+}
+#container #header #header-in {
+background-size: 100%;
+margin: 0;
+width: 100%;
+padding: 10px 0 10px 0;
+}
+#header .header-logo{
+width:auto;
+}
+/*-----------------------------------
+åºåç¨
+--------------------------------------*/
+div[id^="mntad"] {
+	display:block;
+	padding-right:0;
+}
+}
+
+/*--------------------------------------------------------
+ã¢ãã¤ã«ç¨ã¬ã¤ã¢ã¦ãï¼640pxä»¥ä¸ã®è§£ååº¦ã®ã¹ã¯ãªã¼ã³å«ãï¼
+--------------------------------------------------------*/
+
+@media only screen and (orientation:landscape) and (max-width : 813px),(orientation:portrait) and (max-width : 753px){
+
+/*-----------------------------------
+ã¿ã¤ãã«ã¢ã¤ã³ã³
+--------------------------------------*/
+.gameIchiran li figure img {
+    border-radius: 10px;
+    border: 1px solid #dddddd;
+    box-sizing: border-box;
+}
+
+figure img{
+border-radius: 8px;
+border: 1px solid #dddddd;
+box-sizing: border-box;
+}
+
+/*-----------------------------------
+æ¸ãè¾¼ã¿ãã¶ã¤ã³NEW
+--------------------------------------*/
+#real_comment{
+padding:0 10px;
+box-sizing:border-box;
+}
+#main-contents #comment_form p.comment_author{
+font-size:14px;
+font-weight:bold;
+margin-bottom:5px;
+}
+#main-contents #comment_form p.comment_author small{
+font-weight:bold;
+}
+#main-contents #comment_form p.comment_author + p input{
+width:100%;
+display:block;
+margin:0!important;
+max-width:100%;
+}
+#main-contents #comment_form p.comment_author + p label{
+margin:10px 0;
+display:block;
+}
+#main-contents #comment_form p.comment_author + p label input{
+width:auto;
+display:inline-block;
+vertical-align:middle;
+}
+#main-contents #comment_form p.comment_honbun{
+font-size:14px;
+font-weight:bold;
+margin-bottom:5px;
+}
+#main-contents #comment_form p.comment_honbun + p{
+width:100%;
+margin:0!important;
+padding:0!important;
+display:inline-block;
+}
+#main-contents #comment_form p.comment_honbun + p textarea {
+width: 100%!important;
+max-width:100%;
+}
+#comment_form input{
+border-radius: 4px;
+-webkit-appearance: none;
+box-shadow: none;
+box-sizing: border-box;
+}
+
+#dummy_comment{
+	margin-bottom:20px;
+	display: block;
+	margin: 0 auto;
+	width: 100%;
+}
+#dummy_comment input{
+	margin-bottom:20px;
+	display: block;
+	margin: 0 auto 10px;
+	width: 100%;
+}
+
+/*-----------------------------------
+äºåç»é²(æ°ãã¶ã¤ã³éç¥è¿½å )
+--------------------------------------*/
+.more_rank {
+display: block;
+font-weight:bold;
+text-align: center;
+cursor: pointer;
+position: relative;
+padding: 0.5em 0;
+text-decoration: none;
+color: #34A3D1;
+background: #fff;
+border: solid 1px #0f9ada;
+border-radius: 4px;
+box-shadow: inset 0 1px 0 rgba(255,255,255,0.2);
+text-shadow: 0 1px 0 rgba(0,0,0,0.1);
+margin: 10px 10px 0px;
+border: 1px #34A3D1 solid;
+}
+#jizenNavi li{
+border-bottom:0;
+padding:10px 0 0 0px;
+}
+#main-contents #jizenNavi a{
+display:block;
+margin-left:2px;
+}
+.jizenTopBox{
+background:url("https://img.altema.jp/altema/uploads/2018/05/2018y05m14d_1656121361.png") no-repeat top center;
+background-size:100%!important;
+padding-top: 110px;
+border-radius: 4px 4px 0 0;
+position:relative;
+border-top: 1px solid #ccc;
+border-left: 1px solid #ccc;
+border-right: 1px solid #ccc;
+box-sizing:border-box;
+}
+.jizenTopBox02{
+background:url("https://img.altema.jp/altema/uploads/2018/05/2018y05m15d_1409372799.jpg") no-repeat top center;
+background-size:cover;
+}
+.jizenTopBox03{
+background:url("https://img.altema.jp/altema/uploads/2018/05/2018y05m15d_1527550318.jpg") no-repeat top center;
+background-size:cover;
+}
+.jizenTopBoxInner{
+z-index: 2;
+width:100%;
+box-sizing:border-box;
+background: #fff;
+padding:10px 10px;
+}
+.jizenTopBoxInner .jizenLeft{
+display:inline-block;
+margin-right:10px;
+vertical-align:middle;
+}
+.jizenTopBoxInner .jizenLeft img{
+display:block;
+width:50px;
+margin-top:0;
+}
+.jizenTopBox span{
+position: absolute;
+top: 5%;
+left: 0%;
+background: #cc0000;
+color: #fff;
+padding: 1px 14px 1px 26px;
+font-weight: bold;
+font-size: 140%;
+}
+.jizenTopBox .notice-btn-area{
+position: absolute;
+width:auto;
+top:auto;
+bottom:20px;
+right:0px;
+left:auto;
+background: rgba(52,162,209,1);
+background: -moz-linear-gradient(-45deg, rgba(52,162,209,1) 0%, rgba(0,127,212,1) 100%);
+background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(52,162,209,1)), color-stop(100%, rgba(0,127,212,1)));
+background: -webkit-linear-gradient(-45deg, rgba(52,162,209,1) 0%, rgba(0,127,212,1) 100%);
+background: -o-linear-gradient(-45deg, rgba(52,162,209,1) 0%, rgba(0,127,212,1) 100%);
+background: -ms-linear-gradient(-45deg, rgba(52,162,209,1) 0%, rgba(0,127,212,1) 100%);
+background: linear-gradient(135deg, rgba(52,162,209,1) 0%, rgba(0,127,212,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#34a2d1', endColorstr='#007fd4', GradientType=1 );
+box-sizing:border-box;
+text-align:center;
+color: #fff;
+font-weight: bold;
+font-size: 12px;
+margin:0 6px 0 0;
+padding:0;
+opacity:0.99;
+border-radius:3px;
+}
+.jizenTopBox .notice-btn-area button.notice-btn{
+padding:5px 8px;
+margin:0;
+width:100%;
+height:100%;
+cursor:pointer;
+background:none;
+border:none;
+color: #fff;
+border:1px solid #156c91;
+border-radius:3px;
+}
+.jizenTopBox .notice-btn-area button.notice-btn:hover{
+opacity:0.6;
+background:#156c91;
+}
+.jizenTopBox .notice-btn-area .notice-text{
+padding:5px 8px;
+box-sizing:border-box;
+margin:0;
+width:100%;
+height:100%;
+background:none;
+border:none;
+color: #fff;
+text-align:center;
+background:#888;
+border:1px solid #ccc;
+border-radius:2px;
+}
+.jizenTopBox span.Btntouroku a{
+color: #fff;
+display:block;
+padding:4px 15px;
+margin:0;
+cursor:pointer;
+}
+.jizenTopBox  .jizenNo1{
+background:url(https://img.altema.jp/altema/uploads/2018/05/2018y05m30d_1424116612.png),#daae00;
+background-size: 20px;
+background-repeat: no-repeat;
+background-position: 3px 5px;
+}
+.jizenTopBox  .jizenNo2{
+background:url(https://img.altema.jp/altema/uploads/2018/05/2018y05m30d_1424116612.png),#adadad;
+background-size: 20px;
+background-repeat: no-repeat;
+background-position: 3px 5px;
+}
+.jizenTopBox  .jizenNo3{
+background:url(https://img.altema.jp/altema/uploads/2018/05/2018y05m30d_1424116612.png),#4e3c22;
+background-size: 20px;
+background-repeat: no-repeat;
+background-position: 3px 5px;
+}
+.jizenTopBox  .jizenNo4{
+background:#666;
+text-align:center;
+vertical-align:middle;
+}
+.jizenTopBoxInner .jizenRight{
+display:inline-block;
+width:80%;
+vertical-align:middle;
+}
+.jizenTopBoxInner .jizenRight{display:inline-block;width: 70%;vertical-align:middle;}
+.jizenTopBoxInner .jizenRight a.game-name{width:80%;font-size: 14px!important;}
+.jizenTopBoxInner .jizenRight p{margin:0!important;padding:0!important;}
+.jizenTopBoxInner .jizenRight p:nth-child(1) a{
+color:#0c749b;
+font-size: 16px;
+margin:0;
+font-weight:bold;
+display:block;
+}
+.jizenTopBoxInner .jizenRight p:nth-child(1) a:hover{
+opacity:0.6;
+}
+.jizenTopBoxInner .jizenRight p.yoyakuBtn{
+float: right;
+width: 35%;
+background: #d9f6ff;
+text-align: center;
+border-radius: 3px;
+padding: 2px 0;
+margin-left: 5px;
+font-weight: bold;
+box-shadow: 0px 3px 0 #83c9de;
+}
+.jizenTopBoxInner .jizenRight dl dt{
+float: left;
+padding: 1px 0 3px 0;
+text-align: center;
+font-weight: bold;
+font-size: 120%;
+letter-spacing: 1px;
+}
+.jizenTopBoxInner .jizenRight dl dd{
+float: left;
+text-align: center;
+font-weight: bold;
+color: #cc0000;
+font-size: 130%;
+margin: 0;
+}
+.jizenTopBoxInner .jizenRight dl {
+width: 60%;
+float: left;
+margin-top: 0;
+}
+.jizenBottomBox{
+border-left:1px solid #ccc;
+border-right: 1px solid #ccc;
+border-bottom:1px solid #ccc;
+border-radius: 0 0 4px 4px;
+padding:0 10px;
+margin-bottom:20px;
+border-top: 1px dotted #ccc;
+}
+.jizenBottomBox dl dt{
+background:#dde4e6;
+text-align:center;
+}
+.jizenBottomBox dl dt.jizenInfo{
+background:#fbe3e3;
+}
+.jizenBottomBox dl dt.jizenInfo + dd {
+color:#cc0000;
+font-weight:bold;
+}
+.jizenBottomInner dl:nth-child(1){
+float:left;
+width:50%;
+
+border-right:0;
+box-sizing:border-box;
+}
+.jizenBottomInner dl:nth-child(2){
+float:right;
+width:50%;
+
+box-sizing:border-box;
+}
+.jizenBottomInner dl dt{
+display:inline-block;
+width:99%;
+padding: 3px;
+vertical-align:middle;
+font-size:10px;
+display:block;
+box-sizing:border-box;
+}
+.jizenBottomInner dl dd{
+display:inline-block;
+width:99%;
+text-align:center;
+padding: 0px 0 0 0px;
+vertical-align:middle;
+font-size:10px;
+}
+.jizenBottomBox .unei dd{
+display:inline-block;
+width:82%;
+padding: 3px 0 0 5px;
+vertical-align:middle;
+}
+.jizenBottomBox .unei dt{
+display:inline-block;
+padding: 3px;
+width:15%;
+vertical-align:middle;
+}
+.jizenBottomBox .unei {
+margin-top:0;
+}
+p.jizenNolink{
+font-size: 136%;
+line-height: 1.3;
+font-weight:bold;
+}
+
+
+
+
+.headermenuMbInner h1 + #siteTopSearch{
+background:none;
+}
+
+.headerWrap {
+    border-bottom: 1px dotted #ccc;
+    padding: 0px 0 7px;
+}
+
+#container #mobileTop + div{
+margin:0;
+}
+.ninki-ranking dt{
+border-radius:4px;
+}
+#container #main-contents p.post-meta02{
+    padding: 5px 0 10px 5px;
+    margin: 0;
+    color: #999;
+    font-size: 11px;
+    display: block;
+    height: 0;
+}
+#container #main-contents p.post-meta02 + div{
+	margin-top:3px;
+}
+.swiper-container-horizontal{
+background:#f5f5f5;
+overflow: hidden;
+}
+#gNavi_button{
+box-shadow: 0 2px 8px #ccc;
+}
+.ninki-ranking #more_rank{
+    display: block;
+    font-weight:bold;
+    text-align: center;
+    cursor: pointer;
+    position: relative;
+    padding: 0.5em 0;
+    text-decoration: none;
+    color: #34A3D1;
+    background: #fff;
+    border: solid 1px #0f9ada;
+    border-radius: 4px;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.2);
+    text-shadow: 0 1px 0 rgba(0,0,0,0.1);
+    margin: 10px 0;
+    border: 1px #34A3D1 solid;
+}
+
+#main .h3mode{
+border-radius:0;
+}
+.h3mode + dl{
+border-radius:5px 5px 0 0;
+}
+#header h1{
+float:none;
+}
+.ninki-ranking div {
+    font-size: 140%;
+    font-weight: bold;
+    padding: 0 10px;
+    margin-top: 0px;
+    /* width: 98%; */
+    margin: 0 auto;
+    border-radius:0 0 5px 5px;
+}
+
+.header_top_h1 img{
+width: 10%;
+padding: 0px;
+margin: 0px 5px 0 8px;
+box-sizing: border-box;
+vertical-align: middle;
+border-radius: 6px;
+}
+figure img{
+border-radius:8px;
+}
+.ninki-ranking{
+background:#f5f5f5;
+margin-bottom:10px;
+padding-bottom: 10px;
+}
+.ninki-pageranking{
+padding-top: 10px;	
+}
+
+#main-contents .ninki-pageranking h2{
+    background: url(https://img.altema.jp/altema/top/h2-sp.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: bottom;
+    color: #fff;
+    font-size: 120%;
+    padding: 10px 0 10px 12px;
+    margin-top: 0px;
+z-index: 1;
+    position: relative;
+}
+
+
+.ninki-ranking dl{
+background:#fff;
+padding:10px;
+margin:0 10px;
+position: relative;
+}
+/*--------------------------------------------------------
+äººæ°ãã¼ã¸ã©ã³ã­ã³ã°ã®å¨ä½ãªã³ã¯ç¨
+--------------------------------------------------------*/
+.ninki-ranking.ninki-pageranking dd.ninki-all-link {
+display:block;
+position:absolute;
+width:100%;
+height:100%;
+top:0;
+left:0;
+margin:0!important;
+padding:0!important;
+}
+.ninki-ranking.ninki-pageranking dd.ninki-all-link  a{
+display:block;
+position:absolute;
+width:100%;
+height:100%;
+}
+
+#main div.h3mode{
+	background: #333;
+	color: #fff;
+	padding: 5px 10px;
+	font-size: 110%;
+	font-weight: bold;
+	margin-bottom: 0px;
+}
+#main div.h3mode#ninki{
+	margin-bottom: 10px;	
+}
+
+span#headerSubMenuBtn {
+    width: 25px;
+    float: right;
+    padding: 3px 19px 0 0;
+}
+
+#header .header-logo img {
+    width: 34%;
+    margin-left: 10px;
+    display: block;
+    margin: 0 auto;
+}
+
+.youtubeMovie{
+height:260px;
+}
+
+#header .sp-hedno-txt .kasouTitle{
+display:none;
+}
+
+#main-contents .contents .interviewTitle{
+background:none;
+border-bottom:3px solid #ccc;
+color:#333;
+padding:0 0 3px 0;
+}
+
+#sidebar .gachaBtn{
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#00b5ed+0,004de8+100 */
+background: #00b5ed; /* Old browsers */
+background: -moz-linear-gradient(left, #00b5ed 0%, #004de8 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left, #00b5ed 0%,#004de8 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right, #00b5ed 0%,#004de8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00b5ed', endColorstr='#004de8',GradientType=1 ); /* IE6-9 */
+border-radius:25px;
+color:#fff;
+	display: block;
+	border: 1px solid #34A3D1;
+	font-weight: bold;
+	padding: 7px 0;
+	text-align:center;
+}
+
+.post ol.toriatukai li {
+    width: 33%;
+    float: left;
+    min-height: 127px;
+text-align:center;
+}
+#main-contents .post ol.toriatukai li{
+margin-bottom:0;
+}
+#main-contents .post{
+padding:0;
+}
+#main-contents .post ol.toriatukai li p{
+margin-bottom:0;
+}
+.post ol.toriatukai li span{
+font-size:12px;
+display:inline-block;
+padding-top:5px;
+line-height:1.5em;
+height:25px;
+}
+
+/*ãµãã¡ãã¥ã¼*/
+
+.drawer-menu {
+	position: fixed;
+	display: none;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height:100%;
+	z-index: 100;
+	overflow: auto;
+	background-color: rgba(17, 17, 17, 0.7);
+    z-index: 2147483647!important;
+}
+.drawer-menu-box {
+	width: auto;
+	height:100%;
+	left: 0;
+	top: 0;
+	padding-right:45px;
+}
+.drawer-menu-box2 {
+	background-color: #fff;
+	height:100%;
+}
+.drawer-menu-list {
+	background-color: #fff;
+}
+.submenu-control {
+	float: right;
+        color:#dde4e6;
+}
+.drawer-menu-title,.drawer-menu li {
+	border-bottom: solid 1px #dde4e6;
+}
+.drawer-menu-title {
+    font-size: 15px;
+    padding: 10px 5px 0 11px;
+    height: 32px;
+    font-weight: bold;
+    background: #dde4e6;
+}
+.drawer-menu-list li {
+	padding: 10px;
+	font-size: 11px;
+	cursor: pointer;
+}
+.drawer-menu-list li a{
+    display: block;
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    margin: -9px -9px -9px -11px;
+}
+.drawer-menu-close-button {
+	position: fixed;
+	top: 0;
+	right:0;
+	font-size: xx-large;
+	height:100%;
+	width:45px;
+	z-index: 1;
+}
+.drawer-menu-level2 {
+	background-color: #fff;
+}
+
+.drawer-menu-list .drawer-menu-level2,
+.drawer-menu-list .drawer-menu-level3 {
+	margin-left: 30px;
+}
+.drawer-background-fixed {
+	position: fixed;
+	width: 100%;
+	overflow-y: scroll;
+}
+.drawer-menu-list  .drawer-menu-level3 li{
+    border-color:#c2dce6;
+}
+.drawer-menu-box:after {
+    content: "Ã";
+    font-size: 270%;
+    position: fixed;
+    right: 1px;
+    bottom: 20%;
+    display: block;
+    width: 44px;
+    height: 44px;
+    border-radius: 0 4px 4px 0;
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,eaeaea+100 */
+background: #ffffff; /* Old browsers */
+background: -moz-linear-gradient(top, #ffffff 0%, #eaeaea 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #ffffff 0%,#eaeaea 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #ffffff 0%,#eaeaea 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#eaeaea',GradientType=0 ); /* IE6-9 */
+    text-align: center;
+    padding-top: 3px;
+}
+.drawer-menu dm-icon {
+	width: 32px;
+	height: 32px;
+	border-radius: 4px;
+	background-image: url(https://img.altema.jp/common/titleicon/hosidora.png);
+}
+.widget_submenu div.drawer-menu-level2 {
+  display: none;
+}
+.drawer-menu .drawer-menu-box .drawer-menu-list div.drawer-menu-level2 {
+  display: none;
+}
+
+/*ã¡ãã£ã¨*/
+
+.drawer-chat {
+    position: fixed;
+    display: none;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height:100%;
+    z-index: 100;
+    background-color: rgba(17, 17, 17, 0.7);
+    z-index: 99999999999;
+}
+.drawer-chat-box {
+    width: 85%;
+    height:100%;
+    left: 0;
+    top: 0;
+    padding-right: 45px;
+    position: absolute;
+}
+.drawer-chat-box2 {
+  background: #E6ECF5;
+  height:100%;
+}
+.drawer-chat-list {
+  background-color: #fff;
+}
+.drawer-chat-area{
+    overflow: auto;
+    background:#E6ECF5;
+    margin-bottom: -40px;
+}
+
+.drawer-chat-title {
+    font-size: 14px;
+    padding: 10px 5px 10px 11px;
+    height: auto;
+    font-weight: bold;
+    background: #dde4e6;
+}
+.drawer-chat-title .nowActUser {
+    font-size: 12px;
+    font-weight: normal;
+    margin-left: 10px;
+}
+.drawer-chat-input{
+    padding: 0px;
+    height: 50px;
+    background: #dde4e6;
+}
+.drawer-chat-input #chat-input{
+    width: 70%;
+    font-size: 16px;
+    height: 40px;
+    padding: 15px 0px 0px 15px;
+    border: 0;
+    outline: 0;
+    background: #ccc;
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6ecef', endColorstr='#ffffff',GradientType=0 );
+}
+.drawer-chat-input button {
+    width: 23%;
+    height: 55px;
+    background: #34a3d1;
+    border: none;
+    border-radius: 2px;
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+}
+.chat-err ul {
+  display: none;
+}
+.chat-err li {
+  padding: 10px;
+  font-size: 120%;
+}
+.drawer-chat-list ul {
+  display: none;
+}
+/*.drawer-chat-list li {
+  padding: 10px;
+  font-size: 120%;
+}
+.drawer-chat-list li a{
+    display: block;
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    margin: -9px -9px -9px -11px;
+}*/
+
+.drawer-chat-list li {
+padding: 10px;
+    font-size: 12px;
+    margin: 40px 7px 0 7px;
+    border-radius: 4px;
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,ffffff+35,f2f2f2+84,e5e5e5+99 */
+background: #ffffff; /* Old browsers */
+background: -moz-linear-gradient(top, #ffffff 0%, #ffffff 35%, #f2f2f2 84%, #e5e5e5 99%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #ffffff 0%,#ffffff 35%,#f2f2f2 84%,#e5e5e5 99%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #ffffff 0%,#ffffff 35%,#f2f2f2 84%,#e5e5e5 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e5e5e5',GradientType=0 ); /* IE6-9 */
+position:relative;
+box-shadow: 1px 2px 5px #aaa;
+}
+.drawer-chat-close-button{
+    height: 100%;
+}
+.drawer-chat-list li:after {
+  border-bottom: 12px solid #fff;
+  border-right: 12px solid transparent;
+  border-left: 12px solid transparent;
+  content: '';
+  margin-left: -10px;
+  position: absolute;
+  top: -5px;
+  left: 10%;
+}
+.chat-name{
+position: absolute;
+    top: -23px;
+    left: 0;
+
+}
+.chat-date{
+    position: absolute;
+    top:-19px;
+    right: 0;
+font-size:10px;
+}
+
+.drawer-chat-list li a{
+    display: block;
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    margin: -9px -9px -9px -11px;
+}
+
+body .drawer-chat-list{
+background:#E6ECF5;
+padding-bottom: 20px;
+}
+
+.drawer-chat-list .chat-comment{
+    display:block;
+    margin:-15px 0 0 0;
+}
+
+.drawer-chat-list .chat-date{
+color:#777;
+}
+.drawer-chat-list .chat-name{
+color:#333;
+font-weight:bold;
+}
+.drawer-chat-side-area {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height:100%;
+    width:45px;
+    z-index: 1;
+}
+.drawer-chat-level2 {
+  background-color: #fff;
+}
+
+.drawer-chat-list .drawer-chat-level2,
+.drawer-chat-list .drawer-chat-level3 {
+  margin-left: 30px;
+}
+.drawer-background-fixed {
+    position: fixed;
+    width: 100%;
+    overflow-y: scroll;
+}
+.drawer-chat-list  .drawer-chat-level3 li{
+    border-color:#c2dce6;
+}
+.drawer-chat-list .myCommentArea:after {
+  border-bottom: 12px solid #FFF5CE;
+  border-right: 12px solid transparent;
+  border-left: 12px solid transparent;
+  content: '';
+  margin-left: -10px;
+  position: absolute;
+  top: -5px;
+  left: 10%;
+}
+#chat-area .myCommentArea{
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fff5ce+0,fff5ce+41,ffeba3+99 */
+background: #fff5ce; /* Old browsers */
+background: -moz-linear-gradient(top, #fff5ce 0%, #fff5ce 41%, #ffeba3 99%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #fff5ce 0%,#fff5ce 41%,#ffeba3 99%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #fff5ce 0%,#fff5ce 41%,#ffeba3 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff5ce', endColorstr='#ffeba3',GradientType=0 ); /* IE6-9 */
+}
+.drawer-chat-box:after {
+    content: "Ã";
+    font-size: 210%;
+    position: absolute;
+    right: 1px;
+    bottom: 6%;
+    display: block;
+    width: 44px;
+    height: 48px;
+    border-radius: 0px 4px 4px 0px;
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,eaeaea+100 */
+    background: #ffffff; /* Old browsers */
+    background: -moz-linear-gradient(top, #ffffff 0%, #eaeaea 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #ffffff 0%,#eaeaea 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #ffffff 0%,#eaeaea 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#eaeaea',GradientType=0 ); /* IE6-9 */
+    text-align: center;
+    padding-top: 3px;
+}
+.drawer-chat dm-icon {
+  width: 32px;
+  height: 32px;
+  border-radius: 4px;
+  background-image: url(https://img.altema.jp/common/titleicon/hosidora.png);
+}
+.drawer-chat .control-btn {
+      float: right;
+        color:#999 !important;
+        cursor: pointer;
+        margin-right: 8px;
+}
+.drawer-chat-list span.chat-reply {
+border-radius: 4px;
+    padding: 2px 3px;
+    color: #333;
+    display: inline-block;
+    margin-bottom: 5px;
+    font-size: 12px;
+}
+#chatSelectType{
+    position: fixed;
+    right: 0;
+    top: 40px;
+    width: 200px;
+    border: 1px #c3c3c3 solid;
+    z-index: 999999999999;
+    background: #f8f8f8;
+    text-align: center;
+}
+ul#chatSelect {
+    z-index: 9999999999;
+    text-align: center;
+}
+ul#chatSelect li label {
+    width: 16px;
+    z-index: 999999999999;
+    border-radius: 0px 5px 5px 0px;
+    padding: 12px 16px 12px 12px;
+    background: #cecece;
+    display: block;
+    margin-bottom: 10px;
+    margin-left: 0;
+    margin: 5px 0 0;
+}
+ul#chatSelect li label.activechat {
+    background: #16bacd;
+color:#fff;
+}
+ul#chatSelect li input {
+    display: none
+}
+#chatIssetWriter{
+    z-index: 999999999999;
+    background: #cc0000;
+    text-align: center;
+    font-weight: bold;
+    position: absolute;
+    top: 60px;
+    font-size: 10px;
+    color: #fff;
+    border-radius: 50%;
+    width: 40px;
+    height: 33px;
+    padding-top: 6px;
+    margin-left: 18px;
+    -webkit-animation: blink 1.5s ease-in-out infinite alternate;
+    -moz-animation: blink 1.5s ease-in-out infinite alternate;
+    animation: blink 1.5s ease-in-out infinite alternate;
+    line-height: 1.3em;
+}
+.drawer-chat .drawer-chat-list .writer-name{
+color:#ff9900;
+}
+
+body .chatBtn{
+background: rgba(0,0,0,.6);
+}
+
+#writerOnline{
+    z-index: 999999999999;
+    background: #37a500;
+    text-align: center;
+    position: absolute;
+    top: 60px;
+    font-size: 9px;
+    color: #fff;
+    border-radius: 50%;
+    width: 40px;
+    height: 33px;
+    padding-top: 6px;
+    margin-left: 18px;
+    -webkit-animation: blink 1.5s ease-in-out infinite alternate;
+    -moz-animation: blink 1.5s ease-in-out infinite alternate;
+    animation: blink 1.5s ease-in-out infinite alternate;
+    line-height: 1.3em;
+}
+
+#writerOffline{
+    z-index: 999999999999;
+    background: #cc0000;
+    text-align: center;
+    font-weight: bold;
+    position: absolute;
+    top: 60px;
+    font-size: 9px;
+    color: #fff;
+    border-radius: 50%;
+    width: 40px;
+    height: 33px;
+    padding-top: 6px;
+    margin-left: 18px;
+    -webkit-animation: blink 1.5s ease-in-out infinite alternate;
+    -moz-animation: blink 1.5s ease-in-out infinite alternate;
+    animation: blink 1.5s ease-in-out infinite alternate;
+    line-height: 1.3em;
+}
+
+
+
+
+@-webkit-keyframes blink{
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
+@-moz-keyframes blink{
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
+@keyframes blink{
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
+/*ã³ã ã©ãã*/
+.topNavi{
+	filter:alpha(opacity=50);
+	-moz-opacity: 0.8;
+	opacity: 0.9;
+	width: 100%;
+margin-top:-37px;
+
+
+}
+.topNavi ul li{
+float: left;
+    text-align: center;
+    width: 20%;
+    border-right: 1px #457ead solid;
+    padding: 0!important;
+    background: #002D57;
+    opacity: 1;
+    box-sizing:border-box;
+}
+.topNavi ul li img{
+	width:15px;
+}
+.topNavi ul li:last-child{
+	border-right:none;
+}
+.topNavi ul li a{
+	display: block;
+	height: 20px;
+	color: #fff;
+	font-size: 80%;
+    padding: 10px 0 7px 0;
+}
+.topNavi ul{
+	width:100%;
+}
+.topNavi.fixed{
+	/*position: fixed;*/
+	top: 0;
+	z-index: 999999;
+}
+/*--------------------------------------------------------
+modal-menu
+-------------------------------------------------------*/
+.topNavi-background-fixed {
+	overflow: hidden;
+        height: 100%;
+	width: 100%;
+}
+.topNavi-modal-menu {
+	position: fixed;
+	display: none;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height:100%;
+	overflow: auto;
+	background-color: rgba(17, 17, 17, 0.7);
+	z-index: 11110000;
+}
+.topNavi-modal-menu-box {
+	margin: auto;
+	width: 300px;
+	background-color: #fff;
+	left: 0;
+	top: 5%;
+	min-height: 80%;
+	position: relative;
+}
+.topNavi-modal-menu-title,.topNavi-modal-menu li {
+	border-bottom: solid 1px #dde4e6;
+}
+.topNavi-modal-menu li {
+	border: solid 1px #dde4e6;
+	margin: 1%;
+	border-radius: 3px;
+}
+.topNavi-modal-menu-box div.topNavi-modal-menu-title{
+	font-size: 125%;
+	padding: 5px 0 5px;
+	font-weight: bold;
+	background: #004c6b;
+	position: relative;
+}
+.topNavi-modal-menu-list li a {
+	display: block;
+	padding: 10px;
+	font-weight: bold;
+	font-size: 1.15em;
+	color: #34A3D1;
+}
+.topNavi-modal-menu-close-button {
+font-size: 26px;
+text-align:center;
+position: absolute;
+right: -16px;
+top: -26px;
+border: 1px solid #005d83;
+border-radius: 5px;
+padding:0px!important;
+margin: 0!important;
+height: 30px;
+width: 30px;
+line-height:25px;
+color:#FFF;
+background: #34a3d1;
+}
+.topNavi-modal-menu-items {
+display: none;
+}
+
+
+/*--------------------------------------------------------
+ãµã¤ãå¨ä½ã®å±éè¨­å® (ã¬ã¹ãã³ã·ãver)
+-------------------------------------------------------*/
+html{
+	overflow-y: scroll;
+	overflow-x: hidden;
+}
+html,body{
+    width: 100%;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    margin: 0px;
+}
+textarea,input{ max-width: 95%; }
+input[type="submit"],input[type="image"],
+input[type="reset"],input[type="button"],
+input[type="file"]{
+	max-width: none;
+}
+.sub-column dl.search-box dt, .sub-column dl.search-box dd {
+	float: left;
+}
+.sub-column dl.search-box dt input {
+	width: 95%;
+}
+/*-------- ã¨ãªã¢ã®è¨­å® -----------*/
+#container{
+	padding-top: 0;
+	padding-bottom: 1.5em;
+}
+#container,
+#top,
+#header,
+#global-nav,
+#breadcrumbs,
+#main-image,
+#main,
+#footer,
+#footer-banner,
+.copyright{
+	width: 100%!important;
+	min-width: 100%!important;
+	overflow:hidden;
+}
+#top-in,
+#breadcrumbs ol,
+#global-nav-in,
+#main-image-in,
+#main-in,
+#footer-in,
+#footer-banner ul,
+.copyright p{
+	width: 100%!important;
+	margin: 0!important;
+}
+#sub-contents,
+#sidebar,
+#main-and-sub,
+#main-contents{
+	float: none!important;
+	width: 100%!important;
+}
+/*âç»åãµã¤ãºã®èª¿æ´*/
+.mainImage {
+}
+
+img {
+	height: auto;
+	max-width: 100%;
+}
+a {
+	-webkit-tap-highlight-color: #fc6;
+}
+#main-contents ul,
+#main-contents ol{
+	margin-left:0;
+	margin-right:0;
+}
+#main-image {
+	display:none;
+}
+.mainTopImg,
+.mainTopImg02{
+	font-size:80%;
+}
+#mobileTop .goTop{
+	background:url(https://img.altema.jp/common/topIcon.png) 3px 6px no-repeat;
+	background-size:12px;
+}
+#mobileTop a{
+	color:#fff;
+	text-shadow:1px 0 #333;
+font-size:12px;
+}
+#swiper-container{
+	margin-bottom:0!important;
+}
+#breadcrumbs{
+    color: #777;
+    font-size: 10px;
+    margin-bottom: 1.5em;
+    margin-top: 0;
+padding:3px 0 3px 5px;
+}
+#main-in{
+	padding-top:0px!important;
+}
+#main-contents .snsBox01 {
+	margin: 0 auto !important;
+	width: 82%;
+	float:none;
+}
+
+/*âãã³å±ãã*/
+#breadcrumbs li{
+	margin-right:0;
+}
+#breadcrumbs li a{
+	padding-right:10px;
+}
+#breadcrumbs {
+color: #777;
+font-size: 10px;
+margin: 3px 0 3px;
+padding: 0px 0 0 10px!important;
+box-sizing:border-box;
+}
+#breadcrumbs ol{
+padding:5px;
+overflow:auto;
+height: auto;
+}
+/*--------------------------------------------------------
+header
+--------------------------------------------------------*/
+/*--------------------------------------------------------
+Top-banner
+-------------------------------------------------------*/
+@media only screen and (orientation:landscape) and (max-width : 813px),(orientation:portrait) and (max-width : 753px){
+#main .search-form_inputXX{
+background:#fff;
+border:none;
+}
+#header #header-in {
+	background-size:100%;
+	margin: 0;
+	width: 100%;
+padding: 1.5em 0 3.9em 0;
+}
+#mobileTop{
+	padding: 5px 0;
+	/*position: fixed;*/
+	top: 0px;
+	width: 100%;
+	z-index:99999;
+	background-size: cover!important;
+}
+}
+/*---  Top-banner End --------*/
+/*âãããã®åãè¾¼ã¿è§£é¤*/
+#header #header-title,
+#header-in #header-text{
+	float: none;
+	width: 100%;
+}
+/*-- header-logo (ããããPCã ãã®è¨è¿°âMbçã§ã¯åé¤ãã¦OKï¼) --*/
+#header .header-logo{ 
+	margin-bottom: 0;
+}
+#header .header-logo img{
+	width:30%;
+display:block;
+margin: -15px auto;
+margin:0 auto;
+
+}
+#header .header-logo a {
+	bottom: 111%;
+	color: #333;
+	font-size: 16px;
+	padding-top: 15px;
+	position: absolute;
+	right: 2%;
+}
+/*-- haader-logo End --*/
+#header .headerInner{
+	width:100%;
+	margin-top:0!important;
+}
+.headerInner a img {
+    width: 100px;
+margin-left:8px;
+}
+#header-in h1,
+.snsBox{
+    font-size: 100%;
+    padding: 0;
+    line-height: 1.6;
+    display: inline;
+    font-weight: bold;
+}
+
+/*------------------------------------------------------------
+ç»åãµã¤ãºåºå®
+-------------------------------------------------------------*/
+#main-contents .logo img{height: 22.5px;}
+#header .headerInner a img{height: 15.75px;}
+
+/*-- headerMenuBoxBt --*/
+.headerMenuBoxBt button{
+	display: inline-block;
+	overflow: hidden;
+	position: relative;
+	width: 30px;
+	height: 0;
+	padding-top: 18px;
+	background: #fff;
+	border:none;
+}
+.headerMenuBoxBt button::before,
+.headerMenuBoxBt button::after{
+	position: absolute;
+	left: 0;
+	content: "";
+	width: 30px;
+	height: 0;
+	border-top: 3px solid #012C6B;
+}
+.headerMenuBoxBt button::before{
+	top: 4px;
+}
+.headerMenuBoxBt button::after{
+	bottom: 4px;
+}
+.headerMenuBox ul {
+	font-size:1.4em;
+}
+.headerMenuBox ul li{
+	margin-bottom:4px;
+}
+.headerMenuBoxBt img:hover {
+	cursor:pointer;
+	opacity:0.8;
+}
+/*-- headerMenuBoxBt End --*/
+/*-------------------  header End ------------------*/
+/*--------------------------------------------------------
+gNavi_button
+--------------------------------------------------------*/
+.gNaviWrap,
+.gNavi li {
+display:none;
+}
+body.home #gNavi_button {
+display: block;
+width: 100%;
+margin: 0px auto 0px auto;
+box-sizing:border-box;
+}
+.home.blog.col2 #gNavi_button{
+font-size: 0;
+}
+#gNavi_button {
+display: block;
+width: 100%;
+margin: 0px auto 10px auto;
+box-sizing:border-box;
+}
+#gNavi_button ul {
+list-style-type: none;
+}
+#gNavi_button ul li {
+border: 1px solid #dee3e5;
+float: left;
+text-align: center;
+width: 33.3%;
+box-sizing: border-box;
+}
+#gNavi_button ul li:first-child,#gNavi_button ul li:nth-child(4),#gNavi_button ul li:nth-child(7) {
+border-left: 0px solid #dee3e5;
+}
+#gNavi_button ul li a {
+font-weight:bold;
+margin-bottom: -1px;
+margin-right: -1px;
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,e8ebf2+100 */
+background: #ffffff; /* Old browsers */
+background: -moz-linear-gradient(top, #ffffff 0%, #e8ebf2 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #ffffff 0%,#e8ebf2 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #ffffff 0%,#e8ebf2 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e8ebf2',GradientType=0 ); /* IE6-9 */
+display: block;
+font-size: 11px;
+height: 23px;
+line-height: 2;
+padding: 5px 0;
+color:#333;
+text-decoration: none;
+text-shadow: 1px 0 0 #fff;
+}
+#gNavi_button ul li img {
+max-width: 80%;
+max-height: 100%;
+border:none;
+}
+#gNavi_button.nav-menu {
+/*margin-top: 42px;*/
+}
+@media not screen and (1) {
+.page-top {
+position: static;
+}
+}/* Opera10ä»¥ä¸ */
+/*-------------------  gNavi_button End ------------------*/
+/*--------------------------------------------------------
+footerBtn
+-------------------------------------------------------*/
+.footerBtn {
+display: contents;
+	position: fixed;
+	width: 20%;
+	bottom: 25%;
+z-index: 2147483640;
+}
+.topBtn, .chatBtn , .menuBtn, .appBtn, .presentGachaBtn {
+	position: fixed;
+	height: 49px;
+	background: rgba(0,0,0,.6);
+z-index: 2147483640;
+}
+.topBtn {
+	right: -1px;
+	bottom: 190px;
+	width: 47px;
+	border-radius: 4px 0 0 4px;
+	display:none!important;
+}
+.chatBtn {
+  right: 0;
+  bottom: 135px;
+  border-radius: 4px 0 0 4px;
+  width: 43px;
+  padding-left: 2px;
+	display:none!important;
+}
+.menuBtn {
+	left: 0;
+	bottom: 130px;
+	width: 44px;
+	border-radius: 0 4px 4px 0;
+}
+.appBtn {
+right: 0;
+bottom: 135px;
+border-radius: 4px 0 0 4px;
+width: 45px;
+height:49px;
+padding-left: 2px;
+background-image: url(https://img.altema.jp/common/icon-kidou.png);	
+background-color: rgba(0,0,0,.6);
+background-repeat:no-repeat;	
+background-size:90%;	
+background-position:3px -3px;
+	display:none!important;
+}
+.presentGachaBtn {
+	left: 0;
+	bottom: 100px;
+	border-radius: 0 4px 4px 0;
+	width: 43px;
+	padding-left: 2px;
+	display:none!important;
+}
+.presentGachaBtn a {
+	position: relative;
+	color: #fff;
+	text-align: center;
+}
+.chatBtn a,
+.topBtn a,
+.menuBtn a,
+.appBtn a {
+	position: relative;
+	top: 10px;
+	left: 3px;
+	color: #fff;
+	text-align: center;
+font-size:10px;
+}
+.chatBtn a img,
+.topBtn a img,
+.menuBtn a img{
+	display: block;
+	margin: 3px 11px;
+	width:17px;
+}
+.appBtn a img {
+position: relative;
+    display: block;
+    margin: 0px;
+    width: 29px;
+    top: -6px;
+    left: 4px;
+}
+.appBtn a span{
+	display:none;
+}
+.appBtn a span:nth-child(2){
+	left:-2px;
+	letter-spacing:-3px;
+}
+.appBtn a span:nth-child(3){
+	letter-spacing: 1px;
+}
+/*-------------------  footerBtn End ------------------*/
+/*--------------------------------------------------------
+#sub-contents .sub-column
+--------------------------------------------------------*/
+#sub-contents-in li a, .widget-conts a {
+	border-bottom: 1px solid #f0f0f0;
+	display: block;
+	font-size: 12px;
+	padding: 0 0 5px;
+}
+.sub-column .widget-conts ul li {
+	background: none;
+	padding-left: 0;
+}
+/*--------------------------------------------------------
+ããã¿ã¼
+--------------------------------------------------------*/
+#footer .footer-menu ul{
+	float: none;
+	width: 100%;
+}
+#footer .area01,
+#footer .area02{
+	float: none;
+	width: 100%;
+	margin-bottom: 2em;
+}
+.copyright{ padding-bottom: 40px; }
+.copyright span{ display: block; }
+.footerBtnWrap{
+	display: block;
+}
+
+/*--æ±è¨¼ã­ã´--*/
+.footer-left-area {
+    float: none;
+    width: 100%;
+}
+div.area03 {
+    margin: 0 10px 20px;
+}
+
+/*------------------------------------------------------------
+WordPressç¨
+-------------------------------------------------------------*/
+
+#main-contents .sb{
+	text-align: left;
+	padding-top: 1em;
+	padding-bottom:20px;
+}
+img.alignleft,
+img.alignright{
+	float: none;
+	display: block;
+	padding: 0;
+	margin: auto;
+}
+/* ã¬ãã¥ã¼(ç¹æ°)ç¨ç¹æ® */
+
+@media only screen and (orientation:landscape) and (max-width : 813px),(orientation:portrait) and (max-width : 753px){
+div.reviewScoreBoxArea {
+	width: 100%;
+	margin: 0 auto; 
+}
+div.reviewScoreBox {
+	width:100%;
+}
+div.rvImg,
+p.rvSup{
+	text-align:center;
+}
+div.rvImg img {
+	width:60%;
+	height:60%;
+}
+div.reviewScoreBox .rvText{
+	min-height:115px;
+	padding:10px 24px 15px 24px
+}
+.movieNone{
+	display:none;
+}
+.mainTopImg02 div{
+	width:47.5%!important;
+}
+.gameTitle{
+	min-height:21px;
+}
+
+/*ãããããã¼ãã«*/
+#bbpress-forums{
+	width:100%;
+	float:none;
+}
+span.post-data {
+	color: #999;
+	display: inline;
+	font-size: 85%;
+	padding-left: 2px;
+}
+.lineBtn{
+	margin-top:-12px;
+}
+/*-------------------  #siteTopSearch ------------------*/
+div.top-form-bg #siteTopSearch.search-form_inputXX {
+display: block;
+margin: 4px 0px 5px 0px;
+padding: 5px 0 5px 0;
+border-bottom:0px solid #e1e8ed;
+background:#f3f3f3;
+}
+#siteTopSearch.search-form_inputXX {
+display: block;
+margin: 4px 0px 5px 0px;
+padding: 5px 0 5px 0;
+border-bottom:1px solid #e1e8ed;
+background:#f3f3f3;
+}
+/*-------------------  #siteTopSearch End ------------------*/
+/*--------------------------------------------------------
+ããä½ï¼(è¦ç¢ºèª)
+--------------------------------------------------------*/
+.kouryakuBox img{
+	width: 50px;
+}
+.kouryakuTxt{
+	margin-top:10px!important;
+}
+.kouryakuBox ul li{
+	padding:10px 0 10px 0;
+	border-bottom:1px dotted #ccc;
+}
+#main-contents .hikakuTable td{
+	font-size:10px!important;
+	padding:1px!important;
+}
+#main-contents .hikakuTable th{
+	letter-spacing:-1px;
+	padding:2px;
+}
+#main-contents .hikakuTable th:nth-child(1){
+	width:20%;
+}
+
+
+/*--------------------------------------------------------
+ï¾ï¾ï½·ï¾ï½¸ï¾ã¨ãªã¢èª¿æ´
+--------------------------------------------------------*/
+#main-contents > #ranking-area,
+#main-contents > #recommend-area {
+	margin-bottom: 3.5em;
+	padding: 0 10px;
+}
+/*--------------------------------------------------------
+headerç·æ¥ããã(è¦çµ±å)
+-------------------------------------------------------*/
+.col2 #header .header-logo a {
+	background-color: inherit;
+	bottom: 0;
+}
+.col2 #header #header-in {
+    height: 26px;
+}
+/*--------------------------------------------------------
+jackå¯¾å¿
+-------------------------------------------------------*/
+#header .header-logo a {
+	color: #fff;
+	position: absolute;
+	background-color: rgba(51, 51, 51, 0.7);
+	padding: 5px;
+	width: 97.2%;
+	right: initial;
+	bottom: 0%;
+}
+/*--------------------------------------------------------
+review
+-------------------------------------------------------*/
+.paraBox {
+	display: flex;
+    align-items: center;
+}
+.paraBox div {
+	width: 60%;
+}
+.reviewTopBox {
+    background: url(https://img.altema.jp/altema/review/bg-last.jpg) no-repeat left top;
+    background-size: cover;
+    color: #fff;
+    width: 98%;
+}
+#main-contents .reviewTopBox ul li {
+	background:inherit;
+	padding: 0;
+	border-bottom:none;
+}
+#main-contents .reviewTopBox .reviewTensu {
+    color: #fff;
+}
+#main-contents .reviewTopBox img {
+	border-radius: 10px;
+}
+#main-contents .reviewTopBox dd {
+	margin: inherit;
+}
+#main-contents .post h1 {
+	margin-left:2px;
+}
+.voiceTopWrap02 ul li {
+	padding: 5px 0 5px 5px!important;
+}
+.article p.sougou {
+	padding: 18px 0 2px 0px;
+	margin: 10px 0 10px 20px;
+}
+.swiper-wrapper .swiper-slide {
+	width:60%;
+}
+#main-contents .reviewTopBox dt {
+	font-weight: bold;
+    font-size: 1.3em;
+}
+#main-contents table.topTable {
+	margin-bottom:inherit;
+}
+.voiceTopWrap02 ul li {
+	padding: 5px 0 5px 5px;
+}
+.syokai-douga li,
+.topReviewInner {
+	display: flex;
+}
+.syokai-douga li .imgDiv,
+.topReviewInner div {
+	max-width:50%;
+}
+.syokai-douga dl {
+	margin-left:10px;
+}
+.syokai-douga dl dt a,
+.topReviewInner dl dt a{
+	font-size: 14px;
+    font-weight: bold;
+}
+.widget-conts ol.appList {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 15px;
+}
+.widget-conts ol.appList li {
+	width: 32%;
+    margin-bottom: 8px;
+text-align:center;
+}
+.widget-conts ol.appList li a {
+border-bottom:inherit;
+}
+#main-contents .reviewTopBox ul li span{
+    display: inline-block;
+    width: 53px;
+}
+#sub-contents-in .appList li a{
+font-size:12px;
+}
+
+
+/*------------------------------------------------------------
+äºåç»é²ã©ã³ã­ã³ã°
+-------------------------------------------------------------*/
+#main-contents ul.osusume-sinsaku-navi{
+}
+#main-contents ul.osusume-sinsaku-navi li:first-child{
+	table-layout: fixed;
+	display: table-cell;
+	width: 30%;
+    padding-right: 1px;
+}
+#main-contents ul.osusume-sinsaku-navi li{
+	table-layout: fixed;
+	display: table-cell;
+	width: 30%;
+}
+#main-contents .osusume-sinsaku-navi li.stabactive a{
+	background: #1298d6;
+}
+#main-contents .osusume-sinsaku-navi li a {
+	background: #78bede;
+	border-radius: 4px 4px 0 0;
+	padding: 7px;
+	text-align: center;
+	color: #fff;
+	display: block;
+	font-size: 12px;
+}
+#main-contents .osusume-sinsaku-navi li a:link {
+	color: #fff!important;
+}
+#main-contents .stabdetail td.Appimg-box{
+	text-align: center;
+	width: 60px;
+}
+#main-contents .stabdetail .Appimg{
+	text-align: center;
+	position:relative;
+	padding: 0;
+}
+#main-contents .stabdetail .Appimg img.appicon{
+	border-radius: 10px;
+	width:60px;
+	position: relative;
+	border:1px solid #e6e6e6;
+}
+#main-contents .stabdetail .Appimg img.apprank{
+	position: absolute;
+    top: -2px;
+    left: -2px;
+    width: 40px;
+}
+#main-contents .stabdetail .Apptitle{
+	font-size: 14px;
+	padding: 5px;
+	margin: 0px;
+}
+#main-contents .stabdetail p.Apptxt{
+	padding:5px;
+	margin: 0px;
+}
+#osusume-game-ranking-area{
+    margin-bottom: 15px;
+    padding: 0;
+}
+#main-contents #osusume-game-ranking-area table{
+    margin: 0px auto;
+    width: 100%;
+}
+body #osusume-game-ranking-area .Appimg a.rank-1:before{
+	content: '';
+	position:absolute;
+	z-index: 2;
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-image:url(https://img.altema.jp//common/ranking_game/rank/1.png);
+	background-size:contain;
+	top: -2px;
+	left: 12px;
+}
+body #osusume-game-ranking-area .Appimg a.rank-2:before{
+	content: '';
+	position:absolute;
+	z-index: 2;
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-image:url(https://img.altema.jp//common/ranking_game/rank/2.png);
+	background-size:contain;
+	top: -2px;
+	left: 12px;
+}
+body #osusume-game-ranking-area .Appimg a.rank-3:before{
+	content: '';
+	position:absolute;
+	z-index: 2;
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-image:url(https://img.altema.jp//common/ranking_game/rank/3.png);
+	background-size:contain;
+	top: -2px;
+	left: 12px;
+}
+body #osusume-game-ranking-area .Appimg a.rank-4:before{
+	content: '';
+	position:absolute;
+	z-index: 2;
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-image:url(https://img.altema.jp//common/ranking_game/rank/4.png);
+	background-size:contain;
+	top: -2px;
+	left: 12px;
+}
+body #osusume-game-ranking-area .Appimg a.rank-5:before{
+	content: '';
+	position:absolute;
+	z-index: 2;
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background-image:url(https://img.altema.jp//common/ranking_game/rank/5.png);
+	background-size:contain;
+	top: -2px;
+	left: 12px;
+}
+/*------------------------------------------------------------
+äºåç»é²ã©ã³ã­ã³ã°
+-------------------------------------------------------------*/
+#main-contents .osusume-sinsaku-navi li a:link {
+	color: #fff!important;
+}
+#main-contents #osusume-game-ranking-area td.Appimg-box{
+	text-align: center;
+	width: 100px;
+}
+#main-contents #osusume-game-ranking-area .Appimg{
+	text-align: center;
+	position:relative;
+	padding: 0;
+}
+#main-contents #osusume-game-ranking-area .Appimg img.appicon{
+	border-radius: 10px;
+	width:60px;
+	position: relative;
+}
+#main-contents #osusume-game-ranking-area .Appimg img.apprank{
+	position: absolute;
+    top: -2px;
+    left: 18px;
+    width: 40px;
+}
+#main-contents #osusume-game-ranking-area .Apptitle{
+	font-size: 12px;
+	padding: 0px;
+	margin: 0px;
+display:block;
+}
+#main-contents #osusume-game-ranking-area p.Apptxt{
+	padding:5px;
+	margin: 0px;
+}
+#osusume-game-ranking-area{
+    margin-bottom: 15px;
+    padding: 0;
+}
+#main-contents #osusume-game-ranking-area table{
+    margin: 0px auto;
+    width: 100%;
+}
+#main-contents section #osusume-game-ranking-area .Appimg img.apprank{
+position: absolute;
+    top: -2px;
+    width: 40px;
+}
+
+}/*-- â media only screen End --*/
+/*--------------------------------------------------------
+åºåè¡¨ç¤ºã¹ã¿ã¤ã«
+-------------------------------------------------------*/
+
+div.adstir_native_wrapper_176228 {
+    font-family: "Hiragino Kaku Gothic Pro","ãã©ã®ãè§ã´ Pro W3","Meiryo","ã¡ã¤ãªãª","Osaka","MS PGothic",arial,helvetica,sans-serif;
+    line-height: 1.5;
+    color: #444;
+    background: #fff;
+    word-wrap: break-word;
+    border-bottom: 1px solid #dde4e6;
+    /* margin: 0.25em 0; */
+    /* padding: 0 0 5px; */
+    z-index: 10;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+    clear: both;
+    font-size: 100%;
+    font-weight: normal;
+    height: 100%;
+    position: relative;
+    /* margin-left: -16px; */
+    display: block;
+    /* margin-top: 10px; */
+}
+
+div.adstir_native_wrapper_176228 .adstir_native_banner_176228 {
+    width: 70px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    background-color: #111;
+    border: 0;
+    vertical-align: middle;
+    float: left;
+    padding: 0;
+    font-size: 100%;
+    font-weight: normal;
+    border-radius: 0px;
+    margin: 10px 0 0 0;
+    overflow: hidden;
+    max-width: 70px;
+    text-align: center;
+}
+
+div.adstir_native_wrapper_176228 .adstir_native_textarea_176228 {
+    text-align: left;
+    font-size: 13px;
+    font-weight: normal;
+    padding: 10px 0 0 0;
+    position: relative;
+}
+
+
+/*-----------------------------------------------
+GããNEW
+-----------------------------------------------*/
+
+#gNavi_button_new ul {
+  list-style-type: none;
+}
+#gNavi_button_new ul li {
+  border-bottom:1px solid #f2f2f2;
+  float: left;
+  text-align: center;
+  width: 19.7%;
+  font-size: 0.7em;
+}
+#gNavi_button_new ul li:nth-child(1),#gNavi_button_new ul li:nth-child(2),#gNavi_button_new ul li:nth-child(3),#gNavi_button_new ul li:nth-child(4),#gNavi_button_new ul li:nth-child(5),#gNavi_button_new ul li:nth-child(6),#gNavi_button_new ul li:nth-child(7),#gNavi_button_new ul li:nth-child(8),#gNavi_button_new ul li:nth-child(9),#gNavi_button_new ul li:nth-child(10) {
+  border-right:1px solid #f2f2f2;
+}
+#gNavi_button_new ul li:last-child{
+border-right:0px solid #f2f2f2;
+}
+#gNavi_button_new ul li.icon-gnavi-01 {
+  background-image:url(https://img.altema.jp/common/icon-news-sp.png);
+  background-repeat:no-repeat;
+  background-size: 35%;
+  background-position:50% 50%;
+  background-color: #0b9de8;
+}
+#gNavi_button_new ul li.icon-gnavi-02 {
+  background-image:url(https://img.altema.jp/common/icon-gacha-sp.png);
+  background-repeat:no-repeat;
+  background-size: 38%;
+  background-position:50% 50%;
+  background-color: #0b9de8;
+}
+#gNavi_button_new ul li.icon-gnavi-02 a{
+    line-height: 1.2em;
+}
+
+#gNavi_button_new ul li.icon-gnavi-03 {
+  background-image:url(https://img.altema.jp/common/icon-rank-sp.png);
+  background-repeat:no-repeat;
+  background-size: 38%;
+  background-position:50% 50%;
+  background-color: #0b9de8;
+}
+#gNavi_button_new ul li.icon-gnavi-03 a{
+    line-height: 1.2em;
+}
+
+#gNavi_button_new ul li.icon-gnavi-04 {
+  background-image:url(https://img.altema.jp/common/icon-b-sp.png);
+  background-repeat:no-repeat;
+  background-size: 52%;
+  background-position: 50% 50%;
+  background-color: #0b9de8;
+}
+#gNavi_button_new ul li.icon-gnavi-05 {
+  background-image:url(https://img.altema.jp/common/icon-g-m-sp.png);
+  background-repeat:no-repeat;
+  background-size: 38%;
+  background-position:50% 50%;
+  background-color: #0b9de8;
+}
+#gNavi_button_new ul li.icon-gnavi-06 {
+background-image:url(https://img.altema.jp/common/icon-g-m-sp.png);
+background-repeat:no-repeat;
+background-size: 38%;
+background-position:50% 50%;
+background-color: #0b9de8;
+}
+#gNavi_button_new ul li.icon-gnavi-07 {
+background-image:url(https://img.altema.jp/common/icon-g-m-sp.png);
+background-repeat:no-repeat;
+background-size: 38%;
+background-position:50% 50%;
+background-color: #0b9de8;
+}
+#gNavi_button_new ul li.icon-gnavi-08 {
+background-image:url(https://img.altema.jp/common/icon-g-m-sp.png);
+background-repeat:no-repeat;
+background-size: 38%;
+background-position:50% 50%;
+background-color: #0b9de8;
+}
+#gNavi_button_new ul li.icon-gnavi-09 {
+background-image:url(https://img.altema.jp/common/icon-g-m-sp.png);
+background-repeat:no-repeat;
+background-size: 38%;
+background-position:50% 50%;
+background-color: #0b9de8;
+}
+#gNavi_button_new ul li.icon-gnavi-10 {
+background-image:url(https://img.altema.jp/common/icon-g-m-sp.png);
+background-repeat:no-repeat;
+background-size: 38%;
+background-position:50% 50%;
+background-color: #0b9de8;
+}
+
+#gNavi_button_new ul li a {
+  color: #fff;
+  display: block;
+  height: 20px;
+  line-height: 2;
+  padding: 6px 0;
+  text-decoration: none;
+  font-weight:  bold;
+}
+
+/*-----------------------------------------------
+NEW LOGO
+-----------------------------------------------*/
+
+.logo img{
+    width: 100px!important;
+}
+.logo {
+    text-align: left;
+    margin: 8px 10px 0;
+    display:  inline-block;
+}
+.head-logo span.home-bt{
+  float: right;
+    color: #23254c;
+    padding: 10px 10px 10px 13px;
+    font-size:0.8em;
+  background-image:url(https://img.altema.jp/common/icon-home-newsp.png);
+  background-repeat:no-repeat;
+  background-size: 18%;
+  background-position:0% 48%;
+
+}
+.head-logo span.login-bt{
+  float: right;
+    color: #23254c;
+    padding: 10px 10px 10px 12px;
+    font-size:0.8em;
+  background-image:url(https://img.altema.jp/common/icon-login-newsp.png);
+  background-repeat:no-repeat;
+  background-size: 15%;
+  background-position:0% 48%;
+  margin-left:5px;
+}
+span.home-bt a,span.login-bt a{
+  color: #23254c;
+}
+span.home-bt a,span.login-bt a:hover{
+  color: #23254c;
+}
+
+@media only screen and (orientation:landscape) and (max-width : 813px),(orientation:portrait) and (max-width : 753px){
+.head-logo span.login-bt{
+  background-image:none;
+}
+#gacha-jump .gachaBtn{
+  display:block;
+  margin:0 auto;
+}
+
+#main-contents #osusume-game-ranking-area .PRrank-icon td.Apptitle{
+border-right: 1px solid #dde4e6;
+border-bottom: 1px solid #dde4e6;
+font-size: 10px;
+margin: 0;
+padding: 0 5px;
+display: table-cell;
+}
+
+/*------------------------------------------------------------
+äºåç»é²ä¸è¦§
+-------------------------------------------------------------*/
+#main-contents li.app-item{
+    border: 2px solid #f2f2f2;
+    margin:0 0 20px 0;
+    padding:0;
+    background: none;
+    position: relative;
+    z-index: 1;
+}
+.media-box{
+    border: 1px solid #cccccc;
+    padding: 0px 0 10px;
+}
+.media-title-box{
+    display: block;
+    min-height: 100px;
+    position: relative;
+}
+.media-title-box p{
+    margin: 0;
+}
+p.sub-info{
+    color: #FFF;
+    font-size: 11px;
+    margin-bottom: 5px;
+}
+.icon-app{
+    position: relative;
+    background: -moz-linear-gradient(top, rgba(0, 0, 0, 0) 40%, #000000f5);
+    background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 40%, #000000f5);
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 40%, #000000f5);
+}
+.icon-app img{
+    width: 100%;
+    display: inline;
+    z-index: -1;
+    position: relative;
+    height: 150px;
+    object-fit: cover;
+    object-position: top;
+}
+.icon-app a{
+    display: block;
+}
+.media-title{
+    display: inline-block;
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 10px;
+}
+#main-contents ul.gacha-list .media-title p{
+    padding: 0 10px;
+}
+.media-title p a{
+    font-size: 16px;
+    font-weight: bold;
+    color: #FFF;
+}
+.tokuten-box{
+    margin-bottom:10px; 
+}
+.reserv-txt{
+    width: 36%;
+    display: inline-block;
+    vertical-align: top;
+}
+.yoyakunin{
+    text-align: center;
+    padding: 3px 0;
+    background: #f7931e;
+    color: #fff;
+    font-size: 12px;
+}
+.tokuten-box .yoyakusuu{
+    text-align: center;
+    padding: 6px 0;
+    font-size: 12px;
+    border: 1px solid #ccc;
+    border-top: 0px;
+}
+.wchance-icon{
+    text-align: center;
+    font-size: 12px;
+    padding: 5px 0;
+    margin-top: 5px;
+    color: #FFF;
+    background-color:#8cc63f;
+}
+.tokuten-item{
+    width: 62%;
+    display: inline-block;
+    vertical-align: top;
+}
+#main-contents ul.gacha-list .tokuten-item p{
+    padding:0 10px;
+    line-height: 1.4em;
+    margin: 0;
+    font-size: 13px;
+}
+#main-contents ul.gacha-list .tokuten-item p.tokuten-icon{
+font-size: 16px;
+    color: #ff3e55;
+    font-weight: bold;
+    background-image: url(https://img.altema.jp/altema/pregacha/icon-gif.png);
+    background-repeat: no-repeat;
+    background-position: 10px 0px;
+    background-size: 15px;
+    padding-left:30px;
+    margin-bottom:5px; 
+}
+#main-contents .media-box p{
+    margin: 0;
+}
+.release-txt{
+    padding: 5px 0;
+    background: #bbb;
+    color: #FFF;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 10px;
+}
+.release-txt span{
+}
+.app-gchend{
+    background: #00000070;
+    position: absolute;
+    width: 100%;
+    height: 45%;
+    top: 0;
+}
+.app-ouboend{
+    background: #34a3d15e;
+    position: absolute;
+    width: 100%;
+    height: 45%;
+    top: 0;
+}
+img.z-img-end{
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    width: 80%;
+}
+
+
+/*-------------------------------------------------------
+äºåç»é²ï¼éç¥ç»é²ã¬ãã£ãã¿ã³
+-------------------------------------------------------*/
+#gacha-jump a.gachaBtn{
+display: inline-block;
+width:100%;
+box-sizing:border-box;
+padding: 10px 0px 10px 20px;
+text-decoration: none;
+border-radius: 4px;
+color: #fff!important;
+font-size:14px;
+font-weight:bold;
+background-image: linear-gradient(-20deg, #2a39be, #0094cc, #34a3d1);
+transition: .5s;
+background-size: 200%;
+box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.29);
+border-bottom: solid 3px #002d60;
+position:relative;
+}
+#gacha-jump a.gachaBtn:before {
+content: '';
+position: absolute;
+z-index: 2;
+display: inline-block;
+width: 20px;
+height: 15px;
+background-image: url(https://img.altema.jp/altema/pregacha/gachaicon.png);
+background-size: contain;
+background-repeat: no-repeat;
+top:30%;
+left:15px;
+}
+#gacha-jump a.gachaBtn:hover{
+background-position: right center;
+}
+#gacha-jump a.gachaBtn:active{
+-webkit-transform: translateY(4px);
+transform: translateY(4px);
+box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.2);
+border-bottom: none;
+}
+#gacha-jump a.gachaBtn{
+margin-bottom:0px;
+}
+#gacha-jump a.gachaBtn.release-notice-btn{
+display: inline-block;
+width:100%;
+box-sizing:border-box;
+padding: 10px 0px 10px 15px;
+text-decoration: none;
+border-radius: 4px;
+color: #fff!important;
+font-size:14px;
+font-weight:bold;
+background-image: linear-gradient(-20deg, #2a39be, #0094cc, #34a3d1);
+transition: .5s;
+background-size: 200%;
+box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.29);
+border-bottom: solid 3px #002d60;
+}
+#gacha-jump a.gachaBtn.release-notice-btn:before {
+content: '';
+position: absolute;
+z-index: 2;
+display: inline-block;
+width: 15px;
+height: 15px;
+background-image: url(https://img.altema.jp/altema/pregacha/belicon.png);
+background-size: contain;
+background-repeat: no-repeat;
+top:30%;
+left:40px;
+}
+#gacha-jump a.gachaBtn.release-notice-btnt:hover{
+background-position: right center;
+}
+#gacha-jump a.gachaBtn.release-notice-btn:active{
+-webkit-transform: translateY(4px);
+transform: translateY(4px);
+box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.2);
+border-bottom: none;
+}
+#gacha-jump a.reset{
+margin-bottom:0px;
+}
+#gacha-jump .notice-registered{
+display: inline-block;
+width:45%;
+box-sizing:border-box;
+padding: 10px 0px;
+text-decoration: none;
+border-radius: 4px;
+color: #fff!important;
+font-size:14px;
+font-weight:bold;
+background-image: linear-gradient(-20deg, #676767, #888, #888);
+transition: .5s;
+background-size: 100%;
+border:1px solid #ccc;
+}
+@media only screen and (max-width : 320px){
+#gacha-jump a.gachaBtn{
+display: inline-block;
+width:45%!important;
+box-sizing:border-box;
+padding: 10px 0px 10px 25px;
+text-decoration: none;
+border-radius: 4px;
+color: #fff!important;
+font-size:13px;
+font-weight:bold;
+background-image: linear-gradient(-20deg, #2a39be, #0094cc, #34a3d1);
+transition: .5s;
+background-size: 200%;
+box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.29);
+border-bottom: solid 3px #002d60;
+position:relative;
+}
+#gacha-jump a.gachaBtn:before {
+content: '';
+position: absolute;
+z-index: 2;
+display: inline-block;
+width: 20px;
+height: 12px;
+background-image: url(https://img.altema.jp/altema/pregacha/gachaicon.png);
+background-size: contain;
+background-repeat: no-repeat;
+top:35%;
+left:8px;
+}
+#gacha-jump a.gachaBtn.release-notice-btn{
+display: inline-block;
+width:45%!important;
+box-sizing:border-box;
+padding: 10px 0px 10px 16px;
+text-decoration: none;
+border-radius: 4px;
+color: #fff!important;
+font-size:13px;
+font-weight:bold;
+background-image: linear-gradient(-20deg, #2a39be, #0094cc, #34a3d1);
+transition: .5s;
+background-size: 200%;
+box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.29);
+border-bottom: solid 3px #002d60;
+}
+#gacha-jump a.gachaBtn.release-notice-btn:before {
+content: '';
+position: absolute;
+z-index: 2;
+display: inline-block;
+width: 12px;
+height: 12px;
+background-image: url(https://img.altema.jp/altema/pregacha/belicon.png);
+background-size: contain;
+background-repeat: no-repeat;
+top:35%;
+left:5px;
+}
+}
+.gachaBtn.releace-notice-btn {
+border: 1px solid #34a3d1;
+border-radius: 2px;
+color: #34a3d1;
+display: block;
+font-weight: bold;
+padding: 7px 0;
+text-align: center;
+width: 100%;
+margin: 0 auto;
+transition: 0.3s;
+}
+.gachaBtn.releace-notice-close-btn {
+border: 1px solid #34a3d1;
+border-radius: 2px;
+color: #34a3d1;
+display: block;
+font-weight: bold;
+padding: 7px 0;
+text-align: center;
+width: 100%;
+margin: 0 auto;
+transition: 0.3s;
+}
+.page.release-notice-result{
+padding:20px;
+box-sizing:border-box;
+text-align:center;
+}
+.gachaBtn.releace-notice-close-btn{
+position:absolute;
+width:80%;
+bottom:10px;
+left:0;
+right:0;
+}
+
+
+/*------------------------------------------------------------
+ãã¤ãã¼ã¸
+-------------------------------------------------------------*/
+#main-contents h2.myPh{
+    background: rgba(10,10,43,1);
+    background: -moz-linear-gradient(left, rgba(10,10,43,1) 0%, rgba(10,10,43,1) 13%, rgba(36,34,81,1) 13%, rgba(36,34,81,1) 87%, rgba(10,10,43,1) 87%, rgba(10,10,43,1) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(10,10,43,1)), color-stop(13%, rgba(10,10,43,1)), color-stop(13%, rgba(36,34,81,1)), color-stop(87%, rgba(36,34,81,1)), color-stop(87%, rgba(10,10,43,1)), color-stop(100%, rgba(10,10,43,1)));
+    background: -webkit-linear-gradient(left, rgba(10,10,43,1) 0%, rgba(10,10,43,1) 13%, rgba(36,34,81,1) 13%, rgba(36,34,81,1) 87%, rgba(10,10,43,1) 87%, rgba(10,10,43,1) 100%);
+    background: -o-linear-gradient(left, rgba(10,10,43,1) 0%, rgba(10,10,43,1) 13%, rgba(36,34,81,1) 13%, rgba(36,34,81,1) 87%, rgba(10,10,43,1) 87%, rgba(10,10,43,1) 100%);
+    background: -ms-linear-gradient(left, rgba(10,10,43,1) 0%, rgba(10,10,43,1) 13%, rgba(36,34,81,1) 13%, rgba(36,34,81,1) 87%, rgba(10,10,43,1) 87%, rgba(10,10,43,1) 100%);
+    background: linear-gradient(to right, rgba(10,10,43,1) 0%, rgba(10,10,43,1) 13%, rgba(36,34,81,1) 13%, rgba(36,34,81,1) 87%, rgba(10,10,43,1) 87%, rgba(10,10,43,1) 100%);
+    color: #FFF;
+    text-align: center;
+    margin-bottom: 0;
+}
+#main-contents .myNews-list li{
+    padding-left: 5px;
+}
+#main-contents .myNews-list li a{
+    padding: 10px 5px 10px 35px;
+    font-size: 14px;
+    background-image: url(https://img.altema.jp/altema/pregacha/news-icon.png);
+    background-position: 5px 10px;
+    background-repeat: no-repeat;
+    background-size: 20px;
+    display: block;
+}
+#main-contents .myNews-list li a:hover{
+    background-color:#F2F2F2;
+}
+#main-contents .myReserv-list table{
+    border: 1px solid #BDCCD4;
+    width: 100%;
+}
+#main-contents .myReserv-list table td{
+    padding: 0.6em;
+    border-right: 0px solid #BDCCD4;
+    border-bottom: 1px solid #BDCCD4;
+    vertical-align: middle;
+}
+.myAppdown a{
+    padding: 10px 2px;
+}
+.myAppdown span.gacha-off{
+    padding: 10px 2px;
+}
+}
+
+
+/*--------------------------------------------------------
+ã¬ãã¥ã¼ä¸è¦§
+--------------------------------------------------------*/
+#main-contents .ninkiRanking li{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: baseline;
+}
+
+.ranking_img{
+  display:inline-block;
+  vertical-align: middle;
+  width: 35px;
+  text-align: center;
+  }
+.ranking_img img{
+  vertical-align: middle;
+}
+.ninkiRanking .topReview{
+  float:none;
+  width: 100%;
+  border: none;
+  display:inline-block;
+  vertical-align: middle;
+}
+.ninkiRanking .topReview p{
+  display:none;
+}
+.topReview .topReviewInner div a img{
+   vertical-align: middle;
+   display: inline-block;
+   width: 50px;
+}
+.topReviewInner div {
+    max-width:none;
+    vertical-align: middle;
+    display: inline-block;
+    margin: 0 5px;
+}
+.topReviewInner {
+    display: inline-block;
+    vertical-align: middle;
+    width:100%;
+}
+.ninkiRanking .topReviewInner dl{
+  display:inline-block;
+  width: 76%;
+  vertical-align:middle;
+}
+.ninkiRanking .Rank{
+  text-align: center;
+}
+
+/*------------------------------------------------------------
+è©±é¡ã¯ã¼ã
+-------------------------------------------------------------*/
+div.s-Word-box{
+    overflow-x: scroll;
+    margin: 0px 0 10px;
+    background-color: #effaff;
+    padding: 10px 0 0px;
+}	
+div.s-Word-box ul.s-Word {
+    margin: 0;
+    margin-bottom: 40px;
+    text-align: left;
+    width: 100%;
+    min-width: max-content;
+    flex-wrap: wrap;
+}
+div.s-Word-box ul.s-Word li{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 15px;
+    cursor: pointer;
+    position: relative;
+    line-height: 20px;
+}
+div.s-Word-box ul.s-Word li:first-child{
+	padding-right: 15px;
+	border-right: 1px dashed #999;
+	font-weight: bold;
+	margin-left: 10px;
+}
+div.s-Word-box ul.s-Word{
+    display:block;
+    margin: 0 auto 10px auto;
+    text-align:center;
+}
+div.s-Word-box ul.s-Word li a{
+	border:1px solid #ccc;
+	border-radius:4px;
+	padding:5px 10px;
+	background:#fffc;
+}
+div.s-Word-box::-webkit-scrollbar {
+  display: none;
+}
+
+
+/*------------------------------------------------------------
+è©±é¡ã¯ã¼ã
+-------------------------------------------------------------*/
+div.s-Word-box{
+  overflow-x: auto;
+  margin: 0px 0px 10px 0px;
+  background-color: #f5f5f5;
+  padding: 10px 10px 3px 0;
+  -webkit-overflow-scrolling: touch;
+  border-top:1px solid #eaeaea;
+  border-bottom:1px solid #eaeaea;
+  cursor:pointer;
+  background: -webkit-repeating-linear-gradient(-45deg, #eaeaea, #eaeaea 3px,#f5f5f5 3px, #f5f5f5 7px);
+background: repeating-linear-gradient(-45deg, #eaeaea, #eaeaea 3px,#f5f5f5 3px, #f5f5f5 7px);
+} 
+div.s-Word-box::-webkit-scrollbar{
+   height: 3px;ã/*ã¹ã¯ã­ã¼ã«ãã¼ãåºãã¾ãã*/
+}
+div.s-Word-box::-webkit-scrollbar-track{
+   background: #eaeaea;ã/*ã¹ã¯ã­ã¼ã«ãã¼ã®èæ¯ã®è²*/
+}
+div.s-Word-box::-webkit-scrollbar-thumb {
+   background: #34a3d1;ã/*ã¹ã¯ã­ã¼ã«ãã¼ã®è²ãå¤ãããªã*/
+}
+div.s-Word-box ul.s-Word {
+    margin: 0;
+    margin-bottom: 40px;
+    text-align: left;
+    min-width: max-content;
+    flex-wrap: wrap;
+    display:block;
+    margin: 0px 5px 6px 5px;
+    text-align:center;
+    background:#FFF;
+    padding: 8px 0px 8px 10px;
+    box-shadow: #ccc 0px 0px 1px;
+    border-radius:20px;
+}
+div.s-Word-box ul.s-Word li{
+  padding-right: 15px;
+  border-right: 1px dashed #999;
+  font-weight: bold;
+  margin-left: 10px;
+}
+div.s-Word-box ul.s-Word li:last-child{
+  padding-right: 15px;
+  border-right: 0px dashed #999;
+  font-weight: bold;
+  margin-left: 10px;
+}
+div.s-Word-box ul.s-Word li{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+    cursor: pointer;
+    position: relative;
+}
+div.s-Word-box ul.s-Word li a{
+  padding:5px 10px;
+}
+
+
+/*--------------------------------------------------------
+SPã¦ã£ã¸ã§ããç¨ãªã³ã¯ä¿®æ­£
+-------------------------------------------------------*/
+#main #sub-contents-in ul li{
+font-size:13px;
+margin:0;
+padding:8px 5px;
+position:relative;
+border-bottom: 1px solid #dde4e6;
+}
+#main #sub-contents-in ul li a{
+border:0;
+}
+.col3 #sub-contents h4 {
+border-top: 0px solid #f5f5f5;
+border-bottom: 0px solid #f5f5f5;
+}
+.col3 #sub-contents u {
+border-top: 0px solid #f5f5f5;
+border-bottom: 0px solid #f5f5f5;
+}
+#main #sub-contents-in ul li:first-child{
+border-top: 1px solid #f0f0f0;
+}
+#main #sub-contents-in ul li a{
+padding:0px 30px 0px 5px;
+display:block;
+cursor:pointer;
+font-size:13px;
+text-align:left;
+overflow: hidden;
+text-overflow: ellipsis;
+white-space: nowrap;
+}
+#main #sub-contents-in ul li a::after {
+position: absolute;
+content: '';
+width: 6px;
+height: 6px;
+border-top: solid 2px #d6e0e8;
+border-right: solid 2px #d6e0e8;
+-webkit-transform: rotate(45deg);
+transform: rotate(45deg);
+top: 50%;
+right: 10px;
+margin-top: -5px;
+}
+#main #submenu-34 ul li:first-child{
+border-top: 0px solid #f0f0f0;
+padding:5px;
+}
+#main #sidebar #ranking-area ul li{
+font-size:13px;
+margin:0;
+padding:0;
+position:relative;
+}
+#main #sidebar #ranking-area ul li:first-child{
+border-top: 1px solid #f0f0f0;
+}
+#main #sidebar #ranking-area ul li:last-child{
+border-top:0px solid #f0f0f0;
+border-bottom:0px solid #f0f0f0;
+margin-bottom:10px;
+
+}
+#main #sidebar #ranking-area ul li a{
+padding:8px 30px 8px 5px;
+display:block;
+cursor:pointer;
+font-size:13px;
+text-align:left;
+overflow: hidden;
+text-overflow: ellipsis;
+white-space: nowrap;
+}
+#main #sidebar #ranking-area ul li a::after {
+position: absolute;
+content: '';
+width: 6px;
+height: 6px;
+border-top: solid 2px #d6e0e8;
+border-right: solid 2px #d6e0e8;
+-webkit-transform: rotate(45deg);
+transform: rotate(45deg);
+top: 50%;
+right: 10px;
+margin-top: -5px;
+}
+#main #sidebar-in ul li{
+font-size:13px;
+margin:0;
+padding:0;
+position:relative;
+border-bottom: 0px solid #dde4e6;
+}
+#main #sidebar-in ul li:first-child{
+border-top: 1px solid #f0f0f0;
+}
+#main #sidebar-in ul li a{
+padding:8px 30px 8px 5px;
+display:block;
+cursor:pointer;
+font-size:13px;
+text-align:left;
+overflow: hidden;
+text-overflow: ellipsis;
+white-space: nowrap;
+}
+#main #sidebar-in ul li a::after {
+position: absolute;
+content: '';
+width: 6px;
+height: 6px;
+border-top: solid 2px #d6e0e8;
+border-right: solid 2px #d6e0e8;
+-webkit-transform: rotate(45deg);
+transform: rotate(45deg);
+top: 50%;
+right: 10px;
+margin-top: -5px;
+}
+#main #side-menu-qa-new ul{
+margin-top:40px;
+margin-bottom:10px;
+}
+
+#main #sidebar-31 a,#main #sidebar-3 a,#main #sidebar-21 a{
+border:0px;
+}
+#main #sidebar-10 p a{
+border:0px;
+}
+#main #recent-comments-2 li a{
+border:0px;
+}
+#main #sidebar-in #recent-comments-2 li{
+padding:8px 30px 8px 5px;
+display:block;
+cursor:pointer;
+font-size:13px;
+text-align:left;
+overflow: hidden;
+text-overflow: ellipsis;
+white-space: nowrap;
+border-bottom: 1px solid #f0f0f0;
+}
+#main #sidebar-in #recent-comments-2 li::after{
+padding:8px 30px 8px 5px;
+display:block;
+cursor:pointer;
+font-size:13px;
+text-align:left;
+overflow: hidden;
+text-overflow: ellipsis;
+white-space: nowrap;
+}
+
+/*--------------------------------------------------------
+äººæ°ãã¼ã¸ã©ã³ã­ã³ã°
+--------------------------------------------------------*/
+.ninki-ranking div[id^="mntad"]{
+font-size: 140%;
+font-weight: bold;
+padding: 0 10px;
+margin: 0 auto;
+width:100%;
+border-radius:0 0 5px 5px;
+box-sizing:border-box;
+text-align: left!important;
+}
+@media
+only screen and (max-width : 640px){
+.ninki-ranking iframe {
+width: 100%;
+height: 59px!important;
+border-bottom: 0px solid #dde4e6!important;
+}
+dl.rosso_wrapper {
+    height: 38px;
+margin:0!important;
+}
+.ninki-ranking div.h3mode + dl + dl + dl + dl + dl + script + div dl.rosso_wrapper {
+height: 38px;
+margin:0 10px!important;
+}
+
+}
+@media
+only screen and (max-width : 320px){
+.ninki-ranking iframe {
+width: 100%;
+height: 59px!important;
+border-bottom: 0px solid #dde4e6!important;
+}
+}
+
+.ninki-ranking dt {
+position: relative;
+font-family: 'Roboto', sans-serif;
+font-size:11px;
+font-weight:600;
+}
+#main-contents .ninki-ranking dl:nth-child(2) dt span{
+position: absolute;
+top:0px;
+left:0px;
+width: 13px;
+padding: 1px 5px;
+background: rgba(255,183,0,1);
+background: -moz-linear-gradient(-45deg, rgba(255,183,0,1) 0%, rgba(255,208,38,1) 46%, rgba(255,183,0,1) 53%, rgba(251,223,147,1) 100%);
+background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(255,183,0,1)), color-stop(46%, rgba(255,208,38,1)), color-stop(53%, rgba(255,183,0,1)), color-stop(100%, rgba(251,223,147,1)));
+background: -webkit-linear-gradient(-45deg, rgba(255,183,0,1) 0%, rgba(255,208,38,1) 46%, rgba(255,183,0,1) 53%, rgba(251,223,147,1) 100%);
+background: -o-linear-gradient(-45deg, rgba(255,183,0,1) 0%, rgba(255,208,38,1) 46%, rgba(255,183,0,1) 53%, rgba(251,223,147,1) 100%);
+background: -ms-linear-gradient(-45deg, rgba(255,183,0,1) 0%, rgba(255,208,38,1) 46%, rgba(255,183,0,1) 53%, rgba(251,223,147,1) 100%);
+background: linear-gradient(135deg, rgba(255,183,0,1) 0%, rgba(255,208,38,1) 46%, rgba(255,183,0,1) 53%, rgba(251,223,147,1) 100%);  color:#FFF;
+border-radius:4px 0 0px 0px;
+line-height:normal;
+}
+#main-contents .ninki-ranking dl:nth-child(3) dt span{
+position: absolute;
+top:0px;
+left:0px;
+width: 13px;
+padding: 1px 5px;
+background: rgba(123,175,201,1);
+background: -moz-linear-gradient(-45deg, rgba(123,175,201,1) 0%, rgba(177,209,230,1) 37%, rgba(155,189,209,1) 51%, rgba(149,162,171,1) 100%);
+background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(123,175,201,1)), color-stop(37%, rgba(177,209,230,1)), color-stop(51%, rgba(155,189,209,1)), color-stop(100%, rgba(149,162,171,1)));
+background: -webkit-linear-gradient(-45deg, rgba(123,175,201,1) 0%, rgba(177,209,230,1) 37%, rgba(155,189,209,1) 51%, rgba(149,162,171,1) 100%);
+background: -o-linear-gradient(-45deg, rgba(123,175,201,1) 0%, rgba(177,209,230,1) 37%, rgba(155,189,209,1) 51%, rgba(149,162,171,1) 100%);
+background: -ms-linear-gradient(-45deg, rgba(123,175,201,1) 0%, rgba(177,209,230,1) 37%, rgba(155,189,209,1) 51%, rgba(149,162,171,1) 100%);
+background: linear-gradient(135deg, rgba(123,175,201,1) 0%, rgba(177,209,230,1) 37%, rgba(155,189,209,1) 51%, rgba(149,162,171,1) 100%);  color:#FFF;
+border-radius:4px 0 0px 0px;
+line-height:normal;
+}
+#main-contents .ninki-ranking dl:nth-child(4) dt span{
+position: absolute;
+top:0px;
+left:0px;
+width: 13px;
+padding: 1px 5px;
+background: rgba(255,183,74,1);
+background: -moz-linear-gradient(-45deg, rgba(255,183,74,1) 0%, rgba(193,158,103,1) 40%, rgba(182,141,76,1) 51%, rgba(255,203,125,1) 100%);
+background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(255,183,74,1)), color-stop(40%, rgba(193,158,103,1)), color-stop(51%, rgba(182,141,76,1)), color-stop(100%, rgba(255,203,125,1)));
+background: -webkit-linear-gradient(-45deg, rgba(255,183,74,1) 0%, rgba(193,158,103,1) 40%, rgba(182,141,76,1) 51%, rgba(255,203,125,1) 100%);
+background: -o-linear-gradient(-45deg, rgba(255,183,74,1) 0%, rgba(193,158,103,1) 40%, rgba(182,141,76,1) 51%, rgba(255,203,125,1) 100%);
+background: -ms-linear-gradient(-45deg, rgba(255,183,74,1) 0%, rgba(193,158,103,1) 40%, rgba(182,141,76,1) 51%, rgba(255,203,125,1) 100%);
+background: linear-gradient(135deg, rgba(255,183,74,1) 0%, rgba(193,158,103,1) 40%, rgba(182,141,76,1) 51%, rgba(255,203,125,1) 100%);
+color:#FFF;
+border-radius:4px 0 0px 0px;
+line-height:normal;
+}
+#main-contents .ninki-ranking dl:nth-child(5) dt span,#main-contents .ninki-ranking dl:nth-child(6) dt span,#main-contents .ninki-ranking dl:nth-child(7) dt span,#main-contents .ninki-ranking dl:nth-child(8) dt span,#main-contents .ninki-ranking dl:nth-child(9) dt span,#main-contents .ninki-ranking dl:nth-child(10) dt span,#main-contents .ninki-ranking dl:nth-child(11) dt span{
+position: absolute;
+top:0px;
+left:0px;
+width: 13px;
+padding: 1px 5px;
+background: rgba(168,168,168,1);
+background: -moz-linear-gradient(-45deg, rgba(168,168,168,1) 0%, rgba(92,92,92,1) 100%);
+background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(168,168,168,1)), color-stop(100%, rgba(92,92,92,1)));
+background: -webkit-linear-gradient(-45deg, rgba(168,168,168,1) 0%, rgba(92,92,92,1) 100%);
+background: -o-linear-gradient(-45deg, rgba(168,168,168,1) 0%, rgba(92,92,92,1) 100%);
+background: -ms-linear-gradient(-45deg, rgba(168,168,168,1) 0%, rgba(92,92,92,1) 100%);
+background: linear-gradient(135deg, rgba(168,168,168,1) 0%, rgba(92,92,92,1) 100%);
+color:#FFF;
+border-radius:4px 0 0px 0px;
+line-height:normal;
+}
+div.rosso_wrapper{
+margin:0 10px!important;
+border-radius:5px;
+}
+
+/*--------------------------------------------------------
+éå ±ã¾ã¨ãããã®Pã¿ã°æ¶ãCSS
+-------------------------------------------------------*/
+
+div.swiper-container-horizontal + script + p{
+  display:none;
+}
+div.swiper-container-horizontal + script + p + p{
+  display:none;
+}
+div.swiper-container-horizontal + script + p + p + p{
+  display:none;
+}
+
+div.swiper-container-horizontal + script + .mainImage{
+  display:none;
+}
+div.swiper-container-horizontal + script + .mainImage + p{
+  display:none;
+}
+div.swiper-container-horizontal + script + .mainImage + p + p{
+  display:none;
+}
+
+
+/*-------------------------------
+ãã(æ²ç¤ºæ¿)ã¢ã¼ãã«
+-------------------------------*/
+
+div[id*="modal-menu-box-2"]:first-child div.topNavi-modal-menu-title{
+font-size: 14px;
+padding: 10px;
+margin: 0 0 10px 0;
+position: relative;
+font-weight: bold;
+background: #004c6b;
+color:#fff;
+letter-spacing:3px;
+height: 21px;
+}
+div[id*="modal-menu-box-2"] div.topNavi-modal-menu-title{
+font-size: 14px;
+padding: 10px;
+margin:10px 0;
+position: relative;
+font-weight: bold;
+background: #004c6b;
+color:#fff;
+letter-spacing:3px;
+}
+div[id*="modal-menu-box-2"] div.topNavi-modal-menu-title span.topNavi-modal-menu-close-button{
+font-size: 20px;
+z-index: 1;
+position: absolute;
+right: 7px;
+top: 7px;
+border: 1px solid #396e7d;
+border-radius: 5px;padding: 5px 6px;
+margin:0;height: 14px;
+width: 14px;display: inline-block;
+line-height: 0.5em;
+}
+div[id*="modal-menu-box-2"] ul.topNavi-modal-menu-list{
+margin: 0;
+padding: 0;
+}
+div[id*="modal-menu-box-2"] ul.topNavi-modal-menu-list li {
+padding:0;
+margin: 5px;
+border: solid 1px #e6ecec;
+background-color: #f9f9f9;
+border-radius: 5px;
+}
+div[id*="modal-menu-box-2"] ul.topNavi-modal-menu-list li div.menubar-border-item{
+margin: 0;
+padding: 0;
+}
+div[id*="modal-menu-box-2"] ul.topNavi-modal-menu-list li div.menubar-border-item a{
+display: block;
+padding: 10px 10px 3px;
+font-weight: bold;
+font-size: 14px;
+color: #34A3D1;
+}
+div[id*="modal-menu-box-2"] ul.topNavi-modal-menu-list li div.menubar-border-item2{
+margin: 0;
+padding: 0 10px 5px;
+font-size:12px;
+}
+div[id*="modal-menu-box-2"] ul.topNavi-modal-menu-list li div.menubar-border-item2 span.menubar-board-date{
+margin: 0 5px 0 0;
+padding: 8px 0 6px 20px;
+background-image:url(https://img.altema.jp/altema/uploads/2018/12/2018y12m26d_1717408606.png);
+background-repeat:no-repeat;
+background-position:left;
+background-size:16px;
+width: 110px;
+display:inline-block;
+margin: 0 0px 0 0;
+}
+div[id*="modal-menu-box-2"] ul.topNavi-modal-menu-list li div.menubar-border-item2 span.menubar-board-time{
+margin: 0 5px 0 0;
+padding: 8px 0 6px 20px;
+background-image:url(https://img.altema.jp/altema/uploads/2018/12/2018y12m26d_1717354135.png);
+background-repeat:no-repeat;
+background-position:left;
+background-size:16px;width: 45px;
+display:inline-block;
+}
+div[id*="modal-menu-box-2"] ul.topNavi-modal-menu-list li div.menubar-border-item2 span.menubar-board-viewer{
+margin: 0;
+padding: 8px 0 6px 20px;
+background-image:url(https://img.altema.jp/altema/uploads/2018/12/2018y12m26d_1717383773.png);
+background-repeat:no-repeat;
+background-position:left;
+background-size:16px;
+width: 48px;
+display:inline-block;
+}
+.menubar-border-item2 {
+    color: #333;
+}
+
+@media only screen and (orientation:landscape) and (max-width : 813px),(orientation:portrait) and (max-width : 753px){
+
+/*--------------------------------------------------------
+äººæ°ãã¼ã¸ã©ã³ã­ã³ã°
+--------------------------------------------------------*/
+
+.ninki-ranking#ninki-list dl:first-child:before{
+  content: '';
+  position:absolute;
+  z-index: 2;
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  background-image:url(https://img.altema.jp/common/ranking_game/rank/pr1.png);
+  background-size:contain;
+  background-repeat:no-repeat;
+  top:2px;
+  left:2px;
+}
+.ninki-ranking#ninki-list dl:nth-child(2):before{
+  content: '';
+  position:absolute;
+  z-index: 2;
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  background-image:url(https://img.altema.jp/common/ranking_game/rank/pr2.png);
+  background-size:contain;
+  background-repeat:no-repeat;
+  top:2px;
+  left:2px;
+}
+.ninki-ranking#ninki-list dl:nth-child(3):before{
+  content: '';
+  position:absolute;
+  z-index: 2;
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  background-image:url(https://img.altema.jp/common/ranking_game/rank/pr3.png);
+  background-size:contain;
+  background-repeat:no-repeat;
+  top:2px;
+  left:2px;
+}
+.ninki-ranking#ninki-list dl:nth-child(4):before{
+  content: '';
+  position:absolute;
+  z-index: 2;
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  background-image:url(https://img.altema.jp/common/ranking_game/rank/pr4.png);
+  background-size:contain;
+  background-repeat:no-repeat;
+  top:2px;
+  left:2px;
+}
+.ninki-ranking#ninki-list dl:nth-child(5):before{
+  content: '';
+  position:absolute;
+  z-index: 2;
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  background-image:url(https://img.altema.jp/common/ranking_game/rank/pr5.png);
+  background-size:contain;
+  background-repeat:no-repeat;
+  top:2px;
+  left:2px;
+}
+.ninki-ranking#ninki-list dl:nth-child(6):before{
+  content: '';
+  position:absolute;
+  z-index: 2;
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  background-image:url(https://img.altema.jp/common/ranking_game/rank/pr6.png);
+  background-size:contain;
+  background-repeat:no-repeat;
+  top:2px;
+  left:2px;
+}
+.ninki-ranking#ninki-list dl:nth-child(6):before{
+  content: '';
+  position:absolute;
+  z-index: 2;
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  background-image:url(https://img.altema.jp/common/ranking_game/rank/pr6.png);
+  background-size:contain;
+  background-repeat:no-repeat;
+  top:2px;
+  left:2px;
+}
+.ninki-ranking#ninki-list dl:nth-child(7):before{
+  content: '';
+  position:absolute;
+  z-index: 2;
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  background-image:url(https://img.altema.jp/common/ranking_game/rank/pr7.png);
+  background-size:contain;
+  background-repeat:no-repeat;
+  top:2px;
+  left:2px;
+}
+.ninki-ranking#ninki-list dl:nth-child(8):before{
+  content: '';
+  position:absolute;
+  z-index: 2;
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  background-image:url(https://img.altema.jp/common/ranking_game/rank/pr8.png);
+  background-size:contain;
+  background-repeat:no-repeat;
+  top:2px;
+  left:2px;
+}
+.ninki-ranking#ninki-list dl:nth-child(9):before{
+  content: '';
+  position:absolute;
+  z-index: 2;
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  background-image:url(https://img.altema.jp/common/ranking_game/rank/pr9.png);
+  background-size:contain;
+  background-repeat:no-repeat;
+  top:2px;
+  left:2px;
+}
+.ninki-ranking#ninki-list dl:nth-child(10):before{
+  content: '';
+  position:absolute;
+  z-index: 2;
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  background-image:url(https://img.altema.jp/common/ranking_game/rank/pr10.png);
+  background-size:contain;
+  background-repeat:no-repeat;
+  top:2px;
+  left:2px;
+}
+.ninki-ranking dd{
+color:#448acb;
+}
+.ninki-ranking dd:hover{
+color: #f60;
+}
+.ninki-ranking dd.ninki-all-link {
+display:block;
+position:absolute;
+width:100%;
+height:100%;
+top:0;
+left:0;
+margin:0!important;
+padding:0!important;
+}
+.ninki-ranking dd.ninki-all-link  a{
+display:block;
+position:absolute;
+width:100%;
+height:100%;
+}
+
+/*--------------------------------------------------------
+ããããè¨äºååºåè¡¨ç¤ºã¨ãªã³ã¯
+-------------------------------------------------------*/
+
+.ninki-ranking.otabdetail iframe{
+width: 100%;
+height:110px!important;
+}
+.ninki-ranking div[id^="mntad"] div[class^="adstir_native_wrapper_"] {
+position: relative;
+background: #fff;
+padding: 8px;
+margin: 0 0px;
+box-sizing: content-box;
+border: 1px solid #dde4e6;
+border-radius: 4px;
+width: auto;
+}
+.ninki-ranking div[id^="mntad"] span[class^="adstir_native_contents_"] {
+padding: 0px;
+border-bottom: 0;
+}
+.ninki-ranking div[id^="mntad"] span[class^="adstir_native_banner_"] {
+border-radius:4px;
+height: 35px;
+max-width: initial;
+}
+.ninki-ranking div[id^="mntad"] span[class^="adstir_native_textarea_"] {
+margin: 5px 0 5px 0;
+padding-left: 8px;
+padding-right:12px;
+text-align: left;
+display: table-cell;
+vertical-align: middle;
+color: #448acb;
+font-size: 13px;
+font-weight: normal;
+}
+.ninki-ranking div[id^="mntad"] span[class^="adstir_native_textarea_"]:after  {
+content:">";
+font-size:15px;
+position:absolute;
+top:16px;
+right:8px;
+bottom:0;
+margin:auto;
+}
+.ninki-ranking.otabdetail dl dd{
+color:#448acb;
+padding-right:10px;
+}
+.ninki-ranking.otabdetail dl dd:hover{
+color: #f60;
+}
+.ninki-ranking.otabdetail dl dd:last-child {
+display:block;
+position:absolute;
+width:100%;
+height:100%;
+top:0;
+left:0;
+margin:0!important;
+padding:0!important;
+}
+.ninki-ranking.otabdetail dl dd:last-child:after {
+content:">";
+font-size:15px;
+position:absolute;
+top:16px;
+right:8px;
+bottom:0;
+margin:auto;
+}
+.ninki-ranking.otabdetail dl dd:last-child a{
+display:block;
+position:absolute;
+width:100%;
+height:100%;
+}
+
+
+
+/*--------------------------------------------------------
+SPç¨æ°ãããã¼CSS
+-------------------------------------------------------*/
+#header{
+width:100%;
+min-width:100%;
+overflow:hidden;
+margin: 0 0 0px 0;
+padding: 0;
+position: relative;
+background-size: cover;
+}
+#header .headerWrap {
+border-bottom: 0px dotted #ccc;
+padding: 0px 0 0px;
+}
+#header .headerInner {
+width:100%;
+margin:0 auto;
+padding: 6px 0;
+background:#FFF;
+}
+#header .headerInner a{
+margin:0px;
+vertical-align:middle;
+padding: 0;
+display: inline-block;
+}
+#header .headerInner a img {
+width: 70px;
+margin-left: 8px;
+}
+#header .headerInner ul{
+display: inline-block;
+float:right;
+padding: 0 0 0 0;
+margin: -3px 8px 0px 0;
+line-height: 1.6;
+vertical-align:middle;
+}
+#header .headerInner ul li{
+display: inline-block;
+margin:0 5px;
+padding:0;
+}
+#header .headerInner ul li:first-child a{
+margin:0;
+padding:0;
+color:#727171;
+font-size:11px;
+}
+#header .headerInner ul li:first-child a:before{
+content: '';
+display: inline-block;
+width:10px;
+height:11px;
+background-image:url(https://img.altema.jp/common/gicon-shinki.png);
+background-size: contain;
+background-repeat:no-repeat;
+vertical-align: middle;
+margin-right:6px;
+}
+#header .headerInner ul li:last-child a{
+margin:0;
+padding:0;
+color:#727171;
+font-size:11px;
+line-height: 24px;
+}
+#header .headerInner ul li:last-child a:before{
+content: '';
+display: inline-block;
+width:10px;
+height:11px;
+background-image:none;
+background-size: contain;
+background-repeat:no-repeat;
+vertical-align: middle;
+margin-right:6px;
+}
+#header #mobileTop {
+padding: 5px 0;
+top: 0px;
+width: 100%;
+z-index: 99999;
+}
+#header #mobileTop a {
+color: #fff;
+font-weight:bold;
+text-shadow: 1px 0 #333;
+font-size: 14px;
+}
+#header #mobileTop a img{
+width:50px;
+margin:10px;
+border-radius:10px;
+border:1px solid #333;
+vertical-align:middle;
+}
+#header #container #mobileTop + div {
+margin: 0;
+}
+body.home #container #header #header-in {
+background-size: 100%;
+margin: 0;
+width: 100%;
+padding: 10px 0 45px 0;
+}
+body.home #container #header #header-in {
+background-size: 100%;
+margin: 0;
+width: 100%;
+padding: 10px 0 10px 0;
+}
+.header_top_h1 a{
+display: block;
+color: #FFF;
+font-weight:bold;
+}
+}
+/*--------------------------------------------------------
+SPç¨æ°ãããã¼CSS(Gnvi)
+-------------------------------------------------------*/
+#gNavi_button_NEW .menu-gnaviNEW-container {
+filter: alpha(opacity=50);
+-moz-opacity: 0.8;
+opacity: 0.8;
+width: 100%;
+background: #111111;
+display: flex;
+overflow-x: scroll;
+-webkit-overflow-scrolling: touch;
+overflow-scrolling: touch;
+}
+#gNavi_button_NEW .menu-gnaviNEW-container ul {
+width: 100%;
+min-width: max-content;
+flex-wrap: wrap;
+display:block;
+}
+#gNavi_button_NEW .menu-gnaviNEW-container ul li {
+text-align: center;
+width: 140px;
+margin: 8px 10px;
+border:1px solid #ccc;
+border-radius:5px;
+box-shadow:#444 0px 2px;
+padding:0!important;
+background:transparent;
+opacity:1;
+font-size:16px;
+display: inline-block;
+}
+#gNavi_button_NEW .menu-gnaviNEW-container ul li a {
+display: block;height: 20px;
+color: #fff;
+font-size: 12px;
+padding: 2px 0 2px;
+cursor:pointer;
+position:relative;
+line-height: 1.6;
+}
+#gNavi_button_NEW .menu-gnaviNEW-container ul li a:before{
+content: '';
+display: inline-block;
+width: 8px;
+height: 8px;
+background-image:url(https://img.altema.jp/common/gyaji.png);
+background-size: contain;
+background-repeat:no-repeat;
+margin-right:8px;
+margin-bottom: 1px;
+}
+#gNavi_button_NEW{display: block;
+width: 100%;
+margin: -84px auto 0px auto;
+box-shadow: 0;
+}
+#gNavi_button_NEW ul {
+list-style-type: none;
+}
+#gNavi_button_NEW ul li {
+border: 1px solid #dee3e5;
+float: left;
+text-align: center;
+width: 32.6%;
+}
+@media not screen and (1) {
+#header-new .page-top {
+position: static;
+}
+}
+div#sp-head-koukoku-scripts + script + div{
+background:#FFF;
+padding:0px 0;
+margin-top: 10px;
+}
+/*--------------------------------------------------------
+ã¿ã¤ãã«ãããç¨Gãã
+-------------------------------------------------------*/
+body.home #gNavi_button_NEW{
+display: block;
+width: 100%;
+margin: -62px auto 0px auto;
+box-shadow: 0 ;
+}
+body.home #container #header #header-in {
+background-size: 100%;
+margin: 0;
+width: 100%;
+padding: 16px 0 16px 0!important;
+}
+
+
+
+@media only screen and (orientation:landscape) and (max-width : 813px),(orientation:portrait) and (max-width : 753px){
+/*------------------------------------------------------------
+ãµã¤ãåæ¤ç´¢ãã¼ã¸ã£ã¼
+-------------------------------------------------------------*/
+.gsc-results div.gsc-cursor-box {
+    margin: 10px auto;
+    text-align: center;
+}
+.gsc-wrapper .gsc-results .gsc-cursor-box .gsc-cursor-page{
+width:22px;
+height:22px;
+line-height: 22px;
+    margin: 0 5px 4px 0;
+}
+.gsc-wrapper .gsc-results .gsc-cursor-box .gsc-cursor-page:last-of-type {
+    margin: 0 0 4px 0;
+}
+}
+@media screen and (max-width:360px){
+.gsc-wrapper .gsc-results .gsc-cursor-box .gsc-cursor-page{
+width:21px;
+height:21px;
+line-height: 21px;
+}
+}
+@media screen and (max-width:320px){
+.gsc-wrapper .gsc-results .gsc-cursor-box .gsc-cursor-page {
+    width: 18px;
+    height: 18px;
+    line-height: 18px;
+    margin: 0 4px 4px 0;
+}
+}
+
+/*------------------------------------------------------------
+SPè¿½å æ©è½
+-------------------------------------------------------------*/
+
+@media only screen and (orientation:landscape) and (max-width : 813px),(orientation:portrait) and (max-width : 753px){
+
+/*-ãµãã¡ãã¥ã¼-*/
+body .menuBtn a img {
+display: block;
+margin: -1px 0px 2px 7px;
+width: 24px;
+}
+
+/*--------------------------------------------------------
+æ¤ç´¢ã¿ã
+-------------------------------------------------------*/
+
+.common-tab{
+width:100%;
+}
+
+
+/*--------------------------------------------------------
+æ²ç¤ºæ¿ã¿ã
+--------------------------------------------------------*/
+
+div.ninki-ranking-tab-access{
+font-size: 13px;
+font-weight: normal;
+padding: 0;
+width: auto;
+}
+div.ninki-ranking-tab-access dl{
+border: 1px solid #dde4e6;
+border-radius: 4px;
+background: #fff;
+padding: 10px;
+position: relative;
+}
+.ninki-ranking-tab-access  dl:first-of-type{
+border-radius: 0 0 4px 4px;
+}
+.ninki-ranking-tab-access  dl:not(:last-child){
+margin: 0 10px -1px;
+}
+div.ninki-ranking-tab-keijiban{
+font-size: 13px;
+font-weight: normal;
+padding: 0 0 10px 0;
+width: auto;
+}
+.ninki-ranking-tab-keijiban li{
+border: 1px solid #dde4e6;
+border-radius: 4px;
+background: #fff;
+padding: 0;
+position: relative;
+}
+#main-contents .ninki-ranking-tab-keijiban  li:first-of-type{
+border-radius: 0 0 4px 4px;
+}
+#main-contents .ninki-ranking-tab-keijiban  li{
+margin: 0 10px -1px;
+}
+.ninki-ranking-tab-keijiban a{
+display:block;
+padding: 10px;
+position: relative;
+}
+.ninki-ranking-tab-keijiban a:before {
+content: '';
+position: absolute;
+top: 50%;
+right: 20px;
+display: block;
+width: 8px;
+height: 8px;
+margin-top: -4px;
+border-top: 2px solid #888;
+border-right: 2px solid #888;
+transform: rotate(45deg);
+}
+#main-contents .ninki-ranking-tab-btn{
+display:-webkit-box;
+display:-ms-flexbox;
+display:flex;
+-webkit-box-pack: justify;
+-ms-flex-pack: justify;
+justify-content: space-between;
+text-align: center;
+margin: 0 10px;
+}
+#main-contents .ninki-ranking-tab-btn li{
+width: 50%;
+border-bottom: 2px solid #1298d6;
+margin-bottom: 0;
+font-weight:bold;
+font-size:11px;
+line-height: normal;
+}
+.ninki-ranking-tab-btn li a{
+color: #fff;
+background: #bbb;
+padding: 7px 0;
+display: block;
+border-radius: 5px 5px 0 0;
+border-right: 2px solid #999;
+box-sizing:border-box;
+-webkit-transition: ease .2s opacity;
+transition: ease .2s opacity;
+}
+.ninki-ranking-tab-btn li:last-of-type a{
+border-right: 0;
+}
+.ninki-ranking-tab-btn li .tabactive{
+background: #1298d6;
+border-color: #1b76a0;
+opacity:1;
+}
+@keyframes ninkiranktabAnim{
+0%{opacity:0;}
+100%{opacity:1;}
+}
+ul.ninki-ranking-tab-btn ~ div{
+display:block;
+animation:ninkiranktabAnim ease 0.6s forwards;
+-ms-animation:ninkiranktabAnim ease 0.6s forwards;
+}
+
+/*--------------------------------------------------------
+è¿½å¾ããä¿®æ­£
+-------------------------------------------------------*/
+body.home #menubar_button_Rnew{
+background: #f5f5f5;
+display:none;
+}
+body #menubar_button_Rnew{
+background: #f5f5f5;
+display:block;
+}
+ul.nav-menu-list{
+display:flex;
+width: 100%;
+min-width: max-content;
+flex-wrap: wrap;
+background: #f5f5f5;	
+}
+ul.nav-menu-list li:first-child a{
+margin:0;
+padding-left:10px;
+padding-right:10px;
+display:block;
+width:auto;
+vertical-align:middle;
+color: #34a3d1;
+font-weight:bold;
+font-size:13px;
+display: block;
+background: #f5f5f5;
+opacity: 1;
+line-height:40px;
+border-right:0px;
+}
+ul.nav-menu-list li a{
+border-right:0px;
+padding-left:10px;
+padding-right:10px;
+line-height:40px;
+display:block;
+width:auto;
+vertical-align:middle;
+color: #34a3d1;
+font-weight:bold;
+font-size:13px;
+display: block;
+background: #f5f5f5;
+opacity: 1;
+position:relative;
+}
+ul.nav-menu-list li a:after{
+content:"";
+position:absolute;
+right:0;
+top:0;
+bottom:0;
+margin:auto;
+width:100%;
+height:70%;
+border-right: 1px solid #e4e4e4;
+}
+ul.nav-menu-list li:last-child a:after{
+content:"";
+position:absolute;
+right:0;
+top:0;
+bottom:0;
+margin:auto;
+width:100%;
+height:70%;
+border-right: 0px solid #e4e4e4;
+}
+ul.nav-menu-list li img{
+width:24px;
+height:24px;
+border:1px solid #eaeaea;
+border-radius:5px;
+vertical-align: middle;
+margin:0 8px 0 5px;
+display: inline-block;
+display:none;
+}
+body #menubar_button_Rnew.fixed {
+padding:0;
+box-shadow: 0 0 2px 0 rgba(0,0,0,.12), 0 1px 3px 0 rgba(0,0,0,.24)!important;
+border-bottom: 0px solid rgb(220, 221, 221)!important;
+background: #f5f5f5;
+}
+body #menubar_button_Rnew.fixed {
+background:#f5f5f5;
+display:flex;
+}
+body #menubar_button_Rnew.fixed {
+background:#f5f5f5;
+display:flex;
+}
+body #menubar_button_Rnew.fixed ul.nav-menu-list li img{
+width:24px;
+height:24px;
+border:1px solid #eaeaea;
+border-radius:5px;
+vertical-align: middle;
+margin:0 8px 0 0px;
+display: inline-block;
+}
+.topNavi-modal-menu-close-button{
+display:block;    
+}
+body #menubar_button_Rnew.fixed{
+-webkit-backface-visibility:hidden;
+ backface-visibility:hidden;
+}
+body.home #menubar_button_Rnew.fixed ~ #main{
+margin-top:0;
+}
+body #menubar_button_Rnew.fixed ~ #main{
+margin-top:40px;
+}
+/*--SPè¿½å end--*/
+}
+
+
+.new_koukokuwaku_wrapper{
+width: 300px;
+height: 250px;
+margin: 0 auto;
+}
+@media only screen and (max-width : 414px){
+.new_koukokuwaku_wrapper{
+margin:10px auto;
+}
+#main-contents div[id^="mntad"]{
+text-align:center!important;
+}
+.iframe-wrapper-sp{
+margin: 15px 0 25px 0!important;
+}
+.iframe-wrapper-pc{
+margin: 15px 0 25px 0!important;
+}
+}
+@media only screen and (max-width : 375px){
+.iframe-wrapper-sp{
+margin: 15px 0 20px 0!important;
+}
+.iframe-wrapper-pc{
+margin: 15px 0 20px 0!important;
+}
+}
+
+
+.head_koukoku_wrapper{
+text-align:center;
+display:block;
+margin:5px auto;
+vertical-align:middle;
+}
+
+
+
+/*------------------------------------------------------------
+NEW-FV
+-------------------------------------------------------------*/
+@media only screen and (orientation:landscape) and (max-width : 813px),(orientation:portrait) and (max-width : 753px){
+/*ãã©ã³ãå¤æ´*/
+body{
+font-family: 'Noto Sans JP',"Hiragino Kaku Gothic Pro","ãã©ã®ãè§ã´ Pro W3","Meiryo","ã¡ã¤ãªãª","Osaka","MS PGothic",arial,helvetica,sans-serif;
+}
+/*ã³ã³ãã³ãå·¦å³ä½ç½*/
+.col3 #main-and-sub{
+padding:0 0px;
+box-sizing:border-box;
+}
+/*ãã³ãã*/
+body.home #main-contents .h-koushin-box{
+margin: 2px 0 4px!important;
+}
+#main #main-contents .h-koushin-box p.saisyu-txt {
+display: inline-block;
+text-align: left;
+background: url(https://img.altema.jp/common/koushin-icon.png);
+background-size: 10px;
+background-repeat: no-repeat;
+background-position: 0px center;
+color: #9b9b9b;
+padding-left: 15px;
+margin: 0;
+font-size: 11px;
+}
+/*æ³¨ç®ã®è¨äº(TOPç¨)*/
+.attentionBox{
+border:2px solid #CC0000;
+border-radius:4px;
+padding:5px 10px;
+margin-bottom:10px;
+}
+.attentionBox dt{
+font-weight:bold;
+}
+/*ãããã¼*/
+body.home #container #header #header-in {
+background-size: 100%;
+margin: 0;
+width: 100%;
+padding: 10px 0 10px 0!important;
+}
+/*------------------------------------------------------------
+ãããã¼ï¼h1å¨ãUIr
+-------------------------------------------------------------*/
+body.home #header .header_top_h1{
+display: -webkit-flex;
+display: flex;
+align-items: center;
+font-size:13px;
+font-weight:bold;
+width: 100%;
+color:#FFF;
+}
+body.home #header .header_top_h1 img{
+width: 10%;
+padding: 0px;
+margin: 0px 8px 0 10px;
+box-sizing: border-box;
+border-radius: 6px;
+}
+body.home #main-in .head_koukoku_wrapper{
+display: -webkit-flex;
+display: flex;
+align-items: center;
+justify-content: center;
+margin:0px auto;
+padding:10px 0;
+vertical-align:middle;
+border-top: 1px solid #e1e8ed;
+border-bottom: 1px solid #e1e8ed;
+background: #f3f3f3;
+}
+body.home #main-in #breadcrumbs {
+color: #777;
+font-size: 10px;
+margin-bottom: 0!important;
+background: #FFF;
+margin-top: 0;
+padding: 3px 0 3px 5px!important;
+border:none;
+}
+body.home #main-contents .post h1{
+background:none;
+width:100%;
+margin:0 0 0px 0!important;
+padding:0px 0px 5px;
+box-sizing:border-box;
+color:#333;
+font-size:20px;
+}
+body.home #main-contents .h-koushin-box{
+margin: 2px 0 2px!important;
+display:-webkit-box;
+display: -webkit-flex;
+display:-ms-flexbox;
+display: flex;
+-webkit-flex-wrap:nowrap;
+-ms-flex-wrap:nowrap;
+flex-wrap:nowrap;
+justify-content: space-between;
+padding:0 10px!important;
+box-sizing:border-box;
+}
+#main-contents .h-koushin-box{
+margin: 10px 0 5px!important;
+display:-webkit-box;
+display: -webkit-flex;
+display:-ms-flexbox;
+display: flex;
+-webkit-flex-wrap:nowrap;
+-ms-flex-wrap:nowrap;
+flex-wrap:nowrap;
+justify-content: space-between;
+padding:0 0px!important;
+box-sizing:border-box;
+}
+#main-contents .sns-copytxt ul {
+display: flex;
+margin: 5px 0;
+padding: 0px 0px 0px 0px;
+border-right: 0px solid #ccc;
+width: 100%;
+box-sizing: border-box;
+justify-content: center;
+}
+body.home #main-contents .h-koushin-box:after{
+display:none;
+}
+body.home .h-koushin-box p.khan-txt{
+margin:2px 5px 2px 0!important;
+padding:0 0 0 25px!important;
+font-size:11px;
+background:url(https://img.altema.jp/common/khan-icon.png);
+background-size: 7px;
+background-repeat: no-repeat;
+background-position: 13px center;
+color: #9b9b9b;
+-webkit-box-ordinal-group:2;
+-ms-flex-order:2;
+-webkit-order:2;
+order:2;
+width: auto;
+text-align: right;
+}
+body.home #main #main-contents .h-koushin-box p.saisyu-txt{
+margin:2px 0 2px 0!important;
+-webkit-box-ordinal-group:1;
+-ms-flex-order:1;
+-webkit-order:1;
+order:1;
+width: auto;
+text-align: left;
+}
+body.home #main-contents .h-koushin-box{
+display: inline-block;
+position: relative;
+width: 100%;
+min-height: 15px;
+margin: 0px 0 5px!important;
+padding: 0;
+border-bottom: 1px slide #ccc;
+display:-webkit-box;
+display: -webkit-flex;
+display:-ms-flexbox;
+display: flex;
+-webkit-flex-wrap:nowrap;
+-ms-flex-wrap:nowrap;
+flex-wrap:nowrap;
+justify-content: space-between;
+padding: 0!important;
+}
+body.home #main #main-contents .h-koushin-box p.saisyu-txt {
+display: inline-block;
+text-align: left;
+background: url(https://img.altema.jp/common/koushin-icon.png);
+background-size: 10px;
+background-repeat: no-repeat;
+background-position: 2px center;
+color: #9b9b9b;
+padding-left: 15px;
+margin: 0;
+font-size: 11px;
+}
+#siteTopSearch.search-form_inputXX {
+display: block;
+margin: 0;
+padding: 10px 0 10px 0;
+border-bottom:0px solid #e1e8ed;
+background:#FFF;
+}
+body.home #main-in #breadcrumbs ol {
+overflow: auto;
+white-space: nowrap;
+height: auto;
+padding:5px 0 0px 5px;
+}
+.col3 #sidebar{
+padding:0 10px;
+}
+.col3 #sub-contents{
+padding:0 10px;
+}
+}
+.giftcard-tujyu-bt{
+display:block;
+position:fixed;
+bottom:0;
+left:0;
+right:0;
+margin:auto;
+z-index:100;
+background:rgb(0 0 0 / 0.7);
+padding:10px 0;
+}
+.giftcard-tujyu-bt a{
+display:block;
+margin:auto;
+text-align:center;
+width:90%;
+background:#555;
+border-radius:5px;
+padding:10px 0;
+font-weight:bold;
+font-size:15px;
+background:#34a3d1;
+color: #ffffff;
+box-shadow: 0 2px 0px 0px #166f94;
+color:#FFF!important;
+}
+
+.post .koryaku_gamelist_box .gamelist_alpha_box ol.toriatukai li{
+float:none!important;
+}
+.post .koryaku_gamelist_box .gamelist_alpha_box ol.toriatukai{
+display: -webkit-flex;
+display: flex;
+align-items: center;
+-webkit-flex-wrap:wrap;
+flex-wrap:wrap;
+}
+
+/*-------------------------------------------------------
+ã¢ããªæ¤ç´¢
+-------------------------------------------------------*/
+form#searchForm .ot-button-area .searchBtn{
+display: -webkit-flex;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-bottom:20px;
+}
+form#searchForm .ot-button-area #resetbtn{
+width:40%;
+margin:0 10px;
+height:25px;
+box-sizing:border-box;
+border:1px solid #6f6f6f;
+border-radius:3px;
+color:#FFF;
+background:#7b7b7b;
+cursor:pointer;
+box-shadow:0 1px 1px 0 #6f6f6f;
+}
+form#searchForm .ot-button-area #submitbtn{
+width:40%;
+margin:0 10px;
+height:25px;
+box-sizing:border-box;
+border:1px solid #349cc7;
+border-radius:3px;
+color:#FFF;
+background:#34a3d1;
+cursor:pointer;
+box-shadow:0 1px 1px 0 #349cc7;
+}
+form#searchForm .searchCondition label,.searchCondition input{
+cursor:pointer;
+}
+
+/*-----------------------------------------------
+GããNEW
+-----------------------------------------------*/
+#gNavi_button.nav-menu{
+box-shadow:none;
+border:0;
+}
+#gNavi_button.nav-menu .menu-gnavi2-container{
+border:0;  
+}
+#gNavi_button.nav-menu .menu-gnavi2-container ul {
+list-style-type: none;
+width:100%;
+box-sizing:border-box;
+display: -webkit-flex;
+display: flex;
+align-items:center;
+}
+#gNavi_button.nav-menu .menu-gnavi2-container ul li {
+text-align: center;
+width:20%;
+font-size:10px;
+line-height:normal;
+margin:0;
+}
+#gNavi_button.nav-menu .menu-gnavi2-container ul li:nth-child(1) {
+background-image:url(https://img.altema.jp/common/icon-news-sp.png);
+background-repeat:no-repeat;
+background-size: 35%;
+background-position:50% 50%;
+background-color: #0b9de8;
+}
+#gNavi_button.nav-menu .menu-gnavi2-container ul li:nth-child(2) {
+background-image:url(https://img.altema.jp/common/icon-rank-sp.png);
+background-repeat:no-repeat;
+background-size: 38%;
+background-position:50% 50%;
+background-color: #0b9de8;
+}
+#gNavi_button.nav-menu .menu-gnavi2-container ul li:nth-child(3) {
+background-image:url(https://img.altema.jp/common/icon-rank-sp.png);
+background-repeat:no-repeat;
+background-size: 38%;
+background-position:50% 50%;
+background-color: #0b9de8;
+}
+#gNavi_button.nav-menu .menu-gnavi2-container ul li:nth-child(3) a{
+letter-spacing:-0.5px;
+}
+#gNavi_button.nav-menu .menu-gnavi2-container ul li:nth-child(4) {
+background-image:url(https://img.altema.jp/common/icon-rank-sp.png);
+background-repeat:no-repeat;
+background-size: 38%;
+background-position:50% 50%;
+background-color: #0b9de8;
+}
+#gNavi_button.nav-menu .menu-gnavi2-container ul li:nth-child(5) {
+background-image:url(https://img.altema.jp/common/icon-g-m-sp.png);
+background-repeat:no-repeat;
+background-size: 38%;
+background-position:50% 50%;
+background-color: #0b9de8;
+}
+#gNavi_button.nav-menu .menu-gnavi2-container ul li:nth-child(5) a{
+letter-spacing:-0.5px;
+}
+#gNavi_button.nav-menu .menu-gnavi2-container ul li a {
+color: #fff;
+display: -webkit-flex;
+display: flex;
+align-items:center;
+justify-content: center;
+text-decoration: none;
+font-weight:  bold;
+line-height:normal;
+height:35px;
+background:none;
+text-shadow:none;
+font-size:10px;
+padding:0;
+}
+
+div#footer{
+padding: 30px 0 150px 0;
+background:#23254c!important;
+}
+div#footer .area01{
+float: none;
+width: auto;
+background:#53588c!important;
+padding:10px;
+line-height:2;
+border-radius:6px;
+margin: 0 10px 20px;
+}
+div#footer .area02 {
+float: none;
+width: 100%;
+padding: 0;
+margin:0;
+}
+div#footer .footer-menu ul {
+float: none;
+width: auto;
+margin: 0 10px;
+padding: 0;
+}
+div#footer-in li{
+display: inline-block;
+background: none;
+padding: 0;
+position: relative;
+}
+div#footer-in li:after{
+content:'|';
+margin:0 10px;
+}
+div#footer-in li:last-of-type:after{
+display:none;
+}
+div.copyright{
+background: #fff;
+color: #77798c;
+padding: 10px 0;
+border-bottom: 2px solid #23254c;
+}
+div.copyright span{
+display: inline-block;
+}
+
+@media only screen and (max-width :415px){
+.header_top_h1 img{
+width:42px!important;
+height:38px!important;
+}
+}
+@media only screen and (max-width :376px){
+.header_top_h1 img{
+width:38px!important;
+height:34px!important;
+}
+} 
+@media only screen and (max-width :361px){
+.header_top_h1 img{
+width:36px!important;
+height:33px!important;
+}
+}
+#gNavi_button.nav-menu .menu-gnavi2-container ul li:nth-of-type(6) {
+display: none;
+}
+
+/*------------------------------------------------------------
+åºåãµã¤ãºåºå®
+-------------------------------------------------------------*/
+@media only screen and (max-width :415px){
+.head_koukoku_wrapper{
+height: 130px;
+display:flex;
+justify-content: center;
+align-items: center;
+}
+body#headermenuMb .head_koukoku_wrapper{
+box-sizing: border-box;
+height: 64px;
+}
+body.home .head_koukoku_wrapper{
+box-sizing: border-box;
+height: 85px;
+}
+}
+@media only screen and (max-width :376px){
+.head_koukoku_wrapper{
+height: 118px;
+}
+body#headermenuMb .head_koukoku_wrapper{
+box-sizing: border-box;
+height: 58px;
+}
+body.home .head_koukoku_wrapper{
+box-sizing: border-box;
+height: 79px;
+}
+}
+@media only screen and (max-width :361px){
+.head_koukoku_wrapper{
+height: 113px;
+}
+body#headermenuMb .head_koukoku_wrapper{
+box-sizing: border-box;
+height: 55px;
+}
+body.home .head_koukoku_wrapper{
+box-sizing: border-box;
+height: 77px;
+}
+}
+
+
+
+.ninki-ranking div.adsSpRecommendList{
+font-size:13px;
+font-weight:normal;
+padding:0;
+margin-bottom: -1px;
+}
+
+
+@media only screen and (orientation:landscape) and (max-width : 813px),(orientation:portrait) and (max-width : 753px){
+.ninki-ranking .adsSpRecommendList dl:before {
+display: none;
+}
+.ninki-ranking .ninki-ranking-tab-access .adsSpRecommendList dl{
+border-radius:4px;
+border-bottom:0;
+}
+.ninki-ranking div.adsSpRecommendList.adsAll.adsClick{
+font-size: 13px;
+font-weight: normal;
+padding: 0;
+border-bottom:0;
+}
+}
+
+/*------------------------------------------------------------
+SPã¡ãã¥ã¼èª¿æ´
+-------------------------------------------------------------*/
+@media only screen and (orientation: landscape) and (max-width: 813px), (orientation: portrait) and (max-width: 753px){
+.drawer-menu-level2 > b,.drawer-menu-level2 > u,.drawer-menu-level2 > p,.drawer-menu-level2 > ul > p,.drawer-menu-level2 > ul > u{
+padding-left: 10px;
+margin-top: 10px;
+display: block;
+}
+.drawer-menu-level2 > ul + b,.drawer-menu-level2 > ul + u,.drawer-menu-level2 > ul + p{
+margin-top: 12px;
+}
+.drawer-menu-level2 p + .acMenu{
+margin-top: 10px;
+}
+.drawer-menu-level2 .acMenu + .acMenu{
+margin-top: 14px;
+}
+.drawer-menu-level2 .acMenu + p{
+margin-top: 16px;
+}
+.drawer-menu-level2 > .acMenu > dd > u{
+margin-left: 10px!important;
+}
+}
+
+/*------------------------------------------------------------
+GããSPèª¿æ´
+-------------------------------------------------------------*/
+@media screen and (max-width : 393px){
+#gNavi_button.nav-menu .menu-gnavi2-container ul li:nth-child(1),#gNavi_button.nav-menu .menu-gnavi2-container ul li:nth-child(2){
+width: 68px;
+}
+#gNavi_button.nav-menu .menu-gnavi2-container ul li:nth-child(3),#gNavi_button.nav-menu .menu-gnavi2-container ul li:nth-child(4),#gNavi_button.nav-menu .menu-gnavi2-container ul li:nth-child(5){
+flex-grow: 1;
+}
+}
+@media screen and (max-width : 376px){
+#gNavi_button.nav-menu .menu-gnavi2-container ul li:nth-child(1),#gNavi_button.nav-menu .menu-gnavi2-container ul li:nth-child(2){
+width: 64px;
+}
+}
+@media screen and (max-width : 361px){
+#gNavi_button.nav-menu .menu-gnavi2-container ul li:nth-child(1),#gNavi_button.nav-menu .menu-gnavi2-container ul li:nth-child(2){
+width: 58px;
+}
+}
+
+/*------------------------------------------------------------
+ã®ããã³ã¼ããã¼ã¸èª¿æ´
+-------------------------------------------------------------*/
+body#headermenuMb.giftcard div#gNavi_button,body#headermenuMb.giftcard #main-contents .post h1{
+display: none;
+}
+body.col2.giftcard #main-contents .contents{
+margin-top: 0!important;
+}
+
+/*------------------------------------------------------------
+ã¿ã¤ãã«TOPæ¤ç´¢èª¿æ´
+-------------------------------------------------------------*/
+@media only screen and (orientation:landscape) and (max-width : 813px),(orientation:portrait) and (max-width : 753px){
+#siteTopSearch.search-form_inputXX{
+background: #f9f9f9!important;
+border-bottom: 1px solid #e1e8ed;
+}
+#siteTopSearch.search-form_inputXX form{
+display: flex;
+justify-content: space-between;
+width: 100%;
+padding: 0 10px;
+box-sizing: border-box;
+}
+#siteTopSearch.search-form_inputXX #search-form-box{
+padding: 9px 4px 10px 5px;
+margin: 0;
+box-sizing: border-box;
+height: auto;
+font-size: 14px;
+}
+#siteTopSearch.search-form_inputXX .css-buttonWrap{
+position: relative;
+width: 20%;
+background: #34a3d1;
+border-radius: 6px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+#siteTopSearch.search-form_inputXX .css-buttonWrap:before{
+content: '';
+display: inline-block;
+width: 18px;
+height: 18px;
+background: url(https://img.altema.jp/altema/uploads/2023/12/2023y12m12d_1715511959.png) no-repeat center / contain;
+margin-right: 3px;
+}
+#siteTopSearch.search-form_inputXX .css-buttonWrap:after{
+content: 'æ¤ç´¢';
+color: #fff;
+font-size: 14px;
+}
+#siteTopSearch.search-form_inputXX .css-buttonWrap input.css-button{
+width: 100%;
+height: 100%;
+overflow: hidden;
+text-indent: 100%;
+white-space: nowrap;
+position: absolute;
+left: 0;
+top: 0;
+right: 0;
+background: none!important;
+padding: 0;
+}
+}
+
+/*--------------------------------------------------------
+äººæ°ã©ã³ã­ã³ã°èª¿æ´
+-------------------------------------------------------*/
+.ninki-ranking .koukoku_common_tag div{
+padding: 0;
+}
+.ninki-ranking div.adsSpRecommendList.adsAll.adsClick dl{
+margin: 0 0 10px;
+}
+
+/*--------------------------------------------------------
+ã¢ã«ããæ»ç¥ãã¼ã¸ ãããã¼èª¿æ´
+-------------------------------------------------------*/
+#header .headerInner{
+height: 46px;
+border-top: 2px solid #069ce8;
+vertical-align:middle;
+padding: 0px 0;
+align-items: center;
+display: flex;
+justify-content: space-between;
+box-sizing: border-box;
+}
+#header .headerInner a img{
+width:111px;
+height:auto;
+}
+#header .headerInner .altema-career{
+background:#ffffff;
+padding:4px 28px 4px 11px;
+border-radius:50px;
+border:1px solid #34a3d1;
+font-size:12px;
+margin-left:auto;
+margin-right:8px;
+position: relative;
+box-shadow: 0px 01px 0px 0px rgb(52 163 209);
+}
+#header .headerInner .altema-career a{
+color:#34a3d1 !important;
+font-weight:bold;
+vertical-align:bottom;
+padding: 0px;
+}
+#header .headerInner ul li{
+font-weight:bold;
+}
+#header .headerInner ul li:last-child a:before{
+content:none;
+}
+#header .headerInner .altema-career:hover {
+background: #34a3d1;
+border-radius: 50px;
+border: 1px solid #34a3d1;
+font-size: 12px;
+margin-left: auto;
+margin-right:8px !important;
+position: relative;
+color: #fff !important;
+box-shadow: 0px 1px 0px 0px rgb(52 163 209);
+}
+#header .headerInner .altema-career a:hover {
+color: #fff !important;
+font-weight: bold;
+vertical-align: bottom;
+width: 100%;
+display: inline-block;
+}
+#header .headerInner .altema-career:before{
+content: "";
+position: absolute;
+width:3px;
+height:3px;
+top: 0;
+bottom: 0;
+right: 12px;
+margin: auto;
+vertical-align: middle;
+border-top: 2px solid #fff;
+border-right: 2px solid #fff;
+-webkit-transform: rotate(45deg);
+transform: rotate(45deg);
+z-index:9999;
+}
+#header .headerInner .altema-career:after{
+content: "";
+position: absolute;
+top: 6px;
+right: 7px;
+width: 12px;
+height: 12px;
+border: 1px solid #34a3d1;
+border-radius: 52px;
+background:#34a3d1;
+}
+
+.ninki-ranking dt img{
+object-fit:contain;
+}

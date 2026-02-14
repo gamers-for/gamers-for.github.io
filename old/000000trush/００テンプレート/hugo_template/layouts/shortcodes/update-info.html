@@ -1,0 +1,5 @@
+{{- $date := .Get "date" | default (now.Format "2006-01-02") -}}
+<div class="update-badge">
+  <span class="update-icon">🔄</span>
+  <span class="update-text">最終更新: {{ $date }}</span>
+</div>

@@ -1,0 +1,107 @@
+{
+  "_comment": "ゲーム設定テンプレート。コピーして game_config.json にリネームし、値を埋めて使う。",
+
+  "game_name": "",
+  "game_slug": "",
+  "game_name_short": "",
+  "description": "",
+
+  "hugo_site_dir": "../gamers-for",
+
+  "raw_data_dir": "./raw_data",
+
+  "icon_source": {
+    "type": "wiki_api",
+    "_type_options": "wiki_api | direct_url | manual",
+    "api_endpoint": "",
+    "file_patterns": {
+      "main": "",
+      "sub": "",
+      "special": ""
+    },
+    "request_interval_sec": 2,
+    "output_dir_template": "static/images/games/{game_slug}/{category}/"
+  },
+
+  "entity_type": {
+    "name": "武器",
+    "name_en": "weapon",
+    "slug_prefix": "weapons",
+    "fields": [
+      "name", "class", "sub", "special", "tier", "rating",
+      "range", "damage", "kill_time", "icon"
+    ]
+  },
+
+  "tier_definition": {
+    "tiers": ["X", "S+", "S", "A+", "A", "B+", "B", "C+", "C"],
+    "colors": {
+      "X": "#ff1744",
+      "S+": "#ff5722",
+      "S": "#ff9800",
+      "A+": "#ffc107",
+      "A": "#8bc34a",
+      "B+": "#4caf50",
+      "B": "#00bcd4",
+      "C+": "#2196f3",
+      "C": "#9e9e9e"
+    }
+  },
+
+  "classes": [
+    {
+      "name": "",
+      "slug": "",
+      "description": ""
+    }
+  ],
+
+  "pages": {
+    "index": {
+      "generate": true,
+      "weight": 1
+    },
+    "tier_list": {
+      "generate": true,
+      "title_template": "【{game_name}】最強{entity_name}ランキング",
+      "weight": 2
+    },
+    "all_list": {
+      "generate": true,
+      "title_template": "【{game_name}】全{entity_name}一覧",
+      "weight": 3
+    },
+    "beginner": {
+      "generate": true,
+      "title_template": "【{game_name}】初心者攻略ガイド",
+      "weight": 4
+    },
+    "events": {
+      "generate": true,
+      "title_template": "【{game_name}】最新イベントまとめ",
+      "weight": 5
+    },
+    "individual_pages": {
+      "generate": true,
+      "dir": "weapons",
+      "title_template": "【{game_name}】{entity_name}の性能と評価"
+    },
+    "custom_pages": []
+  },
+
+  "beginner_guide": {
+    "steps": [
+      {"title": "", "content": ""},
+      {"title": "", "content": ""},
+      {"title": "", "content": ""}
+    ],
+    "top_picks": 5
+  },
+
+  "seo": {
+    "target_keywords": [],
+    "title_suffix": "- Gamers-For"
+  },
+
+  "custom_plugin_dir": "./custom"
+}

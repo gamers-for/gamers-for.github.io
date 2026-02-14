@@ -1,0 +1,9 @@
+            .following_searchtab{
+                z-index: 9999 !important;
+            }        @media only screen and (orientation: landscape) and (max-width: 813px), (orientation: portrait) and (max-width: 753px)
+        #tuizyu-search #following_gnavi #gNavi_button{
+            position: fixed;
+            top: 48px;
+            left: 0;
+        }
+    

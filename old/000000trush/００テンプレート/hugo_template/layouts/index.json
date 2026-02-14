@@ -1,0 +1,3 @@
+[{{ range $i, $p := where .Site.RegularPages "Type" "ne" "" }}{{ if $i }},{{ end }}
+{"title":{{ $p.Title | jsonify }},"permalink":{{ $p.Permalink | jsonify }},"description":{{ with $p.Description }}{{ . | jsonify }}{{ else }}""{{ end }},"tags":{{ with $p.Params.tags }}{{ delimit . ", " | jsonify }}{{ else }}""{{ end }}}{{ end }}
+]

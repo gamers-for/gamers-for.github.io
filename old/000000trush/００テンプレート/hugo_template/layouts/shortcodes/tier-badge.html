@@ -1,0 +1,15 @@
+{{- /* ティアバッジ（画像風CSS）
+     使い方: {{< tier-badge tier="SS" >}} or {{< tier-badge tier="A" large="true" >}}
+*/ -}}
+{{- $tier := .Get "tier" | default "?" -}}
+{{- $class := "tier-badge" -}}
+{{- $tierLower := lower $tier -}}
+{{- if eq $tierLower "ss" }}{{ $class = printf "%s tier-badge--ss" $class }}
+{{- else if eq $tierLower "s" }}{{ $class = printf "%s tier-badge--s" $class }}
+{{- else if eq $tierLower "a" }}{{ $class = printf "%s tier-badge--a" $class }}
+{{- else if eq $tierLower "b" }}{{ $class = printf "%s tier-badge--b" $class }}
+{{- else if eq $tierLower "c" }}{{ $class = printf "%s tier-badge--c" $class }}
+{{- else }}{{ $class = printf "%s tier-badge--d" $class }}
+{{- end -}}
+{{- if .Get "large" }}{{ $class = printf "%s tier-badge--large" $class }}{{ end -}}
+<span class="{{ $class }}">{{ $tier }}</span>

@@ -1,0 +1,9080 @@
+{
+  "top": {
+    "page_name": "top",
+    "url": "https://game8.jp/splatoon3",
+    "title": "スプラトゥーン3攻略ガイド｜スプラ3｜ゲームエイト",
+    "headings": [
+      {
+        "level": 1,
+        "text": "スプラトゥーン3攻略ガイド｜スプラ3"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3のおすすめ攻略記事"
+      },
+      {
+        "level": 3,
+        "text": "第12回バイトチームコンテストが開催！"
+      },
+      {
+        "level": 3,
+        "text": "最新のアップデートが2026年1月29日(木)に実施！"
+      },
+      {
+        "level": 4,
+        "text": "4ヶ月半ぶりのアプデ(Ver.11.0.0)"
+      },
+      {
+        "level": 4,
+        "text": "新要素「イカフロー状態」実装！"
+      },
+      {
+        "level": 3,
+        "text": "スプラ4の発売日・最新情報まとめ"
+      },
+      {
+        "level": 3,
+        "text": "ニンテンドーミュージックでスプラの曲を聴ける！"
+      },
+      {
+        "level": 3,
+        "text": "amiiboとグランドフェスティバル会場"
+      },
+      {
+        "level": 4,
+        "text": "シオカラーズとテンタクルズの新amiiboが発売中！"
+      },
+      {
+        "level": 4,
+        "text": "amiiboでグラフェス会場に行ける！"
+      },
+      {
+        "level": 3,
+        "text": "DLCサイドオーダーの攻略"
+      },
+      {
+        "level": 3,
+        "text": "おすすめ攻略記事まとめ"
+      },
+      {
+        "level": 3,
+        "text": "アプデ追加情報まとめ"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3の最強ランキング"
+      },
+      {
+        "level": 3,
+        "text": "最強ランキング"
+      },
+      {
+        "level": 3,
+        "text": "ルール別の最強武器ランキング"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3のヒーローモード攻略"
+      },
+      {
+        "level": 3,
+        "text": "サイトとヤカンの攻略"
+      },
+      {
+        "level": 3,
+        "text": "クリア後攻略"
+      },
+      {
+        "level": 3,
+        "text": "収集アイテム"
+      },
+      {
+        "level": 3,
+        "text": "ヒーローモードのお役立ち記事"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3のブキ"
+      },
+      {
+        "level": 3,
+        "text": "ブキ種一覧"
+      },
+      {
+        "level": 3,
+        "text": "おすすめ最強ブキ"
+      },
+      {
+        "level": 3,
+        "text": "スプラ3からの新ブキ"
+      },
+      {
+        "level": 3,
+        "text": "ブキ関連のお役立ち"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3のサブ・スペシャル"
+      },
+      {
+        "level": 3,
+        "text": "サブウェポン一覧"
+      },
+      {
+        "level": 3,
+        "text": "スペシャルウェポン一覧"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3のバトル攻略"
+      },
+      {
+        "level": 3,
+        "text": "各ルールの解説記事"
+      },
+      {
+        "level": 3,
+        "text": "バトル関連のお役立ち"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3のサーモンラン攻略"
+      },
+      {
+        "level": 3,
+        "text": "攻略情報"
+      },
+      {
+        "level": 3,
+        "text": "お役立ち情報"
+      },
+      {
+        "level": 3,
+        "text": "ビッグラン"
+      },
+      {
+        "level": 3,
+        "text": "バイトチームコンテスト"
+      },
+      {
+        "level": 3,
+        "text": "オカシラシャケの倒し方"
+      },
+      {
+        "level": 3,
+        "text": "オオモノシャケの倒し方"
+      },
+      {
+        "level": 3,
+        "text": "特殊ウェーブ一覧"
+      },
+      {
+        "level": 3,
+        "text": "ステージ一覧"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3のギア・ギアパワー"
+      },
+      {
+        "level": 3,
+        "text": "ギア・ギアパワー関連のお役立ち"
+      },
+      {
+        "level": 3,
+        "text": "ギアパワー一覧"
+      },
+      {
+        "level": 3,
+        "text": "ギア一覧"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3のイベントマッチ"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3のフェス"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3のナワバトラー攻略"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3の初心者攻略"
+      },
+      {
+        "level": 3,
+        "text": "初心者は最初にチェック！必見記事"
+      },
+      {
+        "level": 3,
+        "text": "初心者お役立ち情報まとめ"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3のステージ攻略"
+      },
+      {
+        "level": 3,
+        "text": "初期マップ"
+      },
+      {
+        "level": 3,
+        "text": "アプデ追加マップ"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3のアップデート"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3のエキスパンションパス"
+      },
+      {
+        "level": 2,
+        "text": "サイドオーダー"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3のスプラ甲子園"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3の掲示板"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3攻略の執筆者情報"
+      },
+      {
+        "level": 3,
+        "text": "執筆責任者のウデマエ履歴"
+      },
+      {
+        "level": 3,
+        "text": "執筆攻略班のツイッター"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3のゲーム情報"
+      },
+      {
+        "level": 3,
+        "text": "インクを塗り合うシューティングゲーム！"
+      },
+      {
+        "level": 3,
+        "text": "より快適に、より熱く楽しめるようにアップデート！"
+      },
+      {
+        "level": 3,
+        "text": "購入前に読みたいお役立ち"
+      },
+      {
+        "level": 3,
+        "text": "製品情報"
+      },
+      {
+        "level": 2,
+        "text": "攻略メニュー"
+      },
+      {
+        "level": 3,
+        "text": "注目記事"
+      },
+      {
+        "level": 3,
+        "text": "フェス"
+      },
+      {
+        "level": 3,
+        "text": "アップデート"
+      },
+      {
+        "level": 3,
+        "text": "ブキ"
+      },
+      {
+        "level": 4,
+        "text": "最強ランキング"
+      },
+      {
+        "level": 4,
+        "text": "武器一覧"
+      },
+      {
+        "level": 3,
+        "text": "ヒーローモード"
+      },
+      {
+        "level": 4,
+        "text": "サイト攻略"
+      },
+      {
+        "level": 4,
+        "text": "収集要素"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち記事"
+      },
+      {
+        "level": 3,
+        "text": "スペシャル"
+      },
+      {
+        "level": 3,
+        "text": "サブ"
+      },
+      {
+        "level": 3,
+        "text": "ギアパワー"
+      },
+      {
+        "level": 3,
+        "text": "お役立ち攻略記事"
+      },
+      {
+        "level": 4,
+        "text": "ギア・ギアパワー関連"
+      },
+      {
+        "level": 3,
+        "text": "サーモンラン"
+      },
+      {
+        "level": 4,
+        "text": "ビッグラン"
+      },
+      {
+        "level": 4,
+        "text": "オカシラシャケ"
+      },
+      {
+        "level": 4,
+        "text": "オオモノシャケ"
+      },
+      {
+        "level": 4,
+        "text": "特殊ウェーブ"
+      },
+      {
+        "level": 4,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "ギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "非売品のギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "購入可能なギアブランド"
+      },
+      {
+        "level": 3,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "バンカラマッチ"
+      },
+      {
+        "level": 4,
+        "text": "ルール・立ち回り解説"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち"
+      },
+      {
+        "level": 3,
+        "text": "ナワバリバトル"
+      },
+      {
+        "level": 3,
+        "text": "イベントマッチ"
+      },
+      {
+        "level": 3,
+        "text": "ナワバトラー"
+      },
+      {
+        "level": 3,
+        "text": "スプラ甲子園"
+      },
+      {
+        "level": 3,
+        "text": "エキスパンションパス"
+      },
+      {
+        "level": 3,
+        "text": "掲示板"
+      },
+      {
+        "level": 3,
+        "text": "英語版wiki (English)"
+      },
+      {
+        "level": 2,
+        "text": "ランキング"
+      },
+      {
+        "level": 2,
+        "text": "人気ゲーム"
+      },
+      {
+        "level": 2,
+        "text": "おすすめゲーム"
+      },
+      {
+        "level": 2,
+        "text": "権利表記"
+      }
+    ],
+    "sections": [
+      "スプラトゥーン3のおすすめ攻略記事",
+      "スプラトゥーン3の最強ランキング",
+      "スプラトゥーン3のヒーローモード攻略",
+      "スプラトゥーン3のブキ",
+      "スプラトゥーン3のサブ・スペシャル",
+      "スプラトゥーン3のバトル攻略",
+      "スプラトゥーン3のサーモンラン攻略",
+      "スプラトゥーン3のギア・ギアパワー",
+      "スプラトゥーン3のイベントマッチ",
+      "スプラトゥーン3のフェス",
+      "スプラトゥーン3のナワバトラー攻略",
+      "スプラトゥーン3の初心者攻略",
+      "スプラトゥーン3のステージ攻略",
+      "スプラトゥーン3のアップデート",
+      "スプラトゥーン3のエキスパンションパス",
+      "サイドオーダー",
+      "スプラトゥーン3のスプラ甲子園",
+      "スプラトゥーン3の掲示板",
+      "スプラトゥーン3攻略の執筆者情報",
+      "スプラトゥーン3のゲーム情報",
+      "攻略メニュー",
+      "ランキング",
+      "人気ゲーム",
+      "おすすめゲーム",
+      "権利表記"
+    ],
+    "tables_count": 49,
+    "images_count": 367
+  },
+  "weapon_tier": {
+    "page_name": "weapon_tier",
+    "url": "https://game8.jp/splatoon3/477903",
+    "title": "【スプラ3】最強武器（ブキ）ランキング・最新Ver.9.3.0アプデ後環境【スプラトゥーン3】｜ゲームエイト",
+    "headings": [
+      {
+        "level": 1,
+        "text": "【スプラ3】最強武器（ブキ）ランキング・最新Ver.9.3.0アプデ後環境【スプラトゥーン3】"
+      },
+      {
+        "level": 2,
+        "text": "最強武器ランキング｜ブキ総合Tier"
+      },
+      {
+        "level": 3,
+        "text": "最強武器ランキング（全ルール総合）"
+      },
+      {
+        "level": 4,
+        "text": "初心者におすすめのブキ"
+      },
+      {
+        "level": 2,
+        "text": "最強武器ランキング｜ルール別ブキTier"
+      },
+      {
+        "level": 3,
+        "text": "ガチエリアの最強武器ランキング"
+      },
+      {
+        "level": 3,
+        "text": "ガチヤグラの最強武器ランキング"
+      },
+      {
+        "level": 3,
+        "text": "ガチホコの最強武器ランキング"
+      },
+      {
+        "level": 3,
+        "text": "ガチアサリの最強武器ランキング"
+      },
+      {
+        "level": 3,
+        "text": "ナワバリの最強武器ランキング"
+      },
+      {
+        "level": 2,
+        "text": "最強武器(ブキ)の評価基準と執筆者情報"
+      },
+      {
+        "level": 3,
+        "text": "評価基準は下記の4点"
+      },
+      {
+        "level": 3,
+        "text": "ランキング執筆者のウデマエ履歴"
+      },
+      {
+        "level": 2,
+        "text": "関連記事"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3プレイヤーにおすすめ【PR】"
+      },
+      {
+        "level": 2,
+        "text": "コメント"
+      },
+      {
+        "level": 2,
+        "text": "記事を書いている攻略メンバー"
+      },
+      {
+        "level": 2,
+        "text": "攻略メニュー"
+      },
+      {
+        "level": 3,
+        "text": "注目記事"
+      },
+      {
+        "level": 3,
+        "text": "フェス"
+      },
+      {
+        "level": 3,
+        "text": "アップデート"
+      },
+      {
+        "level": 3,
+        "text": "ブキ"
+      },
+      {
+        "level": 4,
+        "text": "最強ランキング"
+      },
+      {
+        "level": 4,
+        "text": "武器一覧"
+      },
+      {
+        "level": 3,
+        "text": "ヒーローモード"
+      },
+      {
+        "level": 4,
+        "text": "サイト攻略"
+      },
+      {
+        "level": 4,
+        "text": "収集要素"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち記事"
+      },
+      {
+        "level": 3,
+        "text": "スペシャル"
+      },
+      {
+        "level": 3,
+        "text": "サブ"
+      },
+      {
+        "level": 3,
+        "text": "ギアパワー"
+      },
+      {
+        "level": 3,
+        "text": "お役立ち攻略記事"
+      },
+      {
+        "level": 4,
+        "text": "ギア・ギアパワー関連"
+      },
+      {
+        "level": 3,
+        "text": "サーモンラン"
+      },
+      {
+        "level": 4,
+        "text": "ビッグラン"
+      },
+      {
+        "level": 4,
+        "text": "オカシラシャケ"
+      },
+      {
+        "level": 4,
+        "text": "オオモノシャケ"
+      },
+      {
+        "level": 4,
+        "text": "特殊ウェーブ"
+      },
+      {
+        "level": 4,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "ギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "非売品のギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "購入可能なギアブランド"
+      },
+      {
+        "level": 3,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "バンカラマッチ"
+      },
+      {
+        "level": 4,
+        "text": "ルール・立ち回り解説"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち"
+      },
+      {
+        "level": 3,
+        "text": "ナワバリバトル"
+      },
+      {
+        "level": 3,
+        "text": "イベントマッチ"
+      },
+      {
+        "level": 3,
+        "text": "ナワバトラー"
+      },
+      {
+        "level": 3,
+        "text": "スプラ甲子園"
+      },
+      {
+        "level": 3,
+        "text": "エキスパンションパス"
+      },
+      {
+        "level": 3,
+        "text": "掲示板"
+      },
+      {
+        "level": 3,
+        "text": "英語版wiki (English)"
+      },
+      {
+        "level": 2,
+        "text": "ランキング"
+      },
+      {
+        "level": 2,
+        "text": "人気ゲーム"
+      },
+      {
+        "level": 2,
+        "text": "おすすめゲーム"
+      },
+      {
+        "level": 2,
+        "text": "権利表記"
+      }
+    ],
+    "sections": [
+      "最強武器ランキング｜ブキ総合Tier",
+      "最強武器ランキング｜ルール別ブキTier",
+      "最強武器(ブキ)の評価基準と執筆者情報",
+      "関連記事",
+      "スプラトゥーン3プレイヤーにおすすめ【PR】",
+      "コメント",
+      "記事を書いている攻略メンバー",
+      "攻略メニュー",
+      "ランキング",
+      "人気ゲーム",
+      "おすすめゲーム",
+      "権利表記"
+    ],
+    "tables_count": 15,
+    "images_count": 340
+  },
+  "weapon_list": {
+    "page_name": "weapon_list",
+    "url": "https://game8.jp/splatoon3/394146",
+    "title": "【スプラトゥーン3】武器一覧とブキ評価【スプラ3】｜ゲームエイト",
+    "headings": [
+      {
+        "level": 1,
+        "text": "【スプラトゥーン3】武器一覧とブキ評価【スプラ3】"
+      },
+      {
+        "level": 2,
+        "text": "武器種（ブキ）の一覧"
+      },
+      {
+        "level": 3,
+        "text": "武器種一覧"
+      },
+      {
+        "level": 2,
+        "text": "武器（ブキ）一覧｜サブスぺと評価"
+      },
+      {
+        "level": 3,
+        "text": "シューター"
+      },
+      {
+        "level": 3,
+        "text": "ローラー"
+      },
+      {
+        "level": 3,
+        "text": "チャージャー"
+      },
+      {
+        "level": 3,
+        "text": "スロッシャー（バケツ）"
+      },
+      {
+        "level": 3,
+        "text": "スピナー"
+      },
+      {
+        "level": 3,
+        "text": "マニューバー"
+      },
+      {
+        "level": 3,
+        "text": "シェルター（傘）"
+      },
+      {
+        "level": 3,
+        "text": "ブラスター"
+      },
+      {
+        "level": 3,
+        "text": "フデ（筆）"
+      },
+      {
+        "level": 3,
+        "text": "ストリンガー（弓）"
+      },
+      {
+        "level": 3,
+        "text": "ワイパー"
+      },
+      {
+        "level": 2,
+        "text": "新武器（ブキ）一覧と解説"
+      },
+      {
+        "level": 3,
+        "text": "ストリンガー"
+      },
+      {
+        "level": 4,
+        "text": "ストリンガーの一覧"
+      },
+      {
+        "level": 3,
+        "text": "ワイパー"
+      },
+      {
+        "level": 4,
+        "text": "ワイパーの一覧"
+      },
+      {
+        "level": 3,
+        "text": "更にアップデートで実装予定"
+      },
+      {
+        "level": 2,
+        "text": "関連記事"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3プレイヤーにおすすめ【PR】"
+      },
+      {
+        "level": 2,
+        "text": "コメント"
+      },
+      {
+        "level": 2,
+        "text": "記事を書いている攻略メンバー"
+      },
+      {
+        "level": 2,
+        "text": "攻略メニュー"
+      },
+      {
+        "level": 3,
+        "text": "注目記事"
+      },
+      {
+        "level": 3,
+        "text": "フェス"
+      },
+      {
+        "level": 3,
+        "text": "アップデート"
+      },
+      {
+        "level": 3,
+        "text": "ブキ"
+      },
+      {
+        "level": 4,
+        "text": "最強ランキング"
+      },
+      {
+        "level": 4,
+        "text": "武器一覧"
+      },
+      {
+        "level": 3,
+        "text": "ヒーローモード"
+      },
+      {
+        "level": 4,
+        "text": "サイト攻略"
+      },
+      {
+        "level": 4,
+        "text": "収集要素"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち記事"
+      },
+      {
+        "level": 3,
+        "text": "スペシャル"
+      },
+      {
+        "level": 3,
+        "text": "サブ"
+      },
+      {
+        "level": 3,
+        "text": "ギアパワー"
+      },
+      {
+        "level": 3,
+        "text": "お役立ち攻略記事"
+      },
+      {
+        "level": 4,
+        "text": "ギア・ギアパワー関連"
+      },
+      {
+        "level": 3,
+        "text": "サーモンラン"
+      },
+      {
+        "level": 4,
+        "text": "ビッグラン"
+      },
+      {
+        "level": 4,
+        "text": "オカシラシャケ"
+      },
+      {
+        "level": 4,
+        "text": "オオモノシャケ"
+      },
+      {
+        "level": 4,
+        "text": "特殊ウェーブ"
+      },
+      {
+        "level": 4,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "ギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "非売品のギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "購入可能なギアブランド"
+      },
+      {
+        "level": 3,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "バンカラマッチ"
+      },
+      {
+        "level": 4,
+        "text": "ルール・立ち回り解説"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち"
+      },
+      {
+        "level": 3,
+        "text": "ナワバリバトル"
+      },
+      {
+        "level": 3,
+        "text": "イベントマッチ"
+      },
+      {
+        "level": 3,
+        "text": "ナワバトラー"
+      },
+      {
+        "level": 3,
+        "text": "スプラ甲子園"
+      },
+      {
+        "level": 3,
+        "text": "エキスパンションパス"
+      },
+      {
+        "level": 3,
+        "text": "掲示板"
+      },
+      {
+        "level": 3,
+        "text": "英語版wiki (English)"
+      },
+      {
+        "level": 2,
+        "text": "ランキング"
+      },
+      {
+        "level": 2,
+        "text": "人気ゲーム"
+      },
+      {
+        "level": 2,
+        "text": "おすすめゲーム"
+      },
+      {
+        "level": 2,
+        "text": "権利表記"
+      }
+    ],
+    "sections": [
+      "武器種（ブキ）の一覧",
+      "武器（ブキ）一覧｜サブスぺと評価",
+      "新武器（ブキ）一覧と解説",
+      "関連記事",
+      "スプラトゥーン3プレイヤーにおすすめ【PR】",
+      "コメント",
+      "記事を書いている攻略メンバー",
+      "攻略メニュー",
+      "ランキング",
+      "人気ゲーム",
+      "おすすめゲーム",
+      "権利表記"
+    ],
+    "tables_count": 17,
+    "images_count": 798
+  },
+  "all_weapons": [
+    {
+      "name": "スピナー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "ローラー": "マニューバー",
+      "チャージャー": "シェルター",
+      "スロッシャー": "ブラスター"
+    },
+    {
+      "name": "フデ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "ローラー": "ストリンガー",
+      "チャージャー": "ワイパー"
+    },
+    {
+      "name": "シューター",
+      "source": "game8",
+      "col1": "ローラー",
+      "col2": "チャージャー"
+    },
+    {
+      "name": "スロッシャー",
+      "source": "game8",
+      "col1": "スピナー",
+      "col2": "マニューバー"
+    },
+    {
+      "name": "シェルター",
+      "source": "game8",
+      "col1": "ブラスター",
+      "col2": "フデ"
+    },
+    {
+      "name": "ストリンガー",
+      "source": "game8",
+      "col1": "ワイパー",
+      "col2": "-"
+    },
+    {
+      "name": "わかばシューター",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "1",
+      "評価": ""
+    },
+    {
+      "name": "スプラシューター",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "2",
+      "評価": ""
+    },
+    {
+      "name": "プロモデラーMG",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "5",
+      "評価": ""
+    },
+    {
+      "name": "N-ZAP85",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "6",
+      "評価": ""
+    },
+    {
+      "name": "もみじシューター",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "6",
+      "評価": ""
+    },
+    {
+      "name": "スペースシューター",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "8",
+      "評価": ""
+    },
+    {
+      "name": "ボールドマーカー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "9",
+      "評価": ""
+    },
+    {
+      "name": "プライムシューター",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "9",
+      "評価": ""
+    },
+    {
+      "name": "スプラシューターコラボ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "10",
+      "評価": ""
+    },
+    {
+      "name": "52ガロン",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "11",
+      "評価": ""
+    },
+    {
+      "name": "N-ZAP89",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "11",
+      "評価": ""
+    },
+    {
+      "name": "スペースシューターコラボ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "12",
+      "評価": ""
+    },
+    {
+      "name": "スプラシューター煌",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "12",
+      "評価": "不明"
+    },
+    {
+      "name": "L3リールガン",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "13",
+      "評価": ""
+    },
+    {
+      "name": "ボールドマーカーネオ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "13",
+      "評価": ""
+    },
+    {
+      "name": "52ガロンデコ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "14",
+      "評価": ""
+    },
+    {
+      "name": "ジェットスイーパー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "15",
+      "評価": ""
+    },
+    {
+      "name": "シャープマーカー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "16",
+      "評価": ""
+    },
+    {
+      "name": "96ガロン",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "17",
+      "評価": ""
+    },
+    {
+      "name": "プロモデラーRG",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "18",
+      "評価": ""
+    },
+    {
+      "name": "プロモデラー彩",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "19",
+      "評価": "不明"
+    },
+    {
+      "name": "ボトルガイザー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "19",
+      "評価": ""
+    },
+    {
+      "name": "L3リールガンD",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "19",
+      "評価": ""
+    },
+    {
+      "name": "L3リールガン箔",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "20",
+      "評価": "不明"
+    },
+    {
+      "name": "ジェットスイーパーカスタム",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "20",
+      "評価": ""
+    },
+    {
+      "name": "プライムシューターコラボ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "20",
+      "評価": ""
+    },
+    {
+      "name": "シャープマーカーネオ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "21",
+      "評価": ""
+    },
+    {
+      "name": "ジェットスイーパーCOBR",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "21",
+      "評価": "不明"
+    },
+    {
+      "name": "シャープマーカーGECK",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "22",
+      "評価": "不明"
+    },
+    {
+      "name": "96ガロンデコ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "23",
+      "評価": ""
+    },
+    {
+      "name": "プライムシューターFRZN",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "23",
+      "評価": "不明"
+    },
+    {
+      "name": ".96ガロン爪",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "24",
+      "評価": "不明"
+    },
+    {
+      "name": "H3リールガン",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "24",
+      "評価": ""
+    },
+    {
+      "name": "ボトルガイザーフォイル",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "25",
+      "評価": ""
+    },
+    {
+      "name": "H3リールガンD",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "27",
+      "評価": ""
+    },
+    {
+      "name": "H3リールガンSNAK",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "29",
+      "評価": "不明"
+    },
+    {
+      "name": "オーダーシューターレプリカ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "サイドオーダー",
+      "評価": ""
+    },
+    {
+      "name": "オクタシューターレプリカ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "サイドオーダー",
+      "評価": ""
+    },
+    {
+      "name": "ヒーローシューターレプリカ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "ヒーローモード",
+      "評価": ""
+    },
+    {
+      "name": "スプラローラー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "2",
+      "評価": ""
+    },
+    {
+      "name": "カーボンローラー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "6",
+      "評価": ""
+    },
+    {
+      "name": "スプラローラーコラボ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "7",
+      "評価": ""
+    },
+    {
+      "name": "ダイナモローラー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "12",
+      "評価": ""
+    },
+    {
+      "name": "ワイドローラー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "16",
+      "評価": ""
+    },
+    {
+      "name": "ダイナモローラーテスラ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "17",
+      "評価": ""
+    },
+    {
+      "name": "ワイドローラーコラボ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "18",
+      "評価": ""
+    },
+    {
+      "name": "ダイナモローラー冥",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "18",
+      "評価": "不明"
+    },
+    {
+      "name": "ヴァリアブルローラー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "20",
+      "評価": ""
+    },
+    {
+      "name": "ワイドローラー惑",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "21",
+      "評価": "不明"
+    },
+    {
+      "name": "カーボンローラーデコ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "22",
+      "評価": ""
+    },
+    {
+      "name": "カーボンローラーANGL",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "23",
+      "評価": "不明"
+    },
+    {
+      "name": "ヴァリアブルローラーフォイル",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "24",
+      "評価": ""
+    },
+    {
+      "name": "オーダーローラーレプリカ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "サイドオーダー",
+      "評価": ""
+    },
+    {
+      "name": "スプラチャージャー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "2",
+      "評価": ""
+    },
+    {
+      "name": "スクイックリンα",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "8",
+      "評価": ""
+    },
+    {
+      "name": "スプラチャージャーコラボ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "9",
+      "評価": ""
+    },
+    {
+      "name": "スプラスコープ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "10",
+      "評価": ""
+    },
+    {
+      "name": "スプラチャージャーFRST",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "10",
+      "評価": "不明"
+    },
+    {
+      "name": "スクイックリンβ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "11",
+      "評価": ""
+    },
+    {
+      "name": "R-PEN/5H",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "14",
+      "評価": ""
+    },
+    {
+      "name": "スプラスコープコラボ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "15",
+      "評価": ""
+    },
+    {
+      "name": "スプラスコープFRST",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "17",
+      "評価": "不明"
+    },
+    {
+      "name": "リッター4K",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "18",
+      "評価": ""
+    },
+    {
+      "name": "R-PEN/5B",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "19",
+      "評価": ""
+    },
+    {
+      "name": "リッター4Kカスタム",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "20",
+      "評価": ""
+    },
+    {
+      "name": "14式竹筒銃・甲",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "23",
+      "評価": ""
+    },
+    {
+      "name": "ソイチューバー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "25",
+      "評価": ""
+    },
+    {
+      "name": "14式竹筒銃・乙",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "26",
+      "評価": ""
+    },
+    {
+      "name": "4Kスコープ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "27",
+      "評価": ""
+    },
+    {
+      "name": "ソイチューバーカスタム",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "28",
+      "評価": ""
+    },
+    {
+      "name": "4Kスコープカスタム",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "28",
+      "評価": ""
+    },
+    {
+      "name": "オーダーチャージャーレプリカ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "サイドオーダー",
+      "評価": ""
+    },
+    {
+      "name": "バケットスロッシャー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "3",
+      "評価": ""
+    },
+    {
+      "name": "ヒッセン",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "10",
+      "評価": ""
+    },
+    {
+      "name": "バケットスロッシャーデコ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "12",
+      "評価": ""
+    },
+    {
+      "name": "スクリュースロッシャー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "14",
+      "評価": ""
+    },
+    {
+      "name": "モップリン",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "15",
+      "評価": ""
+    },
+    {
+      "name": "ヒッセンヒュー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "17",
+      "評価": ""
+    },
+    {
+      "name": "モップリンD",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "18",
+      "評価": ""
+    },
+    {
+      "name": "オーバーフロッシャー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "19",
+      "評価": ""
+    },
+    {
+      "name": "ヒッセンASH",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "19",
+      "評価": "不明"
+    },
+    {
+      "name": "モップリン角",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "20",
+      "評価": "不明"
+    },
+    {
+      "name": "スクリュースロッシャーネオ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "21",
+      "評価": ""
+    },
+    {
+      "name": "オーバーフロッシャーデコ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "23",
+      "評価": ""
+    },
+    {
+      "name": "エクスプロッシャー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "29",
+      "評価": ""
+    },
+    {
+      "name": "エクスプロッシャーカスタム",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "30",
+      "評価": ""
+    },
+    {
+      "name": "オーダースロッシャーレプリカ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "サイドオーダー",
+      "評価": ""
+    },
+    {
+      "name": "バレルスピナー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "4",
+      "評価": ""
+    },
+    {
+      "name": "スプラスピナー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "12",
+      "評価": ""
+    },
+    {
+      "name": "イグザミナー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "13",
+      "評価": ""
+    },
+    {
+      "name": "バレルスピナーデコ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "15",
+      "評価": ""
+    },
+    {
+      "name": "イグザミナーヒュー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "17",
+      "評価": ""
+    },
+    {
+      "name": "ハイドラント",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "20",
+      "評価": ""
+    },
+    {
+      "name": "ハイドラントカスタム",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "23",
+      "評価": ""
+    },
+    {
+      "name": "スプラスピナーコラボ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "25",
+      "評価": ""
+    },
+    {
+      "name": "ハイドラント圧",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "26",
+      "評価": "不明"
+    },
+    {
+      "name": "スプラスピナーPYTN",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "27",
+      "評価": "不明"
+    },
+    {
+      "name": "ノーチラス47",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "28",
+      "評価": ""
+    },
+    {
+      "name": "ノーチラス79",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "29",
+      "評価": ""
+    },
+    {
+      "name": "クーゲルシュライバー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "30",
+      "評価": ""
+    },
+    {
+      "name": "クーゲルシュライバーヒュー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "30",
+      "評価": ""
+    },
+    {
+      "name": "オーダースピナーレプリカ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "サイドオーダー",
+      "評価": ""
+    },
+    {
+      "name": "スプラマニューバー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "3",
+      "評価": ""
+    },
+    {
+      "name": "デュアルスイーパー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "8",
+      "評価": ""
+    },
+    {
+      "name": "スプラマニューバーコラボ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "10",
+      "評価": ""
+    },
+    {
+      "name": "スパッタリー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "14",
+      "評価": ""
+    },
+    {
+      "name": "スプラマニューバー耀",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "15",
+      "評価": "不明"
+    },
+    {
+      "name": "デュアルスイーパーカスタム",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "16",
+      "評価": ""
+    },
+    {
+      "name": "クアッドホッパーブラック",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "17",
+      "評価": ""
+    },
+    {
+      "name": "デュアルスイーパー蹄",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "17",
+      "評価": "不明"
+    },
+    {
+      "name": "ケルビン525",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "21",
+      "評価": ""
+    },
+    {
+      "name": "ガエンFF",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "22",
+      "評価": ""
+    },
+    {
+      "name": "クアッドホッパーホワイト",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "24",
+      "評価": ""
+    },
+    {
+      "name": "スパッタリーヒュー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "26",
+      "評価": ""
+    },
+    {
+      "name": "ケルビン525デコ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "26",
+      "評価": ""
+    },
+    {
+      "name": "ガエンFFカスタム",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "27",
+      "評価": ""
+    },
+    {
+      "name": "スパッタリーOWL",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "28",
+      "評価": "不明"
+    },
+    {
+      "name": "オーダーマニューバーレプリカ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "サイドオーダー",
+      "評価": ""
+    },
+    {
+      "name": "パラシェルター",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "5",
+      "評価": ""
+    },
+    {
+      "name": "24式張替傘・甲",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "13",
+      "評価": ""
+    },
+    {
+      "name": "キャンピングシェルター",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "16",
+      "評価": ""
+    },
+    {
+      "name": "スパイガジェット",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "18",
+      "評価": ""
+    },
+    {
+      "name": "パラシェルターソレーラ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "19",
+      "評価": ""
+    },
+    {
+      "name": "24式張替傘・乙",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "20",
+      "評価": ""
+    },
+    {
+      "name": "キャンピングシェルターソレーラ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "22",
+      "評価": ""
+    },
+    {
+      "name": "スパイガジェットソレーラ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "23",
+      "評価": ""
+    },
+    {
+      "name": "キャンピングシェルターCREM",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "25",
+      "評価": "不明"
+    },
+    {
+      "name": "スパイガジェット繚",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "27",
+      "評価": "不明"
+    },
+    {
+      "name": "オーダーシェルターレプリカ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "サイドオーダー",
+      "評価": ""
+    },
+    {
+      "name": "ホットブラスター",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "3",
+      "評価": ""
+    },
+    {
+      "name": "ラピッドブラスター",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "7",
+      "評価": ""
+    },
+    {
+      "name": "ホットブラスターカスタム",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "8",
+      "評価": ""
+    },
+    {
+      "name": "ホットブラスター艶",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "9",
+      "評価": "不明"
+    },
+    {
+      "name": "ラピッドブラスターデコ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "10",
+      "評価": ""
+    },
+    {
+      "name": "ロングブラスター",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "11",
+      "評価": ""
+    },
+    {
+      "name": "ノヴァブラスター",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "13",
+      "評価": ""
+    },
+    {
+      "name": "ロングブラスターカスタム",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "15",
+      "評価": ""
+    },
+    {
+      "name": "S-BLAST92",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "20",
+      "評価": ""
+    },
+    {
+      "name": "クラッシュブラスター",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "22",
+      "評価": ""
+    },
+    {
+      "name": "ノヴァブラスターネオ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "24",
+      "評価": ""
+    },
+    {
+      "name": "クラッシュブラスターネオ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "25",
+      "評価": ""
+    },
+    {
+      "name": "Rブラスターエリート",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "26",
+      "評価": ""
+    },
+    {
+      "name": "S-BLAST91",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "27",
+      "評価": ""
+    },
+    {
+      "name": "Rブラスターエリートデコ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "29",
+      "評価": ""
+    },
+    {
+      "name": "RブラスターエリートWNTR",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "30",
+      "評価": "不明"
+    },
+    {
+      "name": "オーダーブラスターレプリカ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "サイドオーダー",
+      "評価": ""
+    },
+    {
+      "name": "ホクサイ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "4",
+      "評価": ""
+    },
+    {
+      "name": "パブロ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "7",
+      "評価": ""
+    },
+    {
+      "name": "ホクサイヒュー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "9",
+      "評価": ""
+    },
+    {
+      "name": "ホクサイ彗",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "11",
+      "評価": "不明"
+    },
+    {
+      "name": "フィンセント",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "14",
+      "評価": ""
+    },
+    {
+      "name": "パブロヒュー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "15",
+      "評価": ""
+    },
+    {
+      "name": "フィンセントヒュー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "16",
+      "評価": ""
+    },
+    {
+      "name": "フィンセントBRNZ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "18",
+      "評価": "不明"
+    },
+    {
+      "name": "オーダーブラシレプリカ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "サイドオーダー",
+      "評価": ""
+    },
+    {
+      "name": "トライストリンガー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "4",
+      "評価": ""
+    },
+    {
+      "name": "LACT-450",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "10",
+      "評価": ""
+    },
+    {
+      "name": "トライストリンガーコラボ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "11",
+      "評価": ""
+    },
+    {
+      "name": "LACT-450デコ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "12",
+      "評価": ""
+    },
+    {
+      "name": "トライストリンガー燈",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "13",
+      "評価": "不明"
+    },
+    {
+      "name": "LACT-450MILK",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "16",
+      "評価": "不明"
+    },
+    {
+      "name": "フルイドⅤ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "19",
+      "評価": ""
+    },
+    {
+      "name": "フルイドⅤカスタム",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "24",
+      "評価": ""
+    },
+    {
+      "name": "オーダーストリンガーレプリカ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "サイドオーダー",
+      "評価": ""
+    },
+    {
+      "name": "ドライブワイパー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "5",
+      "評価": ""
+    },
+    {
+      "name": "ドライブワイパーデコ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "10",
+      "評価": ""
+    },
+    {
+      "name": "ドライブワイパーRUST",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "14",
+      "評価": "不明"
+    },
+    {
+      "name": "ジムワイパー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "15",
+      "評価": ""
+    },
+    {
+      "name": "ジムワイパーヒュー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "20",
+      "評価": ""
+    },
+    {
+      "name": "デンタルワイパーミント",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "21",
+      "評価": ""
+    },
+    {
+      "name": "ジムワイパー封",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "22",
+      "評価": "不明"
+    },
+    {
+      "name": "デンタルワイパースミ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "25",
+      "評価": ""
+    },
+    {
+      "name": "オーダーワイパーレプリカ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "サブスペ": "",
+      "解放ランク": "サイドオーダー",
+      "評価": ""
+    },
+    {
+      "name": "最強武器ランキング",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "col1": "ブキ"
+    },
+    {
+      "name": "スペシャル",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "col1": "ギアブランド"
+    },
+    {
+      "name": "ギアパワー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "col1": "サブ"
+    },
+    {
+      "name": "ステージ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "col1": "フェス"
+    },
+    {
+      "name": "ヒーローモード",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "col1": "サーモンラン"
+    },
+    {
+      "name": "ナワバトラー",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "col1": "アップデート最新情報"
+    },
+    {
+      "name": "バンカラマッチ",
+      "source": "game8",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "col1": "イベントマッチ"
+    }
+  ],
+  "beginner": {
+    "page_name": "beginner",
+    "url": "https://game8.jp/splatoon3/478654",
+    "title": "【スプラトゥーン3】遊び方・やり方と初心者がやること｜おすすめ知識情報まとめ【スプラ3】｜ゲームエイト",
+    "headings": [
+      {
+        "level": 1,
+        "text": "【スプラトゥーン3】遊び方・やり方と初心者がやること｜おすすめ知識情報まとめ【スプラ3】"
+      },
+      {
+        "level": 2,
+        "text": "遊び方"
+      },
+      {
+        "level": 3,
+        "text": "初めてプレイするときは自分の見た目を決める"
+      },
+      {
+        "level": 3,
+        "text": "チュートリアルを進める"
+      },
+      {
+        "level": 3,
+        "text": "タイトル画面でZRボタンとZLボタンを同時押しする"
+      },
+      {
+        "level": 3,
+        "text": "バンカラジオを見る"
+      },
+      {
+        "level": 3,
+        "text": "メニューを開いて移動しよう"
+      },
+      {
+        "level": 2,
+        "text": "初心者が始めにやるべきこと"
+      },
+      {
+        "level": 3,
+        "text": "やるべきこと一覧"
+      },
+      {
+        "level": 3,
+        "text": "簡単なバトル操作を覚える"
+      },
+      {
+        "level": 3,
+        "text": "設定を調整しよう"
+      },
+      {
+        "level": 4,
+        "text": "ジャイロ操作をONにすることは必須級"
+      },
+      {
+        "level": 4,
+        "text": "操作設定のおすすめ"
+      },
+      {
+        "level": 3,
+        "text": "試し打ちでジャイロに慣れる"
+      },
+      {
+        "level": 4,
+        "text": "慣れてきたらスピードを上げたり動きを加えてみる"
+      },
+      {
+        "level": 3,
+        "text": "ヒーローモードをプレイしよう"
+      },
+      {
+        "level": 3,
+        "text": "ロビーに行き、1度オンライン対戦に挑戦してみる"
+      },
+      {
+        "level": 3,
+        "text": "対戦で使う武器を決める"
+      },
+      {
+        "level": 4,
+        "text": "マニューバーを使う場合"
+      },
+      {
+        "level": 3,
+        "text": "ランク4になったら新しいギアを装備してみよう"
+      },
+      {
+        "level": 2,
+        "text": "初心者の武器おすすめ"
+      },
+      {
+        "level": 3,
+        "text": "初心者おすすめ武器一覧"
+      },
+      {
+        "level": 4,
+        "text": "最強ランキングもチェック！"
+      },
+      {
+        "level": 2,
+        "text": "初心者が覚えておくべき戦闘テクニック"
+      },
+      {
+        "level": 3,
+        "text": "スーパージャンプ"
+      },
+      {
+        "level": 3,
+        "text": "イカロール"
+      },
+      {
+        "level": 3,
+        "text": "イカノボリ"
+      },
+      {
+        "level": 2,
+        "text": "何も知らない初心者解説｜スプラトゥーンとは？"
+      },
+      {
+        "level": 3,
+        "text": "ヒト状態とイカ状態に変化しながら戦うゲーム"
+      },
+      {
+        "level": 3,
+        "text": "自分のチームのインクの上では自由に行動できる"
+      },
+      {
+        "level": 3,
+        "text": "相手インクの上では鈍足とダメージを受ける"
+      },
+      {
+        "level": 4,
+        "text": "安全靴(相手インク影響軽減)を付けることで軽減できる"
+      },
+      {
+        "level": 3,
+        "text": "何度でも復活できる"
+      },
+      {
+        "level": 3,
+        "text": "バトル形式はナワバリとガチルール4種の計5種類"
+      },
+      {
+        "level": 4,
+        "text": "カウントを進めた数が多い方が勝利となる"
+      },
+      {
+        "level": 2,
+        "text": "関連記事"
+      },
+      {
+        "level": 3,
+        "text": "Switch2とスプラ4最新情報"
+      },
+      {
+        "level": 3,
+        "text": "購入前に読みたい攻略記事"
+      },
+      {
+        "level": 3,
+        "text": "購入後に読みたい攻略記事"
+      },
+      {
+        "level": 3,
+        "text": "初心者攻略情報まとめ"
+      },
+      {
+        "level": 3,
+        "text": "ギア・ギアパワー関連のお役立ち記事"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3プレイヤーにおすすめ【PR】"
+      },
+      {
+        "level": 2,
+        "text": "コメント"
+      },
+      {
+        "level": 2,
+        "text": "記事を書いている攻略メンバー"
+      },
+      {
+        "level": 2,
+        "text": "攻略メニュー"
+      },
+      {
+        "level": 3,
+        "text": "注目記事"
+      },
+      {
+        "level": 3,
+        "text": "フェス"
+      },
+      {
+        "level": 3,
+        "text": "アップデート"
+      },
+      {
+        "level": 3,
+        "text": "ブキ"
+      },
+      {
+        "level": 4,
+        "text": "最強ランキング"
+      },
+      {
+        "level": 4,
+        "text": "武器一覧"
+      },
+      {
+        "level": 3,
+        "text": "ヒーローモード"
+      },
+      {
+        "level": 4,
+        "text": "サイト攻略"
+      },
+      {
+        "level": 4,
+        "text": "収集要素"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち記事"
+      },
+      {
+        "level": 3,
+        "text": "スペシャル"
+      },
+      {
+        "level": 3,
+        "text": "サブ"
+      },
+      {
+        "level": 3,
+        "text": "ギアパワー"
+      },
+      {
+        "level": 3,
+        "text": "お役立ち攻略記事"
+      },
+      {
+        "level": 4,
+        "text": "ギア・ギアパワー関連"
+      },
+      {
+        "level": 3,
+        "text": "サーモンラン"
+      },
+      {
+        "level": 4,
+        "text": "ビッグラン"
+      },
+      {
+        "level": 4,
+        "text": "オカシラシャケ"
+      },
+      {
+        "level": 4,
+        "text": "オオモノシャケ"
+      },
+      {
+        "level": 4,
+        "text": "特殊ウェーブ"
+      },
+      {
+        "level": 4,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "ギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "非売品のギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "購入可能なギアブランド"
+      },
+      {
+        "level": 3,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "バンカラマッチ"
+      },
+      {
+        "level": 4,
+        "text": "ルール・立ち回り解説"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち"
+      },
+      {
+        "level": 3,
+        "text": "ナワバリバトル"
+      },
+      {
+        "level": 3,
+        "text": "イベントマッチ"
+      },
+      {
+        "level": 3,
+        "text": "ナワバトラー"
+      },
+      {
+        "level": 3,
+        "text": "スプラ甲子園"
+      },
+      {
+        "level": 3,
+        "text": "エキスパンションパス"
+      },
+      {
+        "level": 3,
+        "text": "掲示板"
+      },
+      {
+        "level": 3,
+        "text": "英語版wiki (English)"
+      },
+      {
+        "level": 2,
+        "text": "ランキング"
+      },
+      {
+        "level": 2,
+        "text": "人気ゲーム"
+      },
+      {
+        "level": 2,
+        "text": "おすすめゲーム"
+      },
+      {
+        "level": 2,
+        "text": "権利表記"
+      }
+    ],
+    "sections": [
+      "遊び方",
+      "初心者が始めにやるべきこと",
+      "初心者の武器おすすめ",
+      "初心者が覚えておくべき戦闘テクニック",
+      "何も知らない初心者解説｜スプラトゥーンとは？",
+      "関連記事",
+      "スプラトゥーン3プレイヤーにおすすめ【PR】",
+      "コメント",
+      "記事を書いている攻略メンバー",
+      "攻略メニュー",
+      "ランキング",
+      "人気ゲーム",
+      "おすすめゲーム",
+      "権利表記"
+    ],
+    "tables_count": 20,
+    "images_count": 102
+  },
+  "beginner_weapon": {
+    "page_name": "beginner_weapon",
+    "url": "https://game8.jp/splatoon3/480302",
+    "title": "【スプラトゥーン3】初心者おすすめ武器（ブキ）【スプラ3】｜ゲームエイト",
+    "headings": [
+      {
+        "level": 1,
+        "text": "【スプラトゥーン3】初心者おすすめ武器（ブキ）【スプラ3】"
+      },
+      {
+        "level": 2,
+        "text": "初心者おすすめ武器"
+      },
+      {
+        "level": 3,
+        "text": "わかばシューター"
+      },
+      {
+        "level": 4,
+        "text": "まずは塗りを楽しみたい人はコレ！"
+      },
+      {
+        "level": 3,
+        "text": "スプラシューター"
+      },
+      {
+        "level": 4,
+        "text": "扱いやすい上に最強格の武器"
+      },
+      {
+        "level": 3,
+        "text": "バレルスピナー"
+      },
+      {
+        "level": 4,
+        "text": "扱いに少し癖があるが、遠くからキルを狙える"
+      },
+      {
+        "level": 3,
+        "text": "N-ZAP85"
+      },
+      {
+        "level": 4,
+        "text": "塗りと味方支援の両立、扱いやすい武器"
+      },
+      {
+        "level": 3,
+        "text": "スクリュースロッシャー"
+      },
+      {
+        "level": 4,
+        "text": "全ルールで活躍できる圧倒的キル性能"
+      },
+      {
+        "level": 3,
+        "text": "シャープマーカー"
+      },
+      {
+        "level": 4,
+        "text": "全ルールで活躍できる塗り・対面性能を両立した武器"
+      },
+      {
+        "level": 2,
+        "text": "初心者が武器を選ぶ際に意識すること"
+      },
+      {
+        "level": 3,
+        "text": "上達したいなら強い持ち武器を1つ定めよう"
+      },
+      {
+        "level": 4,
+        "text": "最強ランキング記事をチェック！"
+      },
+      {
+        "level": 3,
+        "text": "難しい武器は上達が遅れてしまう"
+      },
+      {
+        "level": 2,
+        "text": "みんなが思う最強武器は？"
+      },
+      {
+        "level": 2,
+        "text": "関連記事"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3プレイヤーにおすすめ【PR】"
+      },
+      {
+        "level": 2,
+        "text": "コメント"
+      },
+      {
+        "level": 2,
+        "text": "記事を書いている攻略メンバー"
+      },
+      {
+        "level": 2,
+        "text": "攻略メニュー"
+      },
+      {
+        "level": 3,
+        "text": "注目記事"
+      },
+      {
+        "level": 3,
+        "text": "フェス"
+      },
+      {
+        "level": 3,
+        "text": "アップデート"
+      },
+      {
+        "level": 3,
+        "text": "ブキ"
+      },
+      {
+        "level": 4,
+        "text": "最強ランキング"
+      },
+      {
+        "level": 4,
+        "text": "武器一覧"
+      },
+      {
+        "level": 3,
+        "text": "ヒーローモード"
+      },
+      {
+        "level": 4,
+        "text": "サイト攻略"
+      },
+      {
+        "level": 4,
+        "text": "収集要素"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち記事"
+      },
+      {
+        "level": 3,
+        "text": "スペシャル"
+      },
+      {
+        "level": 3,
+        "text": "サブ"
+      },
+      {
+        "level": 3,
+        "text": "ギアパワー"
+      },
+      {
+        "level": 3,
+        "text": "お役立ち攻略記事"
+      },
+      {
+        "level": 4,
+        "text": "ギア・ギアパワー関連"
+      },
+      {
+        "level": 3,
+        "text": "サーモンラン"
+      },
+      {
+        "level": 4,
+        "text": "ビッグラン"
+      },
+      {
+        "level": 4,
+        "text": "オカシラシャケ"
+      },
+      {
+        "level": 4,
+        "text": "オオモノシャケ"
+      },
+      {
+        "level": 4,
+        "text": "特殊ウェーブ"
+      },
+      {
+        "level": 4,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "ギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "非売品のギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "購入可能なギアブランド"
+      },
+      {
+        "level": 3,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "バンカラマッチ"
+      },
+      {
+        "level": 4,
+        "text": "ルール・立ち回り解説"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち"
+      },
+      {
+        "level": 3,
+        "text": "ナワバリバトル"
+      },
+      {
+        "level": 3,
+        "text": "イベントマッチ"
+      },
+      {
+        "level": 3,
+        "text": "ナワバトラー"
+      },
+      {
+        "level": 3,
+        "text": "スプラ甲子園"
+      },
+      {
+        "level": 3,
+        "text": "エキスパンションパス"
+      },
+      {
+        "level": 3,
+        "text": "掲示板"
+      },
+      {
+        "level": 3,
+        "text": "英語版wiki (English)"
+      },
+      {
+        "level": 2,
+        "text": "ランキング"
+      },
+      {
+        "level": 2,
+        "text": "人気ゲーム"
+      },
+      {
+        "level": 2,
+        "text": "おすすめゲーム"
+      },
+      {
+        "level": 2,
+        "text": "権利表記"
+      }
+    ],
+    "sections": [
+      "初心者おすすめ武器",
+      "初心者が武器を選ぶ際に意識すること",
+      "みんなが思う最強武器は？",
+      "関連記事",
+      "スプラトゥーン3プレイヤーにおすすめ【PR】",
+      "コメント",
+      "記事を書いている攻略メンバー",
+      "攻略メニュー",
+      "ランキング",
+      "人気ゲーム",
+      "おすすめゲーム",
+      "権利表記"
+    ],
+    "tables_count": 18,
+    "images_count": 102
+  },
+  "stage_list": {
+    "page_name": "stage_list",
+    "url": "https://game8.jp/splatoon3/477902",
+    "title": "【スプラトゥーン3】ステージ（マップ）一覧｜新ステージも掲載【スプラ3】｜ゲームエイト",
+    "headings": [
+      {
+        "level": 1,
+        "text": "【スプラトゥーン3】ステージ（マップ）一覧｜新ステージも掲載【スプラ3】"
+      },
+      {
+        "level": 2,
+        "text": "ステージに関するアプデ情報"
+      },
+      {
+        "level": 3,
+        "text": "新ステージが追加"
+      },
+      {
+        "level": 4,
+        "text": "デカライン高架下"
+      },
+      {
+        "level": 3,
+        "text": "ステージは今後もアップデートで追加される？"
+      },
+      {
+        "level": 4,
+        "text": "デカライン高架下が最後のステージ？"
+      },
+      {
+        "level": 2,
+        "text": "ステージ一覧"
+      },
+      {
+        "level": 3,
+        "text": "スプラ3から登場したステージ"
+      },
+      {
+        "level": 3,
+        "text": "スプラ1で登場したステージ"
+      },
+      {
+        "level": 3,
+        "text": "スプラ2から続投しているステージ"
+      },
+      {
+        "level": 3,
+        "text": "アップデートで追加されたステージ"
+      },
+      {
+        "level": 4,
+        "text": "2022冬シーズン"
+      },
+      {
+        "level": 4,
+        "text": "2023春シーズン"
+      },
+      {
+        "level": 4,
+        "text": "2023夏シーズン"
+      },
+      {
+        "level": 4,
+        "text": "2023秋シーズン"
+      },
+      {
+        "level": 4,
+        "text": "2023冬シーズン"
+      },
+      {
+        "level": 4,
+        "text": "2024春シーズン"
+      },
+      {
+        "level": 4,
+        "text": "2024夏シーズン"
+      },
+      {
+        "level": 4,
+        "text": "2025夏シーズン"
+      },
+      {
+        "level": 2,
+        "text": "関連記事"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3プレイヤーにおすすめ【PR】"
+      },
+      {
+        "level": 2,
+        "text": "コメント"
+      },
+      {
+        "level": 2,
+        "text": "記事を書いている攻略メンバー"
+      },
+      {
+        "level": 2,
+        "text": "攻略メニュー"
+      },
+      {
+        "level": 3,
+        "text": "注目記事"
+      },
+      {
+        "level": 3,
+        "text": "フェス"
+      },
+      {
+        "level": 3,
+        "text": "アップデート"
+      },
+      {
+        "level": 3,
+        "text": "ブキ"
+      },
+      {
+        "level": 4,
+        "text": "最強ランキング"
+      },
+      {
+        "level": 4,
+        "text": "武器一覧"
+      },
+      {
+        "level": 3,
+        "text": "ヒーローモード"
+      },
+      {
+        "level": 4,
+        "text": "サイト攻略"
+      },
+      {
+        "level": 4,
+        "text": "収集要素"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち記事"
+      },
+      {
+        "level": 3,
+        "text": "スペシャル"
+      },
+      {
+        "level": 3,
+        "text": "サブ"
+      },
+      {
+        "level": 3,
+        "text": "ギアパワー"
+      },
+      {
+        "level": 3,
+        "text": "お役立ち攻略記事"
+      },
+      {
+        "level": 4,
+        "text": "ギア・ギアパワー関連"
+      },
+      {
+        "level": 3,
+        "text": "サーモンラン"
+      },
+      {
+        "level": 4,
+        "text": "ビッグラン"
+      },
+      {
+        "level": 4,
+        "text": "オカシラシャケ"
+      },
+      {
+        "level": 4,
+        "text": "オオモノシャケ"
+      },
+      {
+        "level": 4,
+        "text": "特殊ウェーブ"
+      },
+      {
+        "level": 4,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "ギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "非売品のギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "購入可能なギアブランド"
+      },
+      {
+        "level": 3,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "バンカラマッチ"
+      },
+      {
+        "level": 4,
+        "text": "ルール・立ち回り解説"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち"
+      },
+      {
+        "level": 3,
+        "text": "ナワバリバトル"
+      },
+      {
+        "level": 3,
+        "text": "イベントマッチ"
+      },
+      {
+        "level": 3,
+        "text": "ナワバトラー"
+      },
+      {
+        "level": 3,
+        "text": "スプラ甲子園"
+      },
+      {
+        "level": 3,
+        "text": "エキスパンションパス"
+      },
+      {
+        "level": 3,
+        "text": "掲示板"
+      },
+      {
+        "level": 3,
+        "text": "英語版wiki (English)"
+      },
+      {
+        "level": 2,
+        "text": "ランキング"
+      },
+      {
+        "level": 2,
+        "text": "人気ゲーム"
+      },
+      {
+        "level": 2,
+        "text": "おすすめゲーム"
+      },
+      {
+        "level": 2,
+        "text": "権利表記"
+      }
+    ],
+    "sections": [
+      "ステージに関するアプデ情報",
+      "ステージ一覧",
+      "関連記事",
+      "スプラトゥーン3プレイヤーにおすすめ【PR】",
+      "コメント",
+      "記事を書いている攻略メンバー",
+      "攻略メニュー",
+      "ランキング",
+      "人気ゲーム",
+      "おすすめゲーム",
+      "権利表記"
+    ],
+    "tables_count": 14,
+    "images_count": 83
+  },
+  "gear_brand": {
+    "page_name": "gear_brand",
+    "url": "https://game8.jp/splatoon3/477900",
+    "title": "【スプラトゥーン3】ギア一覧とブランド一覧｜付きやすいギアパワー【スプラ3】｜ゲームエイト",
+    "headings": [
+      {
+        "level": 1,
+        "text": "【スプラトゥーン3】ギア一覧とブランド一覧｜付きやすいギアパワー【スプラ3】"
+      },
+      {
+        "level": 2,
+        "text": "ギア一覧"
+      },
+      {
+        "level": 3,
+        "text": "着こなしを変えられる"
+      },
+      {
+        "level": 3,
+        "text": "部位ごとのギア一覧"
+      },
+      {
+        "level": 3,
+        "text": "非売品ブランドのギア一覧"
+      },
+      {
+        "level": 3,
+        "text": "購入可能ブランドのギア一覧"
+      },
+      {
+        "level": 2,
+        "text": "ギアのブランドと付きやすいギアパワー"
+      },
+      {
+        "level": 3,
+        "text": "ブランド一覧と付きやすいギアパワー"
+      },
+      {
+        "level": 2,
+        "text": "ギアのブランドで何が変わる？"
+      },
+      {
+        "level": 3,
+        "text": "ブランドで付きやすいギアパワーが決まっている"
+      },
+      {
+        "level": 3,
+        "text": "今作では基本ギアパワーも変更可能に！"
+      },
+      {
+        "level": 2,
+        "text": "関連記事"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3プレイヤーにおすすめ【PR】"
+      },
+      {
+        "level": 2,
+        "text": "コメント"
+      },
+      {
+        "level": 2,
+        "text": "記事を書いている攻略メンバー"
+      },
+      {
+        "level": 2,
+        "text": "攻略メニュー"
+      },
+      {
+        "level": 3,
+        "text": "注目記事"
+      },
+      {
+        "level": 3,
+        "text": "フェス"
+      },
+      {
+        "level": 3,
+        "text": "アップデート"
+      },
+      {
+        "level": 3,
+        "text": "ブキ"
+      },
+      {
+        "level": 4,
+        "text": "最強ランキング"
+      },
+      {
+        "level": 4,
+        "text": "武器一覧"
+      },
+      {
+        "level": 3,
+        "text": "ヒーローモード"
+      },
+      {
+        "level": 4,
+        "text": "サイト攻略"
+      },
+      {
+        "level": 4,
+        "text": "収集要素"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち記事"
+      },
+      {
+        "level": 3,
+        "text": "スペシャル"
+      },
+      {
+        "level": 3,
+        "text": "サブ"
+      },
+      {
+        "level": 3,
+        "text": "ギアパワー"
+      },
+      {
+        "level": 3,
+        "text": "お役立ち攻略記事"
+      },
+      {
+        "level": 4,
+        "text": "ギア・ギアパワー関連"
+      },
+      {
+        "level": 3,
+        "text": "サーモンラン"
+      },
+      {
+        "level": 4,
+        "text": "ビッグラン"
+      },
+      {
+        "level": 4,
+        "text": "オカシラシャケ"
+      },
+      {
+        "level": 4,
+        "text": "オオモノシャケ"
+      },
+      {
+        "level": 4,
+        "text": "特殊ウェーブ"
+      },
+      {
+        "level": 4,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "ギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "非売品のギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "購入可能なギアブランド"
+      },
+      {
+        "level": 3,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "バンカラマッチ"
+      },
+      {
+        "level": 4,
+        "text": "ルール・立ち回り解説"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち"
+      },
+      {
+        "level": 3,
+        "text": "ナワバリバトル"
+      },
+      {
+        "level": 3,
+        "text": "イベントマッチ"
+      },
+      {
+        "level": 3,
+        "text": "ナワバトラー"
+      },
+      {
+        "level": 3,
+        "text": "スプラ甲子園"
+      },
+      {
+        "level": 3,
+        "text": "エキスパンションパス"
+      },
+      {
+        "level": 3,
+        "text": "掲示板"
+      },
+      {
+        "level": 3,
+        "text": "英語版wiki (English)"
+      },
+      {
+        "level": 2,
+        "text": "ランキング"
+      },
+      {
+        "level": 2,
+        "text": "人気ゲーム"
+      },
+      {
+        "level": 2,
+        "text": "おすすめゲーム"
+      },
+      {
+        "level": 2,
+        "text": "権利表記"
+      }
+    ],
+    "sections": [
+      "ギア一覧",
+      "ギアのブランドと付きやすいギアパワー",
+      "ギアのブランドで何が変わる？",
+      "関連記事",
+      "スプラトゥーン3プレイヤーにおすすめ【PR】",
+      "コメント",
+      "記事を書いている攻略メンバー",
+      "攻略メニュー",
+      "ランキング",
+      "人気ゲーム",
+      "おすすめゲーム",
+      "権利表記"
+    ],
+    "tables_count": 7,
+    "images_count": 136
+  },
+  "gear_power": {
+    "page_name": "gear_power",
+    "url": "https://game8.jp/splatoon3/477901",
+    "title": "【スプラトゥーン3】ギアパワー一覧と効果【スプラ3】｜ゲームエイト",
+    "headings": [
+      {
+        "level": 1,
+        "text": "【スプラトゥーン3】ギアパワー一覧と効果【スプラ3】"
+      },
+      {
+        "level": 2,
+        "text": "ギアパワーの一覧と効果"
+      },
+      {
+        "level": 2,
+        "text": "新ギアパワーと廃止されたギアパワー"
+      },
+      {
+        "level": 3,
+        "text": "スプラ3からの新ギアパワーは2つ追加！"
+      },
+      {
+        "level": 4,
+        "text": "スプラ3からなくなったギアパワーはこの2つ"
+      },
+      {
+        "level": 2,
+        "text": "ギアパワーの解説記事一覧"
+      },
+      {
+        "level": 2,
+        "text": "関連記事"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3プレイヤーにおすすめ【PR】"
+      },
+      {
+        "level": 2,
+        "text": "コメント"
+      },
+      {
+        "level": 2,
+        "text": "記事を書いている攻略メンバー"
+      },
+      {
+        "level": 2,
+        "text": "攻略メニュー"
+      },
+      {
+        "level": 3,
+        "text": "注目記事"
+      },
+      {
+        "level": 3,
+        "text": "フェス"
+      },
+      {
+        "level": 3,
+        "text": "アップデート"
+      },
+      {
+        "level": 3,
+        "text": "ブキ"
+      },
+      {
+        "level": 4,
+        "text": "最強ランキング"
+      },
+      {
+        "level": 4,
+        "text": "武器一覧"
+      },
+      {
+        "level": 3,
+        "text": "ヒーローモード"
+      },
+      {
+        "level": 4,
+        "text": "サイト攻略"
+      },
+      {
+        "level": 4,
+        "text": "収集要素"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち記事"
+      },
+      {
+        "level": 3,
+        "text": "スペシャル"
+      },
+      {
+        "level": 3,
+        "text": "サブ"
+      },
+      {
+        "level": 3,
+        "text": "ギアパワー"
+      },
+      {
+        "level": 3,
+        "text": "お役立ち攻略記事"
+      },
+      {
+        "level": 4,
+        "text": "ギア・ギアパワー関連"
+      },
+      {
+        "level": 3,
+        "text": "サーモンラン"
+      },
+      {
+        "level": 4,
+        "text": "ビッグラン"
+      },
+      {
+        "level": 4,
+        "text": "オカシラシャケ"
+      },
+      {
+        "level": 4,
+        "text": "オオモノシャケ"
+      },
+      {
+        "level": 4,
+        "text": "特殊ウェーブ"
+      },
+      {
+        "level": 4,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "ギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "非売品のギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "購入可能なギアブランド"
+      },
+      {
+        "level": 3,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "バンカラマッチ"
+      },
+      {
+        "level": 4,
+        "text": "ルール・立ち回り解説"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち"
+      },
+      {
+        "level": 3,
+        "text": "ナワバリバトル"
+      },
+      {
+        "level": 3,
+        "text": "イベントマッチ"
+      },
+      {
+        "level": 3,
+        "text": "ナワバトラー"
+      },
+      {
+        "level": 3,
+        "text": "スプラ甲子園"
+      },
+      {
+        "level": 3,
+        "text": "エキスパンションパス"
+      },
+      {
+        "level": 3,
+        "text": "掲示板"
+      },
+      {
+        "level": 3,
+        "text": "英語版wiki (English)"
+      },
+      {
+        "level": 2,
+        "text": "ランキング"
+      },
+      {
+        "level": 2,
+        "text": "人気ゲーム"
+      },
+      {
+        "level": 2,
+        "text": "おすすめゲーム"
+      },
+      {
+        "level": 2,
+        "text": "権利表記"
+      }
+    ],
+    "sections": [
+      "ギアパワーの一覧と効果",
+      "新ギアパワーと廃止されたギアパワー",
+      "ギアパワーの解説記事一覧",
+      "関連記事",
+      "スプラトゥーン3プレイヤーにおすすめ【PR】",
+      "コメント",
+      "記事を書いている攻略メンバー",
+      "攻略メニュー",
+      "ランキング",
+      "人気ゲーム",
+      "おすすめゲーム",
+      "権利表記"
+    ],
+    "tables_count": 7,
+    "images_count": 106
+  },
+  "salmon_run": {
+    "page_name": "salmon_run",
+    "url": "https://game8.jp/splatoon3/480290",
+    "title": "【スプラトゥーン3】サーモンラン攻略【スプラ3】｜ゲームエイト",
+    "headings": [
+      {
+        "level": 1,
+        "text": "【スプラトゥーン3】サーモンラン攻略【スプラ3】"
+      },
+      {
+        "level": 2,
+        "text": "サーモンランの最新情報"
+      },
+      {
+        "level": 3,
+        "text": "第12回バイトチームコンテストが開催！"
+      },
+      {
+        "level": 3,
+        "text": "特別なバイトツナギがもらえる"
+      },
+      {
+        "level": 4,
+        "text": "1.ゲームニュースを開く"
+      },
+      {
+        "level": 4,
+        "text": "2.チャンネルを見つける"
+      },
+      {
+        "level": 4,
+        "text": "3.スプラ3のチャンネルを選択する"
+      },
+      {
+        "level": 4,
+        "text": "4.今回のビッグランの記事を選択する"
+      },
+      {
+        "level": 4,
+        "text": "5.記事内からスプラ3を起動する"
+      },
+      {
+        "level": 4,
+        "text": "6.ロビー端末から受け取る"
+      },
+      {
+        "level": 3,
+        "text": "サーモンランのアプデ調整内容"
+      },
+      {
+        "level": 4,
+        "text": "新たなウロコ商品は「クマサン」のオキモノ"
+      },
+      {
+        "level": 2,
+        "text": "サーモンラン攻略情報まとめ"
+      },
+      {
+        "level": 3,
+        "text": "攻略情報"
+      },
+      {
+        "level": 3,
+        "text": "お役立ち情報"
+      },
+      {
+        "level": 2,
+        "text": "サーモンラン攻略｜コツと立ち回り解説"
+      },
+      {
+        "level": 3,
+        "text": "厄介なオオモノシャケから優先的に倒そう"
+      },
+      {
+        "level": 3,
+        "text": "武器によって立ち回りを考えよう"
+      },
+      {
+        "level": 3,
+        "text": "暗くなったら特殊ウェーブの心構えを"
+      },
+      {
+        "level": 3,
+        "text": "味方が倒されたらすぐに助けに向かおう"
+      },
+      {
+        "level": 3,
+        "text": "スペシャルは出し惜しみしないで使おう"
+      },
+      {
+        "level": 4,
+        "text": "オカシラシャケ戦では1回分新たに使えるようになる"
+      },
+      {
+        "level": 2,
+        "text": "サーモンランのランク一覧"
+      },
+      {
+        "level": 3,
+        "text": "でんせつ999が最高ランク"
+      },
+      {
+        "level": 3,
+        "text": "3ウェーブクリアすると評価ゲージが上がっていく"
+      },
+      {
+        "level": 4,
+        "text": "最低でもウェーブ2までクリアがランク上げに重要"
+      },
+      {
+        "level": 2,
+        "text": "サーモンランの危険度"
+      },
+      {
+        "level": 3,
+        "text": "バイトの難易度を示す"
+      },
+      {
+        "level": 2,
+        "text": "サーモンランをフレンドとやる方法"
+      },
+      {
+        "level": 3,
+        "text": "フレンドとバイトに参加を選ぶ"
+      },
+      {
+        "level": 3,
+        "text": "プライベートバイトならステージや武器を選べる"
+      },
+      {
+        "level": 2,
+        "text": "サーモンランのルール解説"
+      },
+      {
+        "level": 3,
+        "text": "制限時間内に金イクラを集めてノルマ達成を目指す"
+      },
+      {
+        "level": 3,
+        "text": "3ウェーブクリアできればバイトクリア"
+      },
+      {
+        "level": 3,
+        "text": "特別なシャケが登場する「特殊ウェーブ」も存在"
+      },
+      {
+        "level": 3,
+        "text": "まれにオカシラシャケの延長戦も発生"
+      },
+      {
+        "level": 3,
+        "text": "使える武器やステージは時間で切り替わる"
+      },
+      {
+        "level": 2,
+        "text": "サーモンランのアプデ情報"
+      },
+      {
+        "level": 3,
+        "text": "Ver.3.1.0"
+      },
+      {
+        "level": 3,
+        "text": "Ver.3.0.0"
+      },
+      {
+        "level": 3,
+        "text": "Ver.2.0.0"
+      },
+      {
+        "level": 4,
+        "text": "オオモノシャケの調整内容"
+      },
+      {
+        "level": 4,
+        "text": "スペシャルウェポンの調整内容"
+      },
+      {
+        "level": 3,
+        "text": "Ver.1.1.1"
+      },
+      {
+        "level": 2,
+        "text": "関連記事"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3プレイヤーにおすすめ【PR】"
+      },
+      {
+        "level": 2,
+        "text": "コメント"
+      },
+      {
+        "level": 2,
+        "text": "記事を書いている攻略メンバー"
+      },
+      {
+        "level": 2,
+        "text": "攻略メニュー"
+      },
+      {
+        "level": 3,
+        "text": "注目記事"
+      },
+      {
+        "level": 3,
+        "text": "フェス"
+      },
+      {
+        "level": 3,
+        "text": "アップデート"
+      },
+      {
+        "level": 3,
+        "text": "ブキ"
+      },
+      {
+        "level": 4,
+        "text": "最強ランキング"
+      },
+      {
+        "level": 4,
+        "text": "武器一覧"
+      },
+      {
+        "level": 3,
+        "text": "ヒーローモード"
+      },
+      {
+        "level": 4,
+        "text": "サイト攻略"
+      },
+      {
+        "level": 4,
+        "text": "収集要素"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち記事"
+      },
+      {
+        "level": 3,
+        "text": "スペシャル"
+      },
+      {
+        "level": 3,
+        "text": "サブ"
+      },
+      {
+        "level": 3,
+        "text": "ギアパワー"
+      },
+      {
+        "level": 3,
+        "text": "お役立ち攻略記事"
+      },
+      {
+        "level": 4,
+        "text": "ギア・ギアパワー関連"
+      },
+      {
+        "level": 3,
+        "text": "サーモンラン"
+      },
+      {
+        "level": 4,
+        "text": "ビッグラン"
+      },
+      {
+        "level": 4,
+        "text": "オカシラシャケ"
+      },
+      {
+        "level": 4,
+        "text": "オオモノシャケ"
+      },
+      {
+        "level": 4,
+        "text": "特殊ウェーブ"
+      },
+      {
+        "level": 4,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "ギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "非売品のギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "購入可能なギアブランド"
+      },
+      {
+        "level": 3,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "バンカラマッチ"
+      },
+      {
+        "level": 4,
+        "text": "ルール・立ち回り解説"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち"
+      },
+      {
+        "level": 3,
+        "text": "ナワバリバトル"
+      },
+      {
+        "level": 3,
+        "text": "イベントマッチ"
+      },
+      {
+        "level": 3,
+        "text": "ナワバトラー"
+      },
+      {
+        "level": 3,
+        "text": "スプラ甲子園"
+      },
+      {
+        "level": 3,
+        "text": "エキスパンションパス"
+      },
+      {
+        "level": 3,
+        "text": "掲示板"
+      },
+      {
+        "level": 3,
+        "text": "英語版wiki (English)"
+      },
+      {
+        "level": 2,
+        "text": "ランキング"
+      },
+      {
+        "level": 2,
+        "text": "人気ゲーム"
+      },
+      {
+        "level": 2,
+        "text": "おすすめゲーム"
+      },
+      {
+        "level": 2,
+        "text": "権利表記"
+      }
+    ],
+    "sections": [
+      "サーモンランの最新情報",
+      "サーモンラン攻略情報まとめ",
+      "サーモンラン攻略｜コツと立ち回り解説",
+      "サーモンランのランク一覧",
+      "サーモンランの危険度",
+      "サーモンランをフレンドとやる方法",
+      "サーモンランのルール解説",
+      "サーモンランのアプデ情報",
+      "関連記事",
+      "スプラトゥーン3プレイヤーにおすすめ【PR】",
+      "コメント",
+      "記事を書いている攻略メンバー",
+      "攻略メニュー",
+      "ランキング",
+      "人気ゲーム",
+      "おすすめゲーム",
+      "権利表記"
+    ],
+    "tables_count": 19,
+    "images_count": 162
+  },
+  "special_tier": {
+    "page_name": "special_tier",
+    "url": "https://game8.jp/splatoon3/479087",
+    "title": "【スプラトゥーン3】最強スペシャルランキング【スプラ3】｜ゲームエイト",
+    "headings": [
+      {
+        "level": 1,
+        "text": "【スプラトゥーン3】最強スペシャルランキング【スプラ3】"
+      },
+      {
+        "level": 2,
+        "text": "最強スペシャルランキング"
+      },
+      {
+        "level": 3,
+        "text": "評価基準"
+      },
+      {
+        "level": 2,
+        "text": "最強スペシャルの評価と解説"
+      },
+      {
+        "level": 3,
+        "text": "評価X"
+      },
+      {
+        "level": 3,
+        "text": "評価S"
+      },
+      {
+        "level": 3,
+        "text": "評価A"
+      },
+      {
+        "level": 3,
+        "text": "評価B"
+      },
+      {
+        "level": 3,
+        "text": "評価C"
+      },
+      {
+        "level": 2,
+        "text": "みんなが思う最強スペシャルは？"
+      },
+      {
+        "level": 3,
+        "text": "第7シーズン：2024/03/01〜2024/06/01"
+      },
+      {
+        "level": 3,
+        "text": "過去の投票結果"
+      },
+      {
+        "level": 4,
+        "text": "第5シーズン：2023/09/01〜2023/12/01"
+      },
+      {
+        "level": 4,
+        "text": "第4シーズン：2023/06/01〜2023/09/01"
+      },
+      {
+        "level": 4,
+        "text": "第3シーズン：2023/03/01〜2023/06/01"
+      },
+      {
+        "level": 4,
+        "text": "第2シーズン：2022/12/01〜2023/03/01"
+      },
+      {
+        "level": 4,
+        "text": "第1シーズン：2022/09/09〜2022/12/01"
+      },
+      {
+        "level": 2,
+        "text": "関連記事"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3プレイヤーにおすすめ【PR】"
+      },
+      {
+        "level": 2,
+        "text": "コメント"
+      },
+      {
+        "level": 2,
+        "text": "記事を書いている攻略メンバー"
+      },
+      {
+        "level": 2,
+        "text": "攻略メニュー"
+      },
+      {
+        "level": 3,
+        "text": "注目記事"
+      },
+      {
+        "level": 3,
+        "text": "フェス"
+      },
+      {
+        "level": 3,
+        "text": "アップデート"
+      },
+      {
+        "level": 3,
+        "text": "ブキ"
+      },
+      {
+        "level": 4,
+        "text": "最強ランキング"
+      },
+      {
+        "level": 4,
+        "text": "武器一覧"
+      },
+      {
+        "level": 3,
+        "text": "ヒーローモード"
+      },
+      {
+        "level": 4,
+        "text": "サイト攻略"
+      },
+      {
+        "level": 4,
+        "text": "収集要素"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち記事"
+      },
+      {
+        "level": 3,
+        "text": "スペシャル"
+      },
+      {
+        "level": 3,
+        "text": "サブ"
+      },
+      {
+        "level": 3,
+        "text": "ギアパワー"
+      },
+      {
+        "level": 3,
+        "text": "お役立ち攻略記事"
+      },
+      {
+        "level": 4,
+        "text": "ギア・ギアパワー関連"
+      },
+      {
+        "level": 3,
+        "text": "サーモンラン"
+      },
+      {
+        "level": 4,
+        "text": "ビッグラン"
+      },
+      {
+        "level": 4,
+        "text": "オカシラシャケ"
+      },
+      {
+        "level": 4,
+        "text": "オオモノシャケ"
+      },
+      {
+        "level": 4,
+        "text": "特殊ウェーブ"
+      },
+      {
+        "level": 4,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "ギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "非売品のギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "購入可能なギアブランド"
+      },
+      {
+        "level": 3,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "バンカラマッチ"
+      },
+      {
+        "level": 4,
+        "text": "ルール・立ち回り解説"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち"
+      },
+      {
+        "level": 3,
+        "text": "ナワバリバトル"
+      },
+      {
+        "level": 3,
+        "text": "イベントマッチ"
+      },
+      {
+        "level": 3,
+        "text": "ナワバトラー"
+      },
+      {
+        "level": 3,
+        "text": "スプラ甲子園"
+      },
+      {
+        "level": 3,
+        "text": "エキスパンションパス"
+      },
+      {
+        "level": 3,
+        "text": "掲示板"
+      },
+      {
+        "level": 3,
+        "text": "英語版wiki (English)"
+      },
+      {
+        "level": 2,
+        "text": "ランキング"
+      },
+      {
+        "level": 2,
+        "text": "人気ゲーム"
+      },
+      {
+        "level": 2,
+        "text": "おすすめゲーム"
+      },
+      {
+        "level": 2,
+        "text": "権利表記"
+      }
+    ],
+    "sections": [
+      "最強スペシャルランキング",
+      "最強スペシャルの評価と解説",
+      "みんなが思う最強スペシャルは？",
+      "関連記事",
+      "スプラトゥーン3プレイヤーにおすすめ【PR】",
+      "コメント",
+      "記事を書いている攻略メンバー",
+      "攻略メニュー",
+      "ランキング",
+      "人気ゲーム",
+      "おすすめゲーム",
+      "権利表記"
+    ],
+    "tables_count": 11,
+    "images_count": 98
+  },
+  "gear_tier": {
+    "page_name": "gear_tier",
+    "url": "https://game8.jp/splatoon3/480277",
+    "title": "【スプラトゥーン3】ギアパワーのおすすめ最強ランキング【スプラ3】｜ゲームエイト",
+    "headings": [
+      {
+        "level": 1,
+        "text": "【スプラトゥーン3】ギアパワーのおすすめ最強ランキング【スプラ3】"
+      },
+      {
+        "level": 2,
+        "text": "ギアパワーのおすすめ最強ランキング"
+      },
+      {
+        "level": 3,
+        "text": "ギアパワー最強Tier表"
+      },
+      {
+        "level": 2,
+        "text": "ギアパワーのおすすめ最強の評価"
+      },
+      {
+        "level": 3,
+        "text": "おすすめランクXの評価"
+      },
+      {
+        "level": 3,
+        "text": "おすすめランクS＋の評価"
+      },
+      {
+        "level": 2,
+        "text": "ギアパワーおすすめ最強の評価基準"
+      },
+      {
+        "level": 3,
+        "text": "おすすめのギアは武器によって異なる"
+      },
+      {
+        "level": 4,
+        "text": "ギア・ギアパワーの関連記事"
+      },
+      {
+        "level": 2,
+        "text": "関連記事"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3プレイヤーにおすすめ【PR】"
+      },
+      {
+        "level": 2,
+        "text": "コメント"
+      },
+      {
+        "level": 2,
+        "text": "記事を書いている攻略メンバー"
+      },
+      {
+        "level": 2,
+        "text": "攻略メニュー"
+      },
+      {
+        "level": 3,
+        "text": "注目記事"
+      },
+      {
+        "level": 3,
+        "text": "フェス"
+      },
+      {
+        "level": 3,
+        "text": "アップデート"
+      },
+      {
+        "level": 3,
+        "text": "ブキ"
+      },
+      {
+        "level": 4,
+        "text": "最強ランキング"
+      },
+      {
+        "level": 4,
+        "text": "武器一覧"
+      },
+      {
+        "level": 3,
+        "text": "ヒーローモード"
+      },
+      {
+        "level": 4,
+        "text": "サイト攻略"
+      },
+      {
+        "level": 4,
+        "text": "収集要素"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち記事"
+      },
+      {
+        "level": 3,
+        "text": "スペシャル"
+      },
+      {
+        "level": 3,
+        "text": "サブ"
+      },
+      {
+        "level": 3,
+        "text": "ギアパワー"
+      },
+      {
+        "level": 3,
+        "text": "お役立ち攻略記事"
+      },
+      {
+        "level": 4,
+        "text": "ギア・ギアパワー関連"
+      },
+      {
+        "level": 3,
+        "text": "サーモンラン"
+      },
+      {
+        "level": 4,
+        "text": "ビッグラン"
+      },
+      {
+        "level": 4,
+        "text": "オカシラシャケ"
+      },
+      {
+        "level": 4,
+        "text": "オオモノシャケ"
+      },
+      {
+        "level": 4,
+        "text": "特殊ウェーブ"
+      },
+      {
+        "level": 4,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "ギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "非売品のギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "購入可能なギアブランド"
+      },
+      {
+        "level": 3,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "バンカラマッチ"
+      },
+      {
+        "level": 4,
+        "text": "ルール・立ち回り解説"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち"
+      },
+      {
+        "level": 3,
+        "text": "ナワバリバトル"
+      },
+      {
+        "level": 3,
+        "text": "イベントマッチ"
+      },
+      {
+        "level": 3,
+        "text": "ナワバトラー"
+      },
+      {
+        "level": 3,
+        "text": "スプラ甲子園"
+      },
+      {
+        "level": 3,
+        "text": "エキスパンションパス"
+      },
+      {
+        "level": 3,
+        "text": "掲示板"
+      },
+      {
+        "level": 3,
+        "text": "英語版wiki (English)"
+      },
+      {
+        "level": 2,
+        "text": "ランキング"
+      },
+      {
+        "level": 2,
+        "text": "人気ゲーム"
+      },
+      {
+        "level": 2,
+        "text": "おすすめゲーム"
+      },
+      {
+        "level": 2,
+        "text": "権利表記"
+      }
+    ],
+    "sections": [
+      "ギアパワーのおすすめ最強ランキング",
+      "ギアパワーのおすすめ最強の評価",
+      "ギアパワーおすすめ最強の評価基準",
+      "関連記事",
+      "スプラトゥーン3プレイヤーにおすすめ【PR】",
+      "コメント",
+      "記事を書いている攻略メンバー",
+      "攻略メニュー",
+      "ランキング",
+      "人気ゲーム",
+      "おすすめゲーム",
+      "権利表記"
+    ],
+    "tables_count": 9,
+    "images_count": 101
+  },
+  "gear_tier_weapons": [
+    {
+      "name": "ギアパワー",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ヒト移動速度アップ",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "インク効率アップ（サブ）",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "インク効率アップ（メイン）",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "イカニンジャ",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "アクション強化",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "スペシャル増加量アップ",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "復活時間短縮",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "ラストスパート",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "復活ペナルティアップ",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "ギア・ギアパワー関連記事",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ギアブランド",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ギアパワー付け方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ギアパワーのかけら",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "最強ブキ",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "最強記事",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "エリア最強武器",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "ホコ最強武器",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "最強スペシャル",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "ナワバリ最強武器",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "間違いの指摘・意見を送る",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "スプラトゥーン3攻略ガイド｜スプラ3",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "アップデート最新情報まとめ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "最強武器ランキング",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ヒーローモード攻略",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "フェスの最新情報まとめ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "初心者が最初にやること",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "初心者おすすめ武器",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "評価・レビュー｜プレイした感想",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "Switch2とスプラ4最新情報",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "フェス最強武器ランキング",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ヨビ祭の報酬と遊び方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ホラガイの入手方法",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "スーパーサザエの入手方法",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "オマツリガイとは？",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "フェスの報酬は？",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "100倍333倍マッチ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "フェスパワーの上げ方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "100ケツとは？",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "えいえん称号にかかる時間",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "フェスのお題と称号",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "王冠の入手方法",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "フェスの結果発表はいつ？",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "スーパーシグナル",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "フェスポイントの効率的な稼ぎ方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "フェスTの効果と使い道",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "フェス貢献度とは？",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "オープンとチャレンジの違いは？",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "フェス投票の場所はどこ？",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "フェスのインク色の変え方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ハナビダマ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "アップデート最新情報",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "アップデートのやり方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "最強スペシャル",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ガチエリア最強武器ランキング",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ガチヤグラ最強武器ランキング",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ガチホコ最強武器ランキング",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ガチアサリ最強武器ランキング",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ナワバリ最強武器ランキング",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "最強ギアパワーランキング",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "射程ランキング・射程表",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "全ブキ一覧",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "サブスペ一覧",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "シューター一覧",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ローラー一覧",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "チャージャー一覧",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "スロッシャー一覧",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "スピナー一覧",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "マニューバー一覧",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "シェルター一覧",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ブラスター一覧",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "フデ一覧",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ストリンガー一覧",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ワイパー一覧",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ヒーローモードはどこから行ける？",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "みらいユートピアランド",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "あんしんライフファクトリー",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ながいきヤングニュータウン",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "うめたてドリームランド",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "あすなろグリーンヒルズ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "しあわせリサーチラボ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ロケット",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "クリア後の追加要素",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "隠しステージ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ヒーローモードの報酬一覧",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "イリコニウム",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ミステリーファイル",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "オキモノ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ステッカー",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ゴールドディスク",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "フードチケット",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "カードパック",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ボス一覧",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "DJタコワサ将軍",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ウツホ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "フウカの攻略",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "マンタロー",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ラスボス",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "報酬の受け取り方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "調査完了の条件",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ブキチドローン",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "全武器クリア報酬",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ヒーロー装備強化おすすめ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "スペシャル一覧",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "テイオウイカ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "デコイチラシ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ウルトラショット",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "グレートバリア",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ショクワンダー",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "マルチミサイル",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "アメフラシ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ナイスダマ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ホップソナー",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "キューインキ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "メガホンレーザー5.1ch",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ジェットパック",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ウルトラハンコ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "カニタンク",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "サメライド",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "トリプルトルネード",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "エナジースタンド",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "サブ一覧",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "スプラッシュボム",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "キューバンボム",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "クイックボム",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "スプリンクラー",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "スプラッシュシールド",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "タンサンボム",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "カーリングボム",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ロボットボム",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ジャンプビーコン",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ポイントセンサー",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "トラップ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ポイズンミスト",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ラインマーカー",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "トーピード",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ギアパワー一覧",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "インク効率アップ(メイン)",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "インク効率アップ(サブ)",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "インク回復力アップ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "イカダッシュ速度アップ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "スペシャル減少量ダウン",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "スペシャル性能アップ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "スーパージャンプ時間短縮",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "サブ性能アップ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "相手インク影響軽減",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "サブ影響軽減",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "スタートダッシュ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "逆境強化",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "カムバック",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "リベンジ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "サーマルインク",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "追加ギアパワー倍化",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ステルスジャンプ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "対物攻撃力アップ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "受け身術",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "amiibo一覧と使い方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ジャイロとスティックどっちが強い？",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "イカロールのやり方と効果",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "イカノボリのやり方と効果",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "スプラ3の2との違い｜新要素",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "感度のおすすめと設定方法",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "メモリープレイヤーとは",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "セーブの方法は？",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "キャラは変更できる？",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "操作方法と設定変更のやり方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ロビーでできること",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "通信エラーや接続できない時",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "引き継ぎの特典内容とやり方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "フレンド申請のやり方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "試し打ち(試射場)のやり方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "トリカラバトルのやり方とルール",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "設定オプションのおすすめ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "武器の買い方と入手方法",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "前夜祭の結果発表",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "体験版・チュートリアル2",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "予約特典一覧｜店舗別おすすめグッズ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "スプラ3の発売日と最新情報まとめ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "名前の変え方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "イカリング3のダウンロード",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "戦績の見方と順番",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "スーパージャンプのやり方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "スペシャルのやり方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ロッカーの大きさ変更方法",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ワイプアウトとは？",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ニューススキップのやり方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "マッチングの抜け方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "日付更新の時間はいつ？",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "毎日やることまとめ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ゲソタウンの受け取り方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "さんぽのやり方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "飛び級はある？",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "カタログポイントの稼ぎ方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "くじ引きの景品一覧",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "エモートの入手方法",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "イラスト投稿のやり方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "アサリの投げ方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ステッカー一覧",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "オキモノ一覧",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ネームプレート一覧",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ジャッジくんはどこ？ 何ができる？",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ミステリーボックスの中身一覧と入手方法",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "オンラインは有料？｜接続方法",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "オフラインでできること",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "通報のやり方と効果",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ギアの注文方法と受け取り方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "フードチケットは重複する？",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ドリンクチケットの入手方法と効果",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "お金稼ぎのやり方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "バンカラマッチの違い",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ウデマエは降格はする？",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "スパイキーはどこ？",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "慣性キャンセルのやり方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "エイムのコツと練習方法",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "昇格戦の仕様解説",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "表彰の種類一覧と条件まとめ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "眉毛の一覧と変更方法",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "髪型の一覧と変更方法",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "目の色の一覧と変更方法",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "容量は何GBある？",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "チャージキープのやり方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ゴールドブキチライセンス",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "マイコーデの使い方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "売店の場所とできること",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ジュークボックスの使い方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "チャンネル参加のやり方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "色覚サポートとは",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ニンテンドーミュージックで曲を聴く方法",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "イカフロー状態の効果と入り方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "体力ゲージの表示について",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ギア厳選のやり方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ギアパワーの付け方・付け直し方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ギアのレア度の上げ方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ギアの入手方法まとめ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ギアスロットの増やし方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "着こなしのやり方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "サーモンラン攻略まとめ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "オオモノシャケの撃破優先度",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "オカシラシャケの倒し方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "サーモンランのランクと評価",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "サーモンラン武器別の役割",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "サーモンランのステージ一覧",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "特殊ウェーブ一覧",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ウロコの入手方法",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "カプセルの色と開け方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ビッグランの開催はいつ？",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "クマブキの種類一覧",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "クマフェスとは？開催日と見分け方",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "バイトチームコンテストの開催日はいつ？",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "バイトチームコンテスト上位5%に入るコツ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "上位5%に入るコツ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ビッグランのスメーシーワールドの立ち回り",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ヨコヅナ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "テッキュウ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "カタパッド",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "タワー",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "バクダン",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "コウモリ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "テッパン",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "モグラ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ハシラ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ダイバー",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ナベブタ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ヒカリバエ(ラッシュ)",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "干潮・満潮(水位変化)",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ドロシャケ噴出",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "間欠泉(キンシャケ探し)",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "グリル発進",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "巨大竜巻",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ドスコイ大量発生",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ハコビヤ襲来",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "アラマキ砦",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ムニ・エール海洋発電所",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "シェケナダム",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "難破船ドンブラコ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "すじこジャンクション跡",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ギアブランド一覧",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "アタマのギア一覧",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "フクのギア一覧",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "クツのギア一覧",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "amiibo",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "クマサン商会",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "アタリメイド",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "エゾッコリー",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "バトロイカ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "アイロニック",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "クラーゲス",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ロッケンベルグ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "エゾッコ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "フォーリマ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ホッコリー",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ホタックス",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ジモン",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "シグレニ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "アロメ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "アナアキ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "エンペリー",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "タタキケンサキ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "バラズシ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "シチリン",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ステージ一覧",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ユノハナ大渓谷",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ゴンズイ地区",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ヤガラ市場",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "マテガイ放水路",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ナメロウ金属",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "マサバ海峡大橋",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "キンメダイ美術館",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "マヒマヒリゾート＆スパ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "海女美術大学",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "チョウザメ造船",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ザトウマーケット",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "スメーシーワールド",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "クサヤ温泉",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ヒラメが丘団地",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ナンプラー遺跡",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "マンタマリア号",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "タラポートショッピングパーク",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "コンブトラック",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "タカアシ経済特区",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "オヒョウ海運",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "バイガイ亭",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ネギトロ炭鉱",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "カジキ空港",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "リュウグウターミナル",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "デカライン高架下",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "バンカラマッチの解説",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ガチエリアの立ち回り",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ガチヤグラの立ち回り",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ガチホコの立ち回り",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ガチアサリの立ち回り",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "Xマッチのの条件と報酬？",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "チャレンジ・オープンの違い",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "降格はある？",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ウデマエリセットはある？",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ナワバリバトルの立ち回り",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "イベントマッチとは？",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ウルトラショット祭りはいつ？",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ナワバトラーの攻略と報酬",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "スプラ甲子園の参加方法とルール",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "関東地区大会のステージと場所",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "北海道地区大会のステージと場所",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "エキスパンションパスの配信日と購入方法",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ハイカラシティの情報まとめ｜DLC第1弾",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "サイドオーダーの情報まとめ｜DLC第2弾",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "雑談掲示板",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "フレンド募集掲示板",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "バンカラオープン味方募集掲示板",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "チャンネル募集掲示板",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ガチャ結果報告掲示板",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "サーモンラン募集掲示板",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "Splatoon 3 Wiki",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ランクと評価解説【スプラトゥーン3】",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ガチアサリ最強武器（ブキ）ランキング【スプラ3】",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "スペシャル性能アップ(スペ性能)の効果とおすすめ武器【スプラ3】",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "もっとみる",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ポケモンZA攻略｜ポケモンレジェンズZA",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "Switch2速報（ソフト・性能・最新情報まとめ）",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "ドラクエ7  リイマジンド攻略・リメイク",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "シャドバ ビヨンド攻略｜シャドウバース ワールズ ビヨンド",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "モンハンワイルズ攻略｜モンスターハンターワイルズ",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "ポケポケ攻略｜ポケモンカード アプリ",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "崩壊スターレイル攻略",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "パズドラ攻略Wiki",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "モンスト攻略Wiki",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "ドラクエウォーク攻略Wiki",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "原神（げんしん）攻略Wiki",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "ヘブバン(ヘブンバーンズレッド)攻略Wiki",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "レスレリ攻略Wiki",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "エピックセブン攻略Wiki",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "オクトパストラベラー大陸の覇者攻略Wiki｜オクトラ",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "クッキーラン：冒険の塔(クキアド)攻略Wiki",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "ぷよクエ（ぷよぷよクエスト）攻略Wiki【公認】",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "PSO2 ニュージェネシス（NGS）攻略Wiki 【公認】",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "放置少女攻略Wiki",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "パニグレ攻略Wiki",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "ドラゴンエッグ（ドラエグ）攻略Wiki",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "ミリモン（ミリオンモンスター）攻略Wiki",
+      "tier": "S",
+      "icon_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "source": "game8"
+    },
+    {
+      "name": "利用規約",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "プライバシーポリシー",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "外部送信ポリシー",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "お問い合わせ",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "運営会社",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "Game8 (English)",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "人気記事",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "攻略TOP",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ヒーローモード",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "アプデ(新シーズン)",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "サイドオーダー",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "最強ギアパワー",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "フェス",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "ブキ一覧",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    },
+    {
+      "name": "サーモンラン",
+      "tier": "S",
+      "icon_url": "",
+      "source": "game8"
+    }
+  ],
+  "sub_list": {
+    "page_name": "sub_list",
+    "url": "https://game8.jp/splatoon3/477899",
+    "title": "【スプラトゥーン3】サブウェポン一覧｜サブの効果まとめ【スプラ3】｜ゲームエイト",
+    "headings": [
+      {
+        "level": 1,
+        "text": "【スプラトゥーン3】サブウェポン一覧｜サブの効果まとめ【スプラ3】"
+      },
+      {
+        "level": 2,
+        "text": "サブウェポン一覧｜サブ効果"
+      },
+      {
+        "level": 3,
+        "text": "スプラ3からの新サブウェポン"
+      },
+      {
+        "level": 3,
+        "text": "過去作から続投しているサブウェポン"
+      },
+      {
+        "level": 2,
+        "text": "関連記事"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3プレイヤーにおすすめ【PR】"
+      },
+      {
+        "level": 2,
+        "text": "コメント"
+      },
+      {
+        "level": 2,
+        "text": "記事を書いている攻略メンバー"
+      },
+      {
+        "level": 2,
+        "text": "攻略メニュー"
+      },
+      {
+        "level": 3,
+        "text": "注目記事"
+      },
+      {
+        "level": 3,
+        "text": "フェス"
+      },
+      {
+        "level": 3,
+        "text": "アップデート"
+      },
+      {
+        "level": 3,
+        "text": "ブキ"
+      },
+      {
+        "level": 4,
+        "text": "最強ランキング"
+      },
+      {
+        "level": 4,
+        "text": "武器一覧"
+      },
+      {
+        "level": 3,
+        "text": "ヒーローモード"
+      },
+      {
+        "level": 4,
+        "text": "サイト攻略"
+      },
+      {
+        "level": 4,
+        "text": "収集要素"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち記事"
+      },
+      {
+        "level": 3,
+        "text": "スペシャル"
+      },
+      {
+        "level": 3,
+        "text": "サブ"
+      },
+      {
+        "level": 3,
+        "text": "ギアパワー"
+      },
+      {
+        "level": 3,
+        "text": "お役立ち攻略記事"
+      },
+      {
+        "level": 4,
+        "text": "ギア・ギアパワー関連"
+      },
+      {
+        "level": 3,
+        "text": "サーモンラン"
+      },
+      {
+        "level": 4,
+        "text": "ビッグラン"
+      },
+      {
+        "level": 4,
+        "text": "オカシラシャケ"
+      },
+      {
+        "level": 4,
+        "text": "オオモノシャケ"
+      },
+      {
+        "level": 4,
+        "text": "特殊ウェーブ"
+      },
+      {
+        "level": 4,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "ギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "非売品のギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "購入可能なギアブランド"
+      },
+      {
+        "level": 3,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "バンカラマッチ"
+      },
+      {
+        "level": 4,
+        "text": "ルール・立ち回り解説"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち"
+      },
+      {
+        "level": 3,
+        "text": "ナワバリバトル"
+      },
+      {
+        "level": 3,
+        "text": "イベントマッチ"
+      },
+      {
+        "level": 3,
+        "text": "ナワバトラー"
+      },
+      {
+        "level": 3,
+        "text": "スプラ甲子園"
+      },
+      {
+        "level": 3,
+        "text": "エキスパンションパス"
+      },
+      {
+        "level": 3,
+        "text": "掲示板"
+      },
+      {
+        "level": 3,
+        "text": "英語版wiki (English)"
+      },
+      {
+        "level": 2,
+        "text": "ランキング"
+      },
+      {
+        "level": 2,
+        "text": "人気ゲーム"
+      },
+      {
+        "level": 2,
+        "text": "おすすめゲーム"
+      },
+      {
+        "level": 2,
+        "text": "権利表記"
+      }
+    ],
+    "sections": [
+      "サブウェポン一覧｜サブ効果",
+      "関連記事",
+      "スプラトゥーン3プレイヤーにおすすめ【PR】",
+      "コメント",
+      "記事を書いている攻略メンバー",
+      "攻略メニュー",
+      "ランキング",
+      "人気ゲーム",
+      "おすすめゲーム",
+      "権利表記"
+    ],
+    "tables_count": 4,
+    "images_count": 68
+  },
+  "special_list": {
+    "page_name": "special_list",
+    "url": "https://game8.jp/splatoon3/477898",
+    "title": "【スプラトゥーン3】スペシャルウェポン一覧｜新スペシャルも掲載【スプラ3】｜ゲームエイト",
+    "headings": [
+      {
+        "level": 1,
+        "text": "【スプラトゥーン3】スペシャルウェポン一覧｜新スペシャルも掲載【スプラ3】"
+      },
+      {
+        "level": 2,
+        "text": "新スペシャルウェポン一覧"
+      },
+      {
+        "level": 2,
+        "text": "2から続投しているスペシャルウェポン一覧"
+      },
+      {
+        "level": 2,
+        "text": "関連記事"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3プレイヤーにおすすめ【PR】"
+      },
+      {
+        "level": 2,
+        "text": "コメント"
+      },
+      {
+        "level": 2,
+        "text": "記事を書いている攻略メンバー"
+      },
+      {
+        "level": 2,
+        "text": "攻略メニュー"
+      },
+      {
+        "level": 3,
+        "text": "注目記事"
+      },
+      {
+        "level": 3,
+        "text": "フェス"
+      },
+      {
+        "level": 3,
+        "text": "アップデート"
+      },
+      {
+        "level": 3,
+        "text": "ブキ"
+      },
+      {
+        "level": 4,
+        "text": "最強ランキング"
+      },
+      {
+        "level": 4,
+        "text": "武器一覧"
+      },
+      {
+        "level": 3,
+        "text": "ヒーローモード"
+      },
+      {
+        "level": 4,
+        "text": "サイト攻略"
+      },
+      {
+        "level": 4,
+        "text": "収集要素"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち記事"
+      },
+      {
+        "level": 3,
+        "text": "スペシャル"
+      },
+      {
+        "level": 3,
+        "text": "サブ"
+      },
+      {
+        "level": 3,
+        "text": "ギアパワー"
+      },
+      {
+        "level": 3,
+        "text": "お役立ち攻略記事"
+      },
+      {
+        "level": 4,
+        "text": "ギア・ギアパワー関連"
+      },
+      {
+        "level": 3,
+        "text": "サーモンラン"
+      },
+      {
+        "level": 4,
+        "text": "ビッグラン"
+      },
+      {
+        "level": 4,
+        "text": "オカシラシャケ"
+      },
+      {
+        "level": 4,
+        "text": "オオモノシャケ"
+      },
+      {
+        "level": 4,
+        "text": "特殊ウェーブ"
+      },
+      {
+        "level": 4,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "ギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "非売品のギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "購入可能なギアブランド"
+      },
+      {
+        "level": 3,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "バンカラマッチ"
+      },
+      {
+        "level": 4,
+        "text": "ルール・立ち回り解説"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち"
+      },
+      {
+        "level": 3,
+        "text": "ナワバリバトル"
+      },
+      {
+        "level": 3,
+        "text": "イベントマッチ"
+      },
+      {
+        "level": 3,
+        "text": "ナワバトラー"
+      },
+      {
+        "level": 3,
+        "text": "スプラ甲子園"
+      },
+      {
+        "level": 3,
+        "text": "エキスパンションパス"
+      },
+      {
+        "level": 3,
+        "text": "掲示板"
+      },
+      {
+        "level": 3,
+        "text": "英語版wiki (English)"
+      },
+      {
+        "level": 2,
+        "text": "ランキング"
+      },
+      {
+        "level": 2,
+        "text": "人気ゲーム"
+      },
+      {
+        "level": 2,
+        "text": "おすすめゲーム"
+      },
+      {
+        "level": 2,
+        "text": "権利表記"
+      }
+    ],
+    "sections": [
+      "新スペシャルウェポン一覧",
+      "2から続投しているスペシャルウェポン一覧",
+      "関連記事",
+      "スプラトゥーン3プレイヤーにおすすめ【PR】",
+      "コメント",
+      "記事を書いている攻略メンバー",
+      "攻略メニュー",
+      "ランキング",
+      "人気ゲーム",
+      "おすすめゲーム",
+      "権利表記"
+    ],
+    "tables_count": 4,
+    "images_count": 73
+  },
+  "nawabari_tier": {
+    "page_name": "nawabari_tier",
+    "url": "https://game8.jp/splatoon3/485632",
+    "title": "【スプラトゥーン3】ナワバリバトルのルールと立ち回り｜勝つコツ【スプラ3】｜ゲームエイト",
+    "headings": [
+      {
+        "level": 1,
+        "text": "【スプラトゥーン3】ナワバリバトルのルールと立ち回り｜勝つコツ【スプラ3】"
+      },
+      {
+        "level": 2,
+        "text": "ナワバリバトルのルール"
+      },
+      {
+        "level": 3,
+        "text": "濡れる床をできるだけ多く塗る"
+      },
+      {
+        "level": 2,
+        "text": "ナワバリバトルの立ち回り"
+      },
+      {
+        "level": 3,
+        "text": "初動は真ん中と自陣近くに分かれて塗る"
+      },
+      {
+        "level": 3,
+        "text": "編成・マップを見ながら塗りorキルの判断をする"
+      },
+      {
+        "level": 3,
+        "text": "有利時：相手の抜けに気をつけ相手の進行を抑える"
+      },
+      {
+        "level": 3,
+        "text": "不利時：自陣近くの残った塗りをしながらスペシャルを溜める"
+      },
+      {
+        "level": 2,
+        "text": "ナワバリバトルの勝つコツとNG行動"
+      },
+      {
+        "level": 3,
+        "text": "塗るところは綺麗に塗る"
+      },
+      {
+        "level": 3,
+        "text": "初動ですべてを塗り切らないようにする"
+      },
+      {
+        "level": 3,
+        "text": "残り30秒を重視する"
+      },
+      {
+        "level": 2,
+        "text": "ナワバリバトルのおすすめ武器"
+      },
+      {
+        "level": 3,
+        "text": "塗りが強い武器がおすすめ"
+      },
+      {
+        "level": 2,
+        "text": "関連記事"
+      },
+      {
+        "level": 3,
+        "text": "Switch2とスプラ4最新情報"
+      },
+      {
+        "level": 3,
+        "text": "購入前に読みたい攻略記事"
+      },
+      {
+        "level": 3,
+        "text": "購入後に読みたい攻略記事"
+      },
+      {
+        "level": 3,
+        "text": "初心者攻略情報まとめ"
+      },
+      {
+        "level": 3,
+        "text": "ギア・ギアパワー関連のお役立ち記事"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3プレイヤーにおすすめ【PR】"
+      },
+      {
+        "level": 2,
+        "text": "コメント"
+      },
+      {
+        "level": 2,
+        "text": "記事を書いている攻略メンバー"
+      },
+      {
+        "level": 2,
+        "text": "攻略メニュー"
+      },
+      {
+        "level": 3,
+        "text": "注目記事"
+      },
+      {
+        "level": 3,
+        "text": "フェス"
+      },
+      {
+        "level": 3,
+        "text": "アップデート"
+      },
+      {
+        "level": 3,
+        "text": "ブキ"
+      },
+      {
+        "level": 4,
+        "text": "最強ランキング"
+      },
+      {
+        "level": 4,
+        "text": "武器一覧"
+      },
+      {
+        "level": 3,
+        "text": "ヒーローモード"
+      },
+      {
+        "level": 4,
+        "text": "サイト攻略"
+      },
+      {
+        "level": 4,
+        "text": "収集要素"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち記事"
+      },
+      {
+        "level": 3,
+        "text": "スペシャル"
+      },
+      {
+        "level": 3,
+        "text": "サブ"
+      },
+      {
+        "level": 3,
+        "text": "ギアパワー"
+      },
+      {
+        "level": 3,
+        "text": "お役立ち攻略記事"
+      },
+      {
+        "level": 4,
+        "text": "ギア・ギアパワー関連"
+      },
+      {
+        "level": 3,
+        "text": "サーモンラン"
+      },
+      {
+        "level": 4,
+        "text": "ビッグラン"
+      },
+      {
+        "level": 4,
+        "text": "オカシラシャケ"
+      },
+      {
+        "level": 4,
+        "text": "オオモノシャケ"
+      },
+      {
+        "level": 4,
+        "text": "特殊ウェーブ"
+      },
+      {
+        "level": 4,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "ギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "非売品のギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "購入可能なギアブランド"
+      },
+      {
+        "level": 3,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "バンカラマッチ"
+      },
+      {
+        "level": 4,
+        "text": "ルール・立ち回り解説"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち"
+      },
+      {
+        "level": 3,
+        "text": "ナワバリバトル"
+      },
+      {
+        "level": 3,
+        "text": "イベントマッチ"
+      },
+      {
+        "level": 3,
+        "text": "ナワバトラー"
+      },
+      {
+        "level": 3,
+        "text": "スプラ甲子園"
+      },
+      {
+        "level": 3,
+        "text": "エキスパンションパス"
+      },
+      {
+        "level": 3,
+        "text": "掲示板"
+      },
+      {
+        "level": 3,
+        "text": "英語版wiki (English)"
+      },
+      {
+        "level": 2,
+        "text": "ランキング"
+      },
+      {
+        "level": 2,
+        "text": "人気ゲーム"
+      },
+      {
+        "level": 2,
+        "text": "おすすめゲーム"
+      },
+      {
+        "level": 2,
+        "text": "権利表記"
+      }
+    ],
+    "sections": [
+      "ナワバリバトルのルール",
+      "ナワバリバトルの立ち回り",
+      "ナワバリバトルの勝つコツとNG行動",
+      "ナワバリバトルのおすすめ武器",
+      "関連記事",
+      "スプラトゥーン3プレイヤーにおすすめ【PR】",
+      "コメント",
+      "記事を書いている攻略メンバー",
+      "攻略メニュー",
+      "ランキング",
+      "人気ゲーム",
+      "おすすめゲーム",
+      "権利表記"
+    ],
+    "tables_count": 9,
+    "images_count": 70
+  },
+  "area_tier": {
+    "page_name": "area_tier",
+    "url": "https://game8.jp/splatoon3/397597",
+    "title": "【スプラトゥーン3】ガチエリアのルールと立ち回り｜勝つコツ【スプラ3】｜ゲームエイト",
+    "headings": [
+      {
+        "level": 1,
+        "text": "【スプラトゥーン3】ガチエリアのルールと立ち回り｜勝つコツ【スプラ3】"
+      },
+      {
+        "level": 2,
+        "text": "ガチエリアのルールと画面の見方"
+      },
+      {
+        "level": 3,
+        "text": "指定のエリアを塗り、カウントを進める"
+      },
+      {
+        "level": 3,
+        "text": "塗り変えられるとペナルティがつく"
+      },
+      {
+        "level": 3,
+        "text": "画面の見方"
+      },
+      {
+        "level": 2,
+        "text": "ガチエリアの試合延長条件"
+      },
+      {
+        "level": 3,
+        "text": "カウントが負けているチームがエリアを確保している"
+      },
+      {
+        "level": 2,
+        "text": "ガチエリアの立ち回り"
+      },
+      {
+        "level": 3,
+        "text": "初動は基本的にエリアに向かう"
+      },
+      {
+        "level": 3,
+        "text": "編成・マップを見ながら塗るorキルの判断"
+      },
+      {
+        "level": 3,
+        "text": "有利時：カウントリードを意識しよう"
+      },
+      {
+        "level": 3,
+        "text": "不利時：生存しつつ打開の準備"
+      },
+      {
+        "level": 2,
+        "text": "ガチエリアの勝つコツとNG行動"
+      },
+      {
+        "level": 3,
+        "text": "いかに上手く打開し、エリアを確保できるかがカギ"
+      },
+      {
+        "level": 3,
+        "text": "エリア確保時は有利状況を長引かせる動きを"
+      },
+      {
+        "level": 3,
+        "text": "不利な状況で突っ込まない"
+      },
+      {
+        "level": 3,
+        "text": "エリア内で倒されない"
+      },
+      {
+        "level": 3,
+        "text": "スーパージャンプは場所とタイミングに注意"
+      },
+      {
+        "level": 2,
+        "text": "ガチエリアのおすすめ武器"
+      },
+      {
+        "level": 3,
+        "text": "基本的には塗りが強い武器が強力"
+      },
+      {
+        "level": 2,
+        "text": "関連記事"
+      },
+      {
+        "level": 3,
+        "text": "バンカラマッチ関連のお役立ち"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3プレイヤーにおすすめ【PR】"
+      },
+      {
+        "level": 2,
+        "text": "コメント"
+      },
+      {
+        "level": 2,
+        "text": "記事を書いている攻略メンバー"
+      },
+      {
+        "level": 2,
+        "text": "攻略メニュー"
+      },
+      {
+        "level": 3,
+        "text": "注目記事"
+      },
+      {
+        "level": 3,
+        "text": "フェス"
+      },
+      {
+        "level": 3,
+        "text": "アップデート"
+      },
+      {
+        "level": 3,
+        "text": "ブキ"
+      },
+      {
+        "level": 4,
+        "text": "最強ランキング"
+      },
+      {
+        "level": 4,
+        "text": "武器一覧"
+      },
+      {
+        "level": 3,
+        "text": "ヒーローモード"
+      },
+      {
+        "level": 4,
+        "text": "サイト攻略"
+      },
+      {
+        "level": 4,
+        "text": "収集要素"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち記事"
+      },
+      {
+        "level": 3,
+        "text": "スペシャル"
+      },
+      {
+        "level": 3,
+        "text": "サブ"
+      },
+      {
+        "level": 3,
+        "text": "ギアパワー"
+      },
+      {
+        "level": 3,
+        "text": "お役立ち攻略記事"
+      },
+      {
+        "level": 4,
+        "text": "ギア・ギアパワー関連"
+      },
+      {
+        "level": 3,
+        "text": "サーモンラン"
+      },
+      {
+        "level": 4,
+        "text": "ビッグラン"
+      },
+      {
+        "level": 4,
+        "text": "オカシラシャケ"
+      },
+      {
+        "level": 4,
+        "text": "オオモノシャケ"
+      },
+      {
+        "level": 4,
+        "text": "特殊ウェーブ"
+      },
+      {
+        "level": 4,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "ギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "非売品のギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "購入可能なギアブランド"
+      },
+      {
+        "level": 3,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "バンカラマッチ"
+      },
+      {
+        "level": 4,
+        "text": "ルール・立ち回り解説"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち"
+      },
+      {
+        "level": 3,
+        "text": "ナワバリバトル"
+      },
+      {
+        "level": 3,
+        "text": "イベントマッチ"
+      },
+      {
+        "level": 3,
+        "text": "ナワバトラー"
+      },
+      {
+        "level": 3,
+        "text": "スプラ甲子園"
+      },
+      {
+        "level": 3,
+        "text": "エキスパンションパス"
+      },
+      {
+        "level": 3,
+        "text": "掲示板"
+      },
+      {
+        "level": 3,
+        "text": "英語版wiki (English)"
+      },
+      {
+        "level": 2,
+        "text": "ランキング"
+      },
+      {
+        "level": 2,
+        "text": "人気ゲーム"
+      },
+      {
+        "level": 2,
+        "text": "おすすめゲーム"
+      },
+      {
+        "level": 2,
+        "text": "権利表記"
+      }
+    ],
+    "sections": [
+      "ガチエリアのルールと画面の見方",
+      "ガチエリアの試合延長条件",
+      "ガチエリアの立ち回り",
+      "ガチエリアの勝つコツとNG行動",
+      "ガチエリアのおすすめ武器",
+      "関連記事",
+      "スプラトゥーン3プレイヤーにおすすめ【PR】",
+      "コメント",
+      "記事を書いている攻略メンバー",
+      "攻略メニュー",
+      "ランキング",
+      "人気ゲーム",
+      "おすすめゲーム",
+      "権利表記"
+    ],
+    "tables_count": 8,
+    "images_count": 86
+  },
+  "yagura_tier": {
+    "page_name": "yagura_tier",
+    "url": "https://game8.jp/splatoon3/478554",
+    "title": "【スプラトゥーン3】ガチヤグラのルールと立ち回り｜勝つコツ【スプラ3】｜ゲームエイト",
+    "headings": [
+      {
+        "level": 1,
+        "text": "【スプラトゥーン3】ガチヤグラのルールと立ち回り｜勝つコツ【スプラ3】"
+      },
+      {
+        "level": 2,
+        "text": "ガチヤグラのルールと画面の見方"
+      },
+      {
+        "level": 3,
+        "text": "ヤグラに乗り、相手のゴールまで進める"
+      },
+      {
+        "level": 3,
+        "text": "カンモンでは乗り続けないと突破できない"
+      },
+      {
+        "level": 4,
+        "text": "一度突破したカンモンは以降は素通りできる"
+      },
+      {
+        "level": 3,
+        "text": "画面の見方"
+      },
+      {
+        "level": 2,
+        "text": "ガチヤグラの試合延長条件"
+      },
+      {
+        "level": 3,
+        "text": "カウントが負けているチームがヤグラに乗っている"
+      },
+      {
+        "level": 2,
+        "text": "ガチヤグラの立ち回り"
+      },
+      {
+        "level": 3,
+        "text": "初動は基本的にヤグラに向かう"
+      },
+      {
+        "level": 3,
+        "text": "キルを重視し、人数有利を作る"
+      },
+      {
+        "level": 4,
+        "text": "誰も乗っていない状態が続くとヤグラは中央に戻る"
+      },
+      {
+        "level": 3,
+        "text": "有利時：前線を上げ、相手をヤグラに近づけない"
+      },
+      {
+        "level": 4,
+        "text": "単射程はヤグラの周囲・長射程はヤグラ上に乗る"
+      },
+      {
+        "level": 4,
+        "text": "カウントリード時は相手に無理に進めないのも手"
+      },
+      {
+        "level": 3,
+        "text": "不利時：相手の前衛を倒し、人数有利を作る"
+      },
+      {
+        "level": 3,
+        "text": "膠着状態：ヤグラの上に一瞬だけ乗る"
+      },
+      {
+        "level": 2,
+        "text": "ガチヤグラの勝つコツとNG行動"
+      },
+      {
+        "level": 3,
+        "text": "積極的にヤグラに乗る（やみくもに乗るのはNG）"
+      },
+      {
+        "level": 3,
+        "text": "打開やカンモン突破にスペシャルを合わせる"
+      },
+      {
+        "level": 3,
+        "text": "ヤグラの裏に敵が潜伏していないか確認"
+      },
+      {
+        "level": 4,
+        "text": "【Point】ヤグラ上ではヒト状態で柱を盾にしよう"
+      },
+      {
+        "level": 3,
+        "text": "前線を上げすぎてヤグラから離れてしまう"
+      },
+      {
+        "level": 3,
+        "text": "不利な状況で突っ込まない"
+      },
+      {
+        "level": 3,
+        "text": "スーパージャンプは場所とタイミングに注意"
+      },
+      {
+        "level": 2,
+        "text": "ガチヤグラのおすすめ武器"
+      },
+      {
+        "level": 3,
+        "text": "ヤグラを取り返しやすくヤグラをキープしやすい武器"
+      },
+      {
+        "level": 2,
+        "text": "関連記事"
+      },
+      {
+        "level": 3,
+        "text": "バンカラマッチ関連のお役立ち"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3プレイヤーにおすすめ【PR】"
+      },
+      {
+        "level": 2,
+        "text": "コメント"
+      },
+      {
+        "level": 2,
+        "text": "記事を書いている攻略メンバー"
+      },
+      {
+        "level": 2,
+        "text": "攻略メニュー"
+      },
+      {
+        "level": 3,
+        "text": "注目記事"
+      },
+      {
+        "level": 3,
+        "text": "フェス"
+      },
+      {
+        "level": 3,
+        "text": "アップデート"
+      },
+      {
+        "level": 3,
+        "text": "ブキ"
+      },
+      {
+        "level": 4,
+        "text": "最強ランキング"
+      },
+      {
+        "level": 4,
+        "text": "武器一覧"
+      },
+      {
+        "level": 3,
+        "text": "ヒーローモード"
+      },
+      {
+        "level": 4,
+        "text": "サイト攻略"
+      },
+      {
+        "level": 4,
+        "text": "収集要素"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち記事"
+      },
+      {
+        "level": 3,
+        "text": "スペシャル"
+      },
+      {
+        "level": 3,
+        "text": "サブ"
+      },
+      {
+        "level": 3,
+        "text": "ギアパワー"
+      },
+      {
+        "level": 3,
+        "text": "お役立ち攻略記事"
+      },
+      {
+        "level": 4,
+        "text": "ギア・ギアパワー関連"
+      },
+      {
+        "level": 3,
+        "text": "サーモンラン"
+      },
+      {
+        "level": 4,
+        "text": "ビッグラン"
+      },
+      {
+        "level": 4,
+        "text": "オカシラシャケ"
+      },
+      {
+        "level": 4,
+        "text": "オオモノシャケ"
+      },
+      {
+        "level": 4,
+        "text": "特殊ウェーブ"
+      },
+      {
+        "level": 4,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "ギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "非売品のギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "購入可能なギアブランド"
+      },
+      {
+        "level": 3,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "バンカラマッチ"
+      },
+      {
+        "level": 4,
+        "text": "ルール・立ち回り解説"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち"
+      },
+      {
+        "level": 3,
+        "text": "ナワバリバトル"
+      },
+      {
+        "level": 3,
+        "text": "イベントマッチ"
+      },
+      {
+        "level": 3,
+        "text": "ナワバトラー"
+      },
+      {
+        "level": 3,
+        "text": "スプラ甲子園"
+      },
+      {
+        "level": 3,
+        "text": "エキスパンションパス"
+      },
+      {
+        "level": 3,
+        "text": "掲示板"
+      },
+      {
+        "level": 3,
+        "text": "英語版wiki (English)"
+      },
+      {
+        "level": 2,
+        "text": "ランキング"
+      },
+      {
+        "level": 2,
+        "text": "人気ゲーム"
+      },
+      {
+        "level": 2,
+        "text": "おすすめゲーム"
+      },
+      {
+        "level": 2,
+        "text": "権利表記"
+      }
+    ],
+    "sections": [
+      "ガチヤグラのルールと画面の見方",
+      "ガチヤグラの試合延長条件",
+      "ガチヤグラの立ち回り",
+      "ガチヤグラの勝つコツとNG行動",
+      "ガチヤグラのおすすめ武器",
+      "関連記事",
+      "スプラトゥーン3プレイヤーにおすすめ【PR】",
+      "コメント",
+      "記事を書いている攻略メンバー",
+      "攻略メニュー",
+      "ランキング",
+      "人気ゲーム",
+      "おすすめゲーム",
+      "権利表記"
+    ],
+    "tables_count": 9,
+    "images_count": 105
+  },
+  "hoko_tier": {
+    "page_name": "hoko_tier",
+    "url": "https://game8.jp/splatoon3/478551",
+    "title": "【スプラトゥーン3】ガチホコのルールと立ち回り｜勝つコツ【スプラ3】｜ゲームエイト",
+    "headings": [
+      {
+        "level": 1,
+        "text": "【スプラトゥーン3】ガチホコのルールと立ち回り｜勝つコツ【スプラ3】"
+      },
+      {
+        "level": 2,
+        "text": "ガチホコのルールと画面の見方"
+      },
+      {
+        "level": 3,
+        "text": "ガチホコを持ち、相手ゴールに置く"
+      },
+      {
+        "level": 3,
+        "text": "今作からホコにもカンモンが追加"
+      },
+      {
+        "level": 4,
+        "text": "その他細かい仕様"
+      },
+      {
+        "level": 3,
+        "text": "画面の見方"
+      },
+      {
+        "level": 2,
+        "text": "ガチホコの試合延長条件"
+      },
+      {
+        "level": 3,
+        "text": "カウントが負けているチームがホコを持っている"
+      },
+      {
+        "level": 2,
+        "text": "ガチホコの立ち回り"
+      },
+      {
+        "level": 3,
+        "text": "初動は基本的にガチホコに向かう"
+      },
+      {
+        "level": 3,
+        "text": "有利時：ホコ持ちの周りを固めて全員で切り開く"
+      },
+      {
+        "level": 3,
+        "text": "有利時：ガチホコ持ちが進みやすいように前線を上げる"
+      },
+      {
+        "level": 4,
+        "text": "短射程が前衛・長射程がガチホコ持ちが望ましい"
+      },
+      {
+        "level": 3,
+        "text": "不利時：むやみに突っ込まず、展開して護衛を倒す"
+      },
+      {
+        "level": 2,
+        "text": "ガチホコの勝つコツとNG行動"
+      },
+      {
+        "level": 3,
+        "text": "確実に進めるときだけ進む"
+      },
+      {
+        "level": 3,
+        "text": "進むときは必ず全員で"
+      },
+      {
+        "level": 3,
+        "text": "マップ構造・ホコルートを把握する"
+      },
+      {
+        "level": 4,
+        "text": "ギアによってもおすすめルートが変化する"
+      },
+      {
+        "level": 3,
+        "text": "自陣ゴールへの道が塗られている場合は塗り返す"
+      },
+      {
+        "level": 3,
+        "text": "ホコ持ちは守りやすい場所で倒れる"
+      },
+      {
+        "level": 3,
+        "text": "ガチホコを持って一人で突っ込まない"
+      },
+      {
+        "level": 3,
+        "text": "ガチホコを自陣に持っていくのはリスク極大"
+      },
+      {
+        "level": 4,
+        "text": "自陣でガチホコを持って時間を無駄にしてしまう"
+      },
+      {
+        "level": 3,
+        "text": "ガチホコを割ったまま放置しない"
+      },
+      {
+        "level": 3,
+        "text": "スーパージャンプは場所とタイミングに注意"
+      },
+      {
+        "level": 2,
+        "text": "ガチホコのおすすめ武器"
+      },
+      {
+        "level": 2,
+        "text": "関連記事"
+      },
+      {
+        "level": 3,
+        "text": "バンカラマッチ関連のお役立ち"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3プレイヤーにおすすめ【PR】"
+      },
+      {
+        "level": 2,
+        "text": "コメント"
+      },
+      {
+        "level": 2,
+        "text": "記事を書いている攻略メンバー"
+      },
+      {
+        "level": 2,
+        "text": "攻略メニュー"
+      },
+      {
+        "level": 3,
+        "text": "注目記事"
+      },
+      {
+        "level": 3,
+        "text": "フェス"
+      },
+      {
+        "level": 3,
+        "text": "アップデート"
+      },
+      {
+        "level": 3,
+        "text": "ブキ"
+      },
+      {
+        "level": 4,
+        "text": "最強ランキング"
+      },
+      {
+        "level": 4,
+        "text": "武器一覧"
+      },
+      {
+        "level": 3,
+        "text": "ヒーローモード"
+      },
+      {
+        "level": 4,
+        "text": "サイト攻略"
+      },
+      {
+        "level": 4,
+        "text": "収集要素"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち記事"
+      },
+      {
+        "level": 3,
+        "text": "スペシャル"
+      },
+      {
+        "level": 3,
+        "text": "サブ"
+      },
+      {
+        "level": 3,
+        "text": "ギアパワー"
+      },
+      {
+        "level": 3,
+        "text": "お役立ち攻略記事"
+      },
+      {
+        "level": 4,
+        "text": "ギア・ギアパワー関連"
+      },
+      {
+        "level": 3,
+        "text": "サーモンラン"
+      },
+      {
+        "level": 4,
+        "text": "ビッグラン"
+      },
+      {
+        "level": 4,
+        "text": "オカシラシャケ"
+      },
+      {
+        "level": 4,
+        "text": "オオモノシャケ"
+      },
+      {
+        "level": 4,
+        "text": "特殊ウェーブ"
+      },
+      {
+        "level": 4,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "ギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "非売品のギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "購入可能なギアブランド"
+      },
+      {
+        "level": 3,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "バンカラマッチ"
+      },
+      {
+        "level": 4,
+        "text": "ルール・立ち回り解説"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち"
+      },
+      {
+        "level": 3,
+        "text": "ナワバリバトル"
+      },
+      {
+        "level": 3,
+        "text": "イベントマッチ"
+      },
+      {
+        "level": 3,
+        "text": "ナワバトラー"
+      },
+      {
+        "level": 3,
+        "text": "スプラ甲子園"
+      },
+      {
+        "level": 3,
+        "text": "エキスパンションパス"
+      },
+      {
+        "level": 3,
+        "text": "掲示板"
+      },
+      {
+        "level": 3,
+        "text": "英語版wiki (English)"
+      },
+      {
+        "level": 2,
+        "text": "ランキング"
+      },
+      {
+        "level": 2,
+        "text": "人気ゲーム"
+      },
+      {
+        "level": 2,
+        "text": "おすすめゲーム"
+      },
+      {
+        "level": 2,
+        "text": "権利表記"
+      }
+    ],
+    "sections": [
+      "ガチホコのルールと画面の見方",
+      "ガチホコの試合延長条件",
+      "ガチホコの立ち回り",
+      "ガチホコの勝つコツとNG行動",
+      "ガチホコのおすすめ武器",
+      "関連記事",
+      "スプラトゥーン3プレイヤーにおすすめ【PR】",
+      "コメント",
+      "記事を書いている攻略メンバー",
+      "攻略メニュー",
+      "ランキング",
+      "人気ゲーム",
+      "おすすめゲーム",
+      "権利表記"
+    ],
+    "tables_count": 8,
+    "images_count": 98
+  },
+  "asari_tier": {
+    "page_name": "asari_tier",
+    "url": "https://game8.jp/splatoon3/480377",
+    "title": "【スプラトゥーン3】ガチアサリのルールと立ち回り｜勝つコツ【スプラ3】｜ゲームエイト",
+    "headings": [
+      {
+        "level": 1,
+        "text": "【スプラトゥーン3】ガチアサリのルールと立ち回り｜勝つコツ【スプラ3】"
+      },
+      {
+        "level": 2,
+        "text": "ガチアサリのルールと画面の見方"
+      },
+      {
+        "level": 3,
+        "text": "ガチアサリでゴールを壊し、アサリを投げ入れる"
+      },
+      {
+        "level": 4,
+        "text": "アサリはマップ上でも確認可能"
+      },
+      {
+        "level": 4,
+        "text": "アサリはAorLボタンで投げる"
+      },
+      {
+        "level": 3,
+        "text": "アサリを8個集めるとガチアサリに変化"
+      },
+      {
+        "level": 4,
+        "text": "ガチアサリの場所は相手からも見えている"
+      },
+      {
+        "level": 3,
+        "text": "片方がゴールすると、もう片方はゴールできない"
+      },
+      {
+        "level": 3,
+        "text": "画面の見方"
+      },
+      {
+        "level": 3,
+        "text": "その他細かい仕様"
+      },
+      {
+        "level": 2,
+        "text": "ガチアサリの試合延長条件"
+      },
+      {
+        "level": 3,
+        "text": "カウントが負けているチームがガチアサリを持っている"
+      },
+      {
+        "level": 3,
+        "text": "負けているチームが相手ゴールを開けている"
+      },
+      {
+        "level": 2,
+        "text": "ガチアサリの立ち回り"
+      },
+      {
+        "level": 3,
+        "text": "初心者はとりあえず前線を徐々に上げる意識"
+      },
+      {
+        "level": 3,
+        "text": "ゴール前付近で制圧力の高いスペシャルを使う"
+      },
+      {
+        "level": 3,
+        "text": "防衛時は相手のガチアサリを集中的に止める"
+      },
+      {
+        "level": 2,
+        "text": "ガチアサリの勝つコツとNG行動"
+      },
+      {
+        "level": 3,
+        "text": "アサリ・ガチアサリの飛距離を知っておこう"
+      },
+      {
+        "level": 3,
+        "text": "他ルールと同様にキル→前線を押し上げるのが大切"
+      },
+      {
+        "level": 3,
+        "text": "1回のゴールでなるべく多くのカウントを進める"
+      },
+      {
+        "level": 3,
+        "text": "アサリを持ちながらデスを繰り返すのはNG"
+      },
+      {
+        "level": 3,
+        "text": "カウンターアサリはむやみに拾わない"
+      },
+      {
+        "level": 3,
+        "text": "その他のコツやテクニック"
+      },
+      {
+        "level": 2,
+        "text": "ガチアサリのおすすめ武器"
+      },
+      {
+        "level": 3,
+        "text": "ゴールにアサリを入れやすい武器"
+      },
+      {
+        "level": 2,
+        "text": "関連記事"
+      },
+      {
+        "level": 3,
+        "text": "バンカラマッチ関連のお役立ち"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3プレイヤーにおすすめ【PR】"
+      },
+      {
+        "level": 2,
+        "text": "コメント"
+      },
+      {
+        "level": 2,
+        "text": "記事を書いている攻略メンバー"
+      },
+      {
+        "level": 2,
+        "text": "攻略メニュー"
+      },
+      {
+        "level": 3,
+        "text": "注目記事"
+      },
+      {
+        "level": 3,
+        "text": "フェス"
+      },
+      {
+        "level": 3,
+        "text": "アップデート"
+      },
+      {
+        "level": 3,
+        "text": "ブキ"
+      },
+      {
+        "level": 4,
+        "text": "最強ランキング"
+      },
+      {
+        "level": 4,
+        "text": "武器一覧"
+      },
+      {
+        "level": 3,
+        "text": "ヒーローモード"
+      },
+      {
+        "level": 4,
+        "text": "サイト攻略"
+      },
+      {
+        "level": 4,
+        "text": "収集要素"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち記事"
+      },
+      {
+        "level": 3,
+        "text": "スペシャル"
+      },
+      {
+        "level": 3,
+        "text": "サブ"
+      },
+      {
+        "level": 3,
+        "text": "ギアパワー"
+      },
+      {
+        "level": 3,
+        "text": "お役立ち攻略記事"
+      },
+      {
+        "level": 4,
+        "text": "ギア・ギアパワー関連"
+      },
+      {
+        "level": 3,
+        "text": "サーモンラン"
+      },
+      {
+        "level": 4,
+        "text": "ビッグラン"
+      },
+      {
+        "level": 4,
+        "text": "オカシラシャケ"
+      },
+      {
+        "level": 4,
+        "text": "オオモノシャケ"
+      },
+      {
+        "level": 4,
+        "text": "特殊ウェーブ"
+      },
+      {
+        "level": 4,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "ギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "非売品のギアブランド"
+      },
+      {
+        "level": 4,
+        "text": "購入可能なギアブランド"
+      },
+      {
+        "level": 3,
+        "text": "ステージ"
+      },
+      {
+        "level": 3,
+        "text": "バンカラマッチ"
+      },
+      {
+        "level": 4,
+        "text": "ルール・立ち回り解説"
+      },
+      {
+        "level": 4,
+        "text": "お役立ち"
+      },
+      {
+        "level": 3,
+        "text": "ナワバリバトル"
+      },
+      {
+        "level": 3,
+        "text": "イベントマッチ"
+      },
+      {
+        "level": 3,
+        "text": "ナワバトラー"
+      },
+      {
+        "level": 3,
+        "text": "スプラ甲子園"
+      },
+      {
+        "level": 3,
+        "text": "エキスパンションパス"
+      },
+      {
+        "level": 3,
+        "text": "掲示板"
+      },
+      {
+        "level": 3,
+        "text": "英語版wiki (English)"
+      },
+      {
+        "level": 2,
+        "text": "ランキング"
+      },
+      {
+        "level": 2,
+        "text": "人気ゲーム"
+      },
+      {
+        "level": 2,
+        "text": "おすすめゲーム"
+      },
+      {
+        "level": 2,
+        "text": "権利表記"
+      }
+    ],
+    "sections": [
+      "ガチアサリのルールと画面の見方",
+      "ガチアサリの試合延長条件",
+      "ガチアサリの立ち回り",
+      "ガチアサリの勝つコツとNG行動",
+      "ガチアサリのおすすめ武器",
+      "関連記事",
+      "スプラトゥーン3プレイヤーにおすすめ【PR】",
+      "コメント",
+      "記事を書いている攻略メンバー",
+      "攻略メニュー",
+      "ランキング",
+      "人気ゲーム",
+      "おすすめゲーム",
+      "権利表記"
+    ],
+    "tables_count": 9,
+    "images_count": 90
+  }
+}

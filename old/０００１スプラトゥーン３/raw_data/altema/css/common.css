@@ -1,0 +1,376 @@
+@charset "UTF-8";
+/*--------------------------------------------------------
+Top-banner
+-------------------------------------------------------*/
+@media
+only screen and (max-width : 753px){
+#header #header-in {
+	background-image: url(https://img.altema.jp/common/header/splatoon3-mb.jpg);
+}
+#mobileTop{
+	background:url(https://img.altema.jp/common/header/splatoon3-bg.jpg) no-repeat top left;
+}
+.h-koushin-box p.khan-txt {
+background-position: 5px center!important;
+padding: 0 0 0 14px!important;
+font-size: 10px!important;
+background-size: 6px!important;
+margin:2px 0!important;
+}
+#main #main-contents .h-koushin-box p.saisyu-txt {
+background-size: 8px!important;
+font-size: 10px!important;
+background-position: 1px center!important;
+padding: 0 0 0 11px!important;
+}
+}
+
+#header-in h1{
+    color: #FFF;
+}
+/*PCããããã*/
+
+#header-in_wrap{
+    background-image: url(https://img.altema.jp/common/header/splatoon3-pc.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.header-inWrap{
+    background-image: url(https://img.altema.jp/common/header/splatoon3-kasou.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:100% auto;
+    background-size:cover;
+}
+
+#header-in p.header-logo a{
+    color:#FFF;
+}
+
+/*-------------------------------------------------------
+åºæCSS
+-------------------------------------------------------*/
+#main-contents .contents {
+	padding: inherit;
+}
+
+
+#header-in_new h1{
+font-size: 23px;
+}
+
+/*--------------------------------------------------------
+è¦åºãé¢é£
+--------------------------------------------------------*/
+#main #main-contents div.mokujiInfo h2{
+  color: #333;
+  font-size: 15px;
+  margin: 5px 5px 10px 0px;
+  text-align:left;
+  padding:5px 0 6px 10px;
+  border-left:none;
+}
+#main-contents div.mokujiInfo ul{
+margin: -5px 10px 12px 12px;
+}
+#main #main-contents h2{
+background:url(https://img.altema.jp/splatoon3/midasi/h2-pc.png) left center no-repeat;
+  background-size:100% 100%;
+  color: #fff;
+  font-size: 16px;
+  margin: 10px 0px 20px;
+  text-align: left;
+  padding: 10px 0 10px 12px;
+}
+#container #main-contents h3{
+  background: url(https://img.altema.jp/splatoon3/midasi/h3.png) left bottom no-repeat;
+  color: #050d41;
+  background-size:100%;
+  font-size: 14px;
+  margin: 0 0px 15px 0px;
+  text-align:left;
+  ;;;;;;;;;;;;;;;;padding: 2px 0 4px 23px;;;;;;;;;;;;;;;;;
+  border-left:none;
+  line-height: normal;
+}
+#container #main-contents h4{
+  background-image: url(https://img.altema.jp/splatoon3/midasi/h4.png);
+  background-repeat: no-repeat;
+  ;background-size: 13px;;
+  background-position: 0px center;
+  ;;;padding: 7px 0px 5px 19px;;;;
+  font-size: 13px;
+  margin: 10px 0 10px;
+  border: none;
+  color: #050d41;
+}
+@media
+only screen and (max-width : 428px){
+#main #main-contents h2{
+  background: url(https://img.altema.jp/splatoon3/midasi/h2-sp.png) left center no-repeat;
+  background-size: 100% 100%;
+  color: #fff;
+  font-size: 16px;
+  margin: 10px 0px 20px;
+  text-align: left;
+  padding:10px 0 10px 12px;
+}
+#container #main-contents h3{
+  background:url(https://img.altema.jp/splatoon3/midasi/h3.png) left bottom no-repeat;
+  color: #050d41;
+  background-size: 100%;
+  font-size: 14px;
+  margin: 0 0 15px 0;
+  text-align:left;
+  ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;padding: 1px 0 3px 22px;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+  border-left:none;
+  line-height: normal;
+}
+#container #main-contents h4{
+  background-image: url(https://img.altema.jp/splatoon3/midasi/h4.png);
+  background-repeat: no-repeat;
+  background-size: 13px;
+  background-position: 0px center;
+  padding: 0px 0 0px 16px;
+  font-size: 13px;
+  margin: 10px 0 10px;
+  border: none;
+  color: #050d41;
+}
+}
+
+@media
+only screen and (max-width : 414px){
+#main #main-contents h2{
+  background: url(https://img.altema.jp/splatoon3/midasi/h2-sp.png) left center no-repeat;
+  background-size: 100% 100%;
+  color: #fff;
+  font-size: 16px;
+  margin: 10px 0px 20px;
+  text-align: left;
+  padding: 10px 0 10px 12px;
+}
+#container #main-contents h3{
+  background:url(https://img.altema.jp/splatoon3/midasi/h3.png) left bottom no-repeat;
+  color: #050d41;
+  background-size: 100%;
+  font-size: 14px;
+  margin: 0 0 15px 0;
+  text-align:left;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;padding: 2px 0 3px 20px;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+  border-left:none;
+  line-height: normal;
+}
+#container #main-contents h4{
+  background-image: url(https://img.altema.jp/splatoon3/midasi/h4.png);
+  background-repeat: no-repeat;
+  ;background-size: 13px;;
+  background-position: 0px center;
+  padding: 1px 0 0px 17px;
+  font-size: 13px;
+  margin: 10px 0 10px;
+  border: none;
+  color: #050d41;
+}
+}
+@media
+only screen and (max-width : 375px){
+#container #main-contents h3{
+  background:url(https://img.altema.jp/splatoon3/midasi/h3.png) left bottom no-repeat;
+  color: #050d41;
+  background-size: 100%;
+  font-size: 14px;
+  margin: 0 0 15px 0;
+  text-align:left;
+  ;;;;;padding: 0px 0 1px 18px;;;;;;
+  border-left:none;
+  line-height: normal;
+}
+#container #main-contents h4{background-size: 13px;padding-left: 18px;padding: 1px 0 0px 17px;}
+}
+/*--------------------------------------------------------
+è¶è¦åºãèª¿æ´
+-------------------------------------------------------*/
+#container #main-contents h3{
+border-bottom:0px!important;
+}
+#container #main-contents h3:before{
+display:none!important;
+}
+#search-form-box {
+font-size:11px;
+}
+
+
+/*-------------------------------------------------------
+å¹ãåºããã¼ãã«
+-------------------------------------------------------*/
+#main-contents .voiceBox{
+border: 0;
+position: relative;
+z-index: 1;
+}
+#main-contents .voiceBox td{
+border: 0;
+vertical-align: top;
+}
+#main-contents .voiceBox td:first-child{
+letter-spacing: -1px;
+font-size: 10px;
+text-align: center;
+padding: 0;
+margin: 0;
+width: 100px;
+}
+#main-contents .voiceBox td:first-child img{
+display: block;
+width: 60px;
+margin: 0 auto 5px;
+}
+#main-contents .voiceBox td:nth-of-type(2){
+padding: 0 20px 0 10px;
+}
+#main-contents .voiceBox td:nth-of-type(2) p {
+background: #fff;
+padding: 10px;
+position: relative;
+border: 1px solid #ddd;
+border-radius: 2px;
+line-height: 1.7;
+font-size: 13px;
+margin: 0;
+box-shadow: 1px 1px 2px 0 #e4e4e4;
+}
+#main-contents .voiceBox td:nth-of-type(2) p:before {
+content: '';
+position: absolute;
+display: block;
+width: 0;
+height: 0;
+left: -10px;
+top: 7px;
+border: 10px solid transparent;
+border-top-color: #ddd;
+z-index: -1;
+}
+#main-contents .voiceBox td:nth-of-type(2) p:after {
+content: '';
+position: absolute;
+display: block;
+width: 0;
+height: 0;
+left: -8px;
+top: 8px;
+border: 9px solid transparent;
+border-top-color: #fff;
+z-index: 2;
+}
+@media only screen and (orientation: landscape) and (max-width: 813px), (orientation: portrait) and (max-width: 753px){
+#main-contents .voiceBox td:first-child{
+width: 90px;
+}
+#main-contents .voiceBox td:nth-of-type(2) {
+padding: 0 10px 0 10px;
+}
+#main-contents .voiceBox td:nth-of-type(2) p {
+line-height: normal;
+}
+}
+
+
+/*------------------------------------------------------------
+Q&Aï¼æç¨¿ãã¬ãã¥ã¼ç¨ï¼
+-------------------------------------------------------------*/
+.qa-wrap{
+margin-bottom: 20px;
+}
+body #container  #main-contents .qa-wrap h3{font-weight: bold;position: relative;line-height: 1.4;padding: 0 0 0 32px;font-size: 13px;
+background:none;
+color: #333;
+margin:10px 0 10px 0;border: 0;}
+body #container #main-contents .qa-wrap h3:before{
+content: "Q";
+display: block!important;
+color: #fff;
+width: 23px;
+height: 23px;
+line-height: 23px;
+text-align: center;
+background: #2467d2;
+border-radius: 50%;
+position: absolute;
+left: 0;
+top: -2px;
+font-size: 13px;
+margin: 0;
+box-sizing: border-box;
+bottom: auto;
+}
+.qa-wrap p{position: relative;line-height: 1.4;padding: 0 0 0 32px;font-size: 13px;margin: 0 0 16px 0;}
+.qa-wrap p:last-of-type{
+margin:0;
+}
+.qa-wrap p:before{
+content: "A";
+display: block;
+color: #fff;
+width: 23px;
+height: 23px;
+line-height: 23px;
+text-align: center;
+background: #ff4781;
+border-radius: 50%;
+position: absolute;
+left: 0;
+top: -2px;
+font-weight: bold;
+font-size: 13px;
+box-sizing: border-box;
+padding: 0 0 0 1px;
+}
+.qa-wrap p + p:nth-child(n+1):before{
+display:none;
+}
+.qa-wrap dt h3:before{
+display:none;
+}
+@media only screen and (orientation:landscape) and (max-width :813px),(orientation:portrait) and (max-width :753px){
+body #container #main-contents .qa-wrap h3{
+font-size: 13px;
+}
+body #container #main-contents .qa-wrap h3:before{
+width: 23px;
+height: 23px;
+line-height: 23px;
+font-size: 13px;
+}
+.qa-wrap p{
+font-size: 13px;
+}
+.qa-wrap p:before{
+width: 23px;
+height: 23px;
+line-height: 23px;
+font-size: 13px;
+padding: 0 0 0 1px;
+}
+}
+
+/*--------------------------------------------------------
+REè¨äºåãã¶ã¤ã³å¯¾å¿èª¿æ´
+-------------------------------------------------------*/
+#main-contents .post h2 {
+border-bottom: 0px solid #218fdc;
+border-right: 0px solid #218fdc;
+}
+#main-contents .post h2:before {
+display:none;
+}
+#main-contents .post h4:before{
+display:none;
+padding:0;
+}
+#main-contents .post h4{
+padding:0 0 0 10px;
+}

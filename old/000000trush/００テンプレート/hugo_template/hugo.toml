@@ -1,0 +1,37 @@
+# ============================================================
+# Hugo Template Configuration
+# SITE_NAME, SITE_URL, SITE_DESCRIPTION をプロジェクトに合わせて変更
+# ============================================================
+
+baseURL = 'https://username.github.io/SITE_NAME/'
+languageCode = 'ja'
+title = 'SITE_TITLE | ゲーム攻略'
+defaultContentLanguage = 'ja'
+enableRobotsTXT = true
+enableEmoji = false
+
+[params]
+  description = "SITE_DESCRIPTION"
+  ogImage = "/images/ogp.png"
+  siteLogo = "/images/logo.png"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    endLevel = 3
+    startLevel = 2
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
+  filename = "sitemap.xml"

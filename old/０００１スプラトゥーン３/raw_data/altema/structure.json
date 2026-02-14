@@ -1,0 +1,6846 @@
+{
+  "top": {
+    "page_name": "top",
+    "url": "https://altema.jp/splatoon3",
+    "title": "スプラトゥーン3攻略wiki - アルテマ",
+    "headings": [
+      {
+        "level": 1,
+        "text": "スプラトゥーン3攻略wiki｜スプラ3"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3の最新情報"
+      },
+      {
+        "level": 3,
+        "text": "第13回フェスが開催！"
+      },
+      {
+        "level": 3,
+        "text": "2024年！春の新シーズン情報が公開！"
+      },
+      {
+        "level": 4,
+        "text": "現在公開中の新武器"
+      },
+      {
+        "level": 3,
+        "text": "DLCサイドオーダーが追加予定！"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3の最強ランキング"
+      },
+      {
+        "level": 3,
+        "text": "ルール別の最強武器"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3のヒーローモード"
+      },
+      {
+        "level": 3,
+        "text": "アイテム情報"
+      },
+      {
+        "level": 3,
+        "text": "サイト別攻略一覧"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 3,
+        "text": "アイテム情報"
+      },
+      {
+        "level": 3,
+        "text": "お役立ち情報"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3の武器(ブキ)情報"
+      },
+      {
+        "level": 3,
+        "text": "武器種別一覧"
+      },
+      {
+        "level": 3,
+        "text": "スプラトゥーン3の新武器"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3のサブ一覧"
+      },
+      {
+        "level": 3,
+        "text": "サブウェポン一覧"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3のスペシャル一覧"
+      },
+      {
+        "level": 3,
+        "text": "スペシャルウェポン一覧"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3のギアとギアパワー"
+      },
+      {
+        "level": 3,
+        "text": "ギア一覧"
+      },
+      {
+        "level": 3,
+        "text": "ギアパワー一覧"
+      },
+      {
+        "level": 3,
+        "text": "ギア関連記事"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3のサーモンラン"
+      },
+      {
+        "level": 3,
+        "text": "オオモノシャケの攻略情報"
+      },
+      {
+        "level": 3,
+        "text": "お役立ち情報"
+      },
+      {
+        "level": 3,
+        "text": "特殊ウェーブの攻略情報"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーンのバンカラマッチ攻略"
+      },
+      {
+        "level": 3,
+        "text": "ルール別攻略記事"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3のナワバトラー攻略"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3のステージ一覧"
+      },
+      {
+        "level": 3,
+        "text": "ステージ一覧"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3のアイテム情報"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3のフェス"
+      },
+      {
+        "level": 3,
+        "text": "チョコレートフェスはホワイトの勝利！"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3の初心者向け攻略情報"
+      },
+      {
+        "level": 3,
+        "text": "初心者向け攻略記事"
+      },
+      {
+        "level": 3,
+        "text": "バトル/システム解説"
+      },
+      {
+        "level": 3,
+        "text": "テクニック集"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3の掲示板"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3とは"
+      },
+      {
+        "level": 3,
+        "text": "インクを使ったナワバリ争い"
+      },
+      {
+        "level": 3,
+        "text": "ヒトの姿に変身するイカが主役"
+      },
+      {
+        "level": 3,
+        "text": "様々な種類のブキが存在"
+      },
+      {
+        "level": 4,
+        "text": "武器関連"
+      },
+      {
+        "level": 4,
+        "text": "武器一覧"
+      },
+      {
+        "level": 4,
+        "text": "新武器まとめ"
+      },
+      {
+        "level": 4,
+        "text": "ワイパー系"
+      },
+      {
+        "level": 4,
+        "text": "ストリンガー系"
+      },
+      {
+        "level": 4,
+        "text": "シューター系"
+      },
+      {
+        "level": 4,
+        "text": "ローラー系"
+      },
+      {
+        "level": 4,
+        "text": "チャージャー系"
+      },
+      {
+        "level": 4,
+        "text": "スピナー系"
+      },
+      {
+        "level": 4,
+        "text": "ブラスター系"
+      },
+      {
+        "level": 4,
+        "text": "フデ系"
+      },
+      {
+        "level": 4,
+        "text": "スロッシャー系(バケツ)"
+      },
+      {
+        "level": 4,
+        "text": "シェルター系(傘)"
+      },
+      {
+        "level": 4,
+        "text": "マニューバー系"
+      },
+      {
+        "level": 4,
+        "text": "新規スペシャルウェポン"
+      },
+      {
+        "level": 4,
+        "text": "既存スペシャルウェポン"
+      },
+      {
+        "level": 4,
+        "text": "ステージ攻略"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 4,
+        "text": "新ステージ"
+      },
+      {
+        "level": 4,
+        "text": "既存ステージ"
+      },
+      {
+        "level": 4,
+        "text": "アイテム集め"
+      },
+      {
+        "level": 3,
+        "text": "スプラトゥーン3攻略について"
+      }
+    ],
+    "sections": [
+      "スプラトゥーン3の最新情報",
+      "スプラトゥーン3の最強ランキング",
+      "スプラトゥーン3のヒーローモード",
+      "スプラトゥーン3の武器(ブキ)情報",
+      "スプラトゥーン3のサブ一覧",
+      "スプラトゥーン3のスペシャル一覧",
+      "スプラトゥーン3のギアとギアパワー",
+      "スプラトゥーン3のサーモンラン",
+      "スプラトゥーンのバンカラマッチ攻略",
+      "スプラトゥーン3のナワバトラー攻略",
+      "スプラトゥーン3のステージ一覧",
+      "スプラトゥーン3のアイテム情報",
+      "スプラトゥーン3のフェス",
+      "スプラトゥーン3の初心者向け攻略情報",
+      "スプラトゥーン3の掲示板",
+      "スプラトゥーン3とは"
+    ],
+    "tables_count": 36,
+    "images_count": 436
+  },
+  "weapon_tier": {
+    "page_name": "weapon_tier",
+    "url": "https://altema.jp/splatoon3/saikyoubuki",
+    "title": "【スプラトゥーン3】最強武器(ブキ)ランキング｜2023秋シーズン武器も掲載！【スプラ3】 - アルテマ",
+    "headings": [
+      {
+        "level": 1,
+        "text": "【スプラトゥーン3】最強武器(ブキ)ランキング｜2023秋シーズン武器も掲載！"
+      },
+      {
+        "level": 2,
+        "text": "最新武器の評価"
+      },
+      {
+        "level": 2,
+        "text": "最強武器ランキング早見表"
+      },
+      {
+        "level": 3,
+        "text": "評価ランクの説明"
+      },
+      {
+        "level": 3,
+        "text": "ランキングの評価基準"
+      },
+      {
+        "level": 4,
+        "text": "全ルールを総合的に見て評価"
+      },
+      {
+        "level": 4,
+        "text": "キルのしやすさも評価"
+      },
+      {
+        "level": 2,
+        "text": "ナワバリ(フェス)最強武器"
+      },
+      {
+        "level": 2,
+        "text": "ガチエリア最強武器"
+      },
+      {
+        "level": 2,
+        "text": "ガチホコ最強武器"
+      },
+      {
+        "level": 2,
+        "text": "ガチヤグラ最強武器"
+      },
+      {
+        "level": 2,
+        "text": "ガチアサリ最強武器"
+      },
+      {
+        "level": 2,
+        "text": "スプラ3のおすすめ記事"
+      },
+      {
+        "level": 3,
+        "text": "アイテム収集"
+      },
+      {
+        "level": 3,
+        "text": "武器(ブキ)関連の情報"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3の注目記事"
+      },
+      {
+        "level": 2,
+        "text": "この記事を書いた人"
+      },
+      {
+        "level": 2,
+        "text": "書き込み"
+      },
+      {
+        "level": 4,
+        "text": "武器関連"
+      },
+      {
+        "level": 4,
+        "text": "武器一覧"
+      },
+      {
+        "level": 4,
+        "text": "新武器まとめ"
+      },
+      {
+        "level": 4,
+        "text": "ワイパー系"
+      },
+      {
+        "level": 4,
+        "text": "ストリンガー系"
+      },
+      {
+        "level": 4,
+        "text": "シューター系"
+      },
+      {
+        "level": 4,
+        "text": "ローラー系"
+      },
+      {
+        "level": 4,
+        "text": "チャージャー系"
+      },
+      {
+        "level": 4,
+        "text": "スピナー系"
+      },
+      {
+        "level": 4,
+        "text": "ブラスター系"
+      },
+      {
+        "level": 4,
+        "text": "フデ系"
+      },
+      {
+        "level": 4,
+        "text": "スロッシャー系(バケツ)"
+      },
+      {
+        "level": 4,
+        "text": "シェルター系(傘)"
+      },
+      {
+        "level": 4,
+        "text": "マニューバー系"
+      },
+      {
+        "level": 4,
+        "text": "新規スペシャルウェポン"
+      },
+      {
+        "level": 4,
+        "text": "既存スペシャルウェポン"
+      },
+      {
+        "level": 4,
+        "text": "ステージ攻略"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 4,
+        "text": "新ステージ"
+      },
+      {
+        "level": 4,
+        "text": "既存ステージ"
+      },
+      {
+        "level": 4,
+        "text": "アイテム集め"
+      },
+      {
+        "level": 3,
+        "text": "スプラトゥーン3攻略について"
+      }
+    ],
+    "sections": [
+      "最新武器の評価",
+      "最強武器ランキング早見表",
+      "ナワバリ(フェス)最強武器",
+      "ガチエリア最強武器",
+      "ガチホコ最強武器",
+      "ガチヤグラ最強武器",
+      "ガチアサリ最強武器",
+      "スプラ3のおすすめ記事",
+      "スプラトゥーン3の注目記事",
+      "この記事を書いた人",
+      "書き込み"
+    ],
+    "tables_count": 15,
+    "images_count": 566
+  },
+  "weapon_list": {
+    "page_name": "weapon_list",
+    "url": "https://altema.jp/splatoon3/bukilist",
+    "title": "【スプラトゥーン3】武器(ブキ)一覧【スプラ3】 - アルテマ",
+    "headings": [
+      {
+        "level": 1,
+        "text": "【スプラトゥーン3】武器(ブキ)一覧"
+      },
+      {
+        "level": 2,
+        "text": "武器一覧"
+      },
+      {
+        "level": 3,
+        "text": "シューター"
+      },
+      {
+        "level": 3,
+        "text": "ローラー"
+      },
+      {
+        "level": 3,
+        "text": "チャージャー"
+      },
+      {
+        "level": 3,
+        "text": "スロッシャー"
+      },
+      {
+        "level": 3,
+        "text": "スピナー"
+      },
+      {
+        "level": 3,
+        "text": "マニューバー"
+      },
+      {
+        "level": 3,
+        "text": "シェルター"
+      },
+      {
+        "level": 3,
+        "text": "ブラスター"
+      },
+      {
+        "level": 3,
+        "text": "フデ"
+      },
+      {
+        "level": 3,
+        "text": "ストリンガー"
+      },
+      {
+        "level": 3,
+        "text": "ワイパー"
+      },
+      {
+        "level": 2,
+        "text": "武器(ブキ)関連記事"
+      },
+      {
+        "level": 3,
+        "text": "ルール別最強ランキング"
+      },
+      {
+        "level": 3,
+        "text": "各種武器一覧"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3の注目記事"
+      },
+      {
+        "level": 2,
+        "text": "この記事を書いた人"
+      },
+      {
+        "level": 2,
+        "text": "書き込み"
+      },
+      {
+        "level": 4,
+        "text": "武器関連"
+      },
+      {
+        "level": 4,
+        "text": "武器一覧"
+      },
+      {
+        "level": 4,
+        "text": "新武器まとめ"
+      },
+      {
+        "level": 4,
+        "text": "ワイパー系"
+      },
+      {
+        "level": 4,
+        "text": "ストリンガー系"
+      },
+      {
+        "level": 4,
+        "text": "シューター系"
+      },
+      {
+        "level": 4,
+        "text": "ローラー系"
+      },
+      {
+        "level": 4,
+        "text": "チャージャー系"
+      },
+      {
+        "level": 4,
+        "text": "スピナー系"
+      },
+      {
+        "level": 4,
+        "text": "ブラスター系"
+      },
+      {
+        "level": 4,
+        "text": "フデ系"
+      },
+      {
+        "level": 4,
+        "text": "スロッシャー系(バケツ)"
+      },
+      {
+        "level": 4,
+        "text": "シェルター系(傘)"
+      },
+      {
+        "level": 4,
+        "text": "マニューバー系"
+      },
+      {
+        "level": 4,
+        "text": "新規スペシャルウェポン"
+      },
+      {
+        "level": 4,
+        "text": "既存スペシャルウェポン"
+      },
+      {
+        "level": 4,
+        "text": "ステージ攻略"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 4,
+        "text": "新ステージ"
+      },
+      {
+        "level": 4,
+        "text": "既存ステージ"
+      },
+      {
+        "level": 4,
+        "text": "アイテム集め"
+      },
+      {
+        "level": 3,
+        "text": "スプラトゥーン3攻略について"
+      }
+    ],
+    "sections": [
+      "武器一覧",
+      "武器(ブキ)関連記事",
+      "スプラトゥーン3の注目記事",
+      "この記事を書いた人",
+      "書き込み"
+    ],
+    "tables_count": 17,
+    "images_count": 768
+  },
+  "all_weapons": [
+    {
+      "name": "最強武器(ブキ)ランキング",
+      "source": "altema",
+      "col1": "最強スペシャルランキング"
+    },
+    {
+      "name": "最強ギアパワーランキング",
+      "source": "altema",
+      "col1": "最強サブウェポンランキング"
+    },
+    {
+      "name": "▼シューター",
+      "source": "altema",
+      "col1": "▼ローラー",
+      "col2": "▼チャージャー"
+    },
+    {
+      "name": "▼スロッシャー",
+      "source": "altema",
+      "col1": "▼スピナー",
+      "col2": "▼マニューバー"
+    },
+    {
+      "name": "▼シェルター",
+      "source": "altema",
+      "col1": "▼ブラスター",
+      "col2": "▼フデ"
+    },
+    {
+      "name": "▼ストリンガー",
+      "source": "altema",
+      "col1": "▼ワイパー",
+      "col2": "-"
+    },
+    {
+      "name": "わかばシューター",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "スプラッシュボム",
+      "スペシャル": "グレートバリア"
+    },
+    {
+      "name": "もみじシューター",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "トーピード",
+      "スペシャル": "ホップソナー"
+    },
+    {
+      "name": "プロモデラーMG",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "タンサンボム",
+      "スペシャル": "サメライド"
+    },
+    {
+      "name": "プロモデラーRG",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "スプリンクラー",
+      "スペシャル": "ナイスダマ"
+    },
+    {
+      "name": "スプラシューター",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "キューバンボム",
+      "スペシャル": "ウルトラショット"
+    },
+    {
+      "name": "スプラシューターコラボ",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "スプラッシュボム",
+      "スペシャル": "トリプルトルネード"
+    },
+    {
+      "name": "52ガロン",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "スプラッシュシールド",
+      "スペシャル": "メガホンレーザー"
+    },
+    {
+      "name": "N-ZAP85",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "キューバンボム",
+      "スペシャル": "エナジースタンド"
+    },
+    {
+      "name": "N-ZAP89",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ロボットボム",
+      "スペシャル": "デコイチラシ"
+    },
+    {
+      "name": "プライムシューター",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ラインマーカー",
+      "スペシャル": "カニタンク"
+    },
+    {
+      "name": "プライムシューターコラボ",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "キューバンボム",
+      "スペシャル": "ナイスダマ"
+    },
+    {
+      "name": "96ガロン",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "スプリンクラー",
+      "スペシャル": "キューインキ"
+    },
+    {
+      "name": "96ガロンデコ",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "スプラッシュシールド",
+      "スペシャル": "テイオウイカ"
+    },
+    {
+      "name": "H3リールガン",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ポイントセンサー",
+      "スペシャル": "エナジースタンド"
+    },
+    {
+      "name": "H3リールガンD",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "スプラッシュシールド",
+      "スペシャル": "グレートバリア"
+    },
+    {
+      "name": "L3リールガン",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "カーリングボム",
+      "スペシャル": "カニタンク"
+    },
+    {
+      "name": "L3リールガンD",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "クイックボム",
+      "スペシャル": "ウルトラハンコ"
+    },
+    {
+      "name": "ジェットスイーパー",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ラインマーカー",
+      "スペシャル": "キューインキ"
+    },
+    {
+      "name": "ジェットスイーパーカスタム",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ポイズンミスト",
+      "スペシャル": "アメフラシ"
+    },
+    {
+      "name": "シャープマーカー",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "クイックボム",
+      "スペシャル": "カニタンク"
+    },
+    {
+      "name": "シャープマーカーネオ",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "キューバンボム",
+      "スペシャル": "トリプルトルネード"
+    },
+    {
+      "name": "ボールドマーカー",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "カーリングボム",
+      "スペシャル": "ウルトラハンコ"
+    },
+    {
+      "name": "ボールドマーカーネオ",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ジャンプビーコン",
+      "スペシャル": "メガホンレーザー"
+    },
+    {
+      "name": "ボトルガイザー",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "スプラッシュシールド",
+      "スペシャル": "ウルトラショット"
+    },
+    {
+      "name": "ボトルガイザーフォイル",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ロボットボム",
+      "スペシャル": "スミナガシート"
+    },
+    {
+      "name": "ヒーローシューターレプリカ",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "キューバンボム",
+      "スペシャル": "ウルトラショット"
+    },
+    {
+      "name": "スペースシューター",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ポイントセンサー",
+      "スペシャル": "メガホンレーザー"
+    },
+    {
+      "name": "スペースシューターコラボ",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "トラップ",
+      "スペシャル": "ジェットパック"
+    },
+    {
+      "name": "スプラローラー",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "カーリングボム",
+      "スペシャル": "グレートバリア"
+    },
+    {
+      "name": "スプラローラーコラボ",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ジャンプビーコン",
+      "スペシャル": "テイオウイカ"
+    },
+    {
+      "name": "ダイナモローラー",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "スプリンクラー",
+      "スペシャル": "エナジースタンド"
+    },
+    {
+      "name": "ダイナモローラーテスラ",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "スプラッシュボム",
+      "スペシャル": "デコイチラシ"
+    },
+    {
+      "name": "ヴァリアブルローラー",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "トラップ",
+      "スペシャル": "マルチミサイル"
+    },
+    {
+      "name": "カーボンローラー",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ロボットボム",
+      "スペシャル": "ショクワンダー"
+    },
+    {
+      "name": "カーボンローラーデコ",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "クイックボム",
+      "スペシャル": "ウルトラショット"
+    },
+    {
+      "name": "ワイドローラー",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "スプラッシュシールド",
+      "スペシャル": "キューインキ"
+    },
+    {
+      "name": "ワイドローラーコラボ",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ラインマーカー",
+      "スペシャル": "アメフラシ"
+    },
+    {
+      "name": "スプラチャージャー",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "スプラッシュボム",
+      "スペシャル": "キューインキ"
+    },
+    {
+      "name": "スプラスコープ",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "スプラッシュボム",
+      "スペシャル": "キューインキ"
+    },
+    {
+      "name": "スプラチャージャーコラボ",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "スプラッシュシールド",
+      "スペシャル": "トリプルトルネード"
+    },
+    {
+      "name": "スプラスコープコラボ",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "スプラッシュシールド",
+      "スペシャル": "トリプルトルネード"
+    },
+    {
+      "name": "リッター4K",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "トラップ",
+      "スペシャル": "ホップソナー"
+    },
+    {
+      "name": "4Kスコープ",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "トラップ",
+      "スペシャル": "ホップソナー"
+    },
+    {
+      "name": "14式竹筒銃・甲",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ロボットボム",
+      "スペシャル": "メガホンレーザー"
+    },
+    {
+      "name": "スクイックリンα",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ポイントセンサー",
+      "スペシャル": "グレートバリア"
+    },
+    {
+      "name": "ソイチューバー",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "トーピード",
+      "スペシャル": "マルチミサイル"
+    },
+    {
+      "name": "ソイチューバーカスタム",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "タンサンボム",
+      "スペシャル": "ウルトラハンコ"
+    },
+    {
+      "name": "R-PEN/5H",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "スプリンクラー",
+      "スペシャル": "エナジースタンド"
+    },
+    {
+      "name": "R-PEN/5B",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "スプラッシュシールド",
+      "スペシャル": "アメフラシ"
+    },
+    {
+      "name": "バケットスロッシャー",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "スプラッシュボム",
+      "スペシャル": "トリプルトルネード"
+    },
+    {
+      "name": "バケットスロッシャーデコ",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ラインマーカー",
+      "スペシャル": "ショクワンダー"
+    },
+    {
+      "name": "ヒッセン",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ポイズンミスト",
+      "スペシャル": "ジェットパック"
+    },
+    {
+      "name": "ヒッセン・ヒュー",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "タンサンボム",
+      "スペシャル": "エナジースタンド"
+    },
+    {
+      "name": "エクスプロッシャー",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ポイントセンサー",
+      "スペシャル": "アメフラシ"
+    },
+    {
+      "name": "オーバーフロッシャー",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "スプリンクラー",
+      "スペシャル": "アメフラシ"
+    },
+    {
+      "name": "オーバーフロッシャーデコ",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ラインマーカー",
+      "スペシャル": "テイオウイカ"
+    },
+    {
+      "name": "スクリュースロッシャー",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "タンサンボム",
+      "スペシャル": "ナイスダマ"
+    },
+    {
+      "name": "スクリュースロッシャーネオ",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ポイントセンサー",
+      "スペシャル": "ウルトラショット"
+    },
+    {
+      "name": "モップリン",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "キューバンボム",
+      "スペシャル": "サメライド"
+    },
+    {
+      "name": "バレルスピナー",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "スプリンクラー",
+      "スペシャル": "ホップソナー"
+    },
+    {
+      "name": "バレルスピナーデコ",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ポイントセンサー",
+      "スペシャル": "テイオウイカ"
+    },
+    {
+      "name": "ハイドラント",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ロボットボム",
+      "スペシャル": "ナイスダマ"
+    },
+    {
+      "name": "クーゲルシュライバー",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "タンサンボム",
+      "スペシャル": "ジェットパック"
+    },
+    {
+      "name": "クーゲルシュライバーヒュー",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "トラップ",
+      "スペシャル": "キューインキ"
+    },
+    {
+      "name": "スプラスピナー",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "クイックボム",
+      "スペシャル": "ウルトラハンコ"
+    },
+    {
+      "name": "スプラスピナーコラボ",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ポイズンミスト",
+      "スペシャル": "グレートバリア"
+    },
+    {
+      "name": "ノーチラス47",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ポイントセンサー",
+      "スペシャル": "アメフラシ"
+    },
+    {
+      "name": "イグザミナー",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "カーリングボム",
+      "スペシャル": "エナジースタンド"
+    },
+    {
+      "name": "スプラマニューバー",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "キューバンボム",
+      "スペシャル": "カニタンク"
+    },
+    {
+      "name": "スプラニューバーコラボ",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "カーリングボム",
+      "スペシャル": "スーパーチャクチ"
+    },
+    {
+      "name": "クアッドホッパーブラック",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ロボットボム",
+      "スペシャル": "サメライド"
+    },
+    {
+      "name": "クアッドホッパーホワイト",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "スプリンクラー",
+      "スペシャル": "ショクワンダー"
+    },
+    {
+      "name": "ケルビン525",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "スプラッシュシールド",
+      "スペシャル": "ナイスダマ"
+    },
+    {
+      "name": "スパッタリー",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ジャンプビーコン",
+      "スペシャル": "エナジースタンド"
+    },
+    {
+      "name": "スパッタリーヒュー",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "トーピード",
+      "スペシャル": "サメライド"
+    },
+    {
+      "name": "デュアルスイーパー",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "スプラッシュボム",
+      "スペシャル": "ホップソナー"
+    },
+    {
+      "name": "デュアルスイーパーカスタム",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ジャンプビーコン",
+      "スペシャル": "デコイチラシ"
+    },
+    {
+      "name": "パラシェルター",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "スプリンクラー",
+      "スペシャル": "トリプルトルネード"
+    },
+    {
+      "name": "パラシェルターソレーラ",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ロボットボム",
+      "スペシャル": "ジェットパック"
+    },
+    {
+      "name": "キャンピングシェルター",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ジャンプビーコン",
+      "スペシャル": "キューインキ"
+    },
+    {
+      "name": "キャンピングシェルターソレーラ",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "トラップ",
+      "スペシャル": "ウルトラショット"
+    },
+    {
+      "name": "スパイガジェット",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "トラップ",
+      "スペシャル": "サメライド"
+    },
+    {
+      "name": "スパイガジェットソレーラ",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "トーピード",
+      "スペシャル": "スミナガシート"
+    },
+    {
+      "name": "S-BLAST92",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "スプリンクラー",
+      "スペシャル": "サメライド"
+    },
+    {
+      "name": "S-BLAST91",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "クイックボム",
+      "スペシャル": "ナイスダマ"
+    },
+    {
+      "name": "ノヴァブラスター",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "スプラッシュボム",
+      "スペシャル": "ショクワンダー"
+    },
+    {
+      "name": "ノヴァブラスターネオ",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "タンサンボム",
+      "スペシャル": "ウルトラハンコ"
+    },
+    {
+      "name": "ホットブラスター",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ロボットボム",
+      "スペシャル": "グレートバリア"
+    },
+    {
+      "name": "ホットブラスターカスタム",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "カーリングボム",
+      "スペシャル": "スーパーチャクチ"
+    },
+    {
+      "name": "Rブラスターエリート",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ポイズンミスト",
+      "スペシャル": "キューインキ"
+    },
+    {
+      "name": "Rブラスターエリートデコ",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ラインマーカー",
+      "スペシャル": "メガホンレーザー"
+    },
+    {
+      "name": "クラッシュブラスター",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "スプラッシュボム",
+      "スペシャル": "ウルトラショット"
+    },
+    {
+      "name": "クラッシュブラスターネオ",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "カーリングボム",
+      "スペシャル": "デコイチラシ"
+    },
+    {
+      "name": "ラピッドブラスター",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "トラップ",
+      "スペシャル": "トリプルトルネード"
+    },
+    {
+      "name": "ラピッドブラスターデコ",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "トーピード",
+      "スペシャル": "ジェットパック"
+    },
+    {
+      "name": "ロングブラスター",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "キューバンボム",
+      "スペシャル": "ホップソナー"
+    },
+    {
+      "name": "フィンセント",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "カーリングボム",
+      "スペシャル": "ホップソナー"
+    },
+    {
+      "name": "フィンセントヒュー",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ポイントセンサー",
+      "スペシャル": "マルチミサイル"
+    },
+    {
+      "name": "パブロ",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "スプラッシュボム",
+      "スペシャル": "メガホンレーザー"
+    },
+    {
+      "name": "パブロヒュー",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "トラップ",
+      "スペシャル": "ウルトラハンコ"
+    },
+    {
+      "name": "ホクサイ",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "キューバンボム",
+      "スペシャル": "ショクワンダー"
+    },
+    {
+      "name": "ホクサイヒュー",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ジャンプビーコン",
+      "スペシャル": "アメフラシ"
+    },
+    {
+      "name": "トライストリンガー",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ポイズンミスト",
+      "スペシャル": "メガホンレーザー"
+    },
+    {
+      "name": "トライストリンガーコラボ",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "スプリンクラー",
+      "スペシャル": "デコイチラシ"
+    },
+    {
+      "name": "LACT-450",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "カーリングボム",
+      "スペシャル": "マルチミサイル"
+    },
+    {
+      "name": "LACT-450デコ",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "スプラッシュシールド",
+      "スペシャル": "サメライド"
+    },
+    {
+      "name": "ドライブワイパー",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "トーピード",
+      "スペシャル": "ウルトラハンコ"
+    },
+    {
+      "name": "ドライブワイパーデコ",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ジャンプビーコン",
+      "スペシャル": "マルチミサイル"
+    },
+    {
+      "name": "ジムワイパー",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "クイックボム",
+      "スペシャル": "ショクワンダー"
+    },
+    {
+      "name": "ジムワイパーヒュー",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "サブ": "ポイズンミスト",
+      "スペシャル": "カニタンク"
+    },
+    {
+      "name": "最強武器",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "col1": "新武器一覧"
+    },
+    {
+      "name": "最強スペシャル",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "col1": "最強サブ"
+    },
+    {
+      "name": "武器(ブキ)一覧",
+      "source": "altema",
+      "col1": "スペシャルウェポン一覧"
+    },
+    {
+      "name": "サブウェポン一覧",
+      "source": "altema",
+      "col1": "ギア一覧"
+    },
+    {
+      "name": "新ブキ一覧",
+      "source": "altema",
+      "col1": "初心者向けのおすすめ武器"
+    },
+    {
+      "name": "スピナー系",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "ローラー系": "ブラスター系",
+      "チャージャー系": "フデ系"
+    },
+    {
+      "name": "スロッシャー系",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "ローラー系": "シェルター系",
+      "チャージャー系": "マニューバー系"
+    },
+    {
+      "name": "ストリンガー系",
+      "source": "altema",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "ローラー系": "ワイパー系",
+      "チャージャー系": "-"
+    },
+    {
+      "name": "Xパワー",
+      "source": "altema",
+      "col1": "2,900台"
+    },
+    {
+      "name": "サーモンラン",
+      "source": "altema",
+      "col1": "全ステ金バッジ(ドン・ブラコまで)"
+    },
+    {
+      "name": "攻略班プロフ",
+      "source": "altema",
+      "col1": "▶攻略班紹介ページはこちら"
+    }
+  ],
+  "beginner_weapon": {
+    "page_name": "beginner_weapon",
+    "url": "https://altema.jp/splatoon3/syosinsyabuki",
+    "title": "【スプラトゥーン3】初心者おすすめブキ｜武器の選び方【スプラ3】 - アルテマ",
+    "headings": [
+      {
+        "level": 1,
+        "text": "【スプラトゥーン3】初心者おすすめブキ｜武器の選び方"
+      },
+      {
+        "level": 2,
+        "text": "初心者向けはシューターかスロッシャー"
+      },
+      {
+        "level": 3,
+        "text": "気になった武器種でもOK"
+      },
+      {
+        "level": 3,
+        "text": "チャージャーやスピナーは上級者向け"
+      },
+      {
+        "level": 2,
+        "text": "初心者におすすめの武器一覧"
+      },
+      {
+        "level": 3,
+        "text": "N-ZAP85"
+      },
+      {
+        "level": 4,
+        "text": "連射力を活かして移動しながら塗る"
+      },
+      {
+        "level": 4,
+        "text": "N-ZAP85のおすすめギアパワー"
+      },
+      {
+        "level": 3,
+        "text": ".52ガロン"
+      },
+      {
+        "level": 4,
+        "text": "インクシールドを活用しながら攻める"
+      },
+      {
+        "level": 4,
+        "text": ".52ガロンのおすすめギアパワー"
+      },
+      {
+        "level": 3,
+        "text": "スプラシューター"
+      },
+      {
+        "level": 4,
+        "text": "適正距離を意識して立ち回る"
+      },
+      {
+        "level": 4,
+        "text": "スプラシューターのおすすめギアパワー"
+      },
+      {
+        "level": 3,
+        "text": "わかばシューター"
+      },
+      {
+        "level": 4,
+        "text": "高い塗り性能を持つ堅実な武器"
+      },
+      {
+        "level": 4,
+        "text": "わかばシューターのおすすめギアパワー"
+      },
+      {
+        "level": 3,
+        "text": "ヒッセン"
+      },
+      {
+        "level": 4,
+        "text": "遠い場所ほど範囲が広がるスロッシャー"
+      },
+      {
+        "level": 4,
+        "text": "ヒッセンのおすすめギアパワー"
+      },
+      {
+        "level": 3,
+        "text": "バケットスロッシャー"
+      },
+      {
+        "level": 4,
+        "text": "中距離から火力発揮に優れる"
+      },
+      {
+        "level": 4,
+        "text": "バケットスロッシャーのおすすめギアパワー"
+      },
+      {
+        "level": 2,
+        "text": "スプラ3のおすすめ記事"
+      },
+      {
+        "level": 3,
+        "text": "アイテム収集"
+      },
+      {
+        "level": 3,
+        "text": "武器(ブキ)関連の情報"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3の注目記事"
+      },
+      {
+        "level": 2,
+        "text": "この記事を書いた人"
+      },
+      {
+        "level": 2,
+        "text": "書き込み"
+      },
+      {
+        "level": 4,
+        "text": "武器関連"
+      },
+      {
+        "level": 4,
+        "text": "武器一覧"
+      },
+      {
+        "level": 4,
+        "text": "新武器まとめ"
+      },
+      {
+        "level": 4,
+        "text": "ワイパー系"
+      },
+      {
+        "level": 4,
+        "text": "ストリンガー系"
+      },
+      {
+        "level": 4,
+        "text": "シューター系"
+      },
+      {
+        "level": 4,
+        "text": "ローラー系"
+      },
+      {
+        "level": 4,
+        "text": "チャージャー系"
+      },
+      {
+        "level": 4,
+        "text": "スピナー系"
+      },
+      {
+        "level": 4,
+        "text": "ブラスター系"
+      },
+      {
+        "level": 4,
+        "text": "フデ系"
+      },
+      {
+        "level": 4,
+        "text": "スロッシャー系(バケツ)"
+      },
+      {
+        "level": 4,
+        "text": "シェルター系(傘)"
+      },
+      {
+        "level": 4,
+        "text": "マニューバー系"
+      },
+      {
+        "level": 4,
+        "text": "新規スペシャルウェポン"
+      },
+      {
+        "level": 4,
+        "text": "既存スペシャルウェポン"
+      },
+      {
+        "level": 4,
+        "text": "ステージ攻略"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 4,
+        "text": "新ステージ"
+      },
+      {
+        "level": 4,
+        "text": "既存ステージ"
+      },
+      {
+        "level": 4,
+        "text": "アイテム集め"
+      },
+      {
+        "level": 3,
+        "text": "スプラトゥーン3攻略について"
+      }
+    ],
+    "sections": [
+      "初心者向けはシューターかスロッシャー",
+      "初心者におすすめの武器一覧",
+      "スプラ3のおすすめ記事",
+      "スプラトゥーン3の注目記事",
+      "この記事を書いた人",
+      "書き込み"
+    ],
+    "tables_count": 18,
+    "images_count": 154
+  },
+  "stage_list": {
+    "page_name": "stage_list",
+    "url": "https://altema.jp/splatoon3/stagelist",
+    "title": "【スプラトゥーン3】ステージ(新ステージ)一覧【スプラ3】 - アルテマ",
+    "headings": [
+      {
+        "level": 1,
+        "text": "【スプラトゥーン3】ステージ(新ステージ)一覧"
+      },
+      {
+        "level": 2,
+        "text": "追加ステージ情報"
+      },
+      {
+        "level": 3,
+        "text": "タラポートショッピング"
+      },
+      {
+        "level": 3,
+        "text": "コンブトラック"
+      },
+      {
+        "level": 2,
+        "text": "ステージ一覧"
+      },
+      {
+        "level": 2,
+        "text": "新ステージ個別紹介"
+      },
+      {
+        "level": 3,
+        "text": "ユノハナ大渓谷"
+      },
+      {
+        "level": 3,
+        "text": "ゴンズイ地区"
+      },
+      {
+        "level": 3,
+        "text": "ナメロウ金属"
+      },
+      {
+        "level": 3,
+        "text": "マテガイ放水路"
+      },
+      {
+        "level": 3,
+        "text": "ヤガラ市場"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3の注目記事"
+      },
+      {
+        "level": 2,
+        "text": "この記事を書いた人"
+      },
+      {
+        "level": 2,
+        "text": "書き込み"
+      },
+      {
+        "level": 4,
+        "text": "武器関連"
+      },
+      {
+        "level": 4,
+        "text": "武器一覧"
+      },
+      {
+        "level": 4,
+        "text": "新武器まとめ"
+      },
+      {
+        "level": 4,
+        "text": "ワイパー系"
+      },
+      {
+        "level": 4,
+        "text": "ストリンガー系"
+      },
+      {
+        "level": 4,
+        "text": "シューター系"
+      },
+      {
+        "level": 4,
+        "text": "ローラー系"
+      },
+      {
+        "level": 4,
+        "text": "チャージャー系"
+      },
+      {
+        "level": 4,
+        "text": "スピナー系"
+      },
+      {
+        "level": 4,
+        "text": "ブラスター系"
+      },
+      {
+        "level": 4,
+        "text": "フデ系"
+      },
+      {
+        "level": 4,
+        "text": "スロッシャー系(バケツ)"
+      },
+      {
+        "level": 4,
+        "text": "シェルター系(傘)"
+      },
+      {
+        "level": 4,
+        "text": "マニューバー系"
+      },
+      {
+        "level": 4,
+        "text": "新規スペシャルウェポン"
+      },
+      {
+        "level": 4,
+        "text": "既存スペシャルウェポン"
+      },
+      {
+        "level": 4,
+        "text": "ステージ攻略"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 4,
+        "text": "新ステージ"
+      },
+      {
+        "level": 4,
+        "text": "既存ステージ"
+      },
+      {
+        "level": 4,
+        "text": "アイテム集め"
+      },
+      {
+        "level": 3,
+        "text": "スプラトゥーン3攻略について"
+      }
+    ],
+    "sections": [
+      "追加ステージ情報",
+      "ステージ一覧",
+      "新ステージ個別紹介",
+      "スプラトゥーン3の注目記事",
+      "この記事を書いた人",
+      "書き込み"
+    ],
+    "tables_count": 4,
+    "images_count": 118
+  },
+  "gear_list": {
+    "page_name": "gear_list",
+    "url": "https://altema.jp/splatoon3/gearlist",
+    "title": "【スプラトゥーン3】ギアパワー一覧【スプラ3】 - アルテマ",
+    "headings": [
+      {
+        "level": 1,
+        "text": "【スプラトゥーン3】ギアパワー一覧"
+      },
+      {
+        "level": 2,
+        "text": "ギアパワー一覧"
+      },
+      {
+        "level": 2,
+        "text": "ギアとは？"
+      },
+      {
+        "level": 3,
+        "text": "フク(装備)につく効果のこと"
+      },
+      {
+        "level": 3,
+        "text": "ギアはフクの経験値を稼いで獲得"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3の注目記事"
+      },
+      {
+        "level": 2,
+        "text": "この記事を書いた人"
+      },
+      {
+        "level": 2,
+        "text": "書き込み"
+      },
+      {
+        "level": 4,
+        "text": "武器関連"
+      },
+      {
+        "level": 4,
+        "text": "武器一覧"
+      },
+      {
+        "level": 4,
+        "text": "新武器まとめ"
+      },
+      {
+        "level": 4,
+        "text": "ワイパー系"
+      },
+      {
+        "level": 4,
+        "text": "ストリンガー系"
+      },
+      {
+        "level": 4,
+        "text": "シューター系"
+      },
+      {
+        "level": 4,
+        "text": "ローラー系"
+      },
+      {
+        "level": 4,
+        "text": "チャージャー系"
+      },
+      {
+        "level": 4,
+        "text": "スピナー系"
+      },
+      {
+        "level": 4,
+        "text": "ブラスター系"
+      },
+      {
+        "level": 4,
+        "text": "フデ系"
+      },
+      {
+        "level": 4,
+        "text": "スロッシャー系(バケツ)"
+      },
+      {
+        "level": 4,
+        "text": "シェルター系(傘)"
+      },
+      {
+        "level": 4,
+        "text": "マニューバー系"
+      },
+      {
+        "level": 4,
+        "text": "新規スペシャルウェポン"
+      },
+      {
+        "level": 4,
+        "text": "既存スペシャルウェポン"
+      },
+      {
+        "level": 4,
+        "text": "ステージ攻略"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 4,
+        "text": "新ステージ"
+      },
+      {
+        "level": 4,
+        "text": "既存ステージ"
+      },
+      {
+        "level": 4,
+        "text": "アイテム集め"
+      },
+      {
+        "level": 3,
+        "text": "スプラトゥーン3攻略について"
+      }
+    ],
+    "sections": [
+      "ギアパワー一覧",
+      "ギアとは？",
+      "スプラトゥーン3の注目記事",
+      "この記事を書いた人",
+      "書き込み"
+    ],
+    "tables_count": 3,
+    "images_count": 120
+  },
+  "salmon_run": {
+    "page_name": "salmon_run",
+    "url": "https://altema.jp/splatoon3/salmonrunmatome",
+    "title": "【スプラトゥーン3】サーモンランの攻略とランク一覧【スプラ3】 - アルテマ",
+    "headings": [
+      {
+        "level": 1,
+        "text": "【スプラトゥーン3】サーモンランの攻略とランク一覧"
+      },
+      {
+        "level": 2,
+        "text": "サーモンランの最新アップデート情報"
+      },
+      {
+        "level": 3,
+        "text": "すじこジャンクション跡の追加"
+      },
+      {
+        "level": 3,
+        "text": "第3回ビッグランが開催予定"
+      },
+      {
+        "level": 2,
+        "text": "サーモンランとは？"
+      },
+      {
+        "level": 3,
+        "text": "4人1組で協力してシャケを倒すモード"
+      },
+      {
+        "level": 3,
+        "text": "サーモンランをやる意味は？"
+      },
+      {
+        "level": 2,
+        "text": "ヨコヅナの倒し方とメリット"
+      },
+      {
+        "level": 3,
+        "text": "オカシラシャケ「ヨコヅナ」の倒し方"
+      },
+      {
+        "level": 3,
+        "text": "クマサン商会の交換所でアイテムを入手"
+      },
+      {
+        "level": 3,
+        "text": "オカシラシャケとは"
+      },
+      {
+        "level": 2,
+        "text": "フレンドと合流する方法"
+      },
+      {
+        "level": 3,
+        "text": "クマサン商会に移動する"
+      },
+      {
+        "level": 3,
+        "text": "フレンドとバイトに参加を選択する"
+      },
+      {
+        "level": 3,
+        "text": "1人が部屋を作成する"
+      },
+      {
+        "level": 3,
+        "text": "フレンドリストから部屋に参加する"
+      },
+      {
+        "level": 3,
+        "text": "メールから部屋に参加でも可能"
+      },
+      {
+        "level": 2,
+        "text": "バイトランク一覧と上げる方法"
+      },
+      {
+        "level": 3,
+        "text": "伝説ランクが新たに実装"
+      },
+      {
+        "level": 3,
+        "text": "ランクを上げる方法"
+      },
+      {
+        "level": 2,
+        "text": "ウロコの集め方"
+      },
+      {
+        "level": 3,
+        "text": "オカシラシャケ討伐で入手"
+      },
+      {
+        "level": 3,
+        "text": "バイトを繰り返すとオカシラの出現率アップ"
+      },
+      {
+        "level": 2,
+        "text": "攻略のコツと立ち回り方"
+      },
+      {
+        "level": 3,
+        "text": "オオモノシャケを倒して金イクラを集める"
+      },
+      {
+        "level": 4,
+        "text": "金イクラはイクラの200倍の価値"
+      },
+      {
+        "level": 3,
+        "text": "イクラ投げで金イクラをいち早く納品"
+      },
+      {
+        "level": 3,
+        "text": "スペシャルはウェーブ3までに使い切る"
+      },
+      {
+        "level": 2,
+        "text": "オオモノシャケの倒し方一覧"
+      },
+      {
+        "level": 3,
+        "text": "バクダンの倒し方と弱点"
+      },
+      {
+        "level": 3,
+        "text": "カタパッドの倒し方と弱点"
+      },
+      {
+        "level": 3,
+        "text": "テッパンの倒し方と弱点"
+      },
+      {
+        "level": 3,
+        "text": "ヘビの倒し方と弱点"
+      },
+      {
+        "level": 3,
+        "text": "タワーの倒し方と弱点"
+      },
+      {
+        "level": 3,
+        "text": "モグラの倒し方と弱点"
+      },
+      {
+        "level": 3,
+        "text": "コウモリの倒し方と弱点"
+      },
+      {
+        "level": 3,
+        "text": "ハシラの倒し方と弱点"
+      },
+      {
+        "level": 3,
+        "text": "ダイバーの倒し方と弱点"
+      },
+      {
+        "level": 3,
+        "text": "テッキュウの倒し方と弱点"
+      },
+      {
+        "level": 3,
+        "text": "ナベブタの倒し方と弱点"
+      },
+      {
+        "level": 2,
+        "text": "サーモンランの報酬と受け取り方"
+      },
+      {
+        "level": 3,
+        "text": "サーモンランの報酬まとめ"
+      },
+      {
+        "level": 3,
+        "text": "報酬カプセルは1200ptまで入手可能"
+      },
+      {
+        "level": 3,
+        "text": "報酬は交換所を調べて受け取る"
+      },
+      {
+        "level": 3,
+        "text": "クマサンポイントの効率的な集め方"
+      },
+      {
+        "level": 2,
+        "text": "サーモンランの基本ルール"
+      },
+      {
+        "level": 3,
+        "text": "サーモンランの基本ルール"
+      },
+      {
+        "level": 3,
+        "text": "ブキはランダムで選ばれる"
+      },
+      {
+        "level": 4,
+        "text": "倒されても仲間に助けてもらえる"
+      },
+      {
+        "level": 3,
+        "text": "干潮と満潮などのギミックが確率で発生"
+      },
+      {
+        "level": 3,
+        "text": "スケジュールはメニューから確認可能"
+      },
+      {
+        "level": 2,
+        "text": "ビックランが数ヶ月に1度開催"
+      },
+      {
+        "level": 3,
+        "text": "バトル用ステージでサーモンランが遊べる新モード"
+      },
+      {
+        "level": 2,
+        "text": "サーモンランの新要素一覧"
+      },
+      {
+        "level": 2,
+        "text": "サーモンラン関連記事"
+      },
+      {
+        "level": 3,
+        "text": "武器(ブキ)関連の情報"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3の注目記事"
+      },
+      {
+        "level": 2,
+        "text": "この記事を書いた人"
+      },
+      {
+        "level": 2,
+        "text": "書き込み"
+      },
+      {
+        "level": 4,
+        "text": "武器関連"
+      },
+      {
+        "level": 4,
+        "text": "武器一覧"
+      },
+      {
+        "level": 4,
+        "text": "新武器まとめ"
+      },
+      {
+        "level": 4,
+        "text": "ワイパー系"
+      },
+      {
+        "level": 4,
+        "text": "ストリンガー系"
+      },
+      {
+        "level": 4,
+        "text": "シューター系"
+      },
+      {
+        "level": 4,
+        "text": "ローラー系"
+      },
+      {
+        "level": 4,
+        "text": "チャージャー系"
+      },
+      {
+        "level": 4,
+        "text": "スピナー系"
+      },
+      {
+        "level": 4,
+        "text": "ブラスター系"
+      },
+      {
+        "level": 4,
+        "text": "フデ系"
+      },
+      {
+        "level": 4,
+        "text": "スロッシャー系(バケツ)"
+      },
+      {
+        "level": 4,
+        "text": "シェルター系(傘)"
+      },
+      {
+        "level": 4,
+        "text": "マニューバー系"
+      },
+      {
+        "level": 4,
+        "text": "新規スペシャルウェポン"
+      },
+      {
+        "level": 4,
+        "text": "既存スペシャルウェポン"
+      },
+      {
+        "level": 4,
+        "text": "ステージ攻略"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 4,
+        "text": "新ステージ"
+      },
+      {
+        "level": 4,
+        "text": "既存ステージ"
+      },
+      {
+        "level": 4,
+        "text": "アイテム集め"
+      },
+      {
+        "level": 3,
+        "text": "スプラトゥーン3攻略について"
+      }
+    ],
+    "sections": [
+      "サーモンランの最新アップデート情報",
+      "サーモンランとは？",
+      "ヨコヅナの倒し方とメリット",
+      "フレンドと合流する方法",
+      "バイトランク一覧と上げる方法",
+      "ウロコの集め方",
+      "攻略のコツと立ち回り方",
+      "オオモノシャケの倒し方一覧",
+      "サーモンランの報酬と受け取り方",
+      "サーモンランの基本ルール",
+      "ビックランが数ヶ月に1度開催",
+      "サーモンランの新要素一覧",
+      "サーモンラン関連記事",
+      "スプラトゥーン3の注目記事",
+      "この記事を書いた人",
+      "書き込み"
+    ],
+    "tables_count": 19,
+    "images_count": 220
+  },
+  "special_tier": {
+    "page_name": "special_tier",
+    "url": "https://altema.jp/splatoon3/saikyospecial",
+    "title": "【スプラトゥーン3】最強スペシャルランキング【スプラ3】 - アルテマ",
+    "headings": [
+      {
+        "level": 1,
+        "text": "【スプラトゥーン3】最強スペシャルランキング"
+      },
+      {
+        "level": 2,
+        "text": "最新スペシャルの評価"
+      },
+      {
+        "level": 2,
+        "text": "最強スペシャルウェポンランキング"
+      },
+      {
+        "level": 3,
+        "text": "ランキングの評価基準"
+      },
+      {
+        "level": 4,
+        "text": "スペシャルを使うことによるマッチへの影響を評価"
+      },
+      {
+        "level": 4,
+        "text": "性能を総合して評価"
+      },
+      {
+        "level": 4,
+        "text": "使える武器が強いかどうかは加味していない"
+      },
+      {
+        "level": 2,
+        "text": "最強スペシャルA+までの紹介"
+      },
+      {
+        "level": 3,
+        "text": "ナイスダマ"
+      },
+      {
+        "level": 4,
+        "text": "ナイスダマを使える武器"
+      },
+      {
+        "level": 3,
+        "text": "ウルトラショット"
+      },
+      {
+        "level": 4,
+        "text": "ウルトラショットを使える武器"
+      },
+      {
+        "level": 3,
+        "text": "グレートバリア"
+      },
+      {
+        "level": 4,
+        "text": "グレートバリアを使える武器"
+      },
+      {
+        "level": 3,
+        "text": "マルチミサイル"
+      },
+      {
+        "level": 4,
+        "text": "マルチミサイルを使える武器"
+      },
+      {
+        "level": 3,
+        "text": "カニタンク"
+      },
+      {
+        "level": 4,
+        "text": "カニタンクを使える武器"
+      },
+      {
+        "level": 3,
+        "text": "メガホンレーザー5.1ch"
+      },
+      {
+        "level": 4,
+        "text": "メガホンレーザー5.1chを使える武器"
+      },
+      {
+        "level": 3,
+        "text": "トリプルトルネード"
+      },
+      {
+        "level": 4,
+        "text": "トリプルトルネードを使える武器"
+      },
+      {
+        "level": 3,
+        "text": "ホップソナー"
+      },
+      {
+        "level": 4,
+        "text": "ホップソナーを使える武器"
+      },
+      {
+        "level": 3,
+        "text": "エナジースタンド"
+      },
+      {
+        "level": 4,
+        "text": "エナジースタンドを使える武器"
+      },
+      {
+        "level": 3,
+        "text": "ジェットパック"
+      },
+      {
+        "level": 4,
+        "text": "ジェットパックを使える武器"
+      },
+      {
+        "level": 3,
+        "text": "テイオウイカ"
+      },
+      {
+        "level": 4,
+        "text": "テイオウイカを使える武器"
+      },
+      {
+        "level": 3,
+        "text": "デコイチラシ"
+      },
+      {
+        "level": 4,
+        "text": "デコイチラシを使える武器"
+      },
+      {
+        "level": 2,
+        "text": "スペシャルウェポンとは"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3の注目記事"
+      },
+      {
+        "level": 2,
+        "text": "この記事を書いた人"
+      },
+      {
+        "level": 2,
+        "text": "書き込み"
+      },
+      {
+        "level": 4,
+        "text": "武器関連"
+      },
+      {
+        "level": 4,
+        "text": "武器一覧"
+      },
+      {
+        "level": 4,
+        "text": "新武器まとめ"
+      },
+      {
+        "level": 4,
+        "text": "ワイパー系"
+      },
+      {
+        "level": 4,
+        "text": "ストリンガー系"
+      },
+      {
+        "level": 4,
+        "text": "シューター系"
+      },
+      {
+        "level": 4,
+        "text": "ローラー系"
+      },
+      {
+        "level": 4,
+        "text": "チャージャー系"
+      },
+      {
+        "level": 4,
+        "text": "スピナー系"
+      },
+      {
+        "level": 4,
+        "text": "ブラスター系"
+      },
+      {
+        "level": 4,
+        "text": "フデ系"
+      },
+      {
+        "level": 4,
+        "text": "スロッシャー系(バケツ)"
+      },
+      {
+        "level": 4,
+        "text": "シェルター系(傘)"
+      },
+      {
+        "level": 4,
+        "text": "マニューバー系"
+      },
+      {
+        "level": 4,
+        "text": "新規スペシャルウェポン"
+      },
+      {
+        "level": 4,
+        "text": "既存スペシャルウェポン"
+      },
+      {
+        "level": 4,
+        "text": "ステージ攻略"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 4,
+        "text": "新ステージ"
+      },
+      {
+        "level": 4,
+        "text": "既存ステージ"
+      },
+      {
+        "level": 4,
+        "text": "アイテム集め"
+      },
+      {
+        "level": 3,
+        "text": "スプラトゥーン3攻略について"
+      }
+    ],
+    "sections": [
+      "最新スペシャルの評価",
+      "最強スペシャルウェポンランキング",
+      "最強スペシャルA+までの紹介",
+      "スペシャルウェポンとは",
+      "スプラトゥーン3の注目記事",
+      "この記事を書いた人",
+      "書き込み"
+    ],
+    "tables_count": 16,
+    "images_count": 268
+  },
+  "gear_tier": {
+    "page_name": "gear_tier",
+    "url": "https://altema.jp/splatoon3/saikyogear",
+    "title": "【スプラトゥーン3】最強ギアパワーランキング【スプラ3】 - アルテマ",
+    "headings": [
+      {
+        "level": 1,
+        "text": "【スプラトゥーン3】最強ギアパワーランキング"
+      },
+      {
+        "level": 2,
+        "text": "最強ギアパワーランキング早見表"
+      },
+      {
+        "level": 3,
+        "text": "評価ランクの説明"
+      },
+      {
+        "level": 3,
+        "text": "ランキングの評価基準"
+      },
+      {
+        "level": 4,
+        "text": "汎用性の高さを評価"
+      },
+      {
+        "level": 4,
+        "text": "効果を体感しやすいものを評価"
+      },
+      {
+        "level": 2,
+        "text": "S+ランクのギアパワー評価"
+      },
+      {
+        "level": 3,
+        "text": "イカ速度アップ"
+      },
+      {
+        "level": 3,
+        "text": "ステルスジャンプ"
+      },
+      {
+        "level": 3,
+        "text": "カムバック"
+      },
+      {
+        "level": 3,
+        "text": "スペシャル増加量アップ"
+      },
+      {
+        "level": 2,
+        "text": "Sランクのギア評価"
+      },
+      {
+        "level": 3,
+        "text": "スペシャル減少量ダウン"
+      },
+      {
+        "level": 3,
+        "text": "アクション強化"
+      },
+      {
+        "level": 3,
+        "text": "インク回復量アップ"
+      },
+      {
+        "level": 3,
+        "text": "インク効率アップ(メイン)"
+      },
+      {
+        "level": 3,
+        "text": "インク効率アップ(サブ)"
+      },
+      {
+        "level": 2,
+        "text": "A+ランクのギア評価"
+      },
+      {
+        "level": 3,
+        "text": "スーパージャンプ時間短縮"
+      },
+      {
+        "level": 3,
+        "text": "相手インク影響軽減"
+      },
+      {
+        "level": 3,
+        "text": "ヒト移動速度アップ"
+      },
+      {
+        "level": 3,
+        "text": "イカニンジャ"
+      },
+      {
+        "level": 2,
+        "text": "ギアパワーおすすめ構成"
+      },
+      {
+        "level": 3,
+        "text": "ナワバリ(フェス)のおすすめギアパワー構成​"
+      },
+      {
+        "level": 3,
+        "text": "ガチエリアのおすすめギアパワー構成​"
+      },
+      {
+        "level": 3,
+        "text": "ガチホコのおすすめギアパワー構成​"
+      },
+      {
+        "level": 3,
+        "text": "ガチヤグラのおすすめギアパワー構成​"
+      },
+      {
+        "level": 3,
+        "text": "ガチアサリのおすすめギアパワー構成​"
+      },
+      {
+        "level": 2,
+        "text": "ギア(ギアパワー)とは"
+      },
+      {
+        "level": 3,
+        "text": "ギア(頭/服/靴)につく効果のこと"
+      },
+      {
+        "level": 3,
+        "text": "ギアパワーはギアの経験値を稼いで獲得"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3の注目記事"
+      },
+      {
+        "level": 2,
+        "text": "この記事を書いた人"
+      },
+      {
+        "level": 2,
+        "text": "書き込み"
+      },
+      {
+        "level": 4,
+        "text": "武器関連"
+      },
+      {
+        "level": 4,
+        "text": "武器一覧"
+      },
+      {
+        "level": 4,
+        "text": "新武器まとめ"
+      },
+      {
+        "level": 4,
+        "text": "ワイパー系"
+      },
+      {
+        "level": 4,
+        "text": "ストリンガー系"
+      },
+      {
+        "level": 4,
+        "text": "シューター系"
+      },
+      {
+        "level": 4,
+        "text": "ローラー系"
+      },
+      {
+        "level": 4,
+        "text": "チャージャー系"
+      },
+      {
+        "level": 4,
+        "text": "スピナー系"
+      },
+      {
+        "level": 4,
+        "text": "ブラスター系"
+      },
+      {
+        "level": 4,
+        "text": "フデ系"
+      },
+      {
+        "level": 4,
+        "text": "スロッシャー系(バケツ)"
+      },
+      {
+        "level": 4,
+        "text": "シェルター系(傘)"
+      },
+      {
+        "level": 4,
+        "text": "マニューバー系"
+      },
+      {
+        "level": 4,
+        "text": "新規スペシャルウェポン"
+      },
+      {
+        "level": 4,
+        "text": "既存スペシャルウェポン"
+      },
+      {
+        "level": 4,
+        "text": "ステージ攻略"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 4,
+        "text": "新ステージ"
+      },
+      {
+        "level": 4,
+        "text": "既存ステージ"
+      },
+      {
+        "level": 4,
+        "text": "アイテム集め"
+      },
+      {
+        "level": 3,
+        "text": "スプラトゥーン3攻略について"
+      }
+    ],
+    "sections": [
+      "最強ギアパワーランキング早見表",
+      "S+ランクのギアパワー評価",
+      "Sランクのギア評価",
+      "A+ランクのギア評価",
+      "ギアパワーおすすめ構成",
+      "ギア(ギアパワー)とは",
+      "スプラトゥーン3の注目記事",
+      "この記事を書いた人",
+      "書き込み"
+    ],
+    "tables_count": 26,
+    "images_count": 470
+  },
+  "gear_tier_weapons": [
+    {
+      "name": "イカダッシュ速度アップ",
+      "tier": "S+",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "source": "altema"
+    },
+    {
+      "name": "ステルスジャンプ",
+      "tier": "S+",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "source": "altema"
+    },
+    {
+      "name": "カムバック",
+      "tier": "S+",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "source": "altema"
+    },
+    {
+      "name": "スペシャル増加量アップ",
+      "tier": "S+",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "source": "altema"
+    },
+    {
+      "name": "付きやすいギアブランド",
+      "tier": "S+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "調査中",
+      "tier": "S+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "おすすめ武器",
+      "tier": "S+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "シューター系",
+      "tier": "S+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "フデ系",
+      "tier": "S+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "マニューバー系",
+      "tier": "S+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "シェルター系",
+      "tier": "S+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ALL",
+      "tier": "S+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スペシャル減少量ダウン",
+      "tier": "S",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "source": "altema"
+    },
+    {
+      "name": "アクション強化",
+      "tier": "S",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "source": "altema"
+    },
+    {
+      "name": "インク回復量アップ",
+      "tier": "S",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "source": "altema"
+    },
+    {
+      "name": "インク効率アップ(メイン)",
+      "tier": "S",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "source": "altema"
+    },
+    {
+      "name": "インク効率アップ(サブ)",
+      "tier": "S",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "source": "altema"
+    },
+    {
+      "name": "ローラー系",
+      "tier": "S",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スピナー系",
+      "tier": "S",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スーパージャンプ時間短縮",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "source": "altema"
+    },
+    {
+      "name": "相手インク影響軽減",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "source": "altema"
+    },
+    {
+      "name": "ヒト移動速度アップ",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "source": "altema"
+    },
+    {
+      "name": "イカニンジャ",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "source": "altema"
+    },
+    {
+      "name": "ワイパー系",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ギアパワーおすすめ構成",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "▼ナワバリ",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "source": "altema"
+    },
+    {
+      "name": "LACT-450",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "source": "altema"
+    },
+    {
+      "name": "シャープマーカー",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "source": "altema"
+    },
+    {
+      "name": "52ガロン",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "source": "altema"
+    },
+    {
+      "name": "スクリュースロッシャー",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "source": "altema"
+    },
+    {
+      "name": "スプラシューター",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "source": "altema"
+    },
+    {
+      "name": "クラッシュブラスター",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "source": "altema"
+    },
+    {
+      "name": "リッター4K",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "source": "altema"
+    },
+    {
+      "name": "ロングブラスター",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "source": "altema"
+    },
+    {
+      "name": "ハイドラント",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "source": "altema"
+    },
+    {
+      "name": "ケルビン525",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "source": "altema"
+    },
+    {
+      "name": "パブロ",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/common/1x1.trans.gif",
+      "source": "altema"
+    },
+    {
+      "name": "おすすめ記事",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "人気ページ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "記事を書いた人",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スプラ3攻略班",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/splatoon3/uploads/2023/03/2023y03m08d_1034504177.png",
+      "source": "altema"
+    },
+    {
+      "name": "Xパワー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "サーモンラン",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "攻略班プロフ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ツイート",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スプラトゥーン3攻略TOP",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "初心者向けのおすすめ武器",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ヒーローモードの攻略",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "サーモンランの攻略",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "バンカラマッチのルールと種類",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "キャラ一覧",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ステージ一覧",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ウィジェットを追加する方法",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "新シーズン情報まとめ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "新武器一覧",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "モップリン",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "イグザミナー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ホクサイ・ヒュー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ソイチューバーカスタム",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "パラシェルターソレーラ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "オーバーフロッシャーデコ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "クーゲルシュライバー・ヒュー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スクリュースロッシャーネオ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "トライストリンガーコラボ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ダイナモローラーテスラ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "新要素まとめ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "フェスの情報まとめ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "セーブデータ引き継ぎの特典内容",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "アップデート最新情報まとめ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ビッグラン最新情報まとめ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "エキスパンションパス最新情報まとめ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "最強武器ランキング",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "武器の射程ランキング",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "最強スペシャルランキング",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "最強ギアランキング",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "最強サブウェポンランキング",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ガチエリア最強武器ランキング",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ガチホコ最強武器ランキング",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ガチヤグラ最強武器ランキング",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ガチアサリ最強武器ランキング",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ナワバリ最強武器ランキング",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "フェス最強武器ランキング",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "最初の武器はどれにすべき",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "武器(ブキ)一覧",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ワイパー一覧",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ストリンガー一覧",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "シューター一覧",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ローラー一覧",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "チャージャー一覧",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スピナー一覧",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ブラスター一覧",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "フデ一覧",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スロッシャー一覧",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "シェルター一覧",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "マニューバー一覧",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スパイガジェットソレーラ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ボトルガイザーフォイル",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "R-PEN/5B",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "フィンセントヒュー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "LACT-450デコ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "S-BLAST91",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ジムワイパーヒュー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スプラマニューバーコラボ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ホットブラスターカスタム",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ドライブワイパー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ドライブワイパーデコ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ジムワイパー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "トライストリンガー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "シャープマーカーネオ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "96ガロンデコ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "N-ZAP89",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ジェットスイーパーカスタム",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ボールドマーカーネオ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "L3リールガンD",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スペースシューター",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スペースシューターコラボ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "プロモデラーRG",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "プライムシューターコラボ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "もみじシューター",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "わかばシューター",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "プロモデラーMG",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スプラシューターコラボ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "N-ZAP85",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "プライムシューター",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "96ガロン",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "H3リールガン",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "H3リールガンD",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "L3リールガン",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ジェットスイーパー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ボールドマーカー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ボトルガイザー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ヒーローシューターレプリカ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スプラローラーコラボ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ワイドローラー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ワイドローラーコラボ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "カーボンローラーデコ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スプラローラー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ダイナモローラー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ヴァリアブルローラー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "カーボンローラー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スプラチャージャーコラボ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スプラスコープコラボ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "R-PEN/5H",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スプラチャージャー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スプラスコープ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "4Kスコープ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "14式竹筒銃・甲",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スクイックリンα",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ソイチューバー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スプラスピナーコラボ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "バレルスピナー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "バレルスピナーデコ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "クーゲルシュライバー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スプラスピナー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ノーチラス47",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "クラッシュブラスターネオ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ラピッドブラスターデコ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ノヴァブラスターネオ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ノヴァブラスター",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ホットブラスター",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "Rブラスターエリート",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "Rブラスターエリートデコ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ラピッドブラスター",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "パブロ・ヒュー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ホクサイ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "バケットスロッシャー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "バケットスロッシャーデコ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ヒッセン",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ヒッセン・ヒュー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "エクスプロッシャー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "オーバーフロッシャー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "パラシェルター",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "キャンピングシェルター",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "キャンピングシェルターソレーラ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スパイガジェット",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スパッタリー・ヒュー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スプラマニューバー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "クアッドホッパーブラック",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "クアッドホッパーホワイト",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スパッタリー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "デュアルスイーパー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "デュアルスイーパーカスタム",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スペシャルウェポン一覧",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ウルトラショット",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "メガホンレーザー5.1ch",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ホップソナー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "トリプルトルネード",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ショクワンダー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "サメライド",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "グレートバリア",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "キューインキ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "カニタンク",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "エナジースタンド",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ナイスダマ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ジェットパック",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ウルトラハンコ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "マルチミサイル",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "アメフラシ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "サブウェポン一覧",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ロボットボム",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ラインマーカー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ポイズンミスト",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "トラップ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "トーピード",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "タンサンボム",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スプリンクラー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スプラッシュボム",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スプラッシュシールド",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ジャンプビーコン",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "キューバンボム",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "カーリングボム",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ヒーローモードの攻略情報まとめ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "コジャケの使い方まとめ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ヒーロー装備のおすすめ強化",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "イリコニウムの入手場所",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ミステリーファイルの入手場所",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "調査完了のやり方と報酬",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "サイト1",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "サイト2",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "サイト3",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "サイト4",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "サイト5",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "サイト6",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "クリア後",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ヒーローモードはどこにある？",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ボス攻略まとめ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "タコワサ将軍",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ウツホ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "フウカ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "マンタロー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ラスボス",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ギア一覧",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "服(フク)一覧",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "頭(アタマ)一覧",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "靴(クツ)一覧",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ギアスロットの増やし方",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "サーマルインク",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "サブ影響軽減",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "サブ性能アップ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スタートダッシュ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スペシャル性能アップ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ラストスパート",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "リベンジ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "逆境強化",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "受け身術",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "対物攻撃力アップ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "追加ギアパワー倍化",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "復活ペナルティアップ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "復活時間短縮",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ステージ(新ステージ)一覧",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "クサヤ温泉",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ヒラメが丘団地",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ユノハナ大渓谷",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ゴンズイ地区",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ナメロウ金属",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "マテガイ放水路",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ヤガラ市場",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "キンメダイ美術館",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "マサバ海峡大橋",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "マヒマヒリゾート&スパ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "海女美術大学",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "チョウザメ造船",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ザトウマーケット",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スメーシーワールド",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ナワバトラーの場所と報酬",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "カード一覧",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "カードパックの入手方法",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "カードのかけらの入手方法",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "デッキの組み方",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "最強デッキランキング",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ロッカーの場所と解放条件",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "初心者がやるべきことまとめ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ギア厳選の効率的なやり方",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ランクの効率的な上げ方",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "カタログレベルの上げ方",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ウデマエポイントの上げ方",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "塗りポイントの稼ぎ方",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "フェスマッチの報酬",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "10倍/100倍/333倍マッチ条件と報酬",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "オマツリガイの使い道",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "チョーシボーナスの効果",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "キャラメイクの変更方法",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "メモリープレーヤーとは？",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ジャイロは使うべき？",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "試し打ちのやり方とできること一覧",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "さんぽのやり方とメリット",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ナワバトラーの仕様解説",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "サーモンランの報酬と受け取り方",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "特殊ウェーブ一覧と攻略まとめ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "サーモンランのステージ一覧と難易度",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "クマサン武器の性能一覧",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "イカロールのやり方",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "イカノボリのやり方",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スーパージャンプのやり方",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "チャージキープのやり方",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "慣性キャンセルのやり方",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "即イカロールのやり方",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "トリカラバトルのルール",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "フレンドに合流する方法",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ボイスチャットのやり方",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "オンラインは加入すべき？",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ザッカ屋の入れ替え時間",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スパイキーの場所と出来ること",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ロビーの端末でできることまとめ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "感度のおすすめ設定",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "画面酔いの対処法と治し方",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "昇格戦の仕様と必要ポイント",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "マッチングキャンセルのやり方",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "マイコーデ(マイセット)の使い方",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "オンラインのやり方とできること",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "イカリング3の使い方",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ゲソタウンの使い方",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ロブイチの報酬",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ジャッジくんの場所とできること",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "内部レート(ガチパワー)の確認方法",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ヨビ祭の投票結果",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "サーモンランスケジュール",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "通報のやり方と効果",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "着こなしのやり方と仕様",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ブキチライセンスの入手方法",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ゴールドブキチライセンスの入手方法",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "イクラの効率的な集め方",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ウロコの入手方法",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ギアパワーのかけらの集め方",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "お金稼ぎの効率的なやり方",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "クリーニングの効率的なやり方",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "フードチケットの入手方法",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "スーパーサザエの入手方法",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "オキモノ一覧",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ネームプレート一覧",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "カプセルの色と報酬一覧",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "雑談掲示板",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "質問掲示板",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "フレンド募集掲示板",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "不具合報告掲示板",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "キャラ一覧｜新アイドル・タコの軍勢も紹介",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "でんせつアルバイターの条件とメリット",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ロブイチのコンプリート報酬と受け取り方",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "最強デッキランキング｜ナワバトラー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ナイスダマの性能と使える武器",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "バグ(不具合)報告掲示板",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "サイト3-7「敷かれたレール、何色に染めるか」のヤカンの場所と攻略",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "Q&A TOP",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "新規登録・ログイン",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "マイページ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ラクト談合ってBANされる？",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "性別や肌の色の変え方を教えてほしいです！",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "バンカラマッチで武器変更できないんだけど、どうしたらいいの？",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ふたりで遊ぶことは可能？",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "マッチングしないときの中断方法ある？",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "【PR】シニガミ姫と異書館ノ怪物が発売！",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/altema/sinigamihimeosusume.jpg",
+      "source": "altema"
+    },
+    {
+      "name": "【どうぶつマフィア】プレイレビュー！",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/altema/uploads/2026/01/2026y01m14d_1204581897.jpg",
+      "source": "altema"
+    },
+    {
+      "name": "【フルールデイズ】先行プレイレビュー！",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/altema/uploads/2026/01/2026y01m19d_1259594864.jpg",
+      "source": "altema"
+    },
+    {
+      "name": "【忍たま乱太郎 ふっとびパズル！の段 あげいん！】プレイレビュー！",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/altema/uploads/2026/01/2026y01m28d_1304435204.jpg",
+      "source": "altema"
+    },
+    {
+      "name": "Gジェネエターナル",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/altema/gametitle/ggeneeternal.png",
+      "source": "altema"
+    },
+    {
+      "name": "アークナイツエンドフィールド",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/altema/gametitle/akendfield.png",
+      "source": "altema"
+    },
+    {
+      "name": "ウィンヒロ",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/altema/gametitle/winhiro.png",
+      "source": "altema"
+    },
+    {
+      "name": "ドルフィンウェーブ",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/altema/gametitle/dolphinwave.png",
+      "source": "altema"
+    },
+    {
+      "name": "忍たまパズル",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/altema/gametitle/nintamapuzzle.png",
+      "source": "altema"
+    },
+    {
+      "name": "逆水寒",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/altema/gametitle/gyakusuikan.png",
+      "source": "altema"
+    },
+    {
+      "name": "どうぶつマフィア",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/altema/gametitle/animalmafia.png",
+      "source": "altema"
+    },
+    {
+      "name": "アナデン",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/altema/gametitle/anaden.png",
+      "source": "altema"
+    },
+    {
+      "name": "キングショット",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/altema/gametitle/kingshot.png",
+      "source": "altema"
+    },
+    {
+      "name": "ドット異世界",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/altema/gametitle/isekaiparty.png",
+      "source": "altema"
+    },
+    {
+      "name": "ポケモンフレンズ",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/altema/gametitle/pokemonfriends.png",
+      "source": "altema"
+    },
+    {
+      "name": "メビウスフロントライン",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/altema/gametitle/mebiusfrontline.png",
+      "source": "altema"
+    },
+    {
+      "name": "モンハンNow",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/altema/gametitle/mhnow.png",
+      "source": "altema"
+    },
+    {
+      "name": "おなごオーナーズ",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/altema/gametitle/onagoowners.png",
+      "source": "altema"
+    },
+    {
+      "name": "ホワイトアウトサバイバル",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/altema/gametitle/whiteoutsurvival.png",
+      "source": "altema"
+    },
+    {
+      "name": "ワンコレ",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/altema/gametitle/bmwc.png",
+      "source": "altema"
+    },
+    {
+      "name": "ドラクエ7リイマジンド",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/altema/gametitle/dq7re.png",
+      "source": "altema"
+    },
+    {
+      "name": "ポケモンZA",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/altema/gametitle/legendsza.png",
+      "source": "altema"
+    },
+    {
+      "name": "ドラクエ1&2リメイク",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/altema/gametitle/dq1-2.png",
+      "source": "altema"
+    },
+    {
+      "name": "モンスターハンターワイルズ",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/altema/gametitle/mhwilds.png",
+      "source": "altema"
+    },
+    {
+      "name": "あつ森",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/altema/gametitle/atsumori.png",
+      "source": "altema"
+    },
+    {
+      "name": "サイレントヒルf",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/altema/gametitle/silenthillf.png",
+      "source": "altema"
+    },
+    {
+      "name": "ドラクエ3",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/altema/gametitle/dq3.png",
+      "source": "altema"
+    },
+    {
+      "name": "ファンタジーライフi",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/altema/gametitle/fantasylifei.png",
+      "source": "altema"
+    },
+    {
+      "name": "ブレイブリーデフォルトFF",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/altema/gametitle/bdff.png",
+      "source": "altema"
+    },
+    {
+      "name": "マリオカートワールド",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/altema/gametitle/mariocartworld.png",
+      "source": "altema"
+    },
+    {
+      "name": "デルタルーン",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/altema/gametitle/deltarune.png",
+      "source": "altema"
+    },
+    {
+      "name": "メタルギアソリッドデルタ",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/altema/gametitle/mgs3r.png",
+      "source": "altema"
+    },
+    {
+      "name": "雑談掲示板掲示板",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/splatoon3/uploads/2022/08/2022y08m24d_1542269845.jpg",
+      "source": "altema"
+    },
+    {
+      "name": "フレンド募集掲示板掲示板",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/splatoon3/uploads/2022/10/2022y10m24d_1750343568.jpg",
+      "source": "altema"
+    },
+    {
+      "name": "キャラ一覧｜新アイドル・タコの軍勢も紹介初心者",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/splatoon3/uploads/2022/08/2022y08m23d_2013515205.jpg",
+      "source": "altema"
+    },
+    {
+      "name": "最強サブウェポンランキングサブウェポン",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/splatoon3/uploads/2022/09/2022y09m10d_1914097509.jpg",
+      "source": "altema"
+    },
+    {
+      "name": "でんせつアルバイターの条件とメリットサーモンラン",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/splatoon3/uploads/2022/10/2022y10m21d_1131192692.jpg",
+      "source": "altema"
+    },
+    {
+      "name": "ロブイチのコンプリート報酬と受け取り方初心者",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/splatoon3/uploads/2022/10/2022y10m14d_1419360116.jpg",
+      "source": "altema"
+    },
+    {
+      "name": "最強デッキランキング｜ナワバトラーナワバトラー",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/splatoon3/uploads/2022/09/2022y09m27d_1612561444.jpg",
+      "source": "altema"
+    },
+    {
+      "name": "ナイスダマの性能と使える武器スペシャルウェポン",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/splatoon3/uploads/2022/08/2022y08m30d_1630415843.jpg",
+      "source": "altema"
+    },
+    {
+      "name": "バグ(不具合)報告掲示板掲示板",
+      "tier": "A+",
+      "icon_url": "https://img.altema.jp/splatoon3/uploads/2022/09/2022y09m12d_1950080153.jpg",
+      "source": "altema"
+    },
+    {
+      "name": "究極のゲーム攻略サイト『アルテマ』",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "アルテマの想い",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "取材やインタビューについて",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "事業提携や公式サイトについて",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "利用規約",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "広告掲載について",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "お問い合わせ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "サイトマップ",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "運営会社",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ライター募集",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "ゲーム攻略ライター募集",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "プライバシーポリシー",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    },
+    {
+      "name": "外部送信先一覧",
+      "tier": "A+",
+      "icon_url": "",
+      "source": "altema"
+    }
+  ],
+  "sub_tier": {
+    "page_name": "sub_tier",
+    "url": "https://altema.jp/splatoon3/saikyousub",
+    "title": "【スプラトゥーン3】最強サブウェポンランキング【スプラ3】 - アルテマ",
+    "headings": [
+      {
+        "level": 1,
+        "text": "【スプラトゥーン3】最強サブウェポンランキング"
+      },
+      {
+        "level": 2,
+        "text": "最強サブウェポンランキング早見表"
+      },
+      {
+        "level": 3,
+        "text": "ランキングの評価基準"
+      },
+      {
+        "level": 4,
+        "text": "キルに繋がるサブウェポンを高く評価"
+      },
+      {
+        "level": 4,
+        "text": "使える武器との組み合わせは考慮していない"
+      },
+      {
+        "level": 2,
+        "text": "最強サブウェポンランキングの評価"
+      },
+      {
+        "level": 3,
+        "text": "S+のサブウェポン評価"
+      },
+      {
+        "level": 3,
+        "text": "Sのサブウェポン評価​"
+      },
+      {
+        "level": 3,
+        "text": "A+のサブウェポン評価"
+      },
+      {
+        "level": 3,
+        "text": "Aのサブウェポン評価"
+      },
+      {
+        "level": 3,
+        "text": "B+のサブウェポン評価"
+      },
+      {
+        "level": 2,
+        "text": "サブウェポンとは"
+      },
+      {
+        "level": 3,
+        "text": "メインウェポンに付属するブキ"
+      },
+      {
+        "level": 3,
+        "text": "インクを消費して使用できる"
+      },
+      {
+        "level": 2,
+        "text": "スプラ3のおすすめ記事"
+      },
+      {
+        "level": 3,
+        "text": "アイテム収集"
+      },
+      {
+        "level": 3,
+        "text": "武器(ブキ)関連の情報"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3の注目記事"
+      },
+      {
+        "level": 2,
+        "text": "この記事を書いた人"
+      },
+      {
+        "level": 2,
+        "text": "書き込み"
+      },
+      {
+        "level": 4,
+        "text": "武器関連"
+      },
+      {
+        "level": 4,
+        "text": "武器一覧"
+      },
+      {
+        "level": 4,
+        "text": "新武器まとめ"
+      },
+      {
+        "level": 4,
+        "text": "ワイパー系"
+      },
+      {
+        "level": 4,
+        "text": "ストリンガー系"
+      },
+      {
+        "level": 4,
+        "text": "シューター系"
+      },
+      {
+        "level": 4,
+        "text": "ローラー系"
+      },
+      {
+        "level": 4,
+        "text": "チャージャー系"
+      },
+      {
+        "level": 4,
+        "text": "スピナー系"
+      },
+      {
+        "level": 4,
+        "text": "ブラスター系"
+      },
+      {
+        "level": 4,
+        "text": "フデ系"
+      },
+      {
+        "level": 4,
+        "text": "スロッシャー系(バケツ)"
+      },
+      {
+        "level": 4,
+        "text": "シェルター系(傘)"
+      },
+      {
+        "level": 4,
+        "text": "マニューバー系"
+      },
+      {
+        "level": 4,
+        "text": "新規スペシャルウェポン"
+      },
+      {
+        "level": 4,
+        "text": "既存スペシャルウェポン"
+      },
+      {
+        "level": 4,
+        "text": "ステージ攻略"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 4,
+        "text": "新ステージ"
+      },
+      {
+        "level": 4,
+        "text": "既存ステージ"
+      },
+      {
+        "level": 4,
+        "text": "アイテム集め"
+      },
+      {
+        "level": 3,
+        "text": "スプラトゥーン3攻略について"
+      }
+    ],
+    "sections": [
+      "最強サブウェポンランキング早見表",
+      "最強サブウェポンランキングの評価",
+      "サブウェポンとは",
+      "スプラ3のおすすめ記事",
+      "スプラトゥーン3の注目記事",
+      "この記事を書いた人",
+      "書き込み"
+    ],
+    "tables_count": 11,
+    "images_count": 138
+  },
+  "area_tier": {
+    "page_name": "area_tier",
+    "url": "https://altema.jp/splatoon3/gachiareabuki",
+    "title": "【スプラトゥーン3】ガチエリア最強武器ランキング【スプラ3】 - アルテマ",
+    "headings": [
+      {
+        "level": 1,
+        "text": "【スプラトゥーン3】ガチエリア最強武器ランキング"
+      },
+      {
+        "level": 2,
+        "text": "最強武器ランキング早見表"
+      },
+      {
+        "level": 3,
+        "text": "評価ランクの説明"
+      },
+      {
+        "level": 3,
+        "text": "ランキングの評価基準"
+      },
+      {
+        "level": 4,
+        "text": "塗りとキルのバランスで評価"
+      },
+      {
+        "level": 4,
+        "text": "スペシャルを評価"
+      },
+      {
+        "level": 2,
+        "text": "最強武器ランキング簡易解説"
+      },
+      {
+        "level": 3,
+        "text": "S+武器の評価"
+      },
+      {
+        "level": 3,
+        "text": "S武器の評価"
+      },
+      {
+        "level": 3,
+        "text": "A+武器の評価"
+      },
+      {
+        "level": 3,
+        "text": "A武器の評価"
+      },
+      {
+        "level": 2,
+        "text": "最強武器のおすすめギア"
+      },
+      {
+        "level": 3,
+        "text": "S+武器のおすすめギア"
+      },
+      {
+        "level": 4,
+        "text": ".52ガロン"
+      },
+      {
+        "level": 4,
+        "text": "スクリュースロッシャー"
+      },
+      {
+        "level": 4,
+        "text": "シャープマーカーネオ"
+      },
+      {
+        "level": 4,
+        "text": "スペースシューターコラボ"
+      },
+      {
+        "level": 4,
+        "text": "クーゲルシュライバー"
+      },
+      {
+        "level": 4,
+        "text": "キャンピングシェルターソレーラ"
+      },
+      {
+        "level": 4,
+        "text": "ジムワイパー"
+      },
+      {
+        "level": 3,
+        "text": "S武器のおすすめギア"
+      },
+      {
+        "level": 4,
+        "text": "スプラシューター"
+      },
+      {
+        "level": 4,
+        "text": "スプラシューターコラボ"
+      },
+      {
+        "level": 4,
+        "text": "N-ZAP85"
+      },
+      {
+        "level": 4,
+        "text": "オーバーフロッシャー"
+      },
+      {
+        "level": 4,
+        "text": "シャープマーカー"
+      },
+      {
+        "level": 4,
+        "text": "プライムシューターコラボ"
+      },
+      {
+        "level": 4,
+        "text": "スプラスピナーコラボ"
+      },
+      {
+        "level": 4,
+        "text": "プロモデラーRG"
+      },
+      {
+        "level": 4,
+        "text": ".96ガロンデコ"
+      },
+      {
+        "level": 4,
+        "text": "ボトルガイザー"
+      },
+      {
+        "level": 4,
+        "text": "ヴァリアブルローラー"
+      },
+      {
+        "level": 4,
+        "text": "スプラスコープコラボ"
+      },
+      {
+        "level": 4,
+        "text": "LACT-450"
+      },
+      {
+        "level": 4,
+        "text": "ドライブワイパーデコ"
+      },
+      {
+        "level": 2,
+        "text": "ガチエリアのルール"
+      },
+      {
+        "level": 2,
+        "text": "スプラ3のおすすめ記事"
+      },
+      {
+        "level": 3,
+        "text": "アイテム収集"
+      },
+      {
+        "level": 3,
+        "text": "武器(ブキ)関連の情報"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3の注目記事"
+      },
+      {
+        "level": 2,
+        "text": "この記事を書いた人"
+      },
+      {
+        "level": 2,
+        "text": "書き込み"
+      },
+      {
+        "level": 4,
+        "text": "武器関連"
+      },
+      {
+        "level": 4,
+        "text": "武器一覧"
+      },
+      {
+        "level": 4,
+        "text": "新武器まとめ"
+      },
+      {
+        "level": 4,
+        "text": "ワイパー系"
+      },
+      {
+        "level": 4,
+        "text": "ストリンガー系"
+      },
+      {
+        "level": 4,
+        "text": "シューター系"
+      },
+      {
+        "level": 4,
+        "text": "ローラー系"
+      },
+      {
+        "level": 4,
+        "text": "チャージャー系"
+      },
+      {
+        "level": 4,
+        "text": "スピナー系"
+      },
+      {
+        "level": 4,
+        "text": "ブラスター系"
+      },
+      {
+        "level": 4,
+        "text": "フデ系"
+      },
+      {
+        "level": 4,
+        "text": "スロッシャー系(バケツ)"
+      },
+      {
+        "level": 4,
+        "text": "シェルター系(傘)"
+      },
+      {
+        "level": 4,
+        "text": "マニューバー系"
+      },
+      {
+        "level": 4,
+        "text": "新規スペシャルウェポン"
+      },
+      {
+        "level": 4,
+        "text": "既存スペシャルウェポン"
+      },
+      {
+        "level": 4,
+        "text": "ステージ攻略"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 4,
+        "text": "新ステージ"
+      },
+      {
+        "level": 4,
+        "text": "既存ステージ"
+      },
+      {
+        "level": 4,
+        "text": "アイテム集め"
+      },
+      {
+        "level": 3,
+        "text": "スプラトゥーン3攻略について"
+      }
+    ],
+    "sections": [
+      "最強武器ランキング早見表",
+      "最強武器ランキング簡易解説",
+      "最強武器のおすすめギア",
+      "ガチエリアのルール",
+      "スプラ3のおすすめ記事",
+      "スプラトゥーン3の注目記事",
+      "この記事を書いた人",
+      "書き込み"
+    ],
+    "tables_count": 56,
+    "images_count": 916
+  },
+  "yagura_tier": {
+    "page_name": "yagura_tier",
+    "url": "https://altema.jp/splatoon3/gachiyagurabuki",
+    "title": "【スプラトゥーン3】ガチヤグラ最強武器ランキング【スプラ3】 - アルテマ",
+    "headings": [
+      {
+        "level": 1,
+        "text": "【スプラトゥーン3】ガチヤグラ最強武器ランキング"
+      },
+      {
+        "level": 2,
+        "text": "ガチヤグラ最強武器ランキング早見表"
+      },
+      {
+        "level": 3,
+        "text": "評価ランクの説明"
+      },
+      {
+        "level": 3,
+        "text": "ランキングの評価基準"
+      },
+      {
+        "level": 4,
+        "text": "高低差に強い武器を評価"
+      },
+      {
+        "level": 4,
+        "text": "サブやスペシャルの扱いやすさも評価に加味"
+      },
+      {
+        "level": 2,
+        "text": "ガチヤグラの最強武器解説"
+      },
+      {
+        "level": 3,
+        "text": "S+武器の評価"
+      },
+      {
+        "level": 3,
+        "text": "S武器の評価"
+      },
+      {
+        "level": 3,
+        "text": "A+武器の評価"
+      },
+      {
+        "level": 4,
+        "text": "A武器の評価"
+      },
+      {
+        "level": 2,
+        "text": "最強武器のおすすめギア"
+      },
+      {
+        "level": 3,
+        "text": "S+武器おすすめギア"
+      },
+      {
+        "level": 4,
+        "text": ".52ガロン"
+      },
+      {
+        "level": 4,
+        "text": "スクリュースロッシャー"
+      },
+      {
+        "level": 4,
+        "text": "クーゲルシュライバー"
+      },
+      {
+        "level": 4,
+        "text": "リッター4K"
+      },
+      {
+        "level": 4,
+        "text": "シャープマーカーネオ"
+      },
+      {
+        "level": 4,
+        "text": "ロングブラスター"
+      },
+      {
+        "level": 4,
+        "text": "ハイドラント"
+      },
+      {
+        "level": 4,
+        "text": "プライムシューターコラボ"
+      },
+      {
+        "level": 4,
+        "text": ".96ガロンデコ"
+      },
+      {
+        "level": 3,
+        "text": "S武器おすすめギア"
+      },
+      {
+        "level": 4,
+        "text": "スペースシューターコラボ"
+      },
+      {
+        "level": 4,
+        "text": "スプラスコープ"
+      },
+      {
+        "level": 4,
+        "text": "トライストリンガー"
+      },
+      {
+        "level": 4,
+        "text": "ホットブラスター"
+      },
+      {
+        "level": 4,
+        "text": "ヴァリアブルローラー"
+      },
+      {
+        "level": 4,
+        "text": "ボトルガイザー"
+      },
+      {
+        "level": 4,
+        "text": "N-ZAP85"
+      },
+      {
+        "level": 4,
+        "text": "スプラシューター"
+      },
+      {
+        "level": 4,
+        "text": "スプラローラー"
+      },
+      {
+        "level": 4,
+        "text": "わかばシューター"
+      },
+      {
+        "level": 4,
+        "text": "スプラシューターコラボ"
+      },
+      {
+        "level": 4,
+        "text": "スプラスピナーコラボ"
+      },
+      {
+        "level": 4,
+        "text": "スプラチャージャーコラボ"
+      },
+      {
+        "level": 4,
+        "text": "スプラスコープコラボ"
+      },
+      {
+        "level": 4,
+        "text": "4Kスコープ"
+      },
+      {
+        "level": 4,
+        "text": "14式竹筒銃・甲"
+      },
+      {
+        "level": 4,
+        "text": "バレルスピナーデコ"
+      },
+      {
+        "level": 4,
+        "text": "クアッドホッパーブラック"
+      },
+      {
+        "level": 4,
+        "text": "クアッドホッパーホワイト"
+      },
+      {
+        "level": 4,
+        "text": "S-BLAST92"
+      },
+      {
+        "level": 4,
+        "text": "Rブラスターエリートデコ"
+      },
+      {
+        "level": 4,
+        "text": "ジムワイパー"
+      },
+      {
+        "level": 4,
+        "text": "ドライブワイパー"
+      },
+      {
+        "level": 2,
+        "text": "ガチヤグラのルール"
+      },
+      {
+        "level": 2,
+        "text": "関連記事"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3の注目記事"
+      },
+      {
+        "level": 2,
+        "text": "この記事を書いた人"
+      },
+      {
+        "level": 2,
+        "text": "書き込み"
+      },
+      {
+        "level": 4,
+        "text": "武器関連"
+      },
+      {
+        "level": 4,
+        "text": "武器一覧"
+      },
+      {
+        "level": 4,
+        "text": "新武器まとめ"
+      },
+      {
+        "level": 4,
+        "text": "ワイパー系"
+      },
+      {
+        "level": 4,
+        "text": "ストリンガー系"
+      },
+      {
+        "level": 4,
+        "text": "シューター系"
+      },
+      {
+        "level": 4,
+        "text": "ローラー系"
+      },
+      {
+        "level": 4,
+        "text": "チャージャー系"
+      },
+      {
+        "level": 4,
+        "text": "スピナー系"
+      },
+      {
+        "level": 4,
+        "text": "ブラスター系"
+      },
+      {
+        "level": 4,
+        "text": "フデ系"
+      },
+      {
+        "level": 4,
+        "text": "スロッシャー系(バケツ)"
+      },
+      {
+        "level": 4,
+        "text": "シェルター系(傘)"
+      },
+      {
+        "level": 4,
+        "text": "マニューバー系"
+      },
+      {
+        "level": 4,
+        "text": "新規スペシャルウェポン"
+      },
+      {
+        "level": 4,
+        "text": "既存スペシャルウェポン"
+      },
+      {
+        "level": 4,
+        "text": "ステージ攻略"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 4,
+        "text": "新ステージ"
+      },
+      {
+        "level": 4,
+        "text": "既存ステージ"
+      },
+      {
+        "level": 4,
+        "text": "アイテム集め"
+      },
+      {
+        "level": 3,
+        "text": "スプラトゥーン3攻略について"
+      }
+    ],
+    "sections": [
+      "ガチヤグラ最強武器ランキング早見表",
+      "ガチヤグラの最強武器解説",
+      "最強武器のおすすめギア",
+      "ガチヤグラのルール",
+      "関連記事",
+      "スプラトゥーン3の注目記事",
+      "この記事を書いた人",
+      "書き込み"
+    ],
+    "tables_count": 75,
+    "images_count": 1082
+  },
+  "hoko_tier": {
+    "page_name": "hoko_tier",
+    "url": "https://altema.jp/splatoon3/gachihokobuki",
+    "title": "【スプラトゥーン3】ガチホコ最強武器ランキング【スプラ3】 - アルテマ",
+    "headings": [
+      {
+        "level": 1,
+        "text": "【スプラトゥーン3】ガチホコ最強武器ランキング"
+      },
+      {
+        "level": 2,
+        "text": "ガチホコ最強武器ランキング早見表"
+      },
+      {
+        "level": 3,
+        "text": "評価ランクの説明"
+      },
+      {
+        "level": 3,
+        "text": "ランキングの評価基準"
+      },
+      {
+        "level": 4,
+        "text": "キルのしやすさを評価"
+      },
+      {
+        "level": 4,
+        "text": "サブやスペシャルの扱いやすさも評価に加味"
+      },
+      {
+        "level": 2,
+        "text": "ガチホコの最強武器解説"
+      },
+      {
+        "level": 3,
+        "text": "S+武器の評価"
+      },
+      {
+        "level": 3,
+        "text": "S武器の評価"
+      },
+      {
+        "level": 3,
+        "text": "A+武器の評価"
+      },
+      {
+        "level": 3,
+        "text": "A武器の評価"
+      },
+      {
+        "level": 2,
+        "text": "最強武器のおすすめギア"
+      },
+      {
+        "level": 3,
+        "text": "S+武器おすすめギア"
+      },
+      {
+        "level": 4,
+        "text": ".52ガロン"
+      },
+      {
+        "level": 4,
+        "text": "スクリュースロッシャー"
+      },
+      {
+        "level": 4,
+        "text": ".96ガロンデコ"
+      },
+      {
+        "level": 4,
+        "text": "ボトルガイザー"
+      },
+      {
+        "level": 4,
+        "text": "クーゲルシュライバー"
+      },
+      {
+        "level": 3,
+        "text": "S武器のおすすめギア"
+      },
+      {
+        "level": 4,
+        "text": "スプラシューター"
+      },
+      {
+        "level": 4,
+        "text": "スプラシューターコラボ"
+      },
+      {
+        "level": 4,
+        "text": "N-ZAP85"
+      },
+      {
+        "level": 4,
+        "text": "プライムシューターコラボ"
+      },
+      {
+        "level": 4,
+        "text": "スペースシューターコラボ"
+      },
+      {
+        "level": 4,
+        "text": "キャンピングシェルターソレーラ"
+      },
+      {
+        "level": 4,
+        "text": "ジムワイパー"
+      },
+      {
+        "level": 2,
+        "text": "ガチホコのルール"
+      },
+      {
+        "level": 2,
+        "text": "関連記事"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3の注目記事"
+      },
+      {
+        "level": 2,
+        "text": "この記事を書いた人"
+      },
+      {
+        "level": 2,
+        "text": "書き込み"
+      },
+      {
+        "level": 4,
+        "text": "武器関連"
+      },
+      {
+        "level": 4,
+        "text": "武器一覧"
+      },
+      {
+        "level": 4,
+        "text": "新武器まとめ"
+      },
+      {
+        "level": 4,
+        "text": "ワイパー系"
+      },
+      {
+        "level": 4,
+        "text": "ストリンガー系"
+      },
+      {
+        "level": 4,
+        "text": "シューター系"
+      },
+      {
+        "level": 4,
+        "text": "ローラー系"
+      },
+      {
+        "level": 4,
+        "text": "チャージャー系"
+      },
+      {
+        "level": 4,
+        "text": "スピナー系"
+      },
+      {
+        "level": 4,
+        "text": "ブラスター系"
+      },
+      {
+        "level": 4,
+        "text": "フデ系"
+      },
+      {
+        "level": 4,
+        "text": "スロッシャー系(バケツ)"
+      },
+      {
+        "level": 4,
+        "text": "シェルター系(傘)"
+      },
+      {
+        "level": 4,
+        "text": "マニューバー系"
+      },
+      {
+        "level": 4,
+        "text": "新規スペシャルウェポン"
+      },
+      {
+        "level": 4,
+        "text": "既存スペシャルウェポン"
+      },
+      {
+        "level": 4,
+        "text": "ステージ攻略"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 4,
+        "text": "新ステージ"
+      },
+      {
+        "level": 4,
+        "text": "既存ステージ"
+      },
+      {
+        "level": 4,
+        "text": "アイテム集め"
+      },
+      {
+        "level": 3,
+        "text": "スプラトゥーン3攻略について"
+      }
+    ],
+    "sections": [
+      "ガチホコ最強武器ランキング早見表",
+      "ガチホコの最強武器解説",
+      "最強武器のおすすめギア",
+      "ガチホコのルール",
+      "関連記事",
+      "スプラトゥーン3の注目記事",
+      "この記事を書いた人",
+      "書き込み"
+    ],
+    "tables_count": 35,
+    "images_count": 742
+  },
+  "asari_tier": {
+    "page_name": "asari_tier",
+    "url": "https://altema.jp/splatoon3/gachiasaribuki",
+    "title": "【スプラトゥーン3】ガチアサリ最強武器ランキング【スプラ3】 - アルテマ",
+    "headings": [
+      {
+        "level": 1,
+        "text": "【スプラトゥーン3】ガチアサリ最強武器ランキング"
+      },
+      {
+        "level": 2,
+        "text": "ガチアサリ最強武器ランキング早見表"
+      },
+      {
+        "level": 3,
+        "text": "評価ランクの説明"
+      },
+      {
+        "level": 3,
+        "text": "ランキングの評価基準"
+      },
+      {
+        "level": 4,
+        "text": "キルが取りやすい武器で評価"
+      },
+      {
+        "level": 4,
+        "text": "移動速度も評価"
+      },
+      {
+        "level": 2,
+        "text": "ガチアサリの最強武器解説"
+      },
+      {
+        "level": 3,
+        "text": "S+武器の評価"
+      },
+      {
+        "level": 3,
+        "text": "S武器の評価"
+      },
+      {
+        "level": 3,
+        "text": "A+武器の評価"
+      },
+      {
+        "level": 3,
+        "text": "A武器の評価"
+      },
+      {
+        "level": 2,
+        "text": "最強武器のおすすめギア"
+      },
+      {
+        "level": 3,
+        "text": "S+武器のおすすめギア"
+      },
+      {
+        "level": 4,
+        "text": ".52ガロン"
+      },
+      {
+        "level": 4,
+        "text": "スクリュースロッシャー"
+      },
+      {
+        "level": 4,
+        "text": "ケルビン525"
+      },
+      {
+        "level": 4,
+        "text": ".96ガロンデコ"
+      },
+      {
+        "level": 4,
+        "text": "クーゲルシュライバー"
+      },
+      {
+        "level": 4,
+        "text": "キャンピングシェルターソレーラ"
+      },
+      {
+        "level": 4,
+        "text": "ジムワイパー"
+      },
+      {
+        "level": 3,
+        "text": "S武器のおすすめギア"
+      },
+      {
+        "level": 4,
+        "text": "パブロ"
+      },
+      {
+        "level": 4,
+        "text": "N-ZAP85"
+      },
+      {
+        "level": 4,
+        "text": "シャープマーカー"
+      },
+      {
+        "level": 4,
+        "text": "パブロヒュー"
+      },
+      {
+        "level": 4,
+        "text": "スペースシューターコラボ"
+      },
+      {
+        "level": 4,
+        "text": "スプラスピナーコラボ"
+      },
+      {
+        "level": 4,
+        "text": "プライムシューターコラボ"
+      },
+      {
+        "level": 4,
+        "text": "シャープマーカーネオ"
+      },
+      {
+        "level": 4,
+        "text": "ボトルガイザー"
+      },
+      {
+        "level": 4,
+        "text": "ドライブワイパー"
+      },
+      {
+        "level": 4,
+        "text": "ドライブワイパーデコ"
+      },
+      {
+        "level": 2,
+        "text": "ガチアサリのルール"
+      },
+      {
+        "level": 2,
+        "text": "関連記事"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3の注目記事"
+      },
+      {
+        "level": 2,
+        "text": "この記事を書いた人"
+      },
+      {
+        "level": 2,
+        "text": "書き込み"
+      },
+      {
+        "level": 4,
+        "text": "武器関連"
+      },
+      {
+        "level": 4,
+        "text": "武器一覧"
+      },
+      {
+        "level": 4,
+        "text": "新武器まとめ"
+      },
+      {
+        "level": 4,
+        "text": "ワイパー系"
+      },
+      {
+        "level": 4,
+        "text": "ストリンガー系"
+      },
+      {
+        "level": 4,
+        "text": "シューター系"
+      },
+      {
+        "level": 4,
+        "text": "ローラー系"
+      },
+      {
+        "level": 4,
+        "text": "チャージャー系"
+      },
+      {
+        "level": 4,
+        "text": "スピナー系"
+      },
+      {
+        "level": 4,
+        "text": "ブラスター系"
+      },
+      {
+        "level": 4,
+        "text": "フデ系"
+      },
+      {
+        "level": 4,
+        "text": "スロッシャー系(バケツ)"
+      },
+      {
+        "level": 4,
+        "text": "シェルター系(傘)"
+      },
+      {
+        "level": 4,
+        "text": "マニューバー系"
+      },
+      {
+        "level": 4,
+        "text": "新規スペシャルウェポン"
+      },
+      {
+        "level": 4,
+        "text": "既存スペシャルウェポン"
+      },
+      {
+        "level": 4,
+        "text": "ステージ攻略"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 4,
+        "text": "新ステージ"
+      },
+      {
+        "level": 4,
+        "text": "既存ステージ"
+      },
+      {
+        "level": 4,
+        "text": "アイテム集め"
+      },
+      {
+        "level": 3,
+        "text": "スプラトゥーン3攻略について"
+      }
+    ],
+    "sections": [
+      "ガチアサリ最強武器ランキング早見表",
+      "ガチアサリの最強武器解説",
+      "最強武器のおすすめギア",
+      "ガチアサリのルール",
+      "関連記事",
+      "スプラトゥーン3の注目記事",
+      "この記事を書いた人",
+      "書き込み"
+    ],
+    "tables_count": 47,
+    "images_count": 824
+  },
+  "nawabari_tier": {
+    "page_name": "nawabari_tier",
+    "url": "https://altema.jp/splatoon3/nawabaribuki",
+    "title": "【スプラトゥーン3】ナワバリ最強武器ランキング【スプラ3】 - アルテマ",
+    "headings": [
+      {
+        "level": 1,
+        "text": "【スプラトゥーン3】ナワバリ最強武器ランキング"
+      },
+      {
+        "level": 2,
+        "text": "ナワバリ最強武器ランキング早見表"
+      },
+      {
+        "level": 3,
+        "text": "評価ランクの説明"
+      },
+      {
+        "level": 3,
+        "text": "ランキングの評価基準"
+      },
+      {
+        "level": 4,
+        "text": "塗りとキルのバランスで評価"
+      },
+      {
+        "level": 4,
+        "text": "スペシャルを評価"
+      },
+      {
+        "level": 2,
+        "text": "ナワバリの最強武器解説"
+      },
+      {
+        "level": 3,
+        "text": "S+武器の評価"
+      },
+      {
+        "level": 3,
+        "text": "S武器の評価"
+      },
+      {
+        "level": 3,
+        "text": "A+武器の評価"
+      },
+      {
+        "level": 3,
+        "text": "A武器の評価"
+      },
+      {
+        "level": 2,
+        "text": "最強武器のおすすめギア"
+      },
+      {
+        "level": 3,
+        "text": "S+武器のおすすめギア"
+      },
+      {
+        "level": 4,
+        "text": "シャープマーカー"
+      },
+      {
+        "level": 4,
+        "text": "シャープマーカーネオ"
+      },
+      {
+        "level": 4,
+        "text": "スペースシューターコラボ"
+      },
+      {
+        "level": 4,
+        "text": "LACT-450"
+      },
+      {
+        "level": 3,
+        "text": "S武器のおすすめギア"
+      },
+      {
+        "level": 4,
+        "text": ".52ガロン"
+      },
+      {
+        "level": 4,
+        "text": "スプラシューター"
+      },
+      {
+        "level": 4,
+        "text": "N-ZAP85"
+      },
+      {
+        "level": 4,
+        "text": "プロモデラーMG"
+      },
+      {
+        "level": 4,
+        "text": "スクリュースロッシャー"
+      },
+      {
+        "level": 4,
+        "text": "ジムワイパー"
+      },
+      {
+        "level": 4,
+        "text": "オーバーフロッシャー"
+      },
+      {
+        "level": 4,
+        "text": "プロモデラーRG"
+      },
+      {
+        "level": 4,
+        "text": "わかばシューター"
+      },
+      {
+        "level": 4,
+        "text": "もみじシューター"
+      },
+      {
+        "level": 4,
+        "text": "スプラシューターコラボ"
+      },
+      {
+        "level": 4,
+        "text": "スプラスピナーコラボ"
+      },
+      {
+        "level": 4,
+        "text": "N-ZAP89"
+      },
+      {
+        "level": 4,
+        "text": "ボトルガイザー"
+      },
+      {
+        "level": 4,
+        "text": "クーゲルシュライバー"
+      },
+      {
+        "level": 4,
+        "text": "ワイドローラーコラボ"
+      },
+      {
+        "level": 4,
+        "text": "キャンピングシェルターソレーラ"
+      },
+      {
+        "level": 2,
+        "text": "ナワバリバトルのルール"
+      },
+      {
+        "level": 2,
+        "text": "関連記事"
+      },
+      {
+        "level": 2,
+        "text": "スプラトゥーン3の注目記事"
+      },
+      {
+        "level": 2,
+        "text": "この記事を書いた人"
+      },
+      {
+        "level": 2,
+        "text": "書き込み"
+      },
+      {
+        "level": 4,
+        "text": "武器関連"
+      },
+      {
+        "level": 4,
+        "text": "武器一覧"
+      },
+      {
+        "level": 4,
+        "text": "新武器まとめ"
+      },
+      {
+        "level": 4,
+        "text": "ワイパー系"
+      },
+      {
+        "level": 4,
+        "text": "ストリンガー系"
+      },
+      {
+        "level": 4,
+        "text": "シューター系"
+      },
+      {
+        "level": 4,
+        "text": "ローラー系"
+      },
+      {
+        "level": 4,
+        "text": "チャージャー系"
+      },
+      {
+        "level": 4,
+        "text": "スピナー系"
+      },
+      {
+        "level": 4,
+        "text": "ブラスター系"
+      },
+      {
+        "level": 4,
+        "text": "フデ系"
+      },
+      {
+        "level": 4,
+        "text": "スロッシャー系(バケツ)"
+      },
+      {
+        "level": 4,
+        "text": "シェルター系(傘)"
+      },
+      {
+        "level": 4,
+        "text": "マニューバー系"
+      },
+      {
+        "level": 4,
+        "text": "新規スペシャルウェポン"
+      },
+      {
+        "level": 4,
+        "text": "既存スペシャルウェポン"
+      },
+      {
+        "level": 4,
+        "text": "ステージ攻略"
+      },
+      {
+        "level": 4,
+        "text": "ボス攻略"
+      },
+      {
+        "level": 4,
+        "text": "新ステージ"
+      },
+      {
+        "level": 4,
+        "text": "既存ステージ"
+      },
+      {
+        "level": 4,
+        "text": "アイテム集め"
+      },
+      {
+        "level": 3,
+        "text": "スプラトゥーン3攻略について"
+      }
+    ],
+    "sections": [
+      "ナワバリ最強武器ランキング早見表",
+      "ナワバリの最強武器解説",
+      "最強武器のおすすめギア",
+      "ナワバリバトルのルール",
+      "関連記事",
+      "スプラトゥーン3の注目記事",
+      "この記事を書いた人",
+      "書き込み"
+    ],
+    "tables_count": 52,
+    "images_count": 834
+  }
+}

@@ -1,0 +1,3260 @@
+{
+  "overall": {
+    "type": "overall",
+    "tiers": {
+      "X": [
+        {
+          "name": "ジムワイパー",
+          "url": "https://game8.jp/splatoon3/480124"
+        },
+        {
+          "name": "スプラマニューバー",
+          "url": "https://game8.jp/splatoon3/478563"
+        },
+        {
+          "name": "バケットスロッシャー",
+          "url": "https://game8.jp/splatoon3/478571"
+        },
+        {
+          "name": "シャープマーカー",
+          "url": "https://game8.jp/splatoon3/480105"
+        },
+        {
+          "name": "ボトルガイザー",
+          "url": "https://game8.jp/splatoon3/480115"
+        }
+      ],
+      "S+": [
+        {
+          "name": "N-ZAP85",
+          "url": "https://game8.jp/splatoon3/478558"
+        },
+        {
+          "name": "プライムシューター",
+          "url": "https://game8.jp/splatoon3/478556"
+        },
+        {
+          "name": "52ガロン",
+          "url": "https://game8.jp/splatoon3/478555"
+        },
+        {
+          "name": "スプラシューター",
+          "url": "https://game8.jp/splatoon3/478552"
+        },
+        {
+          "name": "クーゲルシュライバー",
+          "url": "https://game8.jp/splatoon3/480114"
+        },
+        {
+          "name": "ノーチラス47",
+          "url": "https://game8.jp/splatoon3/480108"
+        },
+        {
+          "name": "R-PEN/5H",
+          "url": "https://game8.jp/splatoon3/497089"
+        },
+        {
+          "name": "ヒッセンヒュー",
+          "url": "https://game8.jp/splatoon3/512885"
+        },
+        {
+          "name": "Rブラスターエリートデコ",
+          "url": "https://game8.jp/splatoon3/529153"
+        },
+        {
+          "name": "イグザミナー",
+          "url": "https://game8.jp/splatoon3/546628"
+        },
+        {
+          "name": "ボトルガイザーフォイル",
+          "url": "https://game8.jp/splatoon3/576999"
+        },
+        {
+          "name": "S-BLAST91",
+          "url": "https://game8.jp/splatoon3/577059"
+        },
+        {
+          "name": "ジムワイパーヒュー",
+          "url": "https://game8.jp/splatoon3/577014"
+        },
+        {
+          "name": "デンタルワイパーミント",
+          "url": "https://game8.jp/splatoon3/609971"
+        },
+        {
+          "name": "イグザミナーヒュー",
+          "url": "https://game8.jp/splatoon3/609973"
+        }
+      ],
+      "S": [
+        {
+          "name": "ドライブワイパー",
+          "url": "https://game8.jp/splatoon3/478566"
+        },
+        {
+          "name": "スプラローラー",
+          "url": "https://game8.jp/splatoon3/478576"
+        },
+        {
+          "name": "ロングブラスター",
+          "url": "https://game8.jp/splatoon3/480107"
+        },
+        {
+          "name": "4Kスコープ",
+          "url": "https://game8.jp/splatoon3/478560"
+        },
+        {
+          "name": "リッター4K",
+          "url": "https://game8.jp/splatoon3/478559"
+        },
+        {
+          "name": "ヒッセン",
+          "url": "https://game8.jp/splatoon3/478570"
+        },
+        {
+          "name": "わかばシューター",
+          "url": "https://game8.jp/splatoon3/478553"
+        },
+        {
+          "name": "スプラシューターコラボ",
+          "url": "https://game8.jp/splatoon3/497691"
+        },
+        {
+          "name": "プライムシューターコラボ",
+          "url": "https://game8.jp/splatoon3/498918"
+        },
+        {
+          "name": "ラピッドブラスターデコ",
+          "url": "https://game8.jp/splatoon3/512895"
+        },
+        {
+          "name": "シャープマーカーネオ",
+          "url": "https://game8.jp/splatoon3/512888"
+        },
+        {
+          "name": "キャンピングシェルターソレーラ",
+          "url": "https://game8.jp/splatoon3/529279"
+        },
+        {
+          "name": "モップリン",
+          "url": "https://game8.jp/splatoon3/546627"
+        },
+        {
+          "name": "クーゲルシュライバーヒュー",
+          "url": "https://game8.jp/splatoon3/546842"
+        },
+        {
+          "name": "スクリュースロッシャーネオ",
+          "url": "https://game8.jp/splatoon3/546843"
+        },
+        {
+          "name": "52ガロンデコ",
+          "url": "https://game8.jp/splatoon3/594482"
+        },
+        {
+          "name": "ノーチラス79",
+          "url": "https://game8.jp/splatoon3/595105"
+        },
+        {
+          "name": "リッター4Kカスタム",
+          "url": "https://game8.jp/splatoon3/594566"
+        },
+        {
+          "name": "4Kスコープカスタム",
+          "url": "https://game8.jp/splatoon3/594576"
+        },
+        {
+          "name": "エクスプロッシャーカスタム",
+          "url": "https://game8.jp/splatoon3/594492"
+        },
+        {
+          "name": "デンタルワイパースミ",
+          "url": "https://game8.jp/splatoon3/610324"
+        },
+        {
+          "name": "ロングブラスターカスタム",
+          "url": "https://game8.jp/splatoon3/609978"
+        }
+      ],
+      "A+": [
+        {
+          "name": "ヴァリアブルローラー",
+          "url": "https://game8.jp/splatoon3/480123"
+        },
+        {
+          "name": "ダイナモローラー",
+          "url": "https://game8.jp/splatoon3/478565"
+        },
+        {
+          "name": "デュアルスイーパー",
+          "url": "https://game8.jp/splatoon3/480122"
+        },
+        {
+          "name": "クアッドホッパーブラック",
+          "url": "https://game8.jp/splatoon3/478564"
+        },
+        {
+          "name": "スパッタリー",
+          "url": "https://game8.jp/splatoon3/480120"
+        },
+        {
+          "name": "ホットブラスター",
+          "url": "https://game8.jp/splatoon3/478575"
+        },
+        {
+          "name": "スクリュースロッシャー",
+          "url": "https://game8.jp/splatoon3/480103"
+        },
+        {
+          "name": "スプラスピナー",
+          "url": "https://game8.jp/splatoon3/480101"
+        },
+        {
+          "name": "LACT-450",
+          "url": "https://game8.jp/splatoon3/480097"
+        },
+        {
+          "name": "スプラスピナーコラボ",
+          "url": "https://game8.jp/splatoon3/497797"
+        },
+        {
+          "name": "スパッタリーヒュー",
+          "url": "https://game8.jp/splatoon3/499219"
+        },
+        {
+          "name": "バケットスロッシャーデコ",
+          "url": "https://game8.jp/splatoon3/499248"
+        },
+        {
+          "name": "パブロヒュー",
+          "url": "https://game8.jp/splatoon3/499359"
+        },
+        {
+          "name": "カーボンローラーデコ",
+          "url": "https://game8.jp/splatoon3/500259"
+        },
+        {
+          "name": "スプラスコープコラボ",
+          "url": "https://game8.jp/splatoon3/512894"
+        },
+        {
+          "name": "スプラチャージャーコラボ",
+          "url": "https://game8.jp/splatoon3/512892"
+        },
+        {
+          "name": "96ガロンデコ",
+          "url": "https://game8.jp/splatoon3/512873"
+        },
+        {
+          "name": "ドライブワイパーデコ",
+          "url": "https://game8.jp/splatoon3/529498"
+        },
+        {
+          "name": "デュアルスイーパーカスタム",
+          "url": "https://game8.jp/splatoon3/529813"
+        },
+        {
+          "name": "パラシェルターソレーラ",
+          "url": "https://game8.jp/splatoon3/546822"
+        },
+        {
+          "name": "トライストリンガーコラボ",
+          "url": "https://game8.jp/splatoon3/546817"
+        },
+        {
+          "name": "LACT-450デコ",
+          "url": "https://game8.jp/splatoon3/577049"
+        },
+        {
+          "name": "スプラマニューバーコラボ",
+          "url": "https://game8.jp/splatoon3/576984"
+        },
+        {
+          "name": "ケルビン525デコ",
+          "url": "https://game8.jp/splatoon3/595106"
+        },
+        {
+          "name": "フルイドⅤ",
+          "url": "https://game8.jp/splatoon3/609924"
+        },
+        {
+          "name": "14式竹筒銃・乙",
+          "url": "https://game8.jp/splatoon3/610072"
+        }
+      ],
+      "A": [
+        {
+          "name": "ケルビン525",
+          "url": "https://game8.jp/splatoon3/480121"
+        },
+        {
+          "name": "ホクサイ",
+          "url": "https://game8.jp/splatoon3/478562"
+        },
+        {
+          "name": "スプラスコープ",
+          "url": "https://game8.jp/splatoon3/478573"
+        },
+        {
+          "name": "スクイックリンα",
+          "url": "https://game8.jp/splatoon3/480106"
+        },
+        {
+          "name": "スプラチャージャー",
+          "url": "https://game8.jp/splatoon3/478572"
+        },
+        {
+          "name": "バレルスピナー",
+          "url": "https://game8.jp/splatoon3/478569"
+        },
+        {
+          "name": "トライストリンガー",
+          "url": "https://game8.jp/splatoon3/478567"
+        },
+        {
+          "name": "キャンピングシェルター",
+          "url": "https://game8.jp/splatoon3/478550"
+        },
+        {
+          "name": "パラシェルター",
+          "url": "https://game8.jp/splatoon3/478549"
+        },
+        {
+          "name": "ラピッドブラスター",
+          "url": "https://game8.jp/splatoon3/480100"
+        },
+        {
+          "name": "L3リールガン",
+          "url": "https://game8.jp/splatoon3/480109"
+        },
+        {
+          "name": "ノヴァブラスターネオ",
+          "url": "https://game8.jp/splatoon3/499130"
+        },
+        {
+          "name": "ジェットスイーパーカスタム",
+          "url": "https://game8.jp/splatoon3/512896"
+        },
+        {
+          "name": "L3リールガンD",
+          "url": "https://game8.jp/splatoon3/512886"
+        },
+        {
+          "name": "スペースシューターコラボ",
+          "url": "https://game8.jp/splatoon3/529499"
+        },
+        {
+          "name": "バレルスピナーデコ",
+          "url": "https://game8.jp/splatoon3/529815"
+        },
+        {
+          "name": "クアッドホッパーホワイト",
+          "url": "https://game8.jp/splatoon3/529277"
+        },
+        {
+          "name": "オーバーフロッシャーデコ",
+          "url": "https://game8.jp/splatoon3/546840"
+        },
+        {
+          "name": "ダイナモローラーテスラ",
+          "url": "https://game8.jp/splatoon3/546820"
+        },
+        {
+          "name": "R-PEN/5B",
+          "url": "https://game8.jp/splatoon3/577259"
+        },
+        {
+          "name": "スパイガジェットソレーラ",
+          "url": "https://game8.jp/splatoon3/577064"
+        },
+        {
+          "name": "フィンセントヒュー",
+          "url": "https://game8.jp/splatoon3/577051"
+        },
+        {
+          "name": "ホットブラスターカスタム",
+          "url": "https://game8.jp/splatoon3/577060"
+        },
+        {
+          "name": "ヴァリアブルローラーフォイル",
+          "url": "https://game8.jp/splatoon3/594559"
+        },
+        {
+          "name": "フルイドⅤカスタム",
+          "url": "https://game8.jp/splatoon3/609970"
+        },
+        {
+          "name": "ガエンFFカスタム",
+          "url": "https://game8.jp/splatoon3/609974"
+        }
+      ],
+      "B+": [
+        {
+          "name": "エクスプロッシャー",
+          "url": "https://game8.jp/splatoon3/480119"
+        },
+        {
+          "name": "ハイドラント",
+          "url": "https://game8.jp/splatoon3/478568"
+        },
+        {
+          "name": "スパイガジェット",
+          "url": "https://game8.jp/splatoon3/480116"
+        },
+        {
+          "name": "H3リールガン",
+          "url": "https://game8.jp/splatoon3/480113"
+        },
+        {
+          "name": "14式竹筒銃・甲",
+          "url": "https://game8.jp/splatoon3/480112"
+        },
+        {
+          "name": "オーバーフロッシャー",
+          "url": "https://game8.jp/splatoon3/480098"
+        },
+        {
+          "name": "もみじシューター",
+          "url": "https://game8.jp/splatoon3/500143"
+        },
+        {
+          "name": "N-ZAP89",
+          "url": "https://game8.jp/splatoon3/512887"
+        },
+        {
+          "name": "スプラローラーコラボ",
+          "url": "https://game8.jp/splatoon3/512871"
+        },
+        {
+          "name": "フィンセント",
+          "url": "https://game8.jp/splatoon3/528606"
+        },
+        {
+          "name": "S-BLAST92",
+          "url": "https://game8.jp/splatoon3/528247"
+        },
+        {
+          "name": "24式張替傘・甲",
+          "url": "https://game8.jp/splatoon3/594463"
+        },
+        {
+          "name": "モップリンD",
+          "url": "https://game8.jp/splatoon3/594556"
+        },
+        {
+          "name": "24式張替傘・乙",
+          "url": "https://game8.jp/splatoon3/609975"
+        },
+        {
+          "name": "ハイドラントカスタム",
+          "url": "https://game8.jp/splatoon3/610071"
+        }
+      ],
+      "B": [
+        {
+          "name": "ノヴァブラスター",
+          "url": "https://game8.jp/splatoon3/478574"
+        },
+        {
+          "name": "パブロ",
+          "url": "https://game8.jp/splatoon3/478561"
+        },
+        {
+          "name": "ボールドマーカー",
+          "url": "https://game8.jp/splatoon3/480118"
+        },
+        {
+          "name": "96ガロン",
+          "url": "https://game8.jp/splatoon3/480117"
+        },
+        {
+          "name": "Rブラスターエリート",
+          "url": "https://game8.jp/splatoon3/480102"
+        },
+        {
+          "name": "ソイチューバー",
+          "url": "https://game8.jp/splatoon3/480110"
+        },
+        {
+          "name": "クラッシュブラスターネオ",
+          "url": "https://game8.jp/splatoon3/512891"
+        },
+        {
+          "name": "ワイドローラーコラボ",
+          "url": "https://game8.jp/splatoon3/529816"
+        },
+        {
+          "name": "H3リールガンD",
+          "url": "https://game8.jp/splatoon3/529151"
+        },
+        {
+          "name": "ホクサイヒュー",
+          "url": "https://game8.jp/splatoon3/546705"
+        },
+        {
+          "name": "ガエンFF",
+          "url": "https://game8.jp/splatoon3/594466"
+        },
+        {
+          "name": "スクイックリンβ",
+          "url": "https://game8.jp/splatoon3/594553"
+        }
+      ],
+      "C+": [
+        {
+          "name": "プロモデラーRG",
+          "url": "https://game8.jp/splatoon3/499242"
+        },
+        {
+          "name": "ジェットスイーパー",
+          "url": "https://game8.jp/splatoon3/480104"
+        },
+        {
+          "name": "プロモデラーMG",
+          "url": "https://game8.jp/splatoon3/478557"
+        },
+        {
+          "name": "クラッシュブラスター",
+          "url": "https://game8.jp/splatoon3/480099"
+        },
+        {
+          "name": "スペースシューター",
+          "url": "https://game8.jp/splatoon3/494975"
+        }
+      ],
+      "C": [
+        {
+          "name": "カーボンローラー",
+          "url": "https://game8.jp/splatoon3/480111"
+        },
+        {
+          "name": "ワイドローラー",
+          "url": "https://game8.jp/splatoon3/497116"
+        },
+        {
+          "name": "ボールドマーカーネオ",
+          "url": "https://game8.jp/splatoon3/512890"
+        },
+        {
+          "name": "ソイチューバーカスタム",
+          "url": "https://game8.jp/splatoon3/546706"
+        }
+      ]
+    }
+  },
+  "nawabari": {
+    "type": "nawabari",
+    "tiers": {
+      "X": [
+        {
+          "name": "バケットスロッシャー",
+          "url": "https://game8.jp/splatoon3/478571"
+        },
+        {
+          "name": "N-ZAP85",
+          "url": "https://game8.jp/splatoon3/478558"
+        },
+        {
+          "name": "シャープマーカー",
+          "url": "https://game8.jp/splatoon3/480105"
+        },
+        {
+          "name": "LACT-450",
+          "url": "https://game8.jp/splatoon3/480097"
+        }
+      ],
+      "S+": [
+        {
+          "name": "ジムワイパー",
+          "url": "https://game8.jp/splatoon3/480124"
+        },
+        {
+          "name": "ダイナモローラー",
+          "url": "https://game8.jp/splatoon3/478565"
+        },
+        {
+          "name": "スプラマニューバー",
+          "url": "https://game8.jp/splatoon3/478563"
+        },
+        {
+          "name": "52ガロン",
+          "url": "https://game8.jp/splatoon3/478555"
+        },
+        {
+          "name": "スプラシューター",
+          "url": "https://game8.jp/splatoon3/478552"
+        },
+        {
+          "name": "ボトルガイザー",
+          "url": "https://game8.jp/splatoon3/480115"
+        },
+        {
+          "name": "クーゲルシュライバー",
+          "url": "https://game8.jp/splatoon3/480114"
+        },
+        {
+          "name": "スプラスピナー",
+          "url": "https://game8.jp/splatoon3/480101"
+        },
+        {
+          "name": "ノーチラス47",
+          "url": "https://game8.jp/splatoon3/480108"
+        },
+        {
+          "name": "パブロヒュー",
+          "url": "https://game8.jp/splatoon3/499359"
+        },
+        {
+          "name": "シャープマーカーネオ",
+          "url": "https://game8.jp/splatoon3/512888"
+        },
+        {
+          "name": "ヒッセンヒュー",
+          "url": "https://game8.jp/splatoon3/512885"
+        },
+        {
+          "name": "デュアルスイーパーカスタム",
+          "url": "https://game8.jp/splatoon3/529813"
+        },
+        {
+          "name": "S-BLAST91",
+          "url": "https://game8.jp/splatoon3/577059"
+        },
+        {
+          "name": "ジムワイパーヒュー",
+          "url": "https://game8.jp/splatoon3/577014"
+        },
+        {
+          "name": "デンタルワイパーミント",
+          "url": "https://game8.jp/splatoon3/609971"
+        }
+      ],
+      "S": [
+        {
+          "name": "ドライブワイパー",
+          "url": "https://game8.jp/splatoon3/478566"
+        },
+        {
+          "name": "ヴァリアブルローラー",
+          "url": "https://game8.jp/splatoon3/480123"
+        },
+        {
+          "name": "スプラローラー",
+          "url": "https://game8.jp/splatoon3/478576"
+        },
+        {
+          "name": "ヒッセン",
+          "url": "https://game8.jp/splatoon3/478570"
+        },
+        {
+          "name": "プロモデラーRG",
+          "url": "https://game8.jp/splatoon3/499242"
+        },
+        {
+          "name": "ボールドマーカー",
+          "url": "https://game8.jp/splatoon3/480118"
+        },
+        {
+          "name": "わかばシューター",
+          "url": "https://game8.jp/splatoon3/478553"
+        },
+        {
+          "name": "L3リールガン",
+          "url": "https://game8.jp/splatoon3/480109"
+        },
+        {
+          "name": "R-PEN/5H",
+          "url": "https://game8.jp/splatoon3/497089"
+        },
+        {
+          "name": "スプラシューターコラボ",
+          "url": "https://game8.jp/splatoon3/497691"
+        },
+        {
+          "name": "スパッタリーヒュー",
+          "url": "https://game8.jp/splatoon3/499219"
+        },
+        {
+          "name": "キャンピングシェルターソレーラ",
+          "url": "https://game8.jp/splatoon3/529279"
+        },
+        {
+          "name": "モップリン",
+          "url": "https://game8.jp/splatoon3/546627"
+        },
+        {
+          "name": "イグザミナー",
+          "url": "https://game8.jp/splatoon3/546628"
+        },
+        {
+          "name": "クーゲルシュライバーヒュー",
+          "url": "https://game8.jp/splatoon3/546842"
+        },
+        {
+          "name": "トライストリンガーコラボ",
+          "url": "https://game8.jp/splatoon3/546817"
+        },
+        {
+          "name": "ボトルガイザーフォイル",
+          "url": "https://game8.jp/splatoon3/576999"
+        },
+        {
+          "name": "LACT-450デコ",
+          "url": "https://game8.jp/splatoon3/577049"
+        },
+        {
+          "name": "52ガロンデコ",
+          "url": "https://game8.jp/splatoon3/594482"
+        },
+        {
+          "name": "ノーチラス79",
+          "url": "https://game8.jp/splatoon3/595105"
+        },
+        {
+          "name": "デンタルワイパースミ",
+          "url": "https://game8.jp/splatoon3/610324"
+        },
+        {
+          "name": "イグザミナーヒュー",
+          "url": "https://game8.jp/splatoon3/609973"
+        }
+      ],
+      "A+": [
+        {
+          "name": "デュアルスイーパー",
+          "url": "https://game8.jp/splatoon3/480122"
+        },
+        {
+          "name": "スパッタリー",
+          "url": "https://game8.jp/splatoon3/480120"
+        },
+        {
+          "name": "ロングブラスター",
+          "url": "https://game8.jp/splatoon3/480107"
+        },
+        {
+          "name": "パブロ",
+          "url": "https://game8.jp/splatoon3/478561"
+        },
+        {
+          "name": "4Kスコープ",
+          "url": "https://game8.jp/splatoon3/478560"
+        },
+        {
+          "name": "リッター4K",
+          "url": "https://game8.jp/splatoon3/478559"
+        },
+        {
+          "name": "プライムシューター",
+          "url": "https://game8.jp/splatoon3/478556"
+        },
+        {
+          "name": "スクリュースロッシャー",
+          "url": "https://game8.jp/splatoon3/480103"
+        },
+        {
+          "name": "スプラスピナーコラボ",
+          "url": "https://game8.jp/splatoon3/497797"
+        },
+        {
+          "name": "プライムシューターコラボ",
+          "url": "https://game8.jp/splatoon3/498918"
+        },
+        {
+          "name": "バケットスロッシャーデコ",
+          "url": "https://game8.jp/splatoon3/499248"
+        },
+        {
+          "name": "ラピッドブラスターデコ",
+          "url": "https://game8.jp/splatoon3/512895"
+        },
+        {
+          "name": "N-ZAP89",
+          "url": "https://game8.jp/splatoon3/512887"
+        },
+        {
+          "name": "Rブラスターエリートデコ",
+          "url": "https://game8.jp/splatoon3/529153"
+        },
+        {
+          "name": "パラシェルターソレーラ",
+          "url": "https://game8.jp/splatoon3/546822"
+        },
+        {
+          "name": "スクリュースロッシャーネオ",
+          "url": "https://game8.jp/splatoon3/546843"
+        },
+        {
+          "name": "スプラマニューバーコラボ",
+          "url": "https://game8.jp/splatoon3/576984"
+        },
+        {
+          "name": "ケルビン525デコ",
+          "url": "https://game8.jp/splatoon3/595106"
+        },
+        {
+          "name": "リッター4Kカスタム",
+          "url": "https://game8.jp/splatoon3/594566"
+        },
+        {
+          "name": "4Kスコープカスタム",
+          "url": "https://game8.jp/splatoon3/594576"
+        },
+        {
+          "name": "フルイドⅤ",
+          "url": "https://game8.jp/splatoon3/609924"
+        },
+        {
+          "name": "14式竹筒銃・乙",
+          "url": "https://game8.jp/splatoon3/610072"
+        },
+        {
+          "name": "ロングブラスターカスタム",
+          "url": "https://game8.jp/splatoon3/609978"
+        }
+      ],
+      "A": [
+        {
+          "name": "クアッドホッパーブラック",
+          "url": "https://game8.jp/splatoon3/478564"
+        },
+        {
+          "name": "ホットブラスター",
+          "url": "https://game8.jp/splatoon3/478575"
+        },
+        {
+          "name": "ホクサイ",
+          "url": "https://game8.jp/splatoon3/478562"
+        },
+        {
+          "name": "スクイックリンα",
+          "url": "https://game8.jp/splatoon3/480106"
+        },
+        {
+          "name": "エクスプロッシャー",
+          "url": "https://game8.jp/splatoon3/480119"
+        },
+        {
+          "name": "バレルスピナー",
+          "url": "https://game8.jp/splatoon3/478569"
+        },
+        {
+          "name": "キャンピングシェルター",
+          "url": "https://game8.jp/splatoon3/478550"
+        },
+        {
+          "name": "パラシェルター",
+          "url": "https://game8.jp/splatoon3/478549"
+        },
+        {
+          "name": "カーボンローラーデコ",
+          "url": "https://game8.jp/splatoon3/500259"
+        },
+        {
+          "name": "ジェットスイーパーカスタム",
+          "url": "https://game8.jp/splatoon3/512896"
+        },
+        {
+          "name": "スプラスコープコラボ",
+          "url": "https://game8.jp/splatoon3/512894"
+        },
+        {
+          "name": "スプラチャージャーコラボ",
+          "url": "https://game8.jp/splatoon3/512892"
+        },
+        {
+          "name": "L3リールガンD",
+          "url": "https://game8.jp/splatoon3/512886"
+        },
+        {
+          "name": "96ガロンデコ",
+          "url": "https://game8.jp/splatoon3/512873"
+        },
+        {
+          "name": "ドライブワイパーデコ",
+          "url": "https://game8.jp/splatoon3/529498"
+        },
+        {
+          "name": "バレルスピナーデコ",
+          "url": "https://game8.jp/splatoon3/529815"
+        },
+        {
+          "name": "クアッドホッパーホワイト",
+          "url": "https://game8.jp/splatoon3/529277"
+        },
+        {
+          "name": "オーバーフロッシャーデコ",
+          "url": "https://game8.jp/splatoon3/546840"
+        },
+        {
+          "name": "ダイナモローラーテスラ",
+          "url": "https://game8.jp/splatoon3/546820"
+        },
+        {
+          "name": "R-PEN/5B",
+          "url": "https://game8.jp/splatoon3/577259"
+        },
+        {
+          "name": "スパイガジェットソレーラ",
+          "url": "https://game8.jp/splatoon3/577064"
+        },
+        {
+          "name": "ヴァリアブルローラーフォイル",
+          "url": "https://game8.jp/splatoon3/594559"
+        },
+        {
+          "name": "エクスプロッシャーカスタム",
+          "url": "https://game8.jp/splatoon3/594492"
+        },
+        {
+          "name": "フルイドⅤカスタム",
+          "url": "https://game8.jp/splatoon3/609970"
+        },
+        {
+          "name": "ガエンFFカスタム",
+          "url": "https://game8.jp/splatoon3/609974"
+        }
+      ],
+      "B+": [
+        {
+          "name": "ケルビン525",
+          "url": "https://game8.jp/splatoon3/480121"
+        },
+        {
+          "name": "トライストリンガー",
+          "url": "https://game8.jp/splatoon3/478567"
+        },
+        {
+          "name": "プロモデラーMG",
+          "url": "https://game8.jp/splatoon3/478557"
+        },
+        {
+          "name": "H3リールガン",
+          "url": "https://game8.jp/splatoon3/480113"
+        },
+        {
+          "name": "14式竹筒銃・甲",
+          "url": "https://game8.jp/splatoon3/480112"
+        },
+        {
+          "name": "ラピッドブラスター",
+          "url": "https://game8.jp/splatoon3/480100"
+        },
+        {
+          "name": "オーバーフロッシャー",
+          "url": "https://game8.jp/splatoon3/480098"
+        },
+        {
+          "name": "もみじシューター",
+          "url": "https://game8.jp/splatoon3/500143"
+        },
+        {
+          "name": "スプラローラーコラボ",
+          "url": "https://game8.jp/splatoon3/512871"
+        },
+        {
+          "name": "スペースシューターコラボ",
+          "url": "https://game8.jp/splatoon3/529499"
+        },
+        {
+          "name": "S-BLAST92",
+          "url": "https://game8.jp/splatoon3/528247"
+        },
+        {
+          "name": "フィンセントヒュー",
+          "url": "https://game8.jp/splatoon3/577051"
+        },
+        {
+          "name": "ホットブラスターカスタム",
+          "url": "https://game8.jp/splatoon3/577060"
+        },
+        {
+          "name": "24式張替傘・甲",
+          "url": "https://game8.jp/splatoon3/594463"
+        },
+        {
+          "name": "24式張替傘・乙",
+          "url": "https://game8.jp/splatoon3/609975"
+        }
+      ],
+      "B": [
+        {
+          "name": "スプラスコープ",
+          "url": "https://game8.jp/splatoon3/478573"
+        },
+        {
+          "name": "スプラチャージャー",
+          "url": "https://game8.jp/splatoon3/478572"
+        },
+        {
+          "name": "ハイドラント",
+          "url": "https://game8.jp/splatoon3/478568"
+        },
+        {
+          "name": "96ガロン",
+          "url": "https://game8.jp/splatoon3/480117"
+        },
+        {
+          "name": "スパイガジェット",
+          "url": "https://game8.jp/splatoon3/480116"
+        },
+        {
+          "name": "ソイチューバー",
+          "url": "https://game8.jp/splatoon3/480110"
+        },
+        {
+          "name": "ワイドローラー",
+          "url": "https://game8.jp/splatoon3/497116"
+        },
+        {
+          "name": "ノヴァブラスターネオ",
+          "url": "https://game8.jp/splatoon3/499130"
+        },
+        {
+          "name": "クラッシュブラスターネオ",
+          "url": "https://game8.jp/splatoon3/512891"
+        },
+        {
+          "name": "ワイドローラーコラボ",
+          "url": "https://game8.jp/splatoon3/529816"
+        },
+        {
+          "name": "フィンセント",
+          "url": "https://game8.jp/splatoon3/528606"
+        },
+        {
+          "name": "H3リールガンD",
+          "url": "https://game8.jp/splatoon3/529151"
+        },
+        {
+          "name": "ガエンFF",
+          "url": "https://game8.jp/splatoon3/594466"
+        },
+        {
+          "name": "スクイックリンβ",
+          "url": "https://game8.jp/splatoon3/594553"
+        },
+        {
+          "name": "モップリンD",
+          "url": "https://game8.jp/splatoon3/594556"
+        },
+        {
+          "name": "ハイドラントカスタム",
+          "url": "https://game8.jp/splatoon3/610071"
+        }
+      ],
+      "C+": [
+        {
+          "name": "ノヴァブラスター",
+          "url": "https://game8.jp/splatoon3/478574"
+        },
+        {
+          "name": "ジェットスイーパー",
+          "url": "https://game8.jp/splatoon3/480104"
+        },
+        {
+          "name": "Rブラスターエリート",
+          "url": "https://game8.jp/splatoon3/480102"
+        },
+        {
+          "name": "スペースシューター",
+          "url": "https://game8.jp/splatoon3/494975"
+        },
+        {
+          "name": "ホクサイヒュー",
+          "url": "https://game8.jp/splatoon3/546705"
+        }
+      ],
+      "C": [
+        {
+          "name": "カーボンローラー",
+          "url": "https://game8.jp/splatoon3/480111"
+        },
+        {
+          "name": "クラッシュブラスター",
+          "url": "https://game8.jp/splatoon3/480099"
+        },
+        {
+          "name": "ボールドマーカーネオ",
+          "url": "https://game8.jp/splatoon3/512890"
+        },
+        {
+          "name": "ソイチューバーカスタム",
+          "url": "https://game8.jp/splatoon3/546706"
+        }
+      ]
+    }
+  },
+  "area": {
+    "type": "area",
+    "tiers": {
+      "X": [
+        {
+          "name": "ジムワイパー",
+          "url": "https://game8.jp/splatoon3/480124"
+        },
+        {
+          "name": "スプラマニューバー",
+          "url": "https://game8.jp/splatoon3/478563"
+        },
+        {
+          "name": "バケットスロッシャー",
+          "url": "https://game8.jp/splatoon3/478571"
+        },
+        {
+          "name": "シャープマーカー",
+          "url": "https://game8.jp/splatoon3/480105"
+        },
+        {
+          "name": "スプラシューター",
+          "url": "https://game8.jp/splatoon3/478552"
+        },
+        {
+          "name": "ボトルガイザー",
+          "url": "https://game8.jp/splatoon3/480115"
+        }
+      ],
+      "S+": [
+        {
+          "name": "N-ZAP85",
+          "url": "https://game8.jp/splatoon3/478558"
+        },
+        {
+          "name": "プライムシューター",
+          "url": "https://game8.jp/splatoon3/478556"
+        },
+        {
+          "name": "52ガロン",
+          "url": "https://game8.jp/splatoon3/478555"
+        },
+        {
+          "name": "クーゲルシュライバー",
+          "url": "https://game8.jp/splatoon3/480114"
+        },
+        {
+          "name": "ノーチラス47",
+          "url": "https://game8.jp/splatoon3/480108"
+        },
+        {
+          "name": "R-PEN/5H",
+          "url": "https://game8.jp/splatoon3/497089"
+        },
+        {
+          "name": "シャープマーカーネオ",
+          "url": "https://game8.jp/splatoon3/512888"
+        },
+        {
+          "name": "ヒッセンヒュー",
+          "url": "https://game8.jp/splatoon3/512885"
+        },
+        {
+          "name": "キャンピングシェルターソレーラ",
+          "url": "https://game8.jp/splatoon3/529279"
+        },
+        {
+          "name": "イグザミナー",
+          "url": "https://game8.jp/splatoon3/546628"
+        },
+        {
+          "name": "ボトルガイザーフォイル",
+          "url": "https://game8.jp/splatoon3/576999"
+        },
+        {
+          "name": "S-BLAST91",
+          "url": "https://game8.jp/splatoon3/577059"
+        },
+        {
+          "name": "ジムワイパーヒュー",
+          "url": "https://game8.jp/splatoon3/577014"
+        },
+        {
+          "name": "デンタルワイパーミント",
+          "url": "https://game8.jp/splatoon3/609971"
+        },
+        {
+          "name": "イグザミナーヒュー",
+          "url": "https://game8.jp/splatoon3/609973"
+        }
+      ],
+      "S": [
+        {
+          "name": "ドライブワイパー",
+          "url": "https://game8.jp/splatoon3/478566"
+        },
+        {
+          "name": "ヴァリアブルローラー",
+          "url": "https://game8.jp/splatoon3/480123"
+        },
+        {
+          "name": "ロングブラスター",
+          "url": "https://game8.jp/splatoon3/480107"
+        },
+        {
+          "name": "4Kスコープ",
+          "url": "https://game8.jp/splatoon3/478560"
+        },
+        {
+          "name": "リッター4K",
+          "url": "https://game8.jp/splatoon3/478559"
+        },
+        {
+          "name": "ヒッセン",
+          "url": "https://game8.jp/splatoon3/478570"
+        },
+        {
+          "name": "わかばシューター",
+          "url": "https://game8.jp/splatoon3/478553"
+        },
+        {
+          "name": "スプラシューターコラボ",
+          "url": "https://game8.jp/splatoon3/497691"
+        },
+        {
+          "name": "スプラスピナーコラボ",
+          "url": "https://game8.jp/splatoon3/497797"
+        },
+        {
+          "name": "プライムシューターコラボ",
+          "url": "https://game8.jp/splatoon3/498918"
+        },
+        {
+          "name": "ラピッドブラスターデコ",
+          "url": "https://game8.jp/splatoon3/512895"
+        },
+        {
+          "name": "スプラスコープコラボ",
+          "url": "https://game8.jp/splatoon3/512894"
+        },
+        {
+          "name": "スプラチャージャーコラボ",
+          "url": "https://game8.jp/splatoon3/512892"
+        },
+        {
+          "name": "Rブラスターエリートデコ",
+          "url": "https://game8.jp/splatoon3/529153"
+        },
+        {
+          "name": "モップリン",
+          "url": "https://game8.jp/splatoon3/546627"
+        },
+        {
+          "name": "クーゲルシュライバーヒュー",
+          "url": "https://game8.jp/splatoon3/546842"
+        },
+        {
+          "name": "スクリュースロッシャーネオ",
+          "url": "https://game8.jp/splatoon3/546843"
+        },
+        {
+          "name": "52ガロンデコ",
+          "url": "https://game8.jp/splatoon3/594482"
+        },
+        {
+          "name": "ノーチラス79",
+          "url": "https://game8.jp/splatoon3/595105"
+        },
+        {
+          "name": "リッター4Kカスタム",
+          "url": "https://game8.jp/splatoon3/594566"
+        },
+        {
+          "name": "4Kスコープカスタム",
+          "url": "https://game8.jp/splatoon3/594576"
+        },
+        {
+          "name": "エクスプロッシャーカスタム",
+          "url": "https://game8.jp/splatoon3/594492"
+        },
+        {
+          "name": "デンタルワイパースミ",
+          "url": "https://game8.jp/splatoon3/610324"
+        },
+        {
+          "name": "ロングブラスターカスタム",
+          "url": "https://game8.jp/splatoon3/609978"
+        }
+      ],
+      "A+": [
+        {
+          "name": "ダイナモローラー",
+          "url": "https://game8.jp/splatoon3/478565"
+        },
+        {
+          "name": "スプラローラー",
+          "url": "https://game8.jp/splatoon3/478576"
+        },
+        {
+          "name": "デュアルスイーパー",
+          "url": "https://game8.jp/splatoon3/480122"
+        },
+        {
+          "name": "クアッドホッパーブラック",
+          "url": "https://game8.jp/splatoon3/478564"
+        },
+        {
+          "name": "スパッタリー",
+          "url": "https://game8.jp/splatoon3/480120"
+        },
+        {
+          "name": "ホットブラスター",
+          "url": "https://game8.jp/splatoon3/478575"
+        },
+        {
+          "name": "エクスプロッシャー",
+          "url": "https://game8.jp/splatoon3/480119"
+        },
+        {
+          "name": "スクリュースロッシャー",
+          "url": "https://game8.jp/splatoon3/480103"
+        },
+        {
+          "name": "スプラスピナー",
+          "url": "https://game8.jp/splatoon3/480101"
+        },
+        {
+          "name": "LACT-450",
+          "url": "https://game8.jp/splatoon3/480097"
+        },
+        {
+          "name": "スパッタリーヒュー",
+          "url": "https://game8.jp/splatoon3/499219"
+        },
+        {
+          "name": "バケットスロッシャーデコ",
+          "url": "https://game8.jp/splatoon3/499248"
+        },
+        {
+          "name": "パブロヒュー",
+          "url": "https://game8.jp/splatoon3/499359"
+        },
+        {
+          "name": "カーボンローラーデコ",
+          "url": "https://game8.jp/splatoon3/500259"
+        },
+        {
+          "name": "96ガロンデコ",
+          "url": "https://game8.jp/splatoon3/512873"
+        },
+        {
+          "name": "ドライブワイパーデコ",
+          "url": "https://game8.jp/splatoon3/529498"
+        },
+        {
+          "name": "デュアルスイーパーカスタム",
+          "url": "https://game8.jp/splatoon3/529813"
+        },
+        {
+          "name": "パラシェルターソレーラ",
+          "url": "https://game8.jp/splatoon3/546822"
+        },
+        {
+          "name": "トライストリンガーコラボ",
+          "url": "https://game8.jp/splatoon3/546817"
+        },
+        {
+          "name": "LACT-450デコ",
+          "url": "https://game8.jp/splatoon3/577049"
+        },
+        {
+          "name": "スプラマニューバーコラボ",
+          "url": "https://game8.jp/splatoon3/576984"
+        },
+        {
+          "name": "ケルビン525デコ",
+          "url": "https://game8.jp/splatoon3/595106"
+        },
+        {
+          "name": "フルイドⅤ",
+          "url": "https://game8.jp/splatoon3/609924"
+        },
+        {
+          "name": "14式竹筒銃・乙",
+          "url": "https://game8.jp/splatoon3/610072"
+        }
+      ],
+      "A": [
+        {
+          "name": "ケルビン525",
+          "url": "https://game8.jp/splatoon3/480121"
+        },
+        {
+          "name": "スプラスコープ",
+          "url": "https://game8.jp/splatoon3/478573"
+        },
+        {
+          "name": "スクイックリンα",
+          "url": "https://game8.jp/splatoon3/480106"
+        },
+        {
+          "name": "スプラチャージャー",
+          "url": "https://game8.jp/splatoon3/478572"
+        },
+        {
+          "name": "バレルスピナー",
+          "url": "https://game8.jp/splatoon3/478569"
+        },
+        {
+          "name": "キャンピングシェルター",
+          "url": "https://game8.jp/splatoon3/478550"
+        },
+        {
+          "name": "パラシェルター",
+          "url": "https://game8.jp/splatoon3/478549"
+        },
+        {
+          "name": "ラピッドブラスター",
+          "url": "https://game8.jp/splatoon3/480100"
+        },
+        {
+          "name": "L3リールガン",
+          "url": "https://game8.jp/splatoon3/480109"
+        },
+        {
+          "name": "もみじシューター",
+          "url": "https://game8.jp/splatoon3/500143"
+        },
+        {
+          "name": "ジェットスイーパーカスタム",
+          "url": "https://game8.jp/splatoon3/512896"
+        },
+        {
+          "name": "L3リールガンD",
+          "url": "https://game8.jp/splatoon3/512886"
+        },
+        {
+          "name": "スペースシューターコラボ",
+          "url": "https://game8.jp/splatoon3/529499"
+        },
+        {
+          "name": "バレルスピナーデコ",
+          "url": "https://game8.jp/splatoon3/529815"
+        },
+        {
+          "name": "クアッドホッパーホワイト",
+          "url": "https://game8.jp/splatoon3/529277"
+        },
+        {
+          "name": "オーバーフロッシャーデコ",
+          "url": "https://game8.jp/splatoon3/546840"
+        },
+        {
+          "name": "ダイナモローラーテスラ",
+          "url": "https://game8.jp/splatoon3/546820"
+        },
+        {
+          "name": "R-PEN/5B",
+          "url": "https://game8.jp/splatoon3/577259"
+        },
+        {
+          "name": "スパイガジェットソレーラ",
+          "url": "https://game8.jp/splatoon3/577064"
+        },
+        {
+          "name": "ヴァリアブルローラーフォイル",
+          "url": "https://game8.jp/splatoon3/594559"
+        },
+        {
+          "name": "フルイドⅤカスタム",
+          "url": "https://game8.jp/splatoon3/609970"
+        },
+        {
+          "name": "ガエンFFカスタム",
+          "url": "https://game8.jp/splatoon3/609974"
+        }
+      ],
+      "B+": [
+        {
+          "name": "ホクサイ",
+          "url": "https://game8.jp/splatoon3/478562"
+        },
+        {
+          "name": "ハイドラント",
+          "url": "https://game8.jp/splatoon3/478568"
+        },
+        {
+          "name": "トライストリンガー",
+          "url": "https://game8.jp/splatoon3/478567"
+        },
+        {
+          "name": "スパイガジェット",
+          "url": "https://game8.jp/splatoon3/480116"
+        },
+        {
+          "name": "H3リールガン",
+          "url": "https://game8.jp/splatoon3/480113"
+        },
+        {
+          "name": "14式竹筒銃・甲",
+          "url": "https://game8.jp/splatoon3/480112"
+        },
+        {
+          "name": "オーバーフロッシャー",
+          "url": "https://game8.jp/splatoon3/480098"
+        },
+        {
+          "name": "ノヴァブラスターネオ",
+          "url": "https://game8.jp/splatoon3/499130"
+        },
+        {
+          "name": "N-ZAP89",
+          "url": "https://game8.jp/splatoon3/512887"
+        },
+        {
+          "name": "スプラローラーコラボ",
+          "url": "https://game8.jp/splatoon3/512871"
+        },
+        {
+          "name": "S-BLAST92",
+          "url": "https://game8.jp/splatoon3/528247"
+        },
+        {
+          "name": "H3リールガンD",
+          "url": "https://game8.jp/splatoon3/529151"
+        },
+        {
+          "name": "フィンセントヒュー",
+          "url": "https://game8.jp/splatoon3/577051"
+        },
+        {
+          "name": "ホットブラスターカスタム",
+          "url": "https://game8.jp/splatoon3/577060"
+        },
+        {
+          "name": "24式張替傘・甲",
+          "url": "https://game8.jp/splatoon3/594463"
+        },
+        {
+          "name": "モップリンD",
+          "url": "https://game8.jp/splatoon3/594556"
+        },
+        {
+          "name": "24式張替傘・乙",
+          "url": "https://game8.jp/splatoon3/609975"
+        },
+        {
+          "name": "ハイドラントカスタム",
+          "url": "https://game8.jp/splatoon3/610071"
+        }
+      ],
+      "B": [
+        {
+          "name": "パブロ",
+          "url": "https://game8.jp/splatoon3/478561"
+        },
+        {
+          "name": "プロモデラーRG",
+          "url": "https://game8.jp/splatoon3/499242"
+        },
+        {
+          "name": "ボールドマーカー",
+          "url": "https://game8.jp/splatoon3/480118"
+        },
+        {
+          "name": "プロモデラーMG",
+          "url": "https://game8.jp/splatoon3/478557"
+        },
+        {
+          "name": "96ガロン",
+          "url": "https://game8.jp/splatoon3/480117"
+        },
+        {
+          "name": "ソイチューバー",
+          "url": "https://game8.jp/splatoon3/480110"
+        },
+        {
+          "name": "ワイドローラーコラボ",
+          "url": "https://game8.jp/splatoon3/529816"
+        },
+        {
+          "name": "フィンセント",
+          "url": "https://game8.jp/splatoon3/528606"
+        },
+        {
+          "name": "ホクサイヒュー",
+          "url": "https://game8.jp/splatoon3/546705"
+        },
+        {
+          "name": "ガエンFF",
+          "url": "https://game8.jp/splatoon3/594466"
+        },
+        {
+          "name": "スクイックリンβ",
+          "url": "https://game8.jp/splatoon3/594553"
+        }
+      ],
+      "C+": [
+        {
+          "name": "ノヴァブラスター",
+          "url": "https://game8.jp/splatoon3/478574"
+        },
+        {
+          "name": "ジェットスイーパー",
+          "url": "https://game8.jp/splatoon3/480104"
+        },
+        {
+          "name": "Rブラスターエリート",
+          "url": "https://game8.jp/splatoon3/480102"
+        },
+        {
+          "name": "クラッシュブラスター",
+          "url": "https://game8.jp/splatoon3/480099"
+        },
+        {
+          "name": "スペースシューター",
+          "url": "https://game8.jp/splatoon3/494975"
+        },
+        {
+          "name": "クラッシュブラスターネオ",
+          "url": "https://game8.jp/splatoon3/512891"
+        },
+        {
+          "name": "ソイチューバーカスタム",
+          "url": "https://game8.jp/splatoon3/546706"
+        }
+      ],
+      "C": [
+        {
+          "name": "カーボンローラー",
+          "url": "https://game8.jp/splatoon3/480111"
+        },
+        {
+          "name": "ワイドローラー",
+          "url": "https://game8.jp/splatoon3/497116"
+        },
+        {
+          "name": "ボールドマーカーネオ",
+          "url": "https://game8.jp/splatoon3/512890"
+        }
+      ]
+    }
+  },
+  "yagura": {
+    "type": "yagura",
+    "tiers": {
+      "X": [
+        {
+          "name": "ジムワイパー",
+          "url": "https://game8.jp/splatoon3/480124"
+        },
+        {
+          "name": "スプラマニューバー",
+          "url": "https://game8.jp/splatoon3/478563"
+        },
+        {
+          "name": "ロングブラスター",
+          "url": "https://game8.jp/splatoon3/480107"
+        },
+        {
+          "name": "バケットスロッシャー",
+          "url": "https://game8.jp/splatoon3/478571"
+        },
+        {
+          "name": "シャープマーカー",
+          "url": "https://game8.jp/splatoon3/480105"
+        },
+        {
+          "name": "ボトルガイザー",
+          "url": "https://game8.jp/splatoon3/480115"
+        },
+        {
+          "name": "S-BLAST91",
+          "url": "https://game8.jp/splatoon3/577059"
+        },
+        {
+          "name": "ロングブラスターカスタム",
+          "url": "https://game8.jp/splatoon3/609978"
+        }
+      ],
+      "S+": [
+        {
+          "name": "ホットブラスター",
+          "url": "https://game8.jp/splatoon3/478575"
+        },
+        {
+          "name": "N-ZAP85",
+          "url": "https://game8.jp/splatoon3/478558"
+        },
+        {
+          "name": "プライムシューター",
+          "url": "https://game8.jp/splatoon3/478556"
+        },
+        {
+          "name": "52ガロン",
+          "url": "https://game8.jp/splatoon3/478555"
+        },
+        {
+          "name": "わかばシューター",
+          "url": "https://game8.jp/splatoon3/478553"
+        },
+        {
+          "name": "スプラシューター",
+          "url": "https://game8.jp/splatoon3/478552"
+        },
+        {
+          "name": "クーゲルシュライバー",
+          "url": "https://game8.jp/splatoon3/480114"
+        },
+        {
+          "name": "ノーチラス47",
+          "url": "https://game8.jp/splatoon3/480108"
+        },
+        {
+          "name": "R-PEN/5H",
+          "url": "https://game8.jp/splatoon3/497089"
+        },
+        {
+          "name": "プライムシューターコラボ",
+          "url": "https://game8.jp/splatoon3/498918"
+        },
+        {
+          "name": "ラピッドブラスターデコ",
+          "url": "https://game8.jp/splatoon3/512895"
+        },
+        {
+          "name": "シャープマーカーネオ",
+          "url": "https://game8.jp/splatoon3/512888"
+        },
+        {
+          "name": "ヒッセンヒュー",
+          "url": "https://game8.jp/splatoon3/512885"
+        },
+        {
+          "name": "Rブラスターエリートデコ",
+          "url": "https://game8.jp/splatoon3/529153"
+        },
+        {
+          "name": "イグザミナー",
+          "url": "https://game8.jp/splatoon3/546628"
+        },
+        {
+          "name": "スクリュースロッシャーネオ",
+          "url": "https://game8.jp/splatoon3/546843"
+        },
+        {
+          "name": "ボトルガイザーフォイル",
+          "url": "https://game8.jp/splatoon3/576999"
+        },
+        {
+          "name": "ジムワイパーヒュー",
+          "url": "https://game8.jp/splatoon3/577014"
+        },
+        {
+          "name": "デンタルワイパーミント",
+          "url": "https://game8.jp/splatoon3/609971"
+        },
+        {
+          "name": "イグザミナーヒュー",
+          "url": "https://game8.jp/splatoon3/609973"
+        }
+      ],
+      "S": [
+        {
+          "name": "ドライブワイパー",
+          "url": "https://game8.jp/splatoon3/478566"
+        },
+        {
+          "name": "スプラローラー",
+          "url": "https://game8.jp/splatoon3/478576"
+        },
+        {
+          "name": "4Kスコープ",
+          "url": "https://game8.jp/splatoon3/478560"
+        },
+        {
+          "name": "リッター4K",
+          "url": "https://game8.jp/splatoon3/478559"
+        },
+        {
+          "name": "スクイックリンα",
+          "url": "https://game8.jp/splatoon3/480106"
+        },
+        {
+          "name": "ヒッセン",
+          "url": "https://game8.jp/splatoon3/478570"
+        },
+        {
+          "name": "ラピッドブラスター",
+          "url": "https://game8.jp/splatoon3/480100"
+        },
+        {
+          "name": "スプラシューターコラボ",
+          "url": "https://game8.jp/splatoon3/497691"
+        },
+        {
+          "name": "スプラスピナーコラボ",
+          "url": "https://game8.jp/splatoon3/497797"
+        },
+        {
+          "name": "カーボンローラーデコ",
+          "url": "https://game8.jp/splatoon3/500259"
+        },
+        {
+          "name": "スプラスコープコラボ",
+          "url": "https://game8.jp/splatoon3/512894"
+        },
+        {
+          "name": "スプラチャージャーコラボ",
+          "url": "https://game8.jp/splatoon3/512892"
+        },
+        {
+          "name": "96ガロンデコ",
+          "url": "https://game8.jp/splatoon3/512873"
+        },
+        {
+          "name": "キャンピングシェルターソレーラ",
+          "url": "https://game8.jp/splatoon3/529279"
+        },
+        {
+          "name": "モップリン",
+          "url": "https://game8.jp/splatoon3/546627"
+        },
+        {
+          "name": "クーゲルシュライバーヒュー",
+          "url": "https://game8.jp/splatoon3/546842"
+        },
+        {
+          "name": "ホットブラスターカスタム",
+          "url": "https://game8.jp/splatoon3/577060"
+        },
+        {
+          "name": "52ガロンデコ",
+          "url": "https://game8.jp/splatoon3/594482"
+        },
+        {
+          "name": "ノーチラス79",
+          "url": "https://game8.jp/splatoon3/595105"
+        },
+        {
+          "name": "リッター4Kカスタム",
+          "url": "https://game8.jp/splatoon3/594566"
+        },
+        {
+          "name": "4Kスコープカスタム",
+          "url": "https://game8.jp/splatoon3/594576"
+        },
+        {
+          "name": "フルイドⅤ",
+          "url": "https://game8.jp/splatoon3/609924"
+        },
+        {
+          "name": "デンタルワイパースミ",
+          "url": "https://game8.jp/splatoon3/610324"
+        }
+      ],
+      "A+": [
+        {
+          "name": "ヴァリアブルローラー",
+          "url": "https://game8.jp/splatoon3/480123"
+        },
+        {
+          "name": "ダイナモローラー",
+          "url": "https://game8.jp/splatoon3/478565"
+        },
+        {
+          "name": "デュアルスイーパー",
+          "url": "https://game8.jp/splatoon3/480122"
+        },
+        {
+          "name": "クアッドホッパーブラック",
+          "url": "https://game8.jp/splatoon3/478564"
+        },
+        {
+          "name": "スパッタリー",
+          "url": "https://game8.jp/splatoon3/480120"
+        },
+        {
+          "name": "トライストリンガー",
+          "url": "https://game8.jp/splatoon3/478567"
+        },
+        {
+          "name": "スクリュースロッシャー",
+          "url": "https://game8.jp/splatoon3/480103"
+        },
+        {
+          "name": "LACT-450",
+          "url": "https://game8.jp/splatoon3/480097"
+        },
+        {
+          "name": "ノヴァブラスターネオ",
+          "url": "https://game8.jp/splatoon3/499130"
+        },
+        {
+          "name": "スパッタリーヒュー",
+          "url": "https://game8.jp/splatoon3/499219"
+        },
+        {
+          "name": "バケットスロッシャーデコ",
+          "url": "https://game8.jp/splatoon3/499248"
+        },
+        {
+          "name": "パブロヒュー",
+          "url": "https://game8.jp/splatoon3/499359"
+        },
+        {
+          "name": "ドライブワイパーデコ",
+          "url": "https://game8.jp/splatoon3/529498"
+        },
+        {
+          "name": "バレルスピナーデコ",
+          "url": "https://game8.jp/splatoon3/529815"
+        },
+        {
+          "name": "デュアルスイーパーカスタム",
+          "url": "https://game8.jp/splatoon3/529813"
+        },
+        {
+          "name": "パラシェルターソレーラ",
+          "url": "https://game8.jp/splatoon3/546822"
+        },
+        {
+          "name": "トライストリンガーコラボ",
+          "url": "https://game8.jp/splatoon3/546817"
+        },
+        {
+          "name": "LACT-450デコ",
+          "url": "https://game8.jp/splatoon3/577049"
+        },
+        {
+          "name": "スプラマニューバーコラボ",
+          "url": "https://game8.jp/splatoon3/576984"
+        },
+        {
+          "name": "ケルビン525デコ",
+          "url": "https://game8.jp/splatoon3/595106"
+        },
+        {
+          "name": "エクスプロッシャーカスタム",
+          "url": "https://game8.jp/splatoon3/594492"
+        },
+        {
+          "name": "フルイドⅤカスタム",
+          "url": "https://game8.jp/splatoon3/609970"
+        },
+        {
+          "name": "14式竹筒銃・乙",
+          "url": "https://game8.jp/splatoon3/610072"
+        },
+        {
+          "name": "ガエンFFカスタム",
+          "url": "https://game8.jp/splatoon3/609974"
+        }
+      ],
+      "A": [
+        {
+          "name": "ケルビン525",
+          "url": "https://game8.jp/splatoon3/480121"
+        },
+        {
+          "name": "ホクサイ",
+          "url": "https://game8.jp/splatoon3/478562"
+        },
+        {
+          "name": "スプラスコープ",
+          "url": "https://game8.jp/splatoon3/478573"
+        },
+        {
+          "name": "スプラチャージャー",
+          "url": "https://game8.jp/splatoon3/478572"
+        },
+        {
+          "name": "バレルスピナー",
+          "url": "https://game8.jp/splatoon3/478569"
+        },
+        {
+          "name": "キャンピングシェルター",
+          "url": "https://game8.jp/splatoon3/478550"
+        },
+        {
+          "name": "パラシェルター",
+          "url": "https://game8.jp/splatoon3/478549"
+        },
+        {
+          "name": "14式竹筒銃・甲",
+          "url": "https://game8.jp/splatoon3/480112"
+        },
+        {
+          "name": "Rブラスターエリート",
+          "url": "https://game8.jp/splatoon3/480102"
+        },
+        {
+          "name": "スプラスピナー",
+          "url": "https://game8.jp/splatoon3/480101"
+        },
+        {
+          "name": "L3リールガン",
+          "url": "https://game8.jp/splatoon3/480109"
+        },
+        {
+          "name": "ジェットスイーパーカスタム",
+          "url": "https://game8.jp/splatoon3/512896"
+        },
+        {
+          "name": "クラッシュブラスターネオ",
+          "url": "https://game8.jp/splatoon3/512891"
+        },
+        {
+          "name": "L3リールガンD",
+          "url": "https://game8.jp/splatoon3/512886"
+        },
+        {
+          "name": "スプラローラーコラボ",
+          "url": "https://game8.jp/splatoon3/512871"
+        },
+        {
+          "name": "スペースシューターコラボ",
+          "url": "https://game8.jp/splatoon3/529499"
+        },
+        {
+          "name": "フィンセント",
+          "url": "https://game8.jp/splatoon3/528606"
+        },
+        {
+          "name": "S-BLAST92",
+          "url": "https://game8.jp/splatoon3/528247"
+        },
+        {
+          "name": "H3リールガンD",
+          "url": "https://game8.jp/splatoon3/529151"
+        },
+        {
+          "name": "クアッドホッパーホワイト",
+          "url": "https://game8.jp/splatoon3/529277"
+        },
+        {
+          "name": "オーバーフロッシャーデコ",
+          "url": "https://game8.jp/splatoon3/546840"
+        },
+        {
+          "name": "ダイナモローラーテスラ",
+          "url": "https://game8.jp/splatoon3/546820"
+        },
+        {
+          "name": "R-PEN/5B",
+          "url": "https://game8.jp/splatoon3/577259"
+        },
+        {
+          "name": "スパイガジェットソレーラ",
+          "url": "https://game8.jp/splatoon3/577064"
+        },
+        {
+          "name": "フィンセントヒュー",
+          "url": "https://game8.jp/splatoon3/577051"
+        },
+        {
+          "name": "ヴァリアブルローラーフォイル",
+          "url": "https://game8.jp/splatoon3/594559"
+        }
+      ],
+      "B+": [
+        {
+          "name": "ノヴァブラスター",
+          "url": "https://game8.jp/splatoon3/478574"
+        },
+        {
+          "name": "エクスプロッシャー",
+          "url": "https://game8.jp/splatoon3/480119"
+        },
+        {
+          "name": "ハイドラント",
+          "url": "https://game8.jp/splatoon3/478568"
+        },
+        {
+          "name": "スパイガジェット",
+          "url": "https://game8.jp/splatoon3/480116"
+        },
+        {
+          "name": "H3リールガン",
+          "url": "https://game8.jp/splatoon3/480113"
+        },
+        {
+          "name": "クラッシュブラスター",
+          "url": "https://game8.jp/splatoon3/480099"
+        },
+        {
+          "name": "もみじシューター",
+          "url": "https://game8.jp/splatoon3/500143"
+        },
+        {
+          "name": "ホクサイヒュー",
+          "url": "https://game8.jp/splatoon3/546705"
+        },
+        {
+          "name": "24式張替傘・甲",
+          "url": "https://game8.jp/splatoon3/594463"
+        },
+        {
+          "name": "モップリンD",
+          "url": "https://game8.jp/splatoon3/594556"
+        },
+        {
+          "name": "24式張替傘・乙",
+          "url": "https://game8.jp/splatoon3/609975"
+        },
+        {
+          "name": "ハイドラントカスタム",
+          "url": "https://game8.jp/splatoon3/610071"
+        }
+      ],
+      "B": [
+        {
+          "name": "パブロ",
+          "url": "https://game8.jp/splatoon3/478561"
+        },
+        {
+          "name": "プロモデラーRG",
+          "url": "https://game8.jp/splatoon3/499242"
+        },
+        {
+          "name": "ボールドマーカー",
+          "url": "https://game8.jp/splatoon3/480118"
+        },
+        {
+          "name": "96ガロン",
+          "url": "https://game8.jp/splatoon3/480117"
+        },
+        {
+          "name": "ソイチューバー",
+          "url": "https://game8.jp/splatoon3/480110"
+        },
+        {
+          "name": "オーバーフロッシャー",
+          "url": "https://game8.jp/splatoon3/480098"
+        },
+        {
+          "name": "スペースシューター",
+          "url": "https://game8.jp/splatoon3/494975"
+        },
+        {
+          "name": "N-ZAP89",
+          "url": "https://game8.jp/splatoon3/512887"
+        },
+        {
+          "name": "ワイドローラーコラボ",
+          "url": "https://game8.jp/splatoon3/529816"
+        },
+        {
+          "name": "ガエンFF",
+          "url": "https://game8.jp/splatoon3/594466"
+        },
+        {
+          "name": "スクイックリンβ",
+          "url": "https://game8.jp/splatoon3/594553"
+        }
+      ],
+      "C+": [
+        {
+          "name": "ジェットスイーパー",
+          "url": "https://game8.jp/splatoon3/480104"
+        },
+        {
+          "name": "プロモデラーMG",
+          "url": "https://game8.jp/splatoon3/478557"
+        },
+        {
+          "name": "ボールドマーカーネオ",
+          "url": "https://game8.jp/splatoon3/512890"
+        }
+      ],
+      "C": [
+        {
+          "name": "カーボンローラー",
+          "url": "https://game8.jp/splatoon3/480111"
+        },
+        {
+          "name": "ワイドローラー",
+          "url": "https://game8.jp/splatoon3/497116"
+        },
+        {
+          "name": "ソイチューバーカスタム",
+          "url": "https://game8.jp/splatoon3/546706"
+        }
+      ]
+    }
+  },
+  "hoko": {
+    "type": "hoko",
+    "tiers": {
+      "X": [
+        {
+          "name": "ジムワイパー",
+          "url": "https://game8.jp/splatoon3/480124"
+        },
+        {
+          "name": "スプラマニューバー",
+          "url": "https://game8.jp/splatoon3/478563"
+        },
+        {
+          "name": "バケットスロッシャー",
+          "url": "https://game8.jp/splatoon3/478571"
+        },
+        {
+          "name": "シャープマーカー",
+          "url": "https://game8.jp/splatoon3/480105"
+        },
+        {
+          "name": "ボトルガイザー",
+          "url": "https://game8.jp/splatoon3/480115"
+        }
+      ],
+      "S+": [
+        {
+          "name": "ドライブワイパー",
+          "url": "https://game8.jp/splatoon3/478566"
+        },
+        {
+          "name": "N-ZAP85",
+          "url": "https://game8.jp/splatoon3/478558"
+        },
+        {
+          "name": "プライムシューター",
+          "url": "https://game8.jp/splatoon3/478556"
+        },
+        {
+          "name": "52ガロン",
+          "url": "https://game8.jp/splatoon3/478555"
+        },
+        {
+          "name": "スプラシューター",
+          "url": "https://game8.jp/splatoon3/478552"
+        },
+        {
+          "name": "クーゲルシュライバー",
+          "url": "https://game8.jp/splatoon3/480114"
+        },
+        {
+          "name": "ノーチラス47",
+          "url": "https://game8.jp/splatoon3/480108"
+        },
+        {
+          "name": "R-PEN/5H",
+          "url": "https://game8.jp/splatoon3/497089"
+        },
+        {
+          "name": "ヒッセンヒュー",
+          "url": "https://game8.jp/splatoon3/512885"
+        },
+        {
+          "name": "キャンピングシェルターソレーラ",
+          "url": "https://game8.jp/splatoon3/529279"
+        },
+        {
+          "name": "イグザミナー",
+          "url": "https://game8.jp/splatoon3/546628"
+        },
+        {
+          "name": "ボトルガイザーフォイル",
+          "url": "https://game8.jp/splatoon3/576999"
+        },
+        {
+          "name": "S-BLAST91",
+          "url": "https://game8.jp/splatoon3/577059"
+        },
+        {
+          "name": "ジムワイパーヒュー",
+          "url": "https://game8.jp/splatoon3/577014"
+        },
+        {
+          "name": "デンタルワイパーミント",
+          "url": "https://game8.jp/splatoon3/609971"
+        },
+        {
+          "name": "イグザミナーヒュー",
+          "url": "https://game8.jp/splatoon3/609973"
+        },
+        {
+          "name": "ロングブラスターカスタム",
+          "url": "https://game8.jp/splatoon3/609978"
+        }
+      ],
+      "S": [
+        {
+          "name": "スプラローラー",
+          "url": "https://game8.jp/splatoon3/478576"
+        },
+        {
+          "name": "クアッドホッパーブラック",
+          "url": "https://game8.jp/splatoon3/478564"
+        },
+        {
+          "name": "ロングブラスター",
+          "url": "https://game8.jp/splatoon3/480107"
+        },
+        {
+          "name": "4Kスコープ",
+          "url": "https://game8.jp/splatoon3/478560"
+        },
+        {
+          "name": "リッター4K",
+          "url": "https://game8.jp/splatoon3/478559"
+        },
+        {
+          "name": "ヒッセン",
+          "url": "https://game8.jp/splatoon3/478570"
+        },
+        {
+          "name": "わかばシューター",
+          "url": "https://game8.jp/splatoon3/478553"
+        },
+        {
+          "name": "スプラシューターコラボ",
+          "url": "https://game8.jp/splatoon3/497691"
+        },
+        {
+          "name": "プライムシューターコラボ",
+          "url": "https://game8.jp/splatoon3/498918"
+        },
+        {
+          "name": "カーボンローラーデコ",
+          "url": "https://game8.jp/splatoon3/500259"
+        },
+        {
+          "name": "ラピッドブラスターデコ",
+          "url": "https://game8.jp/splatoon3/512895"
+        },
+        {
+          "name": "シャープマーカーネオ",
+          "url": "https://game8.jp/splatoon3/512888"
+        },
+        {
+          "name": "96ガロンデコ",
+          "url": "https://game8.jp/splatoon3/512873"
+        },
+        {
+          "name": "Rブラスターエリートデコ",
+          "url": "https://game8.jp/splatoon3/529153"
+        },
+        {
+          "name": "モップリン",
+          "url": "https://game8.jp/splatoon3/546627"
+        },
+        {
+          "name": "クーゲルシュライバーヒュー",
+          "url": "https://game8.jp/splatoon3/546842"
+        },
+        {
+          "name": "スクリュースロッシャーネオ",
+          "url": "https://game8.jp/splatoon3/546843"
+        },
+        {
+          "name": "52ガロンデコ",
+          "url": "https://game8.jp/splatoon3/594482"
+        },
+        {
+          "name": "ノーチラス79",
+          "url": "https://game8.jp/splatoon3/595105"
+        },
+        {
+          "name": "リッター4Kカスタム",
+          "url": "https://game8.jp/splatoon3/594566"
+        },
+        {
+          "name": "4Kスコープカスタム",
+          "url": "https://game8.jp/splatoon3/594576"
+        },
+        {
+          "name": "フルイドⅤ",
+          "url": "https://game8.jp/splatoon3/609924"
+        },
+        {
+          "name": "デンタルワイパースミ",
+          "url": "https://game8.jp/splatoon3/610324"
+        }
+      ],
+      "A+": [
+        {
+          "name": "ヴァリアブルローラー",
+          "url": "https://game8.jp/splatoon3/480123"
+        },
+        {
+          "name": "ダイナモローラー",
+          "url": "https://game8.jp/splatoon3/478565"
+        },
+        {
+          "name": "デュアルスイーパー",
+          "url": "https://game8.jp/splatoon3/480122"
+        },
+        {
+          "name": "スパッタリー",
+          "url": "https://game8.jp/splatoon3/480120"
+        },
+        {
+          "name": "トライストリンガー",
+          "url": "https://game8.jp/splatoon3/478567"
+        },
+        {
+          "name": "スクリュースロッシャー",
+          "url": "https://game8.jp/splatoon3/480103"
+        },
+        {
+          "name": "LACT-450",
+          "url": "https://game8.jp/splatoon3/480097"
+        },
+        {
+          "name": "スプラスピナーコラボ",
+          "url": "https://game8.jp/splatoon3/497797"
+        },
+        {
+          "name": "スパッタリーヒュー",
+          "url": "https://game8.jp/splatoon3/499219"
+        },
+        {
+          "name": "バケットスロッシャーデコ",
+          "url": "https://game8.jp/splatoon3/499248"
+        },
+        {
+          "name": "パブロヒュー",
+          "url": "https://game8.jp/splatoon3/499359"
+        },
+        {
+          "name": "スプラスコープコラボ",
+          "url": "https://game8.jp/splatoon3/512894"
+        },
+        {
+          "name": "スプラチャージャーコラボ",
+          "url": "https://game8.jp/splatoon3/512892"
+        },
+        {
+          "name": "スペースシューターコラボ",
+          "url": "https://game8.jp/splatoon3/529499"
+        },
+        {
+          "name": "ドライブワイパーデコ",
+          "url": "https://game8.jp/splatoon3/529498"
+        },
+        {
+          "name": "バレルスピナーデコ",
+          "url": "https://game8.jp/splatoon3/529815"
+        },
+        {
+          "name": "クアッドホッパーホワイト",
+          "url": "https://game8.jp/splatoon3/529277"
+        },
+        {
+          "name": "デュアルスイーパーカスタム",
+          "url": "https://game8.jp/splatoon3/529813"
+        },
+        {
+          "name": "パラシェルターソレーラ",
+          "url": "https://game8.jp/splatoon3/546822"
+        },
+        {
+          "name": "LACT-450デコ",
+          "url": "https://game8.jp/splatoon3/577049"
+        },
+        {
+          "name": "スプラマニューバーコラボ",
+          "url": "https://game8.jp/splatoon3/576984"
+        },
+        {
+          "name": "ケルビン525デコ",
+          "url": "https://game8.jp/splatoon3/595106"
+        },
+        {
+          "name": "エクスプロッシャーカスタム",
+          "url": "https://game8.jp/splatoon3/594492"
+        },
+        {
+          "name": "フルイドⅤカスタム",
+          "url": "https://game8.jp/splatoon3/609970"
+        },
+        {
+          "name": "14式竹筒銃・乙",
+          "url": "https://game8.jp/splatoon3/610072"
+        }
+      ],
+      "A": [
+        {
+          "name": "ケルビン525",
+          "url": "https://game8.jp/splatoon3/480121"
+        },
+        {
+          "name": "ホットブラスター",
+          "url": "https://game8.jp/splatoon3/478575"
+        },
+        {
+          "name": "ホクサイ",
+          "url": "https://game8.jp/splatoon3/478562"
+        },
+        {
+          "name": "スクイックリンα",
+          "url": "https://game8.jp/splatoon3/480106"
+        },
+        {
+          "name": "バレルスピナー",
+          "url": "https://game8.jp/splatoon3/478569"
+        },
+        {
+          "name": "キャンピングシェルター",
+          "url": "https://game8.jp/splatoon3/478550"
+        },
+        {
+          "name": "パラシェルター",
+          "url": "https://game8.jp/splatoon3/478549"
+        },
+        {
+          "name": "スプラスピナー",
+          "url": "https://game8.jp/splatoon3/480101"
+        },
+        {
+          "name": "ラピッドブラスター",
+          "url": "https://game8.jp/splatoon3/480100"
+        },
+        {
+          "name": "L3リールガン",
+          "url": "https://game8.jp/splatoon3/480109"
+        },
+        {
+          "name": "ノヴァブラスターネオ",
+          "url": "https://game8.jp/splatoon3/499130"
+        },
+        {
+          "name": "ジェットスイーパーカスタム",
+          "url": "https://game8.jp/splatoon3/512896"
+        },
+        {
+          "name": "L3リールガンD",
+          "url": "https://game8.jp/splatoon3/512886"
+        },
+        {
+          "name": "スプラローラーコラボ",
+          "url": "https://game8.jp/splatoon3/512871"
+        },
+        {
+          "name": "フィンセント",
+          "url": "https://game8.jp/splatoon3/528606"
+        },
+        {
+          "name": "オーバーフロッシャーデコ",
+          "url": "https://game8.jp/splatoon3/546840"
+        },
+        {
+          "name": "トライストリンガーコラボ",
+          "url": "https://game8.jp/splatoon3/546817"
+        },
+        {
+          "name": "ダイナモローラーテスラ",
+          "url": "https://game8.jp/splatoon3/546820"
+        },
+        {
+          "name": "R-PEN/5B",
+          "url": "https://game8.jp/splatoon3/577259"
+        },
+        {
+          "name": "スパイガジェットソレーラ",
+          "url": "https://game8.jp/splatoon3/577064"
+        },
+        {
+          "name": "フィンセントヒュー",
+          "url": "https://game8.jp/splatoon3/577051"
+        },
+        {
+          "name": "ホットブラスターカスタム",
+          "url": "https://game8.jp/splatoon3/577060"
+        },
+        {
+          "name": "ヴァリアブルローラーフォイル",
+          "url": "https://game8.jp/splatoon3/594559"
+        },
+        {
+          "name": "ガエンFFカスタム",
+          "url": "https://game8.jp/splatoon3/609974"
+        }
+      ],
+      "B+": [
+        {
+          "name": "スプラスコープ",
+          "url": "https://game8.jp/splatoon3/478573"
+        },
+        {
+          "name": "スプラチャージャー",
+          "url": "https://game8.jp/splatoon3/478572"
+        },
+        {
+          "name": "ハイドラント",
+          "url": "https://game8.jp/splatoon3/478568"
+        },
+        {
+          "name": "H3リールガン",
+          "url": "https://game8.jp/splatoon3/480113"
+        },
+        {
+          "name": "14式竹筒銃・甲",
+          "url": "https://game8.jp/splatoon3/480112"
+        },
+        {
+          "name": "Rブラスターエリート",
+          "url": "https://game8.jp/splatoon3/480102"
+        },
+        {
+          "name": "オーバーフロッシャー",
+          "url": "https://game8.jp/splatoon3/480098"
+        },
+        {
+          "name": "もみじシューター",
+          "url": "https://game8.jp/splatoon3/500143"
+        },
+        {
+          "name": "S-BLAST92",
+          "url": "https://game8.jp/splatoon3/528247"
+        },
+        {
+          "name": "24式張替傘・甲",
+          "url": "https://game8.jp/splatoon3/594463"
+        },
+        {
+          "name": "モップリンD",
+          "url": "https://game8.jp/splatoon3/594556"
+        },
+        {
+          "name": "24式張替傘・乙",
+          "url": "https://game8.jp/splatoon3/609975"
+        },
+        {
+          "name": "ハイドラントカスタム",
+          "url": "https://game8.jp/splatoon3/610071"
+        }
+      ],
+      "B": [
+        {
+          "name": "ノヴァブラスター",
+          "url": "https://game8.jp/splatoon3/478574"
+        },
+        {
+          "name": "パブロ",
+          "url": "https://game8.jp/splatoon3/478561"
+        },
+        {
+          "name": "エクスプロッシャー",
+          "url": "https://game8.jp/splatoon3/480119"
+        },
+        {
+          "name": "ボールドマーカー",
+          "url": "https://game8.jp/splatoon3/480118"
+        },
+        {
+          "name": "96ガロン",
+          "url": "https://game8.jp/splatoon3/480117"
+        },
+        {
+          "name": "スパイガジェット",
+          "url": "https://game8.jp/splatoon3/480116"
+        },
+        {
+          "name": "ソイチューバー",
+          "url": "https://game8.jp/splatoon3/480110"
+        },
+        {
+          "name": "クラッシュブラスターネオ",
+          "url": "https://game8.jp/splatoon3/512891"
+        },
+        {
+          "name": "N-ZAP89",
+          "url": "https://game8.jp/splatoon3/512887"
+        },
+        {
+          "name": "ワイドローラーコラボ",
+          "url": "https://game8.jp/splatoon3/529816"
+        },
+        {
+          "name": "H3リールガンD",
+          "url": "https://game8.jp/splatoon3/529151"
+        },
+        {
+          "name": "ホクサイヒュー",
+          "url": "https://game8.jp/splatoon3/546705"
+        },
+        {
+          "name": "ガエンFF",
+          "url": "https://game8.jp/splatoon3/594466"
+        },
+        {
+          "name": "スクイックリンβ",
+          "url": "https://game8.jp/splatoon3/594553"
+        }
+      ],
+      "C+": [
+        {
+          "name": "プロモデラーRG",
+          "url": "https://game8.jp/splatoon3/499242"
+        },
+        {
+          "name": "ジェットスイーパー",
+          "url": "https://game8.jp/splatoon3/480104"
+        },
+        {
+          "name": "プロモデラーMG",
+          "url": "https://game8.jp/splatoon3/478557"
+        },
+        {
+          "name": "クラッシュブラスター",
+          "url": "https://game8.jp/splatoon3/480099"
+        },
+        {
+          "name": "スペースシューター",
+          "url": "https://game8.jp/splatoon3/494975"
+        }
+      ],
+      "C": [
+        {
+          "name": "カーボンローラー",
+          "url": "https://game8.jp/splatoon3/480111"
+        },
+        {
+          "name": "ワイドローラー",
+          "url": "https://game8.jp/splatoon3/497116"
+        },
+        {
+          "name": "ボールドマーカーネオ",
+          "url": "https://game8.jp/splatoon3/512890"
+        },
+        {
+          "name": "ソイチューバーカスタム",
+          "url": "https://game8.jp/splatoon3/546706"
+        }
+      ]
+    }
+  },
+  "asari": {
+    "type": "asari",
+    "tiers": {
+      "X": [
+        {
+          "name": "ジムワイパー",
+          "url": "https://game8.jp/splatoon3/480124"
+        },
+        {
+          "name": "スプラマニューバー",
+          "url": "https://game8.jp/splatoon3/478563"
+        },
+        {
+          "name": "バケットスロッシャー",
+          "url": "https://game8.jp/splatoon3/478571"
+        },
+        {
+          "name": "シャープマーカー",
+          "url": "https://game8.jp/splatoon3/480105"
+        },
+        {
+          "name": "ボトルガイザー",
+          "url": "https://game8.jp/splatoon3/480115"
+        }
+      ],
+      "S+": [
+        {
+          "name": "N-ZAP85",
+          "url": "https://game8.jp/splatoon3/478558"
+        },
+        {
+          "name": "プライムシューター",
+          "url": "https://game8.jp/splatoon3/478556"
+        },
+        {
+          "name": "52ガロン",
+          "url": "https://game8.jp/splatoon3/478555"
+        },
+        {
+          "name": "スプラシューター",
+          "url": "https://game8.jp/splatoon3/478552"
+        },
+        {
+          "name": "クーゲルシュライバー",
+          "url": "https://game8.jp/splatoon3/480114"
+        },
+        {
+          "name": "ノーチラス47",
+          "url": "https://game8.jp/splatoon3/480108"
+        },
+        {
+          "name": "R-PEN/5H",
+          "url": "https://game8.jp/splatoon3/497089"
+        },
+        {
+          "name": "ヒッセンヒュー",
+          "url": "https://game8.jp/splatoon3/512885"
+        },
+        {
+          "name": "キャンピングシェルターソレーラ",
+          "url": "https://game8.jp/splatoon3/529279"
+        },
+        {
+          "name": "イグザミナー",
+          "url": "https://game8.jp/splatoon3/546628"
+        },
+        {
+          "name": "スクリュースロッシャーネオ",
+          "url": "https://game8.jp/splatoon3/546843"
+        },
+        {
+          "name": "ボトルガイザーフォイル",
+          "url": "https://game8.jp/splatoon3/576999"
+        },
+        {
+          "name": "S-BLAST91",
+          "url": "https://game8.jp/splatoon3/577059"
+        },
+        {
+          "name": "ジムワイパーヒュー",
+          "url": "https://game8.jp/splatoon3/577014"
+        },
+        {
+          "name": "デンタルワイパーミント",
+          "url": "https://game8.jp/splatoon3/609971"
+        },
+        {
+          "name": "イグザミナーヒュー",
+          "url": "https://game8.jp/splatoon3/609973"
+        }
+      ],
+      "S": [
+        {
+          "name": "ドライブワイパー",
+          "url": "https://game8.jp/splatoon3/478566"
+        },
+        {
+          "name": "スプラローラー",
+          "url": "https://game8.jp/splatoon3/478576"
+        },
+        {
+          "name": "ロングブラスター",
+          "url": "https://game8.jp/splatoon3/480107"
+        },
+        {
+          "name": "ヒッセン",
+          "url": "https://game8.jp/splatoon3/478570"
+        },
+        {
+          "name": "わかばシューター",
+          "url": "https://game8.jp/splatoon3/478553"
+        },
+        {
+          "name": "スプラシューターコラボ",
+          "url": "https://game8.jp/splatoon3/497691"
+        },
+        {
+          "name": "スプラスピナーコラボ",
+          "url": "https://game8.jp/splatoon3/497797"
+        },
+        {
+          "name": "プライムシューターコラボ",
+          "url": "https://game8.jp/splatoon3/498918"
+        },
+        {
+          "name": "パブロヒュー",
+          "url": "https://game8.jp/splatoon3/499359"
+        },
+        {
+          "name": "ラピッドブラスターデコ",
+          "url": "https://game8.jp/splatoon3/512895"
+        },
+        {
+          "name": "シャープマーカーネオ",
+          "url": "https://game8.jp/splatoon3/512888"
+        },
+        {
+          "name": "Rブラスターエリートデコ",
+          "url": "https://game8.jp/splatoon3/529153"
+        },
+        {
+          "name": "モップリン",
+          "url": "https://game8.jp/splatoon3/546627"
+        },
+        {
+          "name": "クーゲルシュライバーヒュー",
+          "url": "https://game8.jp/splatoon3/546842"
+        },
+        {
+          "name": "スプラマニューバーコラボ",
+          "url": "https://game8.jp/splatoon3/576984"
+        },
+        {
+          "name": "52ガロンデコ",
+          "url": "https://game8.jp/splatoon3/594482"
+        },
+        {
+          "name": "ノーチラス79",
+          "url": "https://game8.jp/splatoon3/595105"
+        },
+        {
+          "name": "デンタルワイパースミ",
+          "url": "https://game8.jp/splatoon3/610324"
+        },
+        {
+          "name": "ロングブラスターカスタム",
+          "url": "https://game8.jp/splatoon3/609978"
+        }
+      ],
+      "A+": [
+        {
+          "name": "ヴァリアブルローラー",
+          "url": "https://game8.jp/splatoon3/480123"
+        },
+        {
+          "name": "ダイナモローラー",
+          "url": "https://game8.jp/splatoon3/478565"
+        },
+        {
+          "name": "デュアルスイーパー",
+          "url": "https://game8.jp/splatoon3/480122"
+        },
+        {
+          "name": "クアッドホッパーブラック",
+          "url": "https://game8.jp/splatoon3/478564"
+        },
+        {
+          "name": "ケルビン525",
+          "url": "https://game8.jp/splatoon3/480121"
+        },
+        {
+          "name": "スパッタリー",
+          "url": "https://game8.jp/splatoon3/480120"
+        },
+        {
+          "name": "ホットブラスター",
+          "url": "https://game8.jp/splatoon3/478575"
+        },
+        {
+          "name": "4Kスコープ",
+          "url": "https://game8.jp/splatoon3/478560"
+        },
+        {
+          "name": "リッター4K",
+          "url": "https://game8.jp/splatoon3/478559"
+        },
+        {
+          "name": "スクイックリンα",
+          "url": "https://game8.jp/splatoon3/480106"
+        },
+        {
+          "name": "スクリュースロッシャー",
+          "url": "https://game8.jp/splatoon3/480103"
+        },
+        {
+          "name": "LACT-450",
+          "url": "https://game8.jp/splatoon3/480097"
+        },
+        {
+          "name": "スパッタリーヒュー",
+          "url": "https://game8.jp/splatoon3/499219"
+        },
+        {
+          "name": "バケットスロッシャーデコ",
+          "url": "https://game8.jp/splatoon3/499248"
+        },
+        {
+          "name": "カーボンローラーデコ",
+          "url": "https://game8.jp/splatoon3/500259"
+        },
+        {
+          "name": "スプラスコープコラボ",
+          "url": "https://game8.jp/splatoon3/512894"
+        },
+        {
+          "name": "スプラチャージャーコラボ",
+          "url": "https://game8.jp/splatoon3/512892"
+        },
+        {
+          "name": "96ガロンデコ",
+          "url": "https://game8.jp/splatoon3/512873"
+        },
+        {
+          "name": "ドライブワイパーデコ",
+          "url": "https://game8.jp/splatoon3/529498"
+        },
+        {
+          "name": "バレルスピナーデコ",
+          "url": "https://game8.jp/splatoon3/529815"
+        },
+        {
+          "name": "デュアルスイーパーカスタム",
+          "url": "https://game8.jp/splatoon3/529813"
+        },
+        {
+          "name": "パラシェルターソレーラ",
+          "url": "https://game8.jp/splatoon3/546822"
+        },
+        {
+          "name": "トライストリンガーコラボ",
+          "url": "https://game8.jp/splatoon3/546817"
+        },
+        {
+          "name": "LACT-450デコ",
+          "url": "https://game8.jp/splatoon3/577049"
+        },
+        {
+          "name": "ホットブラスターカスタム",
+          "url": "https://game8.jp/splatoon3/577060"
+        },
+        {
+          "name": "ケルビン525デコ",
+          "url": "https://game8.jp/splatoon3/595106"
+        },
+        {
+          "name": "リッター4Kカスタム",
+          "url": "https://game8.jp/splatoon3/594566"
+        },
+        {
+          "name": "4Kスコープカスタム",
+          "url": "https://game8.jp/splatoon3/594576"
+        },
+        {
+          "name": "エクスプロッシャーカスタム",
+          "url": "https://game8.jp/splatoon3/594492"
+        },
+        {
+          "name": "フルイドⅤ",
+          "url": "https://game8.jp/splatoon3/609924"
+        },
+        {
+          "name": "14式竹筒銃・乙",
+          "url": "https://game8.jp/splatoon3/610072"
+        }
+      ],
+      "A": [
+        {
+          "name": "ホクサイ",
+          "url": "https://game8.jp/splatoon3/478562"
+        },
+        {
+          "name": "パブロ",
+          "url": "https://game8.jp/splatoon3/478561"
+        },
+        {
+          "name": "バレルスピナー",
+          "url": "https://game8.jp/splatoon3/478569"
+        },
+        {
+          "name": "トライストリンガー",
+          "url": "https://game8.jp/splatoon3/478567"
+        },
+        {
+          "name": "キャンピングシェルター",
+          "url": "https://game8.jp/splatoon3/478550"
+        },
+        {
+          "name": "パラシェルター",
+          "url": "https://game8.jp/splatoon3/478549"
+        },
+        {
+          "name": "スプラスピナー",
+          "url": "https://game8.jp/splatoon3/480101"
+        },
+        {
+          "name": "ラピッドブラスター",
+          "url": "https://game8.jp/splatoon3/480100"
+        },
+        {
+          "name": "L3リールガン",
+          "url": "https://game8.jp/splatoon3/480109"
+        },
+        {
+          "name": "ノヴァブラスターネオ",
+          "url": "https://game8.jp/splatoon3/499130"
+        },
+        {
+          "name": "ジェットスイーパーカスタム",
+          "url": "https://game8.jp/splatoon3/512896"
+        },
+        {
+          "name": "L3リールガンD",
+          "url": "https://game8.jp/splatoon3/512886"
+        },
+        {
+          "name": "スプラローラーコラボ",
+          "url": "https://game8.jp/splatoon3/512871"
+        },
+        {
+          "name": "スペースシューターコラボ",
+          "url": "https://game8.jp/splatoon3/529499"
+        },
+        {
+          "name": "フィンセント",
+          "url": "https://game8.jp/splatoon3/528606"
+        },
+        {
+          "name": "クアッドホッパーホワイト",
+          "url": "https://game8.jp/splatoon3/529277"
+        },
+        {
+          "name": "オーバーフロッシャーデコ",
+          "url": "https://game8.jp/splatoon3/546840"
+        },
+        {
+          "name": "ダイナモローラーテスラ",
+          "url": "https://game8.jp/splatoon3/546820"
+        },
+        {
+          "name": "R-PEN/5B",
+          "url": "https://game8.jp/splatoon3/577259"
+        },
+        {
+          "name": "スパイガジェットソレーラ",
+          "url": "https://game8.jp/splatoon3/577064"
+        },
+        {
+          "name": "フィンセントヒュー",
+          "url": "https://game8.jp/splatoon3/577051"
+        },
+        {
+          "name": "ヴァリアブルローラーフォイル",
+          "url": "https://game8.jp/splatoon3/594559"
+        },
+        {
+          "name": "フルイドⅤカスタム",
+          "url": "https://game8.jp/splatoon3/609970"
+        },
+        {
+          "name": "ガエンFFカスタム",
+          "url": "https://game8.jp/splatoon3/609974"
+        }
+      ],
+      "B+": [
+        {
+          "name": "スプラスコープ",
+          "url": "https://game8.jp/splatoon3/478573"
+        },
+        {
+          "name": "スプラチャージャー",
+          "url": "https://game8.jp/splatoon3/478572"
+        },
+        {
+          "name": "スパイガジェット",
+          "url": "https://game8.jp/splatoon3/480116"
+        },
+        {
+          "name": "H3リールガン",
+          "url": "https://game8.jp/splatoon3/480113"
+        },
+        {
+          "name": "14式竹筒銃・甲",
+          "url": "https://game8.jp/splatoon3/480112"
+        },
+        {
+          "name": "Rブラスターエリート",
+          "url": "https://game8.jp/splatoon3/480102"
+        },
+        {
+          "name": "オーバーフロッシャー",
+          "url": "https://game8.jp/splatoon3/480098"
+        },
+        {
+          "name": "もみじシューター",
+          "url": "https://game8.jp/splatoon3/500143"
+        },
+        {
+          "name": "N-ZAP89",
+          "url": "https://game8.jp/splatoon3/512887"
+        },
+        {
+          "name": "S-BLAST92",
+          "url": "https://game8.jp/splatoon3/528247"
+        },
+        {
+          "name": "H3リールガンD",
+          "url": "https://game8.jp/splatoon3/529151"
+        },
+        {
+          "name": "24式張替傘・甲",
+          "url": "https://game8.jp/splatoon3/594463"
+        },
+        {
+          "name": "スクイックリンβ",
+          "url": "https://game8.jp/splatoon3/594553"
+        },
+        {
+          "name": "モップリンD",
+          "url": "https://game8.jp/splatoon3/594556"
+        },
+        {
+          "name": "24式張替傘・乙",
+          "url": "https://game8.jp/splatoon3/609975"
+        },
+        {
+          "name": "ハイドラントカスタム",
+          "url": "https://game8.jp/splatoon3/610071"
+        }
+      ],
+      "B": [
+        {
+          "name": "ノヴァブラスター",
+          "url": "https://game8.jp/splatoon3/478574"
+        },
+        {
+          "name": "エクスプロッシャー",
+          "url": "https://game8.jp/splatoon3/480119"
+        },
+        {
+          "name": "ハイドラント",
+          "url": "https://game8.jp/splatoon3/478568"
+        },
+        {
+          "name": "ボールドマーカー",
+          "url": "https://game8.jp/splatoon3/480118"
+        },
+        {
+          "name": "96ガロン",
+          "url": "https://game8.jp/splatoon3/480117"
+        },
+        {
+          "name": "ソイチューバー",
+          "url": "https://game8.jp/splatoon3/480110"
+        },
+        {
+          "name": "クラッシュブラスターネオ",
+          "url": "https://game8.jp/splatoon3/512891"
+        },
+        {
+          "name": "ワイドローラーコラボ",
+          "url": "https://game8.jp/splatoon3/529816"
+        },
+        {
+          "name": "ホクサイヒュー",
+          "url": "https://game8.jp/splatoon3/546705"
+        },
+        {
+          "name": "ガエンFF",
+          "url": "https://game8.jp/splatoon3/594466"
+        }
+      ],
+      "C+": [
+        {
+          "name": "プロモデラーRG",
+          "url": "https://game8.jp/splatoon3/499242"
+        },
+        {
+          "name": "ジェットスイーパー",
+          "url": "https://game8.jp/splatoon3/480104"
+        },
+        {
+          "name": "プロモデラーMG",
+          "url": "https://game8.jp/splatoon3/478557"
+        },
+        {
+          "name": "クラッシュブラスター",
+          "url": "https://game8.jp/splatoon3/480099"
+        },
+        {
+          "name": "スペースシューター",
+          "url": "https://game8.jp/splatoon3/494975"
+        },
+        {
+          "name": "ワイドローラー",
+          "url": "https://game8.jp/splatoon3/497116"
+        }
+      ],
+      "C": [
+        {
+          "name": "カーボンローラー",
+          "url": "https://game8.jp/splatoon3/480111"
+        },
+        {
+          "name": "ボールドマーカーネオ",
+          "url": "https://game8.jp/splatoon3/512890"
+        },
+        {
+          "name": "ソイチューバーカスタム",
+          "url": "https://game8.jp/splatoon3/546706"
+        }
+      ]
+    }
+  }
+}

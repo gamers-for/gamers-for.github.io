@@ -1,0 +1,12 @@
+{{- $name := .Get "name" | default "" -}}
+{{- $img := .Get "img" | default "" -}}
+{{- $link := .Get "link" | default "" -}}
+{{- $rating := .Get "rating" | default "" -}}
+{{- $emoji := .Get "emoji" | default "" -}}
+{{- if $link }}<a href="{{ $link }}" class="weapon-grid-item" title="{{ $name }}">{{ else }}<div class="weapon-grid-item" title="{{ $name }}">{{ end -}}
+  {{- if $img }}<img src="{{ $img }}" alt="{{ $name }}" loading="lazy">
+  {{- else }}<span class="placeholder-icon">{{ if $emoji }}{{ $emoji }}{{ else }}{{ slicestr $name 0 1 }}{{ end }}</span>
+  {{- end }}
+  <span class="weapon-grid-name">{{ $name }}</span>
+  {{- if $rating }}<span class="weapon-grid-rating">{{ $rating }}</span>{{ end }}
+{{- if $link }}</a>{{ else }}</div>{{ end -}}

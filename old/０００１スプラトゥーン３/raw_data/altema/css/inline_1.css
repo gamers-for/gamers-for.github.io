@@ -1,0 +1,14 @@
+
+    .search-keyword-overlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 9;
+        background: rgb(0 0 0 / 65%);
+    }
+    .s-Word {
+        overflow-x: auto; /* 水平スクロールを許可 */
+        white-space: nowrap; /* コンテンツを折り返さない */
+    }

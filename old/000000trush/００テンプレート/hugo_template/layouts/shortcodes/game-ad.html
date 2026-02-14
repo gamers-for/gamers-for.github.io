@@ -1,0 +1,19 @@
+<div class="ad-section">
+  <p class="ad-label">サイト運営にご協力ください</p>
+  <p class="ad-text">{{ .Get "text" | default "このゲームもおすすめです！" }}</p>
+  {{- $url := .Get "url" -}}
+  {{- $video := .Get "video" -}}
+  {{- if $video }}
+  <div class="ad-video">
+    <iframe src="{{ $video }}" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  </div>
+  {{- else if $url }}
+  <a href="{{ $url }}" class="ad-link" target="_blank" rel="noopener">
+    詳しくはこちら →
+  </a>
+  {{- else }}
+  <div class="ad-placeholder">
+    <p>🎮 ゲーム紹介（広告枠）</p>
+  </div>
+  {{- end }}
+</div>

@@ -1,0 +1,57 @@
+{{ define "main" }}
+{{ partial "breadcrumb.html" . }}
+<div class="content-wrap">
+  <div class="content-main">
+    <article class="article">
+      <h1 class="article-title">{{ .Title }}</h1>
+      <div class="article-meta-bar">
+        {{- with .Params.date }}
+        <div class="article-meta">
+          <svg class="icon" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-12a1 1 0 10-2 0v4a1 1 0 00.293.707l2.828 2.828a1 1 0 101.415-1.414L11 9.586V6z" clip-rule="evenodd"/></svg>
+          <time datetime="{{ . }}">{{ dateFormat "2006年1月2日" . }} 更新</time>
+        </div>
+        {{- end }}
+        {{ partial "share-buttons.html" . }}
+        <button class="favorite-btn" id="favorite-btn" onclick="toggleFavorite()" aria-label="お気に入り">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 21l-7-5-7 5V5a2 2 0 012-2h10a2 2 0 012 2z"/></svg>
+          <span id="favorite-text">お気に入り</span>
+        </button>
+      </div>
+
+      {{- if .TableOfContents }}
+      <nav class="toc" id="toc">
+        <div class="toc-title" onclick="this.parentElement.classList.toggle('collapsed')">
+          <svg class="icon" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M3 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm0 4a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm0 4a1 1 0 011-1h6a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd"/></svg>
+          目次
+          <svg class="toc-toggle icon" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"/></svg>
+        </div>
+        {{ .TableOfContents }}
+      </nav>
+      {{- end }}
+
+      <div class="article-body">
+        {{ .Content }}
+      </div>
+
+      {{ partial "share-buttons.html" . }}
+      {{- partial "game-ad.html" . }}
+
+      {{- if not (in .RelPermalink "/weapons/") }}
+      <section class="comments-section">
+        <h2>コメント</h2>
+        <script src="https://utteranc.es/client.js"
+          repo="gamers-for/comments"
+          issue-term="pathname"
+          theme="github-dark"
+          crossorigin="anonymous"
+          async>
+        </script>
+      </section>
+      {{- end }}
+    </article>
+  </div>
+  <aside class="sidebar">
+    {{ partial "sidebar.html" . }}
+  </aside>
+</div>
+{{ end }}
